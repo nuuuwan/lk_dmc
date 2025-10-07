@@ -1,0 +1,87 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය 2024 පපබරවාරි මස 19 දින්‍ සවස 04.00 ට නිකුත් කරන්‍ ලදි නැහෙනහිර ස ඌව පළාත්වල උදෑසන කාලහේදී වැසි ස්වල්පයක් ඇති විය ැක. සබරෙමුව පළාහත් ස්ථාන ස්වල්පයක සවස් කාලයේදී ය ෝ රාත්‍රී කාලයේදී වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. හසසු ප්‍රහේශවල ප්‍රධාන වශහයන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතී. මධයම කඳුකරහේ නැහෙනහිර බැවුම් ප්‍රහේශවලත් උතුරු, උතුරු-මැද, වයඹ, ඌව, දකුණ ස නැහෙනහිර පළාත්වලත් ම නුවර ස මාතහල් දිස්ික්කවලත් විටින් විට මන පැ.කි.මී. (30-35) පමණ තරමක තද සුළං ඇතිවිය ැක. බස්නාහිර ස සබරෙමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් අහේක්ෂා හකහර්. ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්න්‍ා පලස ජන්‍තාවපගන් කාරුණිකව ඉල්ලා සිටිනු ලැපේ.
+
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+
+Issued at 04.00 p.m. on 19 February 2024 A few showers may occur in Eastern and Uva provinces in the morning.
+
+Showers or thundershowers may occur at a few places in Sabaragamuwa province in the evening or night. Mainly fair weather will prevail elsewhere.
+
+Fairly strong winds about (30-35) kmph can be expected at times in eastern slopes of the central hills and in Northern, North-central, North-western, Uva, Southern and Eastern provinces and in Matale and Kandy districts.
+
+Misty conditions can be expected at some places in Western and Sabaragamuwa provinces during the morning.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධයස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+Weather Forecast for Main Cities Date : 20-Feb-2024
+
+City Temperature (0C) Relative Humidity (%) Weather Max Min Max Min Anuradhapura 33 24 95 50 Mainly fair
+
+Batticaloa 30 25 90 70 Mainly fair Colombo 33 24 85 50 Mainly fair
+
+Galle 32 25 85 75 Mainly fair Jaffna 31 24 85 65 Mainly fair
+
+Kandy 31 21 85 55 Mainly fair Nuwara-Eliya 21 11 80 50 Showers or thundershowers are likely after 2.00p.m
+
+Ratnapura 35 21 95 50 Showers or thundershowers are likely after 2.00p.m Trincomalee 31 26 80 65 Mainly fair
+
+Mannar 31 25 90 65 Mainly fair ප්‍රධාන නගර සදහා කාලගුණ අනාවැකිය දිනය : 2024-02-20
+
+නගරය උෂ්ණත්වය(සස. අංශක) සාසේක්ෂ ආර්ද්‍රතාවය(%) කාලගුණය උපරිම අවම උපරිම අවම අනුරාධපුරය 33 24 95 50 ප්‍රධාන වශයයන් වැසි රහිත
+
+මඩකලපුව 30 25 90 70 ප්‍රධාන වශයයන් වැසි රහිත යකාළඹ 33 24 85 50 ප්‍රධාන වශයයන් වැසි රහිත
+
+ගාල්ල 32 25 85 75 ප්‍රධාන වශයයන් වැසි රහිත යාපනය 31 24 85 65 ප්‍රධාන වශයයන් වැසි රහිත
+
+ම නුවර 31 21 85 55 ප්‍රධාන වශයයන් වැසි රහිත
+
+නුවරඑළිය 21 11 80 50 සවස 2.00න් පසුව වැසි ය ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක
+
+රත්නපුරය 35 21 95 50 සවස 2.00න් පසුව වැසි ය ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක ත්‍රිකුණාමලය 31 26 80 65 ප්‍රධාන වශයයන් වැසි රහිත මන්නාරම 31 25 90 65 ප්‍රධාන වශයයන් වැසි රහිත
+
+பிரதான நகரங்களுக்கான வானிலை
+
+முன்னறிவித்தை் திகதி : 2024-02-20
+
+நகரம்
+
+வவப்பநிலை (0C) சாரீரப்பதன் (%)
+
+வானிலை உச்ச குலைந்த உச்ச குலைந்த
+
+அனுராதபுரம் 33 24 95 50 பிரதானமாக சீரான வானிலை
+
+மட்டக்களப்பு 30 25 90 70 பிரதானமாக சீரான வானிலை
+
+வகாழும்பு 33 24 85 50 பிரதானமாக சீரான வானிலை
+
+காலி 32 25 85 75 பிரதானமாக சீரான வானிலை
+
+யாழ்ப்பாணம் 31 24 85 65 பிரதானமாக சீரான வானிலை
+
+கண்டி 31 21 85 55 பிரதானமாக சீரான வானிலை
+
+நுவவரலியா 21 11 80 50 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அை்ைது இடியுடன் கூடிய மலை பபய்யும் சாத்தியம்
+
+இரத்தினபுரி 35 21 95 50 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அை்ைது இடியுடன் கூடிய மலை பபய்யும் சாத்தியம்
+
+திருககாணமலை 31 26 80 65 பிரதானமாக சீரான வானிலை
+
+மன்னார் 31 25 90 65 பிரதானமாக சீரான வானிலை

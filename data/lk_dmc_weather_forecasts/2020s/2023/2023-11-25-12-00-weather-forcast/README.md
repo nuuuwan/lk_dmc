@@ -1,0 +1,47 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2023 න ොවැම්බර් මස 26 දින සඳහා කාලගුණ අනාවැකිය 2023 න ොවැම්බර් මස 25 දින මධ්‍යහන 12.00 ට නිකුත්කරන ලදි. සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ස්ථාන ස්වල්පයක පස්වරු 2.00න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ. උතුරු සහ නැගෙනහිර පළාත්වල වාර කිහිපයක් ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තොවකොලික තද සුළං වලින් සහ අකුණු මඟින් සිදු ව අ තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන් ො නෙස ජ තොවනගන් කොරුණිකව ඉල්ෙො සිටිනු ෙැනේ.
+
+WEATHER FORECAST FOR 26 NOVEMBER 2023
+
+Issued at 12.00 noon on 25 November 2023
+
+Showers or thundershowers will occur at a few places in Sabaragamuwa, Central and Uva provinces after 2.00 p.m.
+
+Several spells of showers may occur in Northern and Eastern provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින වටා වන මුහුදු ප්‍රදේශ සඳහා කාලගුණ අනාවැකිය
+
+2023 න ොවැම්බර් මස 25 දින මධ්‍යහන 12.00 ට නිකුත් කරන ලදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 25 November 2023
+
+වැසි තත්ත්වය: මන්නාරම සිට කන්කසන්තුරය සහ ත්‍රිකුණාමලය හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල විටින් විට වැසි හහෝ ගිගුරුම් සහිත වැසි ඇති වේ. සෙසු මුහුදු ප්‍රදේශවල ස්ථාන ස්වල්පයක විශේෂයෙන් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හහෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක. සුළඟ: සුළං ඊසාන දෙසින් හෝ නිශ්චිත දිශාවකින් තොරව හමා එයි. පුත්තලම සිට කන්කසන්තුරය හරහා ත්‍රිකුණාමලය දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළං වේගය පැ.කි.මී.(30-40) පමණ වන අතර සෙසු මුහුදු ප්‍රදේශවල සුළගේ වේගය පැ.කි.මී.(20-30) පමණ වේ. මුහුදේ ස්වභාවය: පුත්තලම සිට කන්කසන්තුරය හරහා ත්‍රිකුණාමලය දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශ මද වශයෙන් රළුවන අතර සෙසු මුහුදු ප්‍රදේශ සාමාන්‍ය ස්වභාවයේ පවතී. ගිගුරුම් සහිත වැසි ඇති වන විට එම මුහුදු ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Condition of Rain: Showers or thundershowers will occur at times in the sea areas off the coast extending from Mannar to Pottuvil via Kankasanthurai and Trincomalee. Showers or thundershowers may occur at a few places in the other sea areas around the island particularly during the afternoon or night.
+
+Winds: Winds will be North-easterly or variable in direction. Wind speed will be (30-40) kmph in the sea areas off the coast extending from Puttalam to Trincomalee via Kankasanthurai. Wind speed will be (20-30) kmph in the other sea areas around the island. State of Sea: The sea areas off the coast extending from Puttalam to Trincomalee via Kankasanthurai will be moderate and slight in the other sea areas around the island. Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

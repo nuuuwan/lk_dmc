@@ -1,0 +1,79 @@
+Spatial rainfall distribution: Isolated: <25%, A few: 26-50%, Many: 51-75%, Most: 76-100% Rainfall amount (mm): Fairly Heavy rain: 50 -100, Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+නිවේදන අංකය : 01 WW/T/23/10/22/01 වර්ණය : ඇම්බර්
+
+ප්‍රභල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනය කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ, ස්වභාවික විපත් පිළිබඳ පූර්ව අනතුරු ඇඟවීමේ මධ්‍යස්ථානය විසින් 2023 ඔක්තෝම්බර් මස 22 වන දින ප.ව. 11.30 වන තෙක් වලංගු වන පරිදි 2023 ඔක්තෝම්බර් මස 22 වන දින ප.ව. 12.30 ට නිකුත් කරන ලදී.
+
+විමසිලිමත් වන්න !
+
+මධ්‍යම, සබරගමුව, උතුරු-මැද, නැගගනහිර සහ ඌව පළාත්වල තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රභල අකුණු ඇතිවීගම් වැඩි හැකියාවක් පවතී. ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැක. අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටිනු ලැබේ. ආරක්ෂිත පියවර:
+
+අකුණු සහ ගිගුරුම් පවතින අවස්ථාවල පහත ආරක්ෂිත පියවරයන් අනුගමනය කරන මෙන් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මහජනතාවට අවවාද කෙරේ.
+
+• එළිමහනේ හෝ ගස් යට නොසිටිය යුතු අතර
+
+ආරක්ෂිත ගොඩනැගිල්ලක් හෝ සංවෘත වාහනයක් තුළ රැදී සිටින්න. • කුඹුරු, තේ වතු, ක්‍රීඩා පිටි මෙන්ම ජලාශ වැනි විවෘත ස්ථන වල රැදී සිටීමෙන් වලකින්න. • රැහැන් සහිත දුරකථන සහ විදුලියට සම්බන්ධ කරන ලද විදුලි උපකරණ භාවිතයෙන්
+
+වලකින්න. • බයිසිකල්, ට්‍රැක්ටර් සහ බෝට්ටු වැනි විවෘත වාහන භාවිතයෙන් වලකින්න. • තද සුළං හේතුවෙන් ගස් හා විදුලි රැහැන් බිම ඇද වැටීමට ඉඩ ඇති බැවින් ඒ පිළිබදව
+
+සැලකිලිමත් වන්න. • හදිසි තත්වයකදී ප්‍රාදේශීය ආපදා කළමනාකරණ නිලධාරීන් ගේ සහය පතන්න.
+
+වර්ණය: -වකාළ (බලපෑමක් නැත)
+
+වර්ණය: -රු අනුරු ඇඟවීම(පියවර ගන්න)
+
+වර්ණය: -ඇම්බර් අවවාදාත්මක (සූදානම් වන්න)
+
+වර්ණය: -ක ොළ (බලපෑමක් නැත)
+
+වර්ණය: -රතු අනතුරු ඇඟවීම(පියවර ගන්න)
+
+වර්ණය: -ඇම්බර් අවවොදොත්ම (සූදානම් වන්න)
+
+නිවේදන අංකය : 01 WW/L/23/10/22/01 වර්ණය : ඇම්බර් තද වැසි පිලිබඳ අවවාදාත්මක නිවේදනය කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ, ස්වභාවික විපත් පිළිබඳ පූර්ව අනතුරු ඇඟවීමේ මධ්‍යස්ථානය විසින් 2023 ඔක්තෝබර් මස 23 වන දින ්ෙ.ව. 08.30 වන තෙක් වලංගු වන පරිදි 2023 ඔක්තෝබර් මස 22 වන දින ෙ. ව. 12.30 ට නිකුත් කරන ලදී.
+
+මධ්‍යම, සබරගමුව, ඌව සහ නැගගනහිර පළාත් සඳහා
+
+සැලකිලිමත් වන්න! දිවයිගේ ගබාගහෝ ප්‍රගේශවල සවස් කාලගේ සහ රාත්‍රී කාලගේදී ගිගුරුම් සහිත වැසි ඇතිවීමට හිතකර වායුගගෝලීය තත්ත්වයක් පවතී. මධ්‍යම, සබරගමුව, ඌව සහ නැගගනහිර පළාත්වල ඇතැම් ස්ථාන වලට මි.මි. 100ට වැඩි තද වැසි ඇතිවිය හැක.
+
+Spatial rainfall distribution: Isolated: <25%, A few: 26-50%, Many: 51-75%, Most: 76-100% Rainfall amount (mm): Fairly Heavy rain: 50 -100, Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+Bulletin No: 01 WW/T/23/10/22/01 COLOR: Amber
+
+Advisory for Severe Lightning Issued by the natural hazards early warning center Issued at 12.30 p.m. 22 October 2023 for the period until 11.30 p.m. 22 October 2023 PLEASE BE AWARE:
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Central, Sabaragamuwa, North-central, Eastern and Uva provinces.
+
+There may be temporary localized strong winds during thundershowers. General public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+ACTION REQUIRED: The Department of Meteorology advises that people should:
+
+• Seek shelter, preferably indoors and never
+
+under trees. • Avoid open areas such as paddy fields, tea plantations and open water bodies during
+
+thunderstorms. • Avoid using wired telephones and connected electric appliances during thunderstorms. • Avoid using open vehicles, such as bicycles, tractors and boats etc. • Beware of fallen trees and power lines. • For emergency assistance contact the local disaster management authorities.
+
+Color: -Red Warning (Take action)
+
+Color: -Amber Advisory (Be prepared)
+
+Color: -Green Threat is over
+
+Color: -Red Waning (Take action)
+
+Color: -Amber Advisory (Be prepared)
+
+Color: -Green Threat is over
+
+Bulletin No: 01 WW/L/23/10/22/01 COLOR: Amber
+
+Advisory for Heavy Rain Issued by the Natural Hazards Early Warning Centre Issued at 12.30 p.m. 22 October 2023, valid until 08.30 a.m. 23 October 2023
+
+For Central, Sabaragamuwa, Uva and Eastern provinces.
+
+PLEASE BE AWARE!
+
+Atmospheric conditions are favorable for thunderstorms at most of the places over the island during the evening and night.
+
+Heavy showers, above 100 mm are likely at some places in Central, Sabaragamuwa, Uva and Eastern provinces.

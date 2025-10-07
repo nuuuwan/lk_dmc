@@ -1,0 +1,47 @@
+වර්ෂාපතනය(මි.මී) : තරමක් තද වැසි: 50 -100, තද වැසි: 100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+නිවේදන අංකය : 03 WW/O/23/11/16/03 වර්ණය : ඇම්බර් තද සුළං සහ මුහුද රළුවීම පිළිබඳ අවවාදාත්මක නිවේදනය
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ, ස්වභාවික විපත් පිළිබඳ පූර්ව අනතුරු ඇඟවීමේ මධ්‍යස්ථානය විසින් 2023 න ොවැම්බර් මස 17 දින ප.ව. 3 .00 තෙක් වලංගු වන පරිදි 2023 න ොවැම්බර් මස 16 දින ප.ව 3.00 ට නිකුත් කරන ලදී.
+
+මධ්‍යම නබෙංගොල නබොක්ක මුහුදු ප්‍රදේශනේ යොත්‍රො කරන බහුදින ධීවර යාත්‍රා සඳහා.
+
+සැලකිලිමත් වන්න!
+
+බටහිර මධ්‍යම බබෙංගාල බබාක්ක ආශ්‍රිත පිහිටා තිබූ ගැඹුරු පීඩන අවපාතය බනාවැම්බර් 16 වන දින උදෑසන 0830 වන විට අක්්ාෙංශ 17.4°N සහ බේශාෙංශ 87.0°E ආසන්නබේ ස්ථාන ගතව පැවතුණි. එම පේධ්‍තිය උතුරු බදසට බරව වයඹ බදසට ගමන් කරමින් ක්‍රමබයන් සුළි කුණාටුවක් දක්වා වර්ධ්‍නය වී 2023 බනාවැම්බර් 18 වැනි දින අලුයම බෙංග්ලාබේශ බවරළ තීරය හරහා බගාඩබිම බවතට ගමන් කරනු ඇතැයි බලාබපාබරාත්තතුබේ. උතුරු අක්ෂාංශ 16 සහ 22 ත් සහ නැගෙනහිර දේශාංශ 85 සහ 95 ත් අතර මුහුදු ප්‍රදේශවල සුළගේ වේගය පැ.කි.මී. (50-60) පමණ වන අතර විටින් විට පැ.කි.මී. (70-80) දක්වා වැඩිවිය හැක.
+
+ඉහත කී මුහුදු ප්‍රදේශ රළු හෝ ඉතා රළු වන අතර තද වැසි හෝ ගිගුරුම් සහිත වැසිද ඇතිවිය හැක.
+
+අනුගමනය කල යුතු ක්‍රියාමාර්ග:
+
+• උතුරු අක්්ොෙංශ 16 සහ 22 ත් සහ ැනග හිර නේශොෙංශ 85 සහ 95 ත් අතර මුහුදු ප්‍රදේශයට ඉදිරි
+
+පැය 24 තුල යාත්‍රා නොකරන ලෙස ධීවර සහ නාවික ප්‍රජාවන්ට දැනුම්දෙනු ලැබේ.
+
+• දැනට මෙම මුහුදු ප්‍රදේශ වල ධීවර කටයුතුවල යෙදී සිටින පිරිස වහාම ගොඩ බිමට හෝ ආරක්‍ෂිත
+
+ස්ථානයක් වෙත පැමිණෙන ලෙසට දන්වා සිටිනු ලැබේ.
+
+• කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මගින් මේ සම්බන්ධව නිකුත් කරන ඉදිරි නිවේදන පිළිබඳ සිය අවධානය යොමු කරන ලෙස ධීවර හා නාවික ප්‍රජාවගෙන් ඉල්ලා සිටිනු ලැබේ.
+
+1
+
+Bulletin No: 03 WW/O/23/11/16/03 COLOR: Amber Advisory for strong winds and rough seas.
+
+Issued by the Natural Hazards Early Warning Centre Issued at 3.00 p.m. 16 November 2023, valid until 3.00 p.m. 17 November 2023
+
+For Multi-day boats in the Central Bay of Bengal Sea areas.
+
+PLEASE BE AWARE! The Deep Depression over West-central Bay of Bengal located near latitude 17.4°N and longitude 87.0°E at 0830 hours of today, the 16th November. It is likely to move north-northwestwards and intensify into a Cyclonic storm and cross Bangladesh coast in early hours of 18th November 2023.
+
+Wind speed will be (50-60) kmph and can increase up to (70-80) kmph in sea areas between (16N - 22N) and between (85E – 95E). Heavy showers or thundershowers and rough or very rough seas can also be expected in above sea areas.
+
+Actions Required:
+
+• Naval and fishing communities are advised not to venture into the sea areas bounded
+
+by (16N - 22N) and between (85E – 95E) during the next 24 hour. • Those who are out at aforementioned sea regions are advised to return to coasts or
+
+moved safer areas immediately. • Fishing and naval community are requested to be attentive to future forecasts issued
+
+by the Department of Meteorology in this regard.

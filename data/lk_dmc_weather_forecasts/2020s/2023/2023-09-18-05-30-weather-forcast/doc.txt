@@ -1,0 +1,51 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2023 සැප්තැම්බර් මස 18 දින සඳහා කාලගුණ අනාවැකිය 2023 සැප්තැම්බර් මස 18 දින උදෑසන 05.30 ට නිකුත්කරන ලදි.
+
+බස්නාහිර, සබරගමුව සහ උතුරු පළාත්වලත් ගාල්ල, මාතර සහ පුත්තලම දිස්ික්කවලත් විටින්වවිට වැසි හහෝ ගිගුරුම් සහිත ඇතිවිය හැක. ඇතැම් ස්ථාන වලට මිලිමීටර 50ට වැඩි තරමක් තද වැසිද ඇති විය හැක. නැහගනහිර, ඌව, මධ්‍යම සහ උතුරුමැද පළාත්වලත් හම්බන්වහතාට දිස්ික්කහේත් සවස් කාලහේදී හහෝ රාත්‍රී කාලහේදී තැනින්ව තැන වැසි හහෝ ගිගුරුම් සහිත වැසි හේ. ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවලගන් කාරුණිකව ඉල්ො සිටිනු ෙැලේ.
+
+WEATHER FORECAST FOR 18 SEPTEMBER 2023
+
+Issued at 05.30 a.m. on 18 September 2023
+
+Showers or thundershowers may occur at times in Western, Sabaragamuwa and Northern provinces and in Galle, Matara and Puttalam districts. Fairly heavy showers above 50mm are likely at some places.
+
+Showers or thundershowers will occur at several places in Eastern, Uva, Central and North-Central provinces, and in Hambantota district during the evening or night.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින වටා වන මුහුදු ප්‍රදේශ සඳහා කාලගුණ අනාවැකිය
+
+2023 සැප්තැම්බර් මස 18 දින උදෑසන 05.30 ට නිකුත් කරන ලදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 05.30 a.m. on 18 September 2023
+
+වැසි තත්ත්වය: පුත්තලම සිට හකාළඹ, ගාල්ල සහ මාතර හරහා හම්බන්වහතාට දක්වා සහ මන්වනාරම සිට කන්වකසන්වතුරය දක්වා හවරළට ඔබ්හබන්ව වන මුහුදු ප්‍රහේශවල තැනින්ව තැන වැසි හහෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+සුළඟ: සුළං නිරිත හදසින්ව හමා එන අතර සුළහේ හේගය පැ.කි.මී. (25-35) පමණ හේ. හලාවත සිට මන්වනාරම හරහා කන්වකසන්වතුරය දක්වා සහ හම්බන්වහතාට සිට හපාතුවිල් හරහා මඩකළපුව දක්වා හවරළට ඔබ්හබන්ව වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින්ව විට පැ.කි.මී. (50-55) දක්වා වැඩි විය හැක. මුහුදේ ස්වභාවය: හලාවත සිට මන්වනාරම හරහා කන්වකසන්වතුරය දක්වා සහ හම්බන්වහතාට සිට හපාතුවිල් හරහා මඩකළපුව දක්වා හවරළට ඔබ්හබන්ව වන මුහුදු ප්‍රහේශ විටින්ව විට රළු හේ.
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම මුහුදු ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Condition of Rain: Showers or thundershowers will occur at several places in the sea areas off the coast extending from Puttalam to Hambantota via Colombo, Galle and Matara and in the sea areas off the coast extending from Mannar to Kankasanthurai.
+
+Winds: Winds will be south-westerly and speed will be (25-35) kmph. Wind speed can increase up to (50-55) kmph at times in the sea areas off the coast extending from Chilaw to Kankasanthurai via Mannar and from Hambantota to Batticaloa via Pottuvil. State of Sea: The sea areas off the coast extending from Chilaw to Kankasanthurai via Mannar and from Hambantota to Batticaloa via Pottuvil will be rough at times. Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

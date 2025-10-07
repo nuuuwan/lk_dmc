@@ -1,0 +1,59 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2023 ඔක්තෝම්බර් මස 15 දින සඳහා කාලගුණ අනාවැකිය 2023 ඔක්තෝම්බර් මස 14 දින මධ්‍යහන 12.00 ට නිකුත්කරන ලදි. දිවයිනේ න ොන ෝ ප්‍රනේශවල පස්වරු 2.00 පමණ පසු වැසි න ෝ ගිගුරුම් සහිත වැසි ඇති නේ.
+
+ඌව, මධ්‍යම, ස රගමුව, නැනගනහිර ස උතුරු මැද පළොත්වල ඇතැම් ස්ථොනවලට මි.මී. 75 ට වැඩි තරමක තද වැසිද ඇති විය ැක. ස්නොහිර ස දකුණු පළොත්වල නවරළ ඩ ප්‍රනේශවල උදෑසන කොලනේදී ද වැසි ස්වල්පයක් ඇතිවිය ැක.
+
+මධ්‍යම, ස රගමුව ස ඌව පළොත්වල සම ර ස්ථොනවල උදෑසන කොලනේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ්ෙස ජනතාව්ගන් කාරුණිකව ඉල්ො සිටිනු ෙැ්ේ.
+
+WEATHER FORECAST FOR 15 OCTOBER 2023
+
+Issued at 12.00 noon on 14 October 2023
+
+Showers or thundershowers will occur over most parts of the island after 2.00 p.m.
+
+Fairly heavy showers above 75 mm can be expected at some places in Uva, Central, Sabaragamuwa, Easten and North-Central provinces.
+
+A few showers may occur in coastal areas of the western and southern provinces during the morning too.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින වටා වන මුහුදු ප්‍රදේශ සඳහා කාලගුණ අනාවැකිය
+
+2023 ඔක්තෝම්බර් මස 14 දින මධ්‍යහන 12.00 ට නිකුත් කරන ලදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 14 October 2023
+
+වැසි තත්ත්වය: කේකසේුරය සිට මේනොරම, පුත්තලම, නකොළඹ ස ගොල්ල ර ො මොතර දක්වො වන නවරළට ඔබ්න ේ වන මුහුදු ප්‍රනේශවල විනශ්ෂනයේ සවස් කොලනේදී න ෝ රොත්‍රී කොලනේදී තැනිේ තැන වැසි න ෝ ගිගුරුම් සහිත වැසි ඇති නේ. සුළඟ: සුළං දකුණ සිට නිරිත දක්වො වන දිශොවලිේ මො එන අතර සුළනේ නේගය පැ.කි.මී. (20-30) පමණ නේ. පුත්තලම සිට මේනොරම ර ො කේකසේුරය දක්වො නවරළට ඔබ්න ේ වන මුහුදු ප්‍රනේශවල සුළනේ නේගය විටිේ විට පැ.කි.මී. 40 පමණ දක්වො වැඩි විය ැක. මුහුදේ ස්වභාවය:
+
+පුත්තලම සිට මේනොරම ර ො කේකසේුරය දක්වො නවරළට ඔබ්න ේ වන මුහුදු ප්‍රනේශ මද වශනයේ රළු නේ.
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම මුහුදු ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Condition of Rain: Showers or thundershowers will occur at several places in the sea areas off coast extending from Kankasanthurai to Matara via Mannar, Puttalam, Colombo and Galle particularly during evening or night.
+
+Winds: Winds will be southerly to south-westerly and wind speed will be (20-30) kmph. Wind speed can increase up to 40 kmph at times in the sea areas off the coast extending from Puttalam to Kankasanthurai via Mannar. State of Sea: The sea areas off the coast extending from Puttalam to Kankasanthurai via Mannar will be moderate. Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
