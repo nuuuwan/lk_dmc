@@ -1,3 +1,4 @@
+import re
 import sys
 from dataclasses import dataclass
 from urllib.parse import urlencode
@@ -54,7 +55,14 @@ class SituationReport(AbstractPDFDoc):
             assert href.endswith(".pdf"), f"Expected pdf, got {href}"
 
             url_pdf = f"{cls.URL_BASE}{href}"
-            num = time_str.replace(":", "-")
+
+            description_cleaned = (
+                re.sub(r"[^a-zA-Z0-9]", "", description)
+                .replace(" ", "-")
+                .lower()
+            )
+
+            num = time_str.replace(":", "-") + "-" + description_cleaned
             lang = "en"
             yield cls(
                 num=num,
