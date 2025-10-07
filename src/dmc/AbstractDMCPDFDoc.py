@@ -74,9 +74,12 @@ class AbstractDMCPDFDoc(AbstractPDFDoc):
         soup = www.soup
         table = soup.find("table", class_="mtable")
         for tr in table.find_all("tr"):
-            doc = cls.parse_tr(url_page, tr)
-            if doc:
-                yield doc
+            try:
+                doc = cls.parse_tr(url_page, tr)
+                if doc:
+                    yield doc
+            except Exception as e:
+                log.error(f"[{url_page}] Error {e} parsin: {tr}")
 
     @classmethod
     def get_base_params(cls):
