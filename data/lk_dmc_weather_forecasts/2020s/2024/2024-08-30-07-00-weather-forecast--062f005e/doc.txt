@@ -1,0 +1,55 @@
+Page 1 of 2
+
+බහු දින යාත්‍රා සඳහා කාලගුණ අනාවැකිය උතුරු අක්ාාංශ 20 ත් දකුණු අක්ාාංශ 10 ත් සහ නැගෙනහිර ගේශාාංශ 60 ත් 100 ත් අතර මුහුදු ප්‍රගේශ සඳහා
+
+(2024 අගෙෝසතතු මස 30 දින ගෙ.ව. 07.00 ට ඉදිරි ෙැය 24 සඳහා නිකුත් කරන ලදි.)
+
+දිවයින වටා වන මුහුදු ප්‍රගේශ
+
+ගබාංොල ගබාකක මුහුදු ප්‍රගේශය මධ්‍යම සහ යාබද උතුරු ගබාංොල ගබාකක ආශ්‍රිත මුහුදු ප්‍රගේශගේ ෙවතින අඩු පීඩන කලාෙය බටහිරට බරව වයඹ ගදසට ෙමන් කරමින් ඉදිරි දින 2 (අගෙෝසතතු මස 30 සහ 31) තුළ බටහිර-මධ්‍යම සහ ඊට යාබද වයඹ දිෙ ගබාංොල ගබාකක මුහුදු ප්‍රගේශය ආශ්‍රිතව පීඩන අවොතයක දකවා වර්ධ්‍නය වීමට ගබාගහෝ දුරට ඉඩ ඇත. ඉන්ෙසු, එය බටහිරට බරව වයඹ ගදසට ෙමන් කර උතුරු ආන්ර ප්‍රගේශය සහ දකුණු ඔඩි්ා ගවරළ ගදසට ලඟා වනු ඇතැයි බලාගොගරාත්තු ගේ. එම නිසා උතුරු අක්ාාංශ 09 ත් 16 ත් සහ නැගෙනහිර ගේශාාංශ 82 සහ 93 ත් අතර මුහුදු ප්‍රගේශවල ඉතා තද සුළාං (ෙැ.කි.මී. 70-80) ෙැවතිය හැකි අතර මුහුදු ප්‍රගේශ ඉතා රළු විය හැක. අද සහ ගහට දිනයන් (අගෙෝසතතු මස 30 සහ 31) තුල ඉහත මුහුදු ප්‍රගේශවල යාත්‍රා ගනාකරන ගලස නාවික සහ ධීවර ප්‍රජාවන්ට දැනුම් ගදනු ලැගේ. ගමම මුහුදු ප්‍රගේශවල ධීවර හා නාවික කටයුතුවල ගයදී සිටින්නන්, කාලගුණ විදයා ගදොර්තගම්න්තුව මගින් ගම් සම්බන්ධ්‍ව නිකුත් කරන ඉදිරි නිගේදන පිළිබඳ සිය අවධ්‍ානය ගයාමු කරන ගලස ඉල්ලා සිටිනු ලැගේ.
+
+කාලගුණික තත්ත්වය: 10N-20N, 80E-100E : බ ොබ ෝ ප්‍රබේශවල වැසි බ ෝ ගිගුරුම් සහිත වැසි. 05N- 10N, 80E-100E : තැනින් තැන වැසි බ ෝ ගිගුරුම් සහිත වැසි. බසසු මුහුදු ප්‍රබේශ : ස්ථොන ස්වල්පයක වැසි බ ෝ ගිගුරුම් සහිත වැසි. සුළාං තත්ත්වය: 10N - 17N, 83E-95E : නිරිත බෙසින් /පැ.කි.මී. (45-55); විටින් විට පැ.කි.මී. (70-80) ෙක්වො. 05N - 10N, 80E-100E : නිරිත බෙසින් /පැ.කි.මී. (35-45) ; විටින් විට පැ.කි.මී. (50-60) ෙක්වො. බසසු මුහුදු ප්‍රබේශ : නිශ්ිත දිශොවකින් බතොරව /පැ.කි.මී. (25-35).
+
+වැසි තත්ත්වය: පුත්තලම සිට බකොළඹ ස ගොල්ල ර ො මොතර ෙක්වො බවරළට ඔබ්බ න් වන මුහුදු ප්‍රබේශවල විටින් විට වැසි ඇතිබේ. දිවයින වටො වන බසසු මුහුදු ප්‍රබේශවල සවස් කොලබේදී බ ෝ රොත්‍රී කොලබේදී ස්ථොන ස්වල්පයක වැසි බ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක. සුළඟ: දිවයින වටො වන මුහුදු ප්‍රබේශවල සුළං නිරිත බෙසින් මො එන අතර සුළබේ බේගය පැ.කි.මී. (30-40) පමණ බේ. ත්‍රිකුණොමලය සිට මුලතිවු , කන්කසන්ුරය, මන්නොරම ස පුත්තලම ර ො ලොවත ෙක්වො ස ම් න්බතොට සිට බපොුවිල් ෙක්වො බවරළට ඔබ්බ න් වන මුහුදු ප්‍රබේශවල සුළබේ බේගය විටින් විට ෙැ.කි.මී. (55-60) ෙක්වො වැඩි විය ැක.
+
+ලොවත සිට බකොළඹ ස ගොල්ල ර ො ම් න්බතොට ෙක්වො බවරළට ඔබ්බ න් වන මුහුදු ප්‍රබේශවල සුළබේ බේගය විටින් විට ෙැ.කි.මී. 50 ෙක්වො වැඩි විය ැක. මුහුගේ සතවභාවය:
+
+ත්‍රිකුණොමලය සිට මුලතිවු , කන්කසන්ුරය, මන්නොරම ස පුත්තලම ර ො ලොවත ෙක්වො ස ම් න්බතොට සිට බපොුවිල් ෙක්වො බවරළට ඔබ්බ න් වන මුහුදු ප්‍රබේශ විටින් විට රළු බේ.
+
+ලොවත සිට බකොළඹ ස ගොල්ල ර ො ම් න්බතොට ෙක්වො බවරළට ඔබ්බ න් වන මුහුදු ප්‍රබේශ විටින් විට තරමක් රළු බේ.
+
+ගිගුරුම් සහිත වැසි ඇති වන විට එම මුහුදු ප්‍රගේශවල තාවකාලිකව තද සුළාං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රගේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Page 2 of 2
+
+මුහුගේ සතවභාවය: 10N - 17N, 83E-95E : රළු සිට ඉතො රළු ෙක්වො. 05N - 10N, 80E-100E : තරමක් රළු සිට රළු, විටින් විට ඉතො රළු ෙක්වො. බසසු මුහුදු ප්‍රබේශ : මඳ වශබයන් රළු.
+
+අරාබි මුහුද කාලගුණික තත්ත්වය: 05N - 10N, 65E-80E : බ ොබ ෝ ප්‍රබේශවල වැසි බ ෝ ගිගුරුම් සහිත වැසි. 10N - 20N, 70E-80E : තැනින් තැන වැසි බ ෝ ගිගුරුම් සහිත වැසි. බසසු මුහුදු ප්‍රබේශ : ස්ථොන ස්වල්පයක වැසි බ ෝ ගිගුරුම් සහිත වැසි. සුළාං තත්ත්වය: 10N - 20N, 60E-75E : නිරිත සිට ස්නොහිර ෙක්වො වන දිශොවලින් /පැ.කි.මී. (40-50); විටින් විට පැ.කි.මී.(60-70) ෙක්වො. 05N-10N,60E-80E : ස්නොහිර සිට නිරිත ෙක්වො වන දිශොවලින් / පැ.කි.මී. (30-40); විටින් විට පැ.කි.මී. 50 ෙක්වො. බසසු මුහුදු ප්‍රබේශ : නිශ්ිත දිශොවකින් බතොරව /පැ.කි.මී. (25-35). මුහුගේ සතවභාවය: 10N - 20N, 60E-75E : තරමක් රළු සිට රළු, විටින් විට ඉතො රළු ෙක්වො. 05N-10N,60E-80E : තරමක් රළු, විටින් විට රළු ෙක්වො. බසසු මුහුදු ප්‍රබේශ : මඳ වශබයන් රළු. දකුණු ඉන්දියානු සාෙරය කාලගුණික තත්ත්වය 03S-10S, 75E-83E : බ ොබ ෝ ප්‍රබේශවල වැසි බ ෝ ගිගුරුම් සහිත වැසි. බසසු මුහුදු ප්‍රබේශ : ස්ථොන ස්වල්පයක වැසි බ ෝ ගිගුරුම් සහිත වැසි. සුළාං තත්ත්වය: 05S-10S, 60E-100E : ගිණිබකොන බෙසින් / පැ.කි.මී. (30-40); විටින් විට පැ.කි.මී. (50-60) ෙක්වො. EQ-05S, 60E-70E & EQ-05S, 80E-100E: ගිණිබකොන බෙසින්/ .කි.මී. (25-35); විටින් විට පැ.කි.මී. 50
+
+ෙක්වො. බසසු මුහුදු ප්‍රබේශ : ගිණිබකොන බෙසින් /පැ.කි.මී. (20-30).
+
+මුහුගේ සතවභාවය: 05S-10S, 60E-100E : තරමක් රළු, විටින් විට රළු ෙක්වො. EQ-05S, 60E-70E & EQ-05S, 80E-100E: මඳ වශබයන් රළු සිට තරමක් රළු; විටින් විට රළු ෙක්වො. බසසු මුහුදු ප්‍රබේශ : සොමොනය ස්වභොවබේ සිට මඳ වශබයන් රළු ෙක්වො. **ගිගුරුම් සහිත වැසි ඇති වන විට තද සුළාං සමඟ එම මුහුදු ප්‍රගේශ තාවකාලිකව ඉතා රළු විය හැක. කොලගුණ විෙයොඥ කොලගුණ විෙයො බෙපොර්තබම්න්ුව.
+
+Page 1 of 2
+
+Weather forecast for multi-day boats For the sea areas in between 20N - 10S and 60E-100E (Issued at 07.00 a.m. on 30 August 2024, for next 24 hours)
+
+Sea areas around the Island
+
+Bay of Bengal
+
+The low-pressure area located over the Central and adjoining North Bay of Bengal is very likely to move west-northwestwards and intensify into a Depression over the West-central and adjoining northwest Bay of Bengal Sea area during subsequent 2 days (30th and 31st August). Thereafter, it is likely to move west-northwestwards and reach North Andhra Pradesh and adjoining south Odisha coasts. Therefore, the sea areas bounded by (09N - 16N) and (82E – 93E) may have very strong winds (70-80) kmph, and the sea area may be very rough. Naval and fishing communities are advised not to venture into the above sea areas during today and tomorrow (30th and 31st August). Naval and fishing communities in the above sea areas are requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+Weather: 10N-20N, 80E-100E : Showers or thundershowers at most places. 05N- 10N, 80E-100E : Showers or thundershowers at several places. Other sea areas : Showers or thundershowers at a few places.
+
+Condition of Rain: Showers will occur at times in the sea areas off the coast extending from Puttalam to Mathara via Colombo and Galle. Showers or thundershowers may occur at a few places in the other sea areas around the island during the afternoon or night. Winds: Winds will be south-westerly in direction and wind speed will be (30-40) kmph. Wind speed can increase up to (55-60) kmph at times in the sea areas off the coasts extending from Trincomalee to Chilaw via Mullaittivu, Kankasanthurai, Mannar and Puttalam and from Hambantota to Pottuvil. Wind speed can increase up to 50 kmph at times in the sea areas off the coasts extending from Chilaw to Hambantota via Colombo and Galle. State of Sea: The sea areas off the coasts extending Trincomalee to Chilaw via Mullaittivu, Kankasanthurai, Mannar and Puttalam and from Hambantota to Pottuvil will be rough at times.
+
+The sea areas off the coasts extending from Chilaw to Hambantota via Colombo and Galle may be fairly rough at times.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
+
+Page 2 of 2
+
+Winds: 10N - 17N, 83E-95E : South-westerly / (45-55) kmph; gusting up to (70-80) kmph. 05N - 10N, 80E-100E : South-westerly / (35-45) kmph; gusting up to (50-60) kmph. Other sea areas : Variable / (25-35) kmph. State of the Sea: 10N - 17N, 83E-95E : Rough to very rough. 05N - 10N, 80E-100E : Fairly rough to rough; very rough at times. Other sea areas : Moderate. Arabian Sea
+
+Weather: 05N- 10N, 65E-80E : Showers or thundershowers at several places. 10N - 20N, 70E-80E : Showers or thundershowers at several places. Other sea areas : Showers or thundershowers at a few places. Winds: 10N - 20N, 60E-75E : South-westerly to Westerly / (40-50) kmph; gusting up to (60-70) kmph. 05N-10N,60E-80E : Westerly to South-westerly / (30-40) kmph; gusting up to 50 kmph. Other sea areas : Variable / (25-35) kmph. State of the Sea: 10N - 20N, 60E-75E : Fairly rough to rough; very rough at times. 05N-10N,60E-80E : Fairly rough; rough at times. Other sea areas : Moderate. South Indian Ocean: Weather: 03S-10S, 75E-83E : Showers or thundershowers at most places. Other sea areas : Showers or thundershowers at a few places. Winds: 05S-10S, 60E-100E : South-easterly / (30-40) kmph; gusting up to (50-60) kmph. EQ-05S, 60E-70E & EQ-05S, 80E-100E: South-easterly / (25-35) kmph; gusting up to 50 kmph. Other sea areas : South-easterly / (20-30) kmph. State of the Sea: 05S-10S, 60E-100E : Fairly rough; rough at times. EQ-05S, 60E-70E & EQ-05S, 80E-100E : Moderate to fairly rough; rough at times. Other sea areas : Slight to moderate. **Temporary strong gusty winds and rough seas can be expected during thundershowers. Duty-Meteorologist Department of Meteorology

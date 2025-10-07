@@ -1,0 +1,804 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      91.82,
+      773.59,
+      495.21,
+      782.59
+    ],
+    "text": "Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.65,
+      786.19,
+      390.95,
+      795.19
+    ],
+    "text": "Heavy rain: 100 \u2013 150, Very heavy rain: 150 or more.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.960000038146973,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      99.86,
+      797.55,
+      490.99,
+      810.52
+    ],
+    "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0db4\u0dad\u0db1\u0dba(\u0db8\u0dd2.\u0db8\u0dd3) : \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2: 00-12.5, \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc4 \u0ddd \u0db8\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 12.5-25, \u0db8\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 25-50, \u0dad\u0dbb\u0db8\u0d9a\u0dca \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 50 -100,",
+    "fonts": [
+      "Calibri",
+      "Iskoola Pota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.29,
+      812.06,
+      379.72,
+      822.28
+    ],
+    "text": "\u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2:100 \u2013 150, \u0d89\u0dad\u0dcf \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 150 \u0dc4 \u0ddd \u0d8a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      155.9,
+      191.03,
+      431.17,
+      206.97
+    ],
+    "text": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0db4\u0dd0\u0dba 36 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0d85\u0db1\u0dca\u200d\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba",
+    "fonts": [
+      "Iskoola Pota",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      36.0,
+      207.11,
+      427.42,
+      236.58
+    ],
+    "text": "2024 \u0da2\u0dd4\u0dbd\u0dd2 \u0db8\u0dc3 20 \u0daf\u0dd2\u0db1\u0dca\u200d \u0dc3\u0dc0\u0dc3 04.00 \u0da7 \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u200d \u0dbd\u0daf\u0dd2.",
+    "fonts": [
+      "Iskoola Pota",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      12.479999542236328,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      36.0,
+      236.73,
+      552.0,
+      392.0
+    ],
+    "text": "\u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0daf\u0dd2\u0db1\u0dca\u200d \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0dda\u0daf\u0dd3 \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0dba\u0dda \u0dc0\u0dd0\u0dc3\u0dd2 \u0dad\u0dad\u0dca\u0dc0\u0dba\u0dda \u0dad\u0dcf\u0dc0\u0d9a\u0dcf\u0dbd\u0dd2\u0d9a \u0d85\u0da9\u0dd4 \u0dc0\u0dd3\u0db8\u0d9a\u0dca \u0db6\u0dbd\u0dcf\u0dba\u0db4\u0dcf\u0dba\u0dbb\u0dcf\u0dad\u0dca\u0dd4 \u0dba\u0dda. \u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb \u0dc3 \u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0 \u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd\u0dad\u0dca \u0db8 \u0db1\u0dd4\u0dc0\u0dbb, \u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba, \u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0dc3 \u0db8\u0dcf\u0dad\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dd2\u0d9a\u0dca\u0d9a\u0dc0\u0dbd\u0dad\u0dca \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dc0\u0dcf\u0dbb \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0d87\u0dad\u0dd2\u0dc4\u0dda. \u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0d9a\u0db3\u0dd4\u0d9a\u0dbb\u0dc4\u0dda \u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0db6\u0dd0\u0dc0\u0dd4\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dda\u0dc1\u0dc0\u0dbd \u0dc3 \u0d8b\u0dad\u0dd4\u0dbb\u0dd4, \u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf \u0dc3 \u0dc0\u0dba\u0db9 \u0db4\u0dc5\u0dcf\u0dad\u0dca\u0dc0\u0dbd\u0dad\u0dca \u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba, \u0dc4\u0db8\u0dcf\u0dab\u0dbb\u0dcf\u0d9c\u0dbd \u0dc3 \u0db8\u0dca\u0db6\u0db1\u0dca\u0dc4\u0dad\u0dcf\u0da7 \u0daf\u0dd2\u0dc3\u0dca\u0dd2\u0d9a\u0dca\u0d9a\u0dc0\u0dbd\u0dad\u0dca \u0dc0\u0dd2\u0da7\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0da7 \u0db8\u0db1 \u0db4\u0dd0.\u0d9a\u0dd2.\u0db8\u0dd3. (50-55) \u0d9a \u0db4\u0db8\u0dab \u0dad\u0daf \u0dc3\u0dd4\u0dc5\u0d82 \u0d87\u0dad\u0dd2\u0dc0\u0dd2\u0dba \u0dd0\u0d9a. \u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0dc4\u0db1\u0dca \u0dc4\u0dc3\u0dc3\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc4\u0dda\u0dc1\u0dc0\u0dbd \u0dc0\u0dd2\u0da7\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0da7 \u0db8\u0db1 \u0db4\u0dd0.\u0d9a\u0dd2.\u0db8\u0dd3. (30-40) \u0d9a \u0db4\u0db8\u0dab \u0dad\u0dbb\u0db8\u0d9a \u0dad\u0daf \u0dc3\u0dd4\u0dc5\u0d82 \u0d87\u0dad\u0dd2\u0dc0\u0dd2\u0dba \u0dd0\u0d9a.",
+    "fonts": [
+      "Calibri-Bold",
+      "Iskoola Pota",
+      "Iskoola Pota,Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      5.039999961853027,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.54,
+      395.12,
+      446.07,
+      409.16
+    ],
+    "text": "GENERAL WEATHER FORECAST FOR NEXT 36 HOURS",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      36.0,
+      412.01,
+      550.03,
+      767.66
+    ],
+    "text": "Issued at 04.00 p.m. on 20 July 2024 Showery condition over the island is expected to reduce during the next few days temporarily. Several spells of light showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts. Strong winds of about (50-55) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee, Monaragala and Hambantota districts. Fairly strong winds about (30-40) kmph can be expected at times elsewhere of the island.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Iskoola Pota",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0,
+      12.479999542236328,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      41.4,
+      112.43,
+      396.89,
+      172.1
+    ],
+    "text": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0d85\u0db1\u0dca\u200d\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba GENERAL WEATHER FORECAST FOR SRI LANKA \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0dc0\u0dd2\u0daf\u0dba\u0dcf \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dc4\u0dda, \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2 \u0d85\u0d82\u0dc1\u0dba \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0dbd\u0daf\u0dd2 Issued by Forecasting Division, National Meteorological Centre",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Iskoola Pota",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.82,
+      773.59,
+      495.21,
+      782.59
+    ],
+    "text": "Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.65,
+      786.19,
+      390.95,
+      795.19
+    ],
+    "text": "Heavy rain: 100 \u2013 150, Very heavy rain: 150 or more.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.960000038146973,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.86,
+      797.55,
+      490.99,
+      810.52
+    ],
+    "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0db4\u0dad\u0db1\u0dba(\u0db8\u0dd2.\u0db8\u0dd3) : \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2: 00-12.5, \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc4 \u0ddd \u0db8\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 12.5-25, \u0db8\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 25-50, \u0dad\u0dbb\u0db8\u0d9a\u0dca \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 50 -100,",
+    "fonts": [
+      "Calibri",
+      "Iskoola Pota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.29,
+      812.06,
+      379.72,
+      822.28
+    ],
+    "text": "\u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2:100 \u2013 150, \u0d89\u0dad\u0dcf \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 150 \u0dc4 \u0ddd \u0d8a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.78,
+      114.4,
+      376.22,
+      124.62
+    ],
+    "text": "Weather Forecast for Main Cities Date : 2024-07-21",
+    "fonts": [
+      "Iskoola Pota,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      132.31,
+      448.63,
+      171.88
+    ],
+    "text": "City Temperature (0C) Relative Humidity (%) Weather Max Min Max Min Anuradhapura 35 26 85 50 Mainly fair",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      175.35,
+      373.12,
+      198.88
+    ],
+    "text": "Batticaloa 37 26 75 45 Mainly fair Colombo 32 26 90 75 Mainly fair",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      202.35,
+      386.35,
+      225.88
+    ],
+    "text": "Galle 31 26 90 75 A few showers Jaffna 34 28 80 65 Mainly fair",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      229.35,
+      373.12,
+      252.88
+    ],
+    "text": "Kandy 29 24 80 60 Mainly fair Nuwara-Eliya 18 14 90 75 Mainly fair",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      256.38,
+      442.39,
+      279.91
+    ],
+    "text": "Ratnapura 34 25 85 65 Several spells of light showers Trincomalee 37 27 80 45 Mainly fair",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      283.38,
+      376.22,
+      320.37
+    ],
+    "text": "Mannar 32 28 85 65 Mainly fair \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1\u0dca\u200d \u0db1\u0dca\u200d\u0d9c\u0dbb \u0dc3\u0daf\u0dc4\u0dcf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0d85\u0db1\u0dca\u200d\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba \u0daf\u0dd2\u0db1\u0dca\u200d\u0dba : 2024-07-21",
+    "fonts": [
+      "Arial-BoldMT",
+      "Calibri",
+      "Iskoola Pota,Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      325.87,
+      450.65,
+      365.47
+    ],
+    "text": "\u0db1\u0dca\u200d\u0d9c\u0dbb\u0dba \u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba(\u0dba\u0dc3. \u0d85\u0d82\u0dc1\u0d9a) \u0dc3\u0dcf\u0dba\u0dda\u0d9a\u0dca\u0dc2 \u0d86\u0dbb\u0dca\u0daf\u0dca\u200d\u0dbb\u0dad\u0dcf\u0dc0\u0dba(%) \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0d85\u0dc0\u0db8 \u0d8b\u0db4\u0dbb\u0dd2\u0db8 \u0d85\u0dc0\u0db8 \u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0dca\u200d\u0db4\u0dd4\u0dbb\u0dba 35 26 85 50 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dca\u200d\u0dcf\u0db1 \u0dc0\u0dc1\u0dc4\u0dba\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad",
+    "fonts": [
+      "Iskoola Pota",
+      "Iskoola Pota,Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      368.71,
+      424.51,
+      392.47
+    ],
+    "text": "\u0db8\u0da9\u0d9a\u0dbd\u0db4\u0dd4\u0dc0 37 26 75 45 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dca\u200d\u0dcf\u0db1 \u0dc0\u0dc1\u0dc4\u0dba\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad \u0dc4\u0d9a\u0dcf\u0dc5\u0db9 32 26 90 75 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dca\u200d\u0dcf\u0db1 \u0dc0\u0dc1\u0dc4\u0dba\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      395.71,
+      424.51,
+      419.47
+    ],
+    "text": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd 31 26 90 75 \u0dc0\u0dd0\u0dc3\u0dd2 \u0dc3\u0dca\u0dc0\u0dbd\u0dca\u0db4\u0dba\u0d9a\u0dca \u0dba\u0dcf\u0db4\u0db1\u0dba 34 28 80 65 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dca\u200d\u0dcf\u0db1 \u0dc0\u0dc1\u0dc4\u0dba\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      422.71,
+      424.51,
+      446.49
+    ],
+    "text": "\u0db8 \u0db1\u0dd4\u0dc0\u0dbb 29 24 90 60 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dca\u200d\u0dcf\u0db1 \u0dc0\u0dc1\u0dc4\u0dba\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad \u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba 18 14 90 80 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dca\u200d\u0dcf\u0db1 \u0dc0\u0dc1\u0dc4\u0dba\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      449.73,
+      424.51,
+      473.49
+    ],
+    "text": "\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb\u0dba 34 25 85 70 \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dc0\u0dcf\u0dbb \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba 37 27 80 45 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dca\u200d\u0dcf\u0db1 \u0dc0\u0dc1\u0dc4\u0dba\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      476.73,
+      424.51,
+      486.95
+    ],
+    "text": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 32 28 85 65 \u0db4\u0dca\u200d\u0dbb\u0db0\u0dca\u200d\u0dcf\u0db1 \u0dc0\u0dc1\u0dc4\u0dba\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2 \u0dbb\u0dc4\u0dd2\u0dad",
+    "fonts": [
+      "Iskoola Pota",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.74,
+      501.99,
+      244.09,
+      515.98
+    ],
+    "text": "\u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9 \u0ba8\u0b95\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Latha,Bold",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.26,
+      506.79,
+      369.4,
+      522.97
+    ],
+    "text": "\u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc8\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf : 2024-07-21",
+    "fonts": [
+      "Latha,Bold",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.34,
+      532.11,
+      99.71,
+      542.53
+    ],
+    "text": "\u0ba8\u0b95\u0bb0\u0bae\u0bcd",
+    "fonts": [
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137.66,
+      524.91,
+      306.04,
+      538.9
+    ],
+    "text": "\u0bb5\u0bb5\u0baa\u0bcd\u0baa\u0ba8\u0bbf\u0bb2\u0bc8 (0C) \u0b9a\u0bbe\u0bb0\u0bc0\u0bb0\u0baa\u0bcd\u0baa\u0ba4\u0ba9\u0bcd (%)",
+    "fonts": [
+      "Latha,Bold",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      5.039999961853027,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      139.1,
+      532.11,
+      454.87,
+      549.37
+    ],
+    "text": "\u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8 \u0b89\u0b9a\u0bcd\u0b9a \u0b95\u0bc1\u0bb2\u0bc8\u0ba8\u0bcd\u0ba4 \u0b89\u0b9a\u0bcd\u0b9a \u0b95\u0bc1\u0bb2\u0bc8\u0ba8\u0bcd\u0ba4",
+    "fonts": [
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      552.39,
+      448.48,
+      565.3
+    ],
+    "text": "\u0b85\u0ba9\u0bc1\u0bb0\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd 35 26 85 50 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      565.95,
+      448.48,
+      578.74
+    ],
+    "text": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1 37 26 75 45 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      579.39,
+      448.48,
+      592.3
+    ],
+    "text": "\u0bb5\u0b95\u0bbe\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 32 26 90 75 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      592.95,
+      436.84,
+      605.74
+    ],
+    "text": "\u0b95\u0bbe\u0bb2\u0bbf 31 26 90 75 \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bbf\u0bc8\u0bcd \u0bae\u0bb2\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      606.39,
+      448.48,
+      619.3
+    ],
+    "text": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd 34 28 80 65 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      619.98,
+      448.48,
+      632.77
+    ],
+    "text": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf 29 24 80 60 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      633.42,
+      448.48,
+      646.33
+    ],
+    "text": "\u0ba8\u0bc1\u0bb5\u0bb5\u0bb0\u0bb2\u0bbf\u0baf\u0bbe 18 14 90 75 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      646.98,
+      474.76,
+      659.77
+    ],
+    "text": "\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf 34 25 85 65 \u0b85\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0b9f\u0bbf \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bbf\u0bc8\u0bcd \u0bae\u0bb2\u0bc8 \u0baa\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      42.12,
+      660.42,
+      448.48,
+      673.33
+    ],
+    "text": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0b95\u0bbe\u0ba3\u0bae\u0bb2\u0bc8 37 27 80 45 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Arial-BoldMT",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      36.0,
+      673.26,
+      448.48,
+      767.98
+    ],
+    "text": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd 32 28 85 65 \u0baa\u0bbf\u0bb0\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bb0\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb2\u0bc8",
+    "fonts": [
+      "Arial-BoldMT",
+      "Calibri-Bold",
+      "Iskoola Pota",
+      "Latha",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027,
+      12.0
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2024 ඔක්තෝබර් මාස 07 දින්‍ය සඳහා කා ලංගුණ අන්‍ය වැකිය 2024 ඔක්තෝබර් මාස 07 දින්‍ය උදෑසන්‍ය 05.30 ට නිකුත්කාරන්‍ය ලංදි. අන්තර් නිවර්තන්‍ය අභිස රී කාලං පය (උතුරු අර්ධ ් ෝලං්ේ සහා දකුණු අර්ධ ් ෝලං්ේ සිට පැමි්ණන්‍ය සුළ අභිස රී වන්‍ය කාලං පය) දිවයි්න් කා ලංගුණයට බලංපෑම් කාරමින් පවතී. දිවයිහන් හ ාහ ෝ ප්‍රහේශවල සවස් කාලහේදී හ ෝ රාත්‍රී කාලහේදී වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය ැක. ස්නාහිර, ස රගමුව ස වයඹ පළාත්වලත් ගාල්ල, මාතර, මන්නාරම ස මුලතිේ දිස්ික්කවලත් උදෑසන කාලහේදීත් වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. ගිගුරුම් සහිත වැසි සමා ඇතිවිය හාැකි ත වකා ලිකා තද සුළ වලින් සහා අකුණු මාඟින් සිදු වන්‍ය අන්‍යතුරු අවමා කාර ැනීමාට අවශ්‍ පියවර න්න්‍ය ්ලංස ජන්‍යත ව් න් කා රුණිකාව ඉල්ලං සිටිනු ලංැ්ේ.
+
+WEATHER FORECAST FOR 07 OCTOBER 2024
+
+Issued at 05.30 a.m. on 07 October 2024
+
+The Intertropical Convergence Zone (where winds from the Northern Hemisphere and Southern Hemisphere converge) is affecting the island’s weather. Showers or thundershowers will occur at most places in the island during the afternoon or night. Heavy showers above 100 mm are likely at some places. Showers or thundershowers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Mannar and Mullaittivu districts during the morning too.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍ර්ේශ්‍ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2024 ඔක්තෝබර් මාස 07 දින්‍ය උදෑසන්‍ය 05.30 ට නිකුත් කාරන්‍ය ලංදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 05.30 a.m. on 07 October 2024
+
+වැසි තත්ත්වය: දිවයින වටා වන මුහුදු ප්‍රහේශවල සවස් කාලහේදී හ ෝ රාත්‍රී කාලහේදී තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක. ිකුණාමලය සිට කන්කසන්ුරය, මන්නාරම හකාළඹ ස ගාල්ල ර ා ම් න්හතාට දක්වා හවරළට ඔබ්හ න් වන මුහුදු ප්‍රහේශවල උදෑසන කාලහේදීත් තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. සුළඟ: සුළං නිරිත හදසින් මා එන අතර සුළහේ හේගය පැ.කි.මී. (25-35) පමණ හේ. මන්නාරම සිට හකාළඹ ස ගාල්ල ර ා ම් න්හතාට දක්වා හවරළට ඔබ්හ න් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. (40-45) දකව වැඩි විය ැක. මුහු්ේ ස්වභ වය:
+
+දිවයින වටා වන මුහුදු ප්‍රහේශ සාමානය ස්වභාවහේ සිට මද වශහයන් රළු දක්වා පැවතිය ැක. මන්නාරම සිට හකාළඹ ස ගාල්ල ර ා ම් න්හතාට දක්වා හවරළට ඔබ්හ න් වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු විය ැක. ගිගුරුම් සහිත වැසි ඇති වන්‍ය විට එමා මුහුදු ප්‍ර්ේශ්‍වලං ත වකා ලිකාව තද සුළ ඇති විය හාැකි අතර එවිට එමා මුහුදු ප්‍ර්ේශ්‍ ත වකා ලිකාව ඉත රළු විය හාැකා.
+
+Condition of Rain: Showers or thundershowers may occur at several places in the sea areas around the island during the afternoon or night. Showers or thundershowers will occur at several places in the sea areas from Trincomalee to Hambantota via Kankasanthurai, Mannar, Colombo and Galle during the morning too. Winds: Winds will be South-westerly in direction and wind speed will be (25-35) kmph. Wind speed can increase up to (40-45) kmph at times in the sea areas off the coasts extending from Mannar to Hambanthota via Colombo and Galle.
+
+State of Sea: The sea areas around the island can be slight to moderate. The sea areas off the coasts extending from Mannar to Hambanthota via Colombo and Galle can be fairly rough at times. Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
