@@ -1,0 +1,77 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය
+
+2025 මැයි මස 11 දින්‍ සවස 04.00 ට නිකුත් කරන්‍ ලදි.
+
+බස්නාහිර, සබරගමුව ස වයඹ පළාත්වලත් ගාල්ල, මාතර දිස්ික්කවලත් වැසි වාර කිහිපයක් ඇතිහේ. මධ්‍යම, ඌව ස නැහගනහිර පළාත්වලත් හපාහලාන්නරුව දිස්ික්කහේත් ප.ව. 1.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක.
+
+උතුරු, උතුරු මැද ස වයඹ පළාත්වලත් ම්බන්හතාට දිස්ික්කහේත් විටින් විට මන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය ැක. ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්න්‍ා ලලස ජන්‍තාවලගන් කාරුණිකව ඉල්ලා සිටිනු ලැලේ.
+
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+
+Issued at 04.00 p.m. on 11 May 2025
+
+Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Central, Uva and Eastern provinces and in Polonnaruwa district after 1.00 p.m.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Northern, North-central, North-western provinces and in Hambantota district. The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+Weather Forecast for Main Cities Date : 12-May-2025
+
+City Temperature (0C) Relative Humidity (%) Weather Max Min Max Min Anuradhapura 35 25 95 60 Mainly fair
+
+Batticaloa 34 26 90 65 Mainly fair Colombo 31 27 90 70 Several spells of showers
+
+Galle 30 26 90 75 Several spells of showers Jaffna 35 28 85 70 Mainly fair
+
+Kandy 30 22 95 65 Showers or thundershowers are likely after 2.00p.m Nuwara-Eliya 22 13 95 70 Showers or thundershowers are likely after 2.00p.m
+
+Ratnapura 34 24 95 70 Several spells of showers Trincomalee 35 26 90 60 Showers or thundershowers are likely after 2.00p.m
+
+Mannar 33 28 90 65 Mainly fair
+
+ප්‍රධාන්‍ න්‍ගර සදහා කාලගුණ අන්‍ාවැකිය දින්‍ය : 2025-05-12
+
+න්‍ගරය උෂ්ණත්වය(ලස. අංශ්‍ක) සාලේක්ෂ ආර්ද්‍රතාවය(%) කාලගුණය උපරිම අවම උපරිම අවම
+
+අනුරාධ්‍පුරය 35 25 95 60 ප්‍රධ්‍ාන වශහයන් වැසි රහිත මඩකලපුව 34 26 90 65 ප්‍රධ්‍ාන වශහයන් වැසි රහිත
+
+හකාළඹ 31 27 90 70 වැසි වාර කිහිපයක් ගාල්ල 30 26 90 75 වැසි වාර කිහිපයක්
+
+යාපනය 35 28 85 70 ප්‍රධ්‍ාන වශහයන් වැසි රහිත ම නුවර 30 22 95 65 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක
+
+නුවරඑළිය 22 13 95 70 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක රත්නපුරය 34 24 95 70 වැසි වාර කිහිපයක්
+
+ිකුණාමලය 35 26 90 60 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක මන්නාරම 33 28 90 65 ප්‍රධ්‍ාන වශහයන් වැසි රහිත
+
+பிரதான நகரங்களுக்கான வானிலை முன்னறிவித்தல் திகதி : 2025-05-12
+
+நகரம் வவப்பநிலை (0C) சாரீரப்பதன் (%) வானிலை உச்ச குலைந்த உச்ச குலைந்த அனுராதபுரம் 35 25 95 60 பிரதானமாக சீரான வானிலை
+
+மட்டக்களப்பு 34 26 90 65 பிரதானமாக சீரான வானிலை வகாழும்பு 31 27 90 70 அடிக்கடி மலை வபய்யும்
+
+காலி 30 26 90 75 அடிக்கடி மலை வபய்யும் யாழ்ப்பாணம் 35 28 85 70 பிரதானமாக சீரான வானிலை
+
+கண்டி 30 22 95 65 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம்
+
+நுவவரலியா 22 13 95 70 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம் இரத்தினபுரி 34 24 95 70 அடிக்கடி மலை வபய்யும்
+
+திருககாணமலை 35 26 90 60 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம் மன்னார் 33 28 90 65 பிரதானமாக சீரான வானிலை

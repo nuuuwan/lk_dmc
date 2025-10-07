@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-12-16-10-00-the-weather-advis-71400885",
+  "num": "10-00-the-weather-advisory-for-heavy-rain-and-strong-winds-rough-seas-report",
+  "date_str": "2023-12-16",
+  "description": "The Weather Advisory for Heavy rain and strong winds rough seas Report",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2740",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_rain_and_strong_winds_rough_seas_at_1000on_2023__1702703216.pdf",
+  "time_str": "10:00",
+  "ut": 1702701000.0
+}

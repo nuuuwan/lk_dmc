@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-07-16-10-00-advisory-for-strong-winds",
+  "num": "10-00-advisory-for-strong-winds",
+  "date_str": "2025-07-16",
+  "description": "Advisory for Strong winds",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=360",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/WWO2025071601E__1752641268.pdf",
+  "time_str": "10:00",
+  "ut": 1752640200.0
+}

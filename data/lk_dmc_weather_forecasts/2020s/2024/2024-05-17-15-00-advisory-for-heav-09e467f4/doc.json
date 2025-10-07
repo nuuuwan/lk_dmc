@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-05-17-15-00-advisory-for-heav-09e467f4",
+  "num": "15-00-advisory-for-heavy-rain-report",
+  "date_str": "2024-05-17",
+  "description": "Advisory for Heavy Rain Report",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2160",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_Report_at_1500_hrs_on_2024__1715938788.pdf",
+  "time_str": "15:00",
+  "ut": 1715938200.0
+}

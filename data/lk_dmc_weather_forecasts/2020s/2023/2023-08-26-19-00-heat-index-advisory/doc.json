@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-08-26-19-00-heat-index-advisory",
+  "num": "19-00-heat-index-advisory",
+  "date_str": "2023-08-26",
+  "description": "Heat Index Advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3160",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/WW_HI_20230826EN__1693060017.pdf",
+  "time_str": "19:00",
+  "ut": 1693056600.0
+}

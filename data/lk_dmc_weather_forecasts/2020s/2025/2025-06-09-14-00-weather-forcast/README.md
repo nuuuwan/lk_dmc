@@ -1,0 +1,107 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2025 ජුනි මස10 දින්‍ය සඳහා කාලගුණ අන්‍ාවැකිය 2025 ජුනි මස 09 දින්‍ ප.ව. 2.00 ට නිකුත්කරන්‍ ලදී.
+
+සක්‍රීය නිරිතදිග මමෝසම් කාලගුණ තත්ත්වමේ බලපෑම මහේතුමවන්, මහට (10) දින්‍ සිට දිවයිමන් නිරිත දිග මකාටමසේ වැසි තත්වමේ වැඩි වීමක් සහ දිවයින්‍ හරහා සහ දිවයින්‍ වටා මුහුදු ප්‍රමේශවල විටින් විට හමන්‍ තද සුළං බලාමපාමරාත්තුමේ.
+
+කාලගුණ විදයා මදපාර්තමම්න්තුව විසින් මම් සම්බන්ධමයන් නිකුත් කරනු ලබන්‍ ඉදිරි නිමේදන්‍ පිළිබඳව, අවධාන්‍මයන් පසු වන්‍ මලස මහජන්‍තාවමගන් ඉල්ලා සිටිනු ලැමේ.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම ස වයඹ පළාත්වලත් ගාල්ල ස මාතර දිස්ික්කවලත් විටින් විට වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ.
+
+බස්නාහිර ස සබරගමුව පළාත්වලත් නුවරඑළිය, ම නුවර, ගාල්ල ස මාතර දිස්ික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ක පමණ තද වැසි ඇතිවිය ැක.
+
+උතුරු පළාහත්ත් අනුරාධ්‍පුරය ස ම්බන්හතාට දිස්ික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය ැක.
+
+බදුල්ල, අම්පාර ස මඩකළපුව දිස්ික්කවල සවස් කාලහේදී හ ෝ රාත්‍රී කාලහේදී ස්ථාන ස්වල්පයක වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක.
+
+මධ්‍යම කඳුකරහේ බටහිර බැවුම් ප්‍රහේශවලත් උතුරු, උතුරු-මැද, වයඹ ස දකුණු පළාත්වලත් ිකුණාමලය දිස්ික්කහයත් විටින් විට මන පැ.කි.මී. 50 ක පමණ තද සුළං ඇතිවිය ැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අවශය පියවර ගන්න්‍ා මලස ජන්‍තාවමගන් කාරුණිකව ඉල්ලා සිටිනු ලැමේ.
+
+WEATHER FORECAST FOR 10 JUNE 2025
+
+Issued at 2.00 p.m. on 09 June 2025
+
+Due to the effect of the active southwest monsoon condition, showery condition is expected to enhance in the southwestern part of the island from tomorrow (10), with strong wind gust over the island and in the sea areas around the island.
+
+General public is requested to be attentive to future forecasts issued by the Department of Meteorology in this regard. Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts.
+
+Heavy falls about 100 mm are likely at some places in the Western and Sabaragamuwa provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts.
+
+Several spells of showers may occur in the Northern province and in Anuradhapura and Hambantota districts.
+
+Showers or thundershowers may occur at a few places in the Badulla, Ampara and Batticaloa districts during the afternoon or night.
+
+Strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee district.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු ප්‍රමේශ සඳහා කාලගුණ අන්‍ාවැකිය
+
+2025 ජුනි මස 09 දින්‍ ප.ව. 2.00 ට නිකුත් කරන්‍ ලදී.
+
+සක්‍රීය නිරිතදිග මමෝසම් කාලගුණ තත්ත්වමේ බලපෑම මහේතුමවන්, මහට (10) දින්‍ සිට දිවයින්‍ වටා මුහුදු ප්‍රමේශවල විටින් විට හමන්‍ තද සුළං බලාමපාමරාත්තුමේ.
+
+කාලගුණ විදයා මදපාර්තමම්න්තුව විසින් මම් සම්බන්ධමයන් නිකුත් කරනු ලබන්‍ ඉදිරි නිමේදන්‍ පිළිබඳව, අවධාන්‍මයන් පසු වන්‍ මලස මහජන්‍තාවමගන් ඉල්ලා සිටිනු ලැමේ.
+
+වැසි තත්ත්වය: පුත්තලම සිට හකාළඹ ස ගාල්ල ර ා ම්බන්හතාට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල තැනින් තැන වැසි ඇති හේ. මන්නාරම සිට කන්කසන්තුරය ර ා මුලතිේ දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල ස්ථාන ස්වල්පයක සවස් කාලහේදී හ ෝ රාත්‍රී කාලහේදී වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ.
+
+සුළඟ: සුළං නිරිත දිශාහවන් මා එයි. ලාවත සිට පුත්තලම ස මන්නාරම ර ා කන්කසන්තුරය දක්වා ස ගාල්ල සිට ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය පැ.කි.මී. (35-45) පමණ වන අතර විටින් විට පැ.කි.මී. (60-65) පමණ දක්වා ඉ ළ යා ැක.
+
+දිවයින වටා වන හසසු මුහුදු ප්‍රහේශවල සුළහේ හේගය පැ.කි.මී. (30-40) පමණ හේ. ලාවත සිට හකාළඹ ර ා ගාල්ල දක්වා ස කන්කසන්තුහර් සිට මුලතිේ ර ා ිකුණාමලය දක්වා වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. 50 පමණ දක්වා ඉ ළ යා ැක. මුහුමේ සේවභාවය: ලාවත සිට පුත්තලම ස මන්නාරම ර ා කන්කසන්තුරය දක්වා ස ගාල්ල සිට ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට රළු හේ. ලාවත සිට හකාළඹ ර ා ගාල්ල දක්වා ස කන්කසන්තුහර් සිට මුලතිේ ර ා ිකුණාමලය දක්වා වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු හේ. ම්බන්හතාට සිට හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල මුහුදු රළ උස මීටර් (2.5-3.0) ක් පමණ ඉ ළ යාහම් ැකියාවක් පවතී.
+
+මම් පිළිබඳ සිය අවධාන්‍ය මයාමු කරන්‍ මලස ධීවර හා න්‍ාවික ප්‍රජාවමගන් ඉල්ලා සිටිනු ලැමේ.
+
+ගිගුරුම් සහිත වැසි ඇති වන්‍ විට එම මුහුදු ප්‍රමේශවල තාවකාලිකව තද සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රමේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 2.00 p.m. on 09 June 2025
+
+Due to the effect of the active southwest monsoon condition, strong wind gust over the sea areas around the island is expected from tomorrow (10).
+
+General public is requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+Condition of Rain:
+
+Showers will occur at several places in the sea areas off the coast extending from Puttalam to Hambantota via Colombo and Galle. Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Mannar to Mullaitivu via Kankasanthurai during the evening or night.
+
+Winds: Winds will be south-westerly.
+
+wind speed will be (35-45) kmph and can increase up to (60-65) kmph at times in the sea areas off the coast extending from Chilaw to Kankasanthurai via Puttalam and Mannar and from Galle to Pottuvil via Hambantota. Wind speed will be (30-40) kmph in the other sea areas around the island. Wind speed can increase up to 50 kmph in the sea areas extending from Chilaw to Galle via Colombo and from Kankasanthurai to Trincomalee via Mullaittivu.
+
+State of Sea: The sea areas off the coast extending from Chilaw to Kankasanthurai via Puttalam and Mannar and from Galle to Pottuvil via Hambantota will be rough at times. The sea areas extending from Chilaw to Galle via Colombo and from Kankasanthurai to Trincomalee via Mullaittivu will be fairly rough at times.
+
+The wave height may increase about (2.5-3.0) m in the sea areas off the coast extending from Hambantota to Pottuvil.
+
+Naval and fishing communities are requested to be vigilant in this regard.
+
+Temporarily strong wind gust and very rough seas can be expected during thundershowers.

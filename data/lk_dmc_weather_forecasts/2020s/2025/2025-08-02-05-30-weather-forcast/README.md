@@ -1,0 +1,61 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2025 අග ෝසතු මාස 02 දින්‍ය සඳහා කා ලංගුණ අන්‍ය වැකිය 2025 අග ෝසතු මාස 02 දින්‍ය උදෑසන්‍ය 05.30 ට නිකුත් කාරන්‍ය ලංදි.
+
+උතුරු, උතුරු-මැද, ඌව, නැහෙනහිර, මධ්‍යම ස සබරෙමුව පළාත්වලත් කුරුණෑෙල ස ම්බන්හතාට දිස්ික්කවලත් ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. හමම ප්‍රහේශවල ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමාකා තද වැසි ඇතිවිය ැක.
+
+බස්නාහිර පළාහත්ත් ොල්ල, මාතර ස පුත්තලම දිස්ික්කවලත් වැසි වාර කිහිපයක් ඇතිහේ.
+
+ගිගුරුම් සහිත වැසි සමා ඇතිවිය හාැකි ත වකා ලිකා තද සුළ වලින් සහා අකුණු මාඟින් සිදු වන්‍ය අන්‍යුරු අවමා කාර ැනීමාට අවශ්‍ පියවර න්න්‍ය ගලංස ජන්‍යත වග න් කා රුණිකාව ඉල්ලං සිටිනු ලංැගේ.
+
+WEATHER FORECAST FOR 02 AUGUST 2025
+
+Issued at 05.30 a.m. on 02 August 2025
+
+Showers or thundershowers will occur at several places in Northern, North-Central, Uva, Eastern, Central and Sabaragamuwa provinces and in Kurunegala and Hambantota districts after 1.00 p.m. Fairly heavy falls above 75 mm are likely at some places in these areas.
+
+Several spells of showers will occur in Western province and in Galle, Matara and Puttalam districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍රගේශ්‍ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 අග ෝසතු මාස 02 දින්‍ය උදෑසන්‍ය 05.30 ට නිකුත් කාරන්‍ය ලංදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 05.30 a.m. on 02 August 2025
+
+වැසි තත්ත්වය: හකාළඹ සිට ොල්ල ර ා මාතර දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල වැසි වාර කිහිපයක් ඇති විය ැක.
+
+සුළඟ: දිවයින වටා වන මුහුදු ප්‍රහේශවල සුළං බස්නාහිර සිට නිරිත දක්වා වන දිශාවලින් මා එන අතර සුළහේ හේෙය පැ.කි.මී. (30-40) පමණ හේ.
+
+හබ්රුවල සිට ොල්ල ර ා ම්බන්හතාට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේෙය විටින් විට පැ.කි.මී. (50-60) පමණ දක්වා ඉ ළ යා ැක. මුහුගේ සතවභ වය: හබ්රුවල සිට ොල්ල ර ා ම්බන්හතාට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට රළු හේ.
+
+හබ්රුවල සිට ොල්ල ර ා මාතර දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල මුහුදු රළ උස මීටර් 2.5 ක් පමණ ඉ ළ යාහම් ැකියාවක් පවතී. (හමය හොඩබිමට එන රළ උස හනාහේ).
+
+Condition of Rain: Several spells of showers will occur in the sea areas off the coast extending from Colombo to Matara via Galle.
+
+Winds: Winds will be westerly to south-westerly and wind speed will be (30-40) kmph.
+
+Wind speed can increase up to (50-60) kmph at times in the sea areas off the coast extending from Beruwala to Hambantota via Galle. State of Sea: The sea areas off the coast extending from Beruwala to Hambantota via Galle will be rough at times.
+
+The wave height may increase about 2.5 m in the sea areas off the coast extending from Beruwala to Matara via Galle (this is not for land area).

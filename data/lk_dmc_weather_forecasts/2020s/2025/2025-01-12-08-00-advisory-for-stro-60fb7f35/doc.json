@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-01-12-08-00-advisory-for-stro-60fb7f35",
+  "num": "08-00-advisory-for-strong-winds-and-rough-seas",
+  "date_str": "2025-01-12",
+  "description": "Advisory for strong winds and rough seas",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1100",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_0800hrs_on_2025__1736649593.pdf",
+  "time_str": "08:00",
+  "ut": 1736649000.0
+}

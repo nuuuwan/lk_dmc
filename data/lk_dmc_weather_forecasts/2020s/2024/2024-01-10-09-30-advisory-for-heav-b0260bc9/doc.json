@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-01-10-09-30-advisory-for-heav-b0260bc9",
+  "num": "09-30-advisory-for-heavy-rain--strong-winds",
+  "date_str": "2024-01-10",
+  "description": "Advisory for Heavy Rain & Strong Winds",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2660",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_Report_at_0930hrs_on_2024__1704861294.pdf",
+  "time_str": "09:30",
+  "ut": 1704859200.0
+}

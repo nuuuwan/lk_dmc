@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-01-23-16-00-weather-report-at-a86c5afa",
+  "num": "16-00-weather-report-at-1600hrs-on-20250123",
+  "date_str": "2025-01-23",
+  "description": "Weather Report at 1600hrs on 2025.01.23",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1050",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1737629698.pdf",
+  "time_str": "16:00",
+  "ut": 1737628200.0
+}

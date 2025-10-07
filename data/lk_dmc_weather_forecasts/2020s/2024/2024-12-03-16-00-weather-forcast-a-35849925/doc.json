@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-12-03-16-00-weather-forcast-a-35849925",
+  "num": "16-00-weather-forcast-at-1600-hrs-tamil",
+  "date_str": "2024-12-03",
+  "description": "Weather Forcast at 1600 hrs (Tamil)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1240",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Tamil_W20241203c__1733231757.pdf",
+  "time_str": "16:00",
+  "ut": 1733221800.0
+}

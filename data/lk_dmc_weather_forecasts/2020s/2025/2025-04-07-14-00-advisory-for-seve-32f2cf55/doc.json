@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-04-07-14-00-advisory-for-seve-32f2cf55",
+  "num": "14-00-advisory-for-severe-lightning",
+  "date_str": "2025-04-07",
+  "description": "Advisory for Severe Lightning",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=800",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1400_hrs_on_2025__1744016379.pdf",
+  "time_str": "14:00",
+  "ut": 1744014600.0
+}

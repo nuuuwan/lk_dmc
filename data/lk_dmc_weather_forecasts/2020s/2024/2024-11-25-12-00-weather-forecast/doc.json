@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-11-25-12-00-weather-forecast",
+  "num": "12-00-weather-forecast",
+  "date_str": "2024-11-25",
+  "description": "Weather Forecast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1310",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1200hrs_on_2024__1732518197.pdf",
+  "time_str": "12:00",
+  "ut": 1732516200.0
+}

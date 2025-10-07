@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-10-22-12-00-weather-forcast",
+  "num": "12-00-weather-forcast",
+  "date_str": "2023-10-22",
+  "description": "Weather Forcast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2960",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repor_at_1200hrs_on_2023__1697956544.pdf",
+  "time_str": "12:00",
+  "ut": 1697956200.0
+}

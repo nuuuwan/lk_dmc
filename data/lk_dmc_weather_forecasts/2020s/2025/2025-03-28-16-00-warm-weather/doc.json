@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-03-28-16-00-warm-weather",
+  "num": "16-00-warm-weather",
+  "date_str": "2025-03-28",
+  "description": "Warm Weather",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=840",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_(Warm_Weather_Advisory)__1743163079.pdf",
+  "time_str": "16:00",
+  "ut": 1743157800.0
+}

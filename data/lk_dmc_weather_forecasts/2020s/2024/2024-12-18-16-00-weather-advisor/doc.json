@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-12-18-16-00-weather-advisor",
+  "num": "16-00-weather-advisor",
+  "date_str": "2024-12-18",
+  "description": "Weather Advisor",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1180",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Advisory_For_the_Northern_and_Bay_of_Bengal_sea_areas_at_1600hrs_on_2024__1734519868.pdf",
+  "time_str": "16:00",
+  "ut": 1734517800.0
+}

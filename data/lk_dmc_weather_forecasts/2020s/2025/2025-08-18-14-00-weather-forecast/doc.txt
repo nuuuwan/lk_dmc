@@ -1,0 +1,67 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2025 අග ෝසතු මාස 19 දින්‍යය සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 අග ෝසතු මාස 18 දින්‍ය ප.ව. 2.00 ට නිකුත්කාරන්‍ය ලංදී.
+
+බස්නාහිර ස සබරගමුව පළාත්වලත් ම නුවර, නුවරඑළිය, ගාල්ල ස මාතර දිස්ික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇති හේ.
+
+දිවයිහන් හසසු ප්‍රහේශවල ප්‍රධ්‍ාන වශහයන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+මධ්‍යම කඳුකරහේ බටහිර බැවුම් ප්‍රහේශවලත් උතුරු, උතුරු-මැද ස වයඹ පළාත්වලත් ිකුණාමලය ස ම්බන්හතාට දිස්ික්කවලත් විටින් විට මන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය ැක.
+
+WEATHER FORECAST FOR 19 August 2025
+
+Issued at 2.00 p.m. on 18 August 2025
+
+Several spells of light showers will occur in the Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Mainly fair weather will prevail over elsewhere of the island.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central and North-western provinces and in Trincomalee and Hambantota districts.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍රගේශ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 අග ෝසතු මාස 18 දින්‍ය ප.ව. 2.00 ට නිකුත් කාරන්‍ය ලංදී.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 2.00 p.m. on 18 August 2025
+
+වැසි තත්ත්වය: හකාළඹ සිට ගාල්ල ර ා මාතර දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල ස්ථාන ස්වල්පයක වැසි ඇති විය ැක. සුළඟ: සුළං නිරිත සිට බස්නාහිර දක්වා වන දිශාවලින් මා එන අතර සුළහේ හේගය පැ.කි.මී. (25-35) පමණ හේ.
+
+ලාවත සිට පුත්තලම ර ා මන්නාරම දක්වා ස ම්බන්හතාට සිට හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. (50-55) පමණ දක්වා ඉ ළ යා ැක.
+
+මන්නාරම සිට කන්කසන්තුරය ස මුලතිේ ර ා ිකුණාමලය දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. 45 පමණ දක්වා ඉ ළ යා ැක. මුහුගේ සතවභ වය:
+
+ලාවත සිට පුත්තලම ර ා මන්නාරම දක්වා ස ම්බන්හතාට සිට හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට රළු විය ැක.
+
+මන්නාරම සිට කන්කසන්තුරය ස මුලතිේ ර ා ිකුණාමලය දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට මඳ වශහයන් රළු හේ.
+
+Condition of Rain: Showers may occur at a few places in the sea areas off the coast extending from Colombo to Matara via Galle. Winds: Winds will be south-westerly to westerly and wind speed will be (25-35) kmph.
+
+Wind speed can increase up to (50-55) kmph at times in the sea areas off the coast extending from Chilaw to Mannar via Puttalam and from Pottuvil to Hambantota.
+
+Wind speed can increase up to 45 kmph at times in the sea areas off the coast extending from Mannar to Trincomalee via Kankasanthurai and Mullaittivu.
+
+State of Sea: The sea areas off the coast extending from Chilaw to Mannar via Puttalam and from Pottuvil to Hambantota may be rough at times.
+
+The sea areas off the coast extending from Mannar to Trincomalee via Kankasanthurai and Mullaittivu will be fairly rough at times.

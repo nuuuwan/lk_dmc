@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-05-22-09-30-warning-for-heavy-0e7d1834",
+  "num": "09-30-warning-for-heavy-rain-and-strong-wind",
+  "date_str": "2024-05-22",
+  "description": "Warning for Heavy Rain and Strong wind",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2130",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Heavy_Rain_and_Strong_wind_at_0930hrs_on_22__1716353384.pdf",
+  "time_str": "09:30",
+  "ut": 1716350400.0
+}

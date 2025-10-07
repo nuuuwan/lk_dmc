@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-08-17-13-00-warning-for-heavy-rain",
+  "num": "13-00-warning-for-heavy-rain",
+  "date_str": "2024-08-17",
+  "description": "Warning for Heavy Rain,",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1700",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Heavy_Rain_at_1300hrs_on_17__1723880621.pdf",
+  "time_str": "13:00",
+  "ut": 1723879800.0
+}

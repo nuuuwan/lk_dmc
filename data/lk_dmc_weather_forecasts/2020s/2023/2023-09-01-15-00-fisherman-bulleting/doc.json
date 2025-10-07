@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-09-01-15-00-fisherman-bulleting",
+  "num": "15-00-fisherman-bulleting",
+  "date_str": "2023-09-01",
+  "description": "Fisherman Bulleting",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3140",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/FISHERMEN_BULLETIN_FOR_STRONG_WINDS_AND_ROUGH_SEAS_at_1500_hrs_on_2023__1693561480.pdf",
+  "time_str": "15:00",
+  "ut": 1693560600.0
+}

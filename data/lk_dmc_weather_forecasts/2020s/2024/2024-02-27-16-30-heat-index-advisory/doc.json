@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-02-27-16-30-heat-index-advisory",
+  "num": "16-30-heat-index-advisory",
+  "date_str": "2024-02-27",
+  "description": "Heat Index Advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2510",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Heat_Index_Report_at_1630hrs_on_2024__1709031923.pdf",
+  "time_str": "16:30",
+  "ut": 1709031600.0
+}

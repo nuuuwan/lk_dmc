@@ -1,0 +1,69 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2025 සැප්තැම්බර් මාස 10 දින්‍යය සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 සැප්තැම්බර් මාස 09 දින්‍ය ප.ව. 2.00 ට නිකුත්කාරන්‍ය ලංදී.
+
+බස්නාහිර, සබරගමුව ස වයඹ පළාත්වලත් ගාල්ල, මාතර, ම නුවර ස නුවරඑළිය දිස්ික්කවලත් වැසි වාර කිහිපයක් ඇතිහේ. ඌව, උතුරු-මැද, නැහගනහිර පළාත්වලත් ස මුලතිේ දිස්ික්කහේත් ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමාකා තද වැසි ඇතිවිය ැක.
+
+ගිගුරුම් සහිත වැසි සමාග ඇතිවිය හාැකි ත වකා ලිකා තද සුළ වලින් සහා අකුණු මාඟින් සිදු වන්‍ය අන්‍යතුරු අවමා කාර ගැනීමාට අවශ්‍ පියවර ගන්න්‍ය ලලංස ජන්‍යත වලගන් කා රුණිකාව ඉල්ලං සිටිනු ලංැලේ.
+
+WEATHER FORECAST FOR 10 SEPTEMBER 2025
+
+Issued at 2.00 p.m. on 09 SEPTEMBER 2025
+
+Several spells of showers will occur in Western, Sabaragamuwa and Northwestern provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers will occur at several places in Uva, Northcentral, and Eastern provinces and in Mullaitivu district after 1.00 p.m. Fairly heavy falls above 50 mm are likely at some places.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍රලේශ්‍ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 සැප්තැම්බර් මාස 09 දින්‍ය ප.ව. 2.00 ට නිකුත් කාරන්‍ය ලංදී.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 2.00 p.m. on 09 September 2025
+
+වැසි තත්ත්වය: පුත්තලම සිට හකාළඹ ස ගාල්ල ර ා මාතර දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල තැනින් තැන වැසි ඇති විය ැක.
+
+සුළඟ: හකාළඹ සිට ගාල්ල ස ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළං බස්නාහිර සිට නිරිත දක්වා දිශාවලින් මා එයි. සුළහේ හේගය පැ.කි.මී. (30-40) පමණ වන අතර විටින් විට පැ.කි.මී. 50 දක්වා වැඩි විය ැක. දිවයින වටා වන හසසු මුහුදු ප්‍රහේශවල සුළං නිරිත හදසින් හ ෝ නිශ්ිත දිශාවකින් හතාරව මන අතර සුළහේ හේගය පැ.කි.මී. (20-30) පමණ හේ. මුහුලේ ස්වභ වය:
+
+හකාළඹ සිට ගාල්ල ස ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු විය ැක.
+
+ගිගුරුම් සහිත වැසි ඇති වන්‍ය විට එමා මුහුදු ප්‍රලේශ්‍වලං ත වකා ලිකාව තද සුළ ඇති විය හාැකි අතර එවිට එමා මුහුදු ප්‍රලේශ්‍ ත වකා ලිකාව ඉත රළු විය හාැකා.
+
+Condition of Rain:
+
+Showers may occur at several places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle.
+
+Winds:
+
+Winds will be westerly to south-westerly in the sea areas off the coasts extending from Colombo to Pottuvil via Galle and Hambantota. Wind speed will be (30-40) kmph and can be increase up to 50 kmph at times.
+
+Winds will be south-westerly or variable in direction and wind speed will be (20-30) kmph in the other sea areas around the island.
+
+State of Sea:
+
+The sea areas off the coast extending from Colombo to Pottuvil via Galle and Hambantota may be fairly rough at times.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

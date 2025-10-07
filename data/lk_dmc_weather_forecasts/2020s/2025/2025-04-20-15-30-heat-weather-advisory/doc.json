@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-04-20-15-30-heat-weather-advisory",
+  "num": "15-30-heat-weather-advisory",
+  "date_str": "2025-04-20",
+  "description": "Heat Weather Advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=740",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Heat_Weather_Advisory_at_1530hrs_on_2025__1745144720.pdf",
+  "time_str": "15:30",
+  "ut": 1745143200.0
+}

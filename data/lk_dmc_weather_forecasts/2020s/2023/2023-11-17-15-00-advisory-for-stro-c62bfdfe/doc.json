@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-11-17-15-00-advisory-for-stro-c62bfdfe",
+  "num": "15-00-advisory-for-strong-winds-and-rough-seas",
+  "date_str": "2023-11-17",
+  "description": "Advisory for Strong winds and Rough seas",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2860",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_report_at_1500hrs_on_2023__1700213303.pdf",
+  "time_str": "15:00",
+  "ut": 1700213400.0
+}

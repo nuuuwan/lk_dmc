@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-09-26-07-55-weather-forecast-update",
+  "num": "07-55-weather-forecast-update",
+  "date_str": "2025-09-26",
+  "description": "Weather Forecast (Update)",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=50",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530_hrs_on_2025__1758854173.pdf",
+  "time_str": "07:55",
+  "ut": 1758853500.0
+}

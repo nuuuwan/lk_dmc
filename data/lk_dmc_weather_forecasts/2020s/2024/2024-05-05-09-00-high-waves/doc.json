@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-05-05-09-00-high-waves",
+  "num": "09-00-high-waves",
+  "date_str": "2024-05-05",
+  "description": "High waves",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2220",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Advisory_for_high_waves__1714881555.pdf",
+  "time_str": "09:00",
+  "ut": 1714879800.0
+}

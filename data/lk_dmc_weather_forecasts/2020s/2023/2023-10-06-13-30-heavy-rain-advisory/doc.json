@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-10-06-13-30-heavy-rain-advisory",
+  "num": "13-30-heavy-rain-advisory",
+  "date_str": "2023-10-06",
+  "description": "Heavy rain advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3020",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Heavy_rain_advisory_1330_hrs__1696580690.pdf",
+  "time_str": "13:30",
+  "ut": 1696579200.0
+}

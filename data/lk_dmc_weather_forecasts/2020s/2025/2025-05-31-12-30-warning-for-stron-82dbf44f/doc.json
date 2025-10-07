@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-05-31-12-30-warning-for-stron-82dbf44f",
+  "num": "12-30-warning-for-strong-winds-and-rough-seas",
+  "date_str": "2025-05-31",
+  "description": "Warning for strong winds and rough seas",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=540",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/WWO2025053101S__1748676101.pdf",
+  "time_str": "12:30",
+  "ut": 1748674800.0
+}

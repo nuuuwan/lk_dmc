@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-06-30-16-00-weather-forcast",
+  "num": "16-00-weather-forcast",
+  "date_str": "2024-06-30",
+  "description": "Weather Forcast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1920",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/W20240630c__1719748702.pdf",
+  "time_str": "16:00",
+  "ut": 1719743400.0
+}

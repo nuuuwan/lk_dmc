@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-09-03-07-00-weather-forecast--872cdb51",
+  "num": "07-00-weather-forecast-for-multi-day-boats",
+  "date_str": "2023-09-03",
+  "description": "Weather forecast for multi day boats",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3140",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_for_Multiday_boats__1693708457.pdf",
+  "time_str": "07:00",
+  "ut": 1693704600.0
+}

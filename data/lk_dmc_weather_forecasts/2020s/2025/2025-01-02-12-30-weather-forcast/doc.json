@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-01-02-12-30-weather-forcast",
+  "num": "12-30-weather-forcast",
+  "date_str": "2025-01-02",
+  "description": "Weather Forcast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=1130",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1230hrs_on_2025__1735802200.pdf",
+  "time_str": "12:30",
+  "ut": 1735801200.0
+}

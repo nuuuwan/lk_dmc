@@ -1,0 +1,51 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය 2025 සැප්තැම්බර් මස 27 දින්‍ සවස 04.00 ට නිකුත් කරන්‍ ලදි.
+
+බස්නාහිර, සබරගමුව ස වයඹ පළාත්වලත් ගාල්ල, මාතර ම නුවර ස නුවරඑළිය දිස්ික්කවලත් වැසි වාර කිහිපයක් ඇති වේ. ඌව පළාහත්ත් අම්පාර දිස්ත්‍රික්කවේත් ප.ව. 2.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක.
+
+මධ්‍යම කඳුකරහේ බටහිර බැවුම් ප්‍රහේශවලත් උතුරු, උතුරු-මැද, වයඹ ස මධ්‍යම පළාත්වලත් ිකුණාමලය ස ම්බන්හතාට දිස්ික්කවලත් විටින් විට මන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය ැක.
+
+තද සුළං මඟින් සිදු විය හැකි අන්‍තුර, අවම කර ගැනීමට අවශ්‍ය පියවර ගන්න්‍ා ලලස ජන්‍තාවලගන් කාරුණිකව ඉල්ලා සිටිනු ලැලේ.
+
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+
+Issued at 04.00 p.m. on 27 September 2025
+
+Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers are likely at a few places in Uva province and in Ampara district after 2.00 p.m.
+
+Strong winds of about (40-50) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by strong winds.
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+Weather Forecast for Main Cities Date : 28-Sep-2025
+
+City Temperature (0C) Relative Humidity (%) Weather Max Min Max Min Anuradhapura 34 24 90 60 Mainly fair
+
+Batticaloa 35 26 85 55 Showers or thundershowers are likely after 2.00p.m Colombo 31 25 95 75 Several spells of showers Galle 29 27 90 80 Several spells of showers Jaffna 31 27 85 70 Mainly fair Kandy 29 22 95 80 Several spells of showers Nuwara-Eliya 19 15 95 85 Several spells of light showers Ratnapura 33 23 95 85 Several spells of showers Trincomalee 36 26 90 55 Mainly fair Mannar 32 27 85 70 Mainly fair ප්‍රධාන නගර සදහා කාලගුණ අනාවැකිය දිනය : 2025-09-28
+
+නගරය උෂ්ණත්වය(සස. අංශක) සාසේක්ෂ ආර්ද්‍රතාවය(%) කාලගුණය උපරිම අවම උපරිම අවම අනුරාධපුරය 34 24 90 60 ප්‍රධාන වශවයන් වැසි රහිත මඩකලපුව 35 26 85 55 ස්ත්‍වස්ත්‍ 2.00න් පසුව වැසි වහෝ ගිගුරුම් ස්ත්‍හිත වැසි ඇති විය හැක වකාළඹ 31 25 95 75 වැසි වාර කිහිපයක් ගාල්ල 29 27 90 80 වැසි වාර කිහිපයක් යාපනය 31 27 85 70 ප්‍රධාන වශවයන් වැසි රහිත මහනුවර 29 22 95 80 වැසි වාර කිහිපයක් නුවරඑළිය 19 15 95 85 සිහින් වැසි වාර කිහිපයක් රත්නපුරය 33 23 95 85 වැසි වාර කිහිපයක් ිකුණාමලය 36 26 90 55 ප්‍රධාන වශවයන් වැසි රහිත මන්නාරම 32 27 85 70 ප්‍රධාන වශවයන් වැසි රහිත
+
+பிரதான நகரங்களுக்கான வானிலை முன்னறிவித்தல் திகதி : 2025-09-28
+
+நகரம் வவப்பநிலை (0C) சாரீரப்பதன் (%) வானிலை உச்ச குலைந்த உச்ச குலைந்த அனுராதபுரம் 34 24 90 60 பிரதானமாக சீரான வானிலை
+
+மட்டக்களப்பு 35 26 85 55 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை பபய்யும் சாத்தியம் வகாழும்பு 31 25 95 75 அடிக்கடி மலை பபய்யும் காலி 29 27 90 80 அடிக்கடி மலை பபய்யும் யாழ்ப்பாணம் 31 27 85 70 பிரதானமாக சீரான வானிலை கண்டி 29 22 95 80 அடிக்கடி மலை பபய்யும் நுவவரலியா 19 15 95 85 அடிக்கடி சிறிதளவில் மலை பபய்யும் இரத்தினபுரி 33 23 95 85 அடிக்கடி மலை பபய்யும் திருககாணமலை 36 26 90 55 பிரதானமாக சீரான வானிலை மன்னார் 32 27 85 70 பிரதானமாக சீரான வானிலை

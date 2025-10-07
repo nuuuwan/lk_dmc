@@ -1,0 +1,69 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2025 අග ෝසතු මාස 01 දින්‍යය සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 ජුලි මාස 31 දින්‍ය ප.ව. 2.00 ට නිකුත්කාරන්‍ය ලංදී.
+
+ඉදිරි දින්‍ය කිහිපගේදී උුරු, උුරුමාැද, ඌව සහා න්‍යැග න්‍යහිර පළ ත්වලං සවසත කා ලංගේ ගිගුරුම් සහිත වැසි ඇතිවීමා සදහා හිතකාර ව යුග ෝලීය තත්ත්වයන් ඇතිගවමින් පවතී.
+
+උතුරු, උතුරුමැද, මධ්‍යම, ඌව ස නැහෙනහිර පළාත්වල ප.ව. 1.00 න් පමණ පසුව තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. හමම ප්‍රහේශවල ඇතැම් ස්ථානවල මි.මී. 75 කා පමාණ තරමාකා තද වැසි ඇතිවිය ැක.
+
+බස්නාහිර, සබරෙමුව ස වයඹ පළාත්වලත් ොල්ල ස මාතර දිස්ික්කවලත් වැසි ස්වල්පයක් ඇති විය ැක.
+
+ගිගුරුම් සහිත වැසි සමා ඇතිවිය හාැකි ත වකා ලිකා තද සුළ වලින් සහා අකුණු මාඟින් සිදු වන්‍ය අන්‍යුරු අවමා කාර ැනීමාට අවශ්‍ පියවර න්න්‍ය ගලංස ජන්‍යත වග න් කා රුණිකාව ඉල්ලං සිටිනු ලංැගේ.
+
+WEATHER FORECAST FOR 01 August 2025
+
+Issued at 2.00 p.m. on 31 July 2025
+
+Atmospheric conditions are getting favorable for evening thundershowers in the Northern, North-Central, Uva and Eastern provinces during the next few days.
+
+Showers or thundershowers will occur at several places in Northern, North-Central, Central, Uva and Eastern provinces after 1.00 p.m. Fairly heavy falls about 75 mm are likely at some places in these areas.
+
+A few showers may occur in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍රගේශ්‍ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 ජුලි මාස 31 දින්‍ය ප.ව. 2.00 ට නිකුත් කාරන්‍ය ලංදී.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 2.00 p.m. on 31 July 2025
+
+වැසි තත්ත්වය: හකාළඹ සිට ොල්ල ර ා මාතර දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සිහින් වැසි ඇති විය ැක.
+
+සුළඟ: දිවයින වටා වන මුහුදු ප්‍රහේශවල සුළං බස්නාහිර සිට නිරිත දක්වා වන දිශාවලින් මා එන අතර සුළහේ හේෙය පැ.කි.මී. (30-40) පමණ හේ.
+
+හකාළඹ සිට ොල්ල ර ා ම්බන්හතාට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේෙය විටින් විට පැ.කි.මී. (50-55) පමණ දක්වා ඉ ළ යා ැක. මුහුගේ සතවභ වය:
+
+හකාළඹ සිට ොල්ල ර ා ම්බන්හතාට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට රළු හේ.
+
+හකාළඹ සිට ොල්ල ර ා මාතර දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල මුහුදු රළ උස මීටර් (2.5 – 3.0) ක් පමණ ඉ ළ යාහම් ැකියාවක් පවතී. (හමය හොඩබිමට එන රළ උස හනාහේ).
+
+Condition of Rain: Light showers may occur in the sea areas off the coast extending from Colombo to Matara via Galle.
+
+Winds: Winds will be westerly to south-westerly and wind speed will be (30-40) kmph.
+
+Wind speed can increase up to (50-55) kmph at times in the sea areas off the coast extending from Colombo to Hambantota via Galle. State of Sea: The sea areas off the coast extending from Colombo to Hambantota via Galle will be rough at times.
+
+The wave height may increase (about 2.5 – 3.0 m) in the sea areas off the coast extending from Colombo to Matara via Galle (this is not for land area).

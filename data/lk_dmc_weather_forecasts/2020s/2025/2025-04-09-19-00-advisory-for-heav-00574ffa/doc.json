@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2025-04-09-19-00-advisory-for-heav-00574ffa",
+  "num": "19-00-advisory-for-heavy-rain-strong-winds-and-rough-seas",
+  "date_str": "2025-04-09",
+  "description": "Advisory for heavy rain, strong winds and rough seas",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=790",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_heavy_rain,_strong_winds_and_rough_seas_at_1900_hrs_on_2025__1744206605.pdf",
+  "time_str": "19:00",
+  "ut": 1744205400.0
+}

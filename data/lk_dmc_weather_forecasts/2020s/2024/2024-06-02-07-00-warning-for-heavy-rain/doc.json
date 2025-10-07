@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2024-06-02-07-00-warning-for-heavy-rain",
+  "num": "07-00-warning-for-heavy-rain",
+  "date_str": "2024-06-02",
+  "description": "Warning for Heavy Rain",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=2060",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Heavy_Rain_at_0700hrs_on_2024__1717294213.pdf",
+  "time_str": "07:00",
+  "ut": 1717291800.0
+}

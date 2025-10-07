@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-10-08-14-00-advisory-for-lightning",
+  "num": "14-00-advisory-for-lightning",
+  "date_str": "2023-10-08",
+  "description": "Advisory for lightning",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3020",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Lightning_Advisory__1696755348.pdf",
+  "time_str": "14:00",
+  "ut": 1696753800.0
+}

@@ -1,0 +1,69 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2025 ජුලි මාස 27 දින්‍යය සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 ජුලි මාස 26 දින්‍ය ප.ව. 2.00 ට නිකුත්කාරන්‍ය ලංදී.
+
+බස්නාහිර, සබරගමුව, මධ්යම ස වයඹ පළාත්වලත් ගාල්ල ස මාතර දිස්ත්රික්කවලත් වැසි වාර කිහිපයක් ඇතිහේ.
+
+මධ්‍යම කඳුකරහේ බටහිර බැවුම් ප්‍රහේශවලත් උතුරු ස උතුරු-මැද පළාත්වලත් පුත්තලම, ත්‍රිකුණාමලය, ස ම්බන්හතාට දිස්ත්‍රික්කවලත් විටින් විට මන පැ.කි.මී. 50 ක පමණ තරමක තද සුළං ඇතිවිය ැක.
+
+WEATHER FORECAST FOR 27 JULY 2025
+
+Issued at 2.00 p.m. on 26 July 2025
+
+Several spells of showers will occur in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts.
+
+Fairly strong winds of about 50 kmph can be expected at times over Western slopes of the central hills and in Northern and North-central provinces and in Puttalam, Trincomalee, and Hambantota districts.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍රදේශ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 ජුලි මාස 26 දින්‍ය ප.ව. 2.00 ට නිකුත් කාරන්‍ය ලංදී.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 2.00 p.m. on 26 July 2025
+
+වැසි තත්ත්වය: පුත්තලම සිට හකාළඹ ස ගාල්ල ර ා මාතර දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල විටින් විට වැසි ඇති හේ.
+
+සුළඟ: දිවයින වටා වන මුහුදු ප්‍රහේශවල සුළං බස්නාහිර සිට නිරිත දක්වා වන දිශාවලින් මා එන අතර සුළහේ හේගය පැ.කි.මී. (35-45) පමණ හේ.
+
+කල්ිටිය සිට මන්නාරම ර ා කන්කසන්තුරය දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. 60 දක්වා ඉ ළ යා ැක.
+
+ම්බන්හතාට සිට හපාතුවිල් දක්වා ස කන්කසන්තුරය සිට මුලතිේ ර ා වාකහර් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. (50-55) පමණ දක්වා ඉ ළ යා ැක. මුහුදේ ස්වභ වය:
+
+කාල්පිටිය සිට මාන්න්‍ය රමා හාරහා කාන්කාසන්ුරය දක්ව දවරළට ඔබ්දෙන් වන්‍ය මුහුදු ප්‍රදේශ විටින් විට රළු දේ. දමාමා මුහුදු ප්‍රදේශවලං ය ත්‍ර කාරන්‍ය ධීවර සහා න්‍ය විකා ප්‍රජා ව අවධා න්‍යදයන් කාටයුු කාරන්‍ය දමාන් කා රුණිකාව ඉල්පලං සිටිනු ලංැදබ්.
+
+ම්බන්හතාට සිට හපාතුවිල් දක්වා ස කන්කසන්තුරය සිට මුලතිේ ර ා වාකහර් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු සිට රළු දක්වා විය ැක.
+
+Condition of Rain: Showers will occur at times in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle.
+
+Winds: Winds will be westerly to south-westerly and wind speed will be (35-45) kmph.
+
+Wind speed can increase up to 60 kmph at times in the sea areas off the coast extending from Kalpitiya to Kankasanthurai via Mannar.
+
+Wind speed can increase up to (50-55) kmph at times in the sea areas off the coast extending from Hambantota to Pottuvil and from Kankasanthurai to Vakarai via Mullaittivu.
+
+State of Sea:
+
+The sea areas off the coast extending from Kalpitiya to Kankasanthurai via Mannar will be rough at times. The naval and fishing communities engaged in fishing and naval activities in these sea areas are requested to be vigilant in this regard.
+
+The sea areas off the coast extending from Hambantota to Pottuvil and from Kankasanthurai to Vakarai via Mullaittivu may be fairly rough to rough at times.
