@@ -1,18 +1,18 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **8,136** documents (**5.9 GB**).
+**4** datasets, with **8,136** documents (**6.9 GB**).
 
 ## 001 🌦️ Dmc Situation Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_13:04:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_13:31:39-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports)
 
 Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.
 
-- [**4,280** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**2.3 GB**), from **2018-01-07** to **2025-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,280** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**2.8 GB**), from **2018-01-07** to **2025-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
-- In **JSON**, **PDF** (81%), **TXT** (81%) & **🤗 Hugging Face** (81%)
+- In **JSON**, **PDF** (98%), **TXT** (98%) & **🤗 Hugging Face** (98%)
 
 - In **English**
 
@@ -22,15 +22,15 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 
 ## 002 ☔️ Dmc Weather Forecasts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_13:04:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_13:32:15-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**3,273** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**3.1 GB**), from **2023-06-30** to **2025-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,273** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**3.7 GB**), from **2023-06-30** to **2025-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
-- In **JSON**, **PDF** (74%), **TXT** (74%) & **🤗 Hugging Face** (74%)
+- In **JSON**, **PDF** (93%), **TXT** (93%) & **🤗 Hugging Face** (93%)
 
 - In **English**
 
@@ -40,7 +40,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 003 💧 Dmc River Water Level And Flood Warnings
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_12:39:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_13:06:19-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
@@ -58,7 +58,7 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 
 ## 004 🗻 Dmc Landslide Warnings
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_12:40:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_13:08:10-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings)
 
