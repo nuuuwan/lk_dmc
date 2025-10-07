@@ -1,0 +1,97 @@
+Rainfall amount (mm): Light: 00-12.50, Light to moderate: 12.50-25, moderate: 25-50, Fairly Heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) :සිහින් වැසි:00-12.50, සිහින් හ ෝ මද වැසි:12.50-25, මද වැසි:25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150,ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+s 0
+
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අනාවැකිය 2023 අග ෝස්තු මස 22 දින සවස 04.00 ට නිකුත් කරන ලදි
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ික්කවලත් වැසි ස්වල්පයක් ඇතිවේ.
+
+මධ්‍යම, ඌව සහ නැවගනහිර පළාත්වලත් මුලතිවු දිස්ික්කවේත් ස්ථාන ස්වල්පයක සවස් කාලවේදී වහෝ රාත්‍රී කාලවේදී වැසි වහෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+දිවයිවේ වසසු ප්‍රවේශවල ප්‍රධ්‍ාන වශවයේ වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+උතුරු-මැද සහ වයඹ පළාත්වලත් හම්බේවතාට දිස්ික්කවේත් විටිේ විට හමන පැ.කි.මී. (40-45) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+
+Issued at 04.00 p.m. on 22 August 2023
+
+A few showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Central, Uva and Eastern provinces and in Mullaitivu district during the evening or night.
+
+Mainly fair weather will prevail elsewhere over the Island.
+
+Fairly strong winds about (40-45) kmph can be expected at times in North-Central and North-Western provinces, and in Hambantota district.
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අනාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විද්‍යා මධ්‍යස්ථානයේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+Rainfall amount (mm): Light: 00-12.50, Light to moderate: 12.50-25, moderate: 25-50, Fairly Heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) :සිහින් වැසි:00-12.50, සිහින් හ ෝ මද වැසි:12.50-25, මද වැසි:25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150,ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+Weather Forecast for Main Cities Date : 23-Aug-2023
+
+City
+
+Temperature (0C) Relative Humidity (%) Weather Max Min Max Min
+
+Anuradhapura 37 26 85 40 Mainly fair Batticaloa 34 27 85 60 Mainly fair
+
+Colombo 32 27 80 65 A few showers Galle 30 27 85 75 A few showers
+
+Jaffna 34 27 80 60 Showers or thundershowers are likely after 2.00p.m Kandy 33 23 85 55 A few showers
+
+Nuwara-Eliya 21 14 95 70 Showers or thundershowers are likely after 4.00p.m Ratnapura 34 25 85 60 A few showers
+
+Trincomalee 37 26 80 50 Showers or thundershowers are likely after 4.00p.m Mannar 32 27 80 65 Mainly fair ප්‍රධාන න ර ස්දහා කාලගුණ අනාවැකිය 2023-08-23
+
+න රය
+
+උෂතණත්වය(ගස්. අංශක) ස්ාගේක්ෂ ආර්ද්‍රතාවය(%) කාලගුණය උපරිම අවම උපරිම අවම
+
+අනුරාධ්‍පුරය 37 26 85 40 ප්‍රධ්‍ාන වශවයේ වැසි රහිත මඩකලපුව 34 27 85 60 ප්‍රධ්‍ාන වශවයේ වැසි රහිත
+
+වකාළඹ 32 27 80 65 වැසි ස්වල්පයක් ගාල්ල 30 27 85 75 වැසි ස්වල්පයක්
+
+යාපනය 34 27 80 60 සවස 2.00ේ පසුව වැසි වහෝ ගිගුරුම් සහිත වැසි ඇති විය හැක මහනුවර 33 23 85 55 වැසි ස්වල්පයක්
+
+නුවරඑළිය 21 14 95 70 සවස 4.00ේ පසුව වැසි වහෝ ගිගුරුම් සහිත වැසි ඇති විය හැක රත්නපුරය 34 25 85 60 වැසි ස්වල්පයක්
+
+ිකුණාමලය 37 26 80 50 සවස 4.00ේ පසුව වැසි වහෝ ගිගුරුම් සහිත වැසි ඇති විය හැක මේනාරම 32 27 80 65 ප්‍රධ්‍ාන වශවයේ වැසි රහිත
+
+பிரதான நகரங்களுக்கான வானிலை முன்னறிவித்தை் திகதி : 2023-08-23
+
+நகரம்
+
+வவப்பநிலை (0C) சாரீரப்பதன் (%)
+
+வானிலை உச்ச குலைந்த உச்ச குலைந்த
+
+அனுராதபுரம் 37 26 85 40 பிரதானமாக சீரான வானிலை
+
+மட்டக்களப்பு 34 27 85 60 பிரதானமாக சீரான வானிலை
+
+வகாழும்பு 32 27 80 65 சிறிதளவிை் மலை பெய்யும்
+
+காலி 30 27 85 75 சிறிதளவிை் மலை பெய்யும்
+
+யாழ்ப்பாணம் 34 27 80 60 பி.ெ. 2.00 மணிக்குெ் பின்னர் மலை அை்ைது இடியுடன் கூடிய மலை பெய்யும் சாத்தியம்
+
+கண்டி 33 23 85 55 சிறிதளவிை் மலை பெய்யும்
+
+நுவவரலியா 21 14 95 70 பி.ெ. 4.00 மணிக்குெ் பின்னர் மலை அை்ைது இடியுடன் கூடிய மலை பெய்யும் சாத்தியம்
+
+இரத்தினபுரி 34 25 85 60 சிறிதளவிை் மலை பெய்யும்
+
+திருககாணமலை 37 26 80 50 பி.ெ. 4.00 மணிக்குெ் பின்னர் மலை அை்ைது இடியுடன் கூடிய மலை பெய்யும் சாத்தியம் மன்னார் 32 27 80 65 பிரதானமாக சீரான வானிலை

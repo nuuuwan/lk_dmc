@@ -1,0 +1,51 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2023 අග ෝස්තු මස 05 දින සඳහා කාලගුණ අනාවැකිය 2023 අග ෝස්තු මස 04 දින මධ්‍යහන 12.00 ට නිකුත්කරන ලදි. බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිවේ. ඌව සහ නැවගනහිර පළාත්වල සවස් කාලවේදී වහෝ රාත්‍රී කාලවේදී ස්ථාන ස්වල්පයක වැසි වහෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+දිවයිවන් වසසු ප්‍රවේශවල ප්‍රධාන වශවයන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+WEATHER FORECAST FOR 05 August 2023
+
+Issued at 12.00 noon on 04 August 2023
+
+Several spells of light showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva and Eastern provinces during the evening or night.
+
+Mainly fair weather will prevail elsewhere over the Island.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින වටා වන මුහුදු ප්‍රදේශ සඳහා කාලගුණ අනාවැකිය
+
+2023 අග ෝස්තු මස 04 දින මධ්‍යහන 12.00 ට නිකුත් කරන ලදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 04 August 2023
+
+වැසි තත්ත්වය: වකාළඹ සිට ගාල්ල හරහා මාතර දක්වා වවරළට ඔබ්වබන් වන මුහුදු ප්‍රවේශවල ස්ථාන ස්වල්පයක වැසි ඇති විය හැක.
+
+සුළඟ: සුළං නිරිත වදසින් හමා එන අතර සුළවේ වේගය පැ.කි.මී. (30-40) පමණ වේ. හම්බන්වතාට සිට වපාතුවිල් දක්වා සහ පුත්තලම සිට මන්නාරම සහ කන්කසන්තුරය හරහා ිකුණාමලය දක්වා වවරළට ඔබ්වබන් වන මුහුදු ප්‍රවේශවල සුළවේ වේගය විටින් විට පැ.කි.මී. (55-65) පමණ දක්වා වැඩි වේ. වසසු මුහුදු ප්‍රවේශවල සුළවේ වේගය විටින් විට පැ.කි.මී. (45-55) පමණ දක්වා වැඩි විය හැක. මුහුදේ ස්වභාවය:
+
+හම්බන්වතාට සිට වපාතුවිල් දක්වා සහ පුත්තලම සිට මන්නාරම සහ කන්කසන්තුරය හරහා ිකුණාමලය දක්වා වවරළට ඔබ්වබන් වන මුහුදු ප්‍රවේශ විටින් විට රළු වේ. වසසු මුහුදු ප්‍රවේශ විටින් විට තරමක් රළු විය හැක.
+
+Condition of Rain: Showers may occur at a few places in the sea areas off the coast extending from Colombo to Matara via Galle.
+
+Winds: Winds will be south-westerly and speed will be (30-40) kmph. Wind speed may increase up to (55-65) kmph at times in the sea areas off the coast extending from Hambantota to Pottuvil and the sea area off the coast extending from Puttalam to Trincomalee via Mannar and Kankasanthurai. Wind speed may increase up to (45-55) kmph at times in the other sea areas around the island. State of Sea: The sea areas off the coast extending from Hambantota to Pottuvil and the sea area off the coast extending from Puttalam to Trincomalee via Mannar and Kankasanthurai will be rough at times. The other sea areas around the island may fairly rough at times.
