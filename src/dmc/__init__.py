@@ -3,3 +3,4 @@
 
 from dmc.AbstractDMCPDFDoc import AbstractDMCPDFDoc
 from dmc.SituationReport import SituationReport
+from dmc.WeatherForecast import WeatherForecast
