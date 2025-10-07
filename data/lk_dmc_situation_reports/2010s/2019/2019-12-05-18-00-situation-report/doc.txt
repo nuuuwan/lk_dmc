@@ -1,0 +1,499 @@
+Page 1Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+දිස්ත්‍රික්කය மாவட்டம்
+
+District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp
+
+DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව
+
+FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpa
+
+sT Partiall
+
+y
+
+කුඩා හා මධය පරිමාණ වයාපාරික ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களி
+
+ன் சேதங்கள்;
+
+Small, Medium,
+
+Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල පහසුකම්
+
+වලට වූ හානි mbg;gilf; fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety
+
+Location
+
+s
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+Lunugala
+
+Landslide Risk
+
+2019.12.0219801
+
+21980
+
+Gallalla Tamil CollageVignashvaram Tamil Collage
+
+137158 Wallur Tamil Collage
+
+1981 Family houseRidimaliyaddaTree Fallen2019.12.0312112 Family houseBandarawelaHeavy Rain2019.12.039359935 Family houseSoranathotaHeavy Rain2019.12.032102210 Family houseHaputhaleLandslide2019.12.03124081240 Family house
+
+UvaparanagamaHeavy Rain2019.12.038171817 Kohilegama Safety
+
+Centre
+
+PassaraHeavy Rain2019.12.042111211 Hopton Day care
+
+Centre
+
+HalielaHeavy Rain2019.12.0318451811845 Moragolla Tamil
+
+Cpllage127479000044006127479Bibila9278Medagama11278Siyambalanduwa104210Monaragala151Buttala141Kataragama292341140000300012054161593000074007147533
+
+Koralaipattu2019.11.29159469
+
+Koralaipattu West2019.12.04736
+
+Koralaipattu south2019.11.2925226786
+
+Lightning 15
+
+Manmunai North2019.11.2621467192124298
+
+Pre School, Navatkudha East/ Saratha School, Navatkudah Eastkattankudy2019.11.291073841
+
+Manmunai pattu2019.11.2810763971212296 karbala mosque,
+
+arayampathi EastMonmunai south & EP2019.12.021134182
+
+Monmunai south West2019.12.03516
+
+12054
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Manmunai west2019.11.29
+
+Flood
+
+ආපදාව mdHj;jk; Disaster
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+ලේකම් - රාජ්‍ය පරිපාලන, ආපදා කළමනාකරණ හා පශු ස්ත්‍ම්පත් ස්ත්‍ංවර්ධන අමාතයාංශය / சேயலாளர், ச ாது நிர்வாக மற்றும் அனர்த்த முகாமமத்துவ அமமே்சு / Secretary, Ministry of Public Administration, Disaster Management & Livestock Developmentරාජ්‍ය පරිපාලන ස්ත්‍හ ආපදා කළමනාකරණ අමාතයාංශය ගරු අමාතයතුමාලේ පුද්ගලික ලේකම් /சகௌரவ பிரமைக்கு தனியார் சேயலாளர் ச ாது நிர்வாக மற்றும் அனர்த்த முகாமமத்துவ அமமே்ேர் / Private Secretary to the Hon. Minister of Public Administration & Disaster Management
+
+පළාත khfhzk; Province
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs;
+
+Remarks
+
+අතුරුදහ
+
+න්වූ පුද්ගලයි
+
+න් fhzhky;NghNdhH Missin
+
+g People
+
+ලවනත් හානි பிற ாதி ்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+පරිපාලන ප්‍රලද්ශය நிர்வாக ் பிரிவு
+
+Administrative purvie
+
+තත්ත්ව වාර්තාව - ශ්‍රී ලංකාව / epiyik mwpf;if - ,yq;if/ Situation Report- SriLanka දිනය /jpfjp / Date : 05th December 2019 at 1800hrs
+
+තුවාලවු පුද්ගලයි
+
+න් fhakile;NjhH
+
+Injured
+
+People
+
+#
+
+ආරම්භක දිනය
+
+mdu;j;jk; Muk;gpj;j jpfjp
+
+Date of commenced
+
+මිය යෑම් kuzq;fs; Deaths
+
+Neelagiri Temple
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+2
+
+ම ානරාගල nkhdwhfiy Moneragala
+
+Landslide
+
+Heavy Rain
+
+2019.11.30
+
+ඌව Cth khfhzk; Uva
+
+56
+
+1
+
+239
+
+බදුල්ල gJs;is Badulla
+
+BadullaHeavy Rain2019.12.03
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+5
+
+3
+
+ඩකලපුව kl;lf;fsg;G Batticaloa
+
+Page 2Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+Eravur pattu2019.12.02523159914192478
+
+Library building, Sivapuram,Savukkadi/ Community centre, thusunami houseing scheme, Thannamunai/ Mancholai Manimandapam,Eravur 04/ Vigneshwara Vidyalayam, Mavadivempu 01
+
+Porathivu pattu2019.12.021966549145127 Pre School,
+
+VeththuchenaiEravur pattuTown2019.12.042335778711669622614010122118301799
+
+4
+
+අම්පාර mk;ghiw Ampara
+
+KaraitivuHeavy Rain2019.11.2637144101
+
+3714400001010000Padavisripura2019.11.22/292132Seruwavila2019.11.30131Town & Gravets2019.12.02151ThampalakamamFlood2019.12.031515260001400000673822784010236218301799Musali47165Madhu56163Nanattan1444511515 RDS Building24777900000001515
+
+7
+
+මුලතිව් Ky;iyj;jPT Mulaitivu
+
+MaritimepattuFlash flood2019.11.25111
+
+1101000000008KandawalaiHeavy Rain2019.12.0277215
+
+PoonakaryFlood2019.12.04242
+
+792190000200000
+
+Vavuniya North13541023175
+
+Vengalacheddi kulam4514245145142
+
+180552000045003762175071551010047004812322019.11.301612019.12.01211Tree Fallen2019.12.011312019.12.014154
+
+2019.12.02292
+
+Lightning 2019.12.03141
+
+Tree Fallen151
+
+Lightning 121
+
+Cutting Failure5191
+
+Cutting Failure2019.11.30141
+
+Heavy Rain2019.12.01151
+
+Tree Fallen2019.12.01141
+
+2019.11.30151
+
+2019.12.01392
+
+Lightning 281
+
+Heavy Rain151
+
+DehiovitaFire2019.12.0331013112400002100000
+
+2019.11.30 න්නාර kd;dhH Mannar6
+
+කිලිමනාච්චිය fpspnehr;rp Killinochchi
+
+ස්ත්‍බරගමුව පලාත rg;ufKt Sabaragamuwa
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+Aranayaka
+
+Warakapola
+
+Cutting Failure
+
+Flood
+
+GaligamuwaTree Fallen
+
+10
+
+කෑගල්ල Nffhiy Kegalle
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Bulathkohupitiya2019.12.02
+
+5
+
+ත්‍රීකුණා ලය jp.kiy Trincomalee
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+Heavy Rain
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Cutting FailureKegalle
+
+Ruwanwella2019.11.30
+
+Heavy Rain
+
+නැමගනහිර පලාත fpof;F Eastern
+
+උතුරු පලාත tl khfhzk; Northen
+
+9වව්ියාව/tTdpah/ VavuniyaFlood2019.12.05
+
+Page 3Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+GodakawelaCutting Failure2019.12.01121
+
+KahawattaHeavy Rain2019.12.01/02104810
+
+115000001100000
+
+42174000032000002019.11.3041942019.12.011412019.12.0442042019.11.301412019.12.0115112019.12.031512019.12.042922019.11.30252Land Slide2019.12.013821High Wind2019.11.29141Cutting Failure2019.12.031922019.12.011312019.11.30123452019.12.0352052019.11.26131Cutting Failure2019.12.012821Risk of rolling 2019.12.041870
+
+PathahewahetaHeavy Rain2019.11.301244141
+
+AkuranaCutting Failure2019.12.01161HatharaliyaddaCutting Failure2019.12.01291PasbagekoraleHeavy Rain2019.12.02363Cutting Failure2019.12.02151High Wind2019.12.022822019.12.022522019.12.03131GagawatakoraleCutting Failure2019.12.04121YatinuwaraHeavy rain2019.12.02242GalagedaraHeavy Rain2019.12.01111Landslide Risk2019.12.044233423Heavy Rain2019.12.01131PanvilaHeavy Rain2019.12.0337396356010357203423Flood26122
+
+Tree Fallen121
+
+Land Slide Risk31811210
+
+Land Slide15595116 Kotlodge Tamil
+
+School/ Lipakele DayLand Slide Risk122511225 Harasbedda Temple
+
+Land Slide267531112675 Munwatte Temple
+
+HankurankethaCutting Failure141
+
+Flood502371131152 Norwood Tamil School
+
+Cutting Failure291129 Loynon Estate Home
+
+13655130111000674277
+
+14 ාතමල්
+
+khj;jis MataleRaththotaHeavy Rain2019.12.00166211662 Pitakandara Tamil
+
+School
+
+1662000000011662248969311467201094362
+
+නුවරඑලිය Etnuypah Nuwara Eliya
+
+Doluwa
+
+Kundasale
+
+Pathadumbara
+
+Medadumbara
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Totalදිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+Ambagamuwa
+
+Walapane
+
+Nuwara Eliya
+
+ධ්‍ය පලාත kj;jpa khfhzk; Central
+
+2019.11.30
+
+Heavy Rain
+
+Ududumbara
+
+Udapalatha
+
+Minipe
+
+Heavy Rain
+
+11
+
+රත්නපුර ,uj;jpdGhp Rathnapuraදිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+13
+
+12
+
+නුවර fz;b Kandy
+
+Deltota
+
+HarispattuwaHeavy Rain
+
+Page 4Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+N.P.E196119Rajanganaya196319Nochchiyagama102710Nachchaduwa3123N.P.C43141Palagala11Kahatagasdigiliya22Thalawa229930400015500000High Wind2019.12.02134413Heavy Rain2019.12.053711ElaharaHigh Wind2019.12.01141ThamankaduwaFlash flood2019.12.0542154LankapuraFlash flood2019.12.0531952HiguragodaHeavy Rain2019.12.0528111923120101181000019161601027310000Mundalama1937101Kalpitiya77523900240155Wanathawilluwa772747Mhakumbukkadawala17513Nwagaththegama501521Puttalama862571Chillaw2019.12.042821200384200001320240155BamunakotuwaFlash flood2019.11.304512126IbbagamuwaHeavy Rain2019.11.3028211MallawapitiyaHeavy Rain2019.11.3013612AlauwaLand Slide2019.12.03141611940002312700012614036000216327240155
+
+Katuwana2019.11.30- 2019.12.035185
+
+Thissamaharamaya2019.11.29/3014622
+
+Sooriyawewa2019.12.03272
+
+Walasmulla2019.12.014194Thangalla2019.12.0216Belliattha2019.12.031312711500011300000271150001130000091753083834111358828316632081
+
+රාජකාරි භාර ිළධ්‍ාරි / flik mjpfhhp / Duty Officer : 011 2670002
+
+ආපදා කළ නාකරණ ධ්‍යස්ත්‍රථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇ තුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136 ෆැක්ස්ත්‍ර/ njhiy efy; / Fax: 0112670079 විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.comමවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+Assistant Director / Duty OfficerFor Director General
+
+This is an authorized report by DMC - EOC duty officer. No signature is required
+
+වයඹ පලාත tlNky; khfhzk; North Western
+
+කුරුනෑගල/FUdhfy;/ Kurunegala/ ;/18
+
+15 අනුරාධ්‍පුර m.Guk;
+
+Anuradhapura
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+Heavy Rain2019.11.30
+
+Dimbulagala
+
+16
+
+මපාමලාන්නරුව/nghyd;dWit/Polonnaruwa
+
+T.W.K.I Pushpakumara……………………………………………………….
+
+මාධය ප්‍රකාශක / nra;jp njhlHghsHfs; / Media Spokesmen :
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+උතුරු ැද පලාත/tlkj;jpa khfhzk;/ North Central/
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දකුනු පලාත/njd; khfhzk;/ Southern/
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Totalපළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+2019.12.01
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+19
+
+හම්බන්මතාට `k;ghe;Njhl;ilH
+
+ambantota
+
+Heavy Rain
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif/District Total
+
+පුත්තල Gj;jsk; Puttalam17Flood

@@ -1,0 +1,273 @@
+Page 1Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+දිස්ත්‍රික්කය மாவட்டம்
+
+District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව
+
+FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpa
+
+sT Partiall
+
+y
+
+කුඩා හා මධය පරිමාණ වයාපාරික ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களி
+
+ன் சேதங்கள்;
+
+Small, Medium,
+
+Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල පහසුකම්
+
+වලට වූ හානි mbg;gilf; fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety
+
+Location
+
+s
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+Bandarawela2019.12.03151115 Yowun Senankaya
+
+Haputhale2019.12.1146137146137 Dambethenna Tamil V,.
+
+Passara2019.12.035181518 Sarwodaya Building
+
+521600001000352160521600001000352160
+
+නැගෙනහිර පලාත fpof;F Eastern2
+
+මඩකලපුව kl;lf;fsg;G Batticaloa
+
+Monmunai south & EPFlood2019.12.17311033
+
+3110300003000005ත්‍රීකුණාමලයFlood311030000300000
+
+3
+
+මුලතිව් Ky;iyj;jPT Mulaitivu
+
+Welioyaදැඩි සුලෙ/fLk; fhw;W/High Wind2019.12.16141
+
+140000100000
+
+4
+
+යාපනය aho;g;ghzk; Jaffna
+
+KopayFlood2019.12.0725941
+
+2594000010000026980000200000
+
+5
+
+රත්නපුර ,uj;jpdGhp Rathnapura
+
+KolonnaLandslide Risk2019.12.059361936
+
+9360000000193693600000001936
+
+PasbagekoraleFire121
+
+Medadumbara151
+
+Kundasale2019.12.11131
+
+Minipe2019.12.153103
+
+Udunuwraදැඩි සුලෙ/fLk; fhw;W/High Wind2019.12.143143
+
+9340001800000
+
+උතුරු පලාත tl khfhzk; Northen
+
+සබරෙමුව පලාත rg;ufKt Sabaragamuwa
+
+නුවර fz;b Kandy
+
+මධ්‍යම පලාත/kj;jpa khfhzk;/ Centra
+
+6
+
+බදුල්ල gJs;is Badulla
+
+Heavy Rain
+
+දිසරික් එකතුව khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Heavy Rain
+
+දිසරික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිසරික් එකතුව khtl;l $l;Lj;njhif District Total
+
+දිසරික් එකතුව khtl;l $l;Lj;njhif District Total
+
+දිසරික් එකතුව khtl;l $l;Lj;njhif District Total
+
+2019.12.15
+
+ආපදාව mdHj;jk; Disaster
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+ලේකම් - රාජ්‍ය පරිපාලන, ආපදා කළමනාකරණ හා පශු ස්ත්‍ම්පත් ස්ත්‍ංවර්ධන අමාතයාංශය / சேயலாளர், ச ாது நிர்வாக மற்றும் அனர்த்த முகாமமத்துவ அமமே்சு / Secretary, Ministry of Public Administration, Disaster Management & Livestock Developmentරාජ්‍ය පරිපාලන ස්ත්‍හ ආපදා කළමනාකරණ අමාතයාංශය ගරු අමාතයතුමාලේ පුද්ගලික ලේකම් /சகௌரவ பிரமைக்கு தனியார் சேயலாளர் ச ாது நிர்வாக மற்றும் அனர்த்த முகாமமத்துவ அமமே்ேர் / Private Secretary to the Hon. Minister of Public Administration & Disaster Management
+
+පළාත khfhzk; Province
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs;
+
+Remarks
+
+අතුරුදහ
+
+න්වූ පුද්ගලයි
+
+න් fhzhky;NghNdhH Missin
+
+g People
+
+ලවනත් හානි பிற ாதி ்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+පරිපාලන ප්‍රලද්ශය நிர்வாக ் பிரிவு
+
+Administrative purvie
+
+තත්ත්ව වාර්තාව - ශ්‍රී ලංකාව / epiyik mwpf;if - ,yq;if/ Situation Report- SriLanka දිනය /jpfjp / Date : 17th December 2019 at 1800hrs
+
+තුවාලවු පුද්ගලයි
+
+න් fhakile;NjhH
+
+Injured
+
+People
+
+#
+
+ආරම්භක දිනය
+
+mdu;j;jk; Muk;gpj;j jpfjp
+
+Date of commenced
+
+මිය යෑම් kuzq;fs; Deaths
+
+ඌව/Cth khfhzk;/Uva
+
+1
+
+දිසරික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Page 2Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+Nuwara EliyaLandslide2019.12.04-0552111211 Lipakele Childcare Center
+
+Land Slide Risk2019.11.30/12.111504063110107272
+
+01. Munwatte Temple, 02. Naranthalawa Wewakele temple, 03. Magrat School, 04. Ekangapura School, 05. Brooksight Childcare centre 06.Liyanwala School, 07. Watambe School, 08. Harasbedda Temple
+
+Cutting Failure2019.12.025222
+
+Rock fallen2019.12.0215
+
+Collapse of a wall 2019.12.02151
+
+Landslide Risk
+
+164469301040012111293
+
+8
+
+මාතගල් khj;jis Matale
+
+RaththotaHeavy Rain2019.12.01166211662 Pitakandara Tamil
+
+School
+
+166200000001166218956530111200131273553079623012170017188551
+
+රාජකාරි භාර නිළධ්‍ාරි / flik mjpfhhp / Duty Officer : 011 2670002
+
+ආපදා කළමනාකරණ මධ්‍යසරථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136 ෆැක්සර/ njhiy efy; / Fax: 0112670079 විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.comගවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+Assistant Director (Duty Officer)For Director General
+
+මධ්‍යම පලාත/kj;jpa khfhzk;/ Central
+
+1022019.11.30Kithulpe Temple
+
+නුවරඑලිය Etnuypah Nuwara Eliya7
+
+1021
+
+Hiran Thilakarathne……………………………………………………….
+
+මාධය ප්‍රකාශක / nra;jp njhlHghsHfs; / Media Spokesmen :
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+දිසරික් එකතුව khtl;l $l;Lj;njhif District Total
+
+දිසරික් එකතුව khtl;l $l;Lj;njhif District Total
+
+Hankuranketha
+
+Walapane

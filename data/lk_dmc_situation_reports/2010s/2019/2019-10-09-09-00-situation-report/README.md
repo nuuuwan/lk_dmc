@@ -1,0 +1,397 @@
+4
+
+දිස්ත්‍රික්කය மாவட்டம்
+
+District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp
+
+DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව
+
+FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpa
+
+sT Partiall
+
+y
+
+කුඩා හා මධය පරිමාණ වයාපාරික ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களி
+
+ன் சேதங்கள்;
+
+Small, Medium,
+
+Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල පහසුකම්
+
+වලට වූ හානි mbg;gilf; fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety
+
+Location
+
+s
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+ImaduwaFlood2019.09.225862092166391
+
+HabaraduwaFlood2019.09.221141454921368AkmeemanaFlood2019.09.2220283940
+
+AmbalangodaHeavy Rain2019.09.2224889831910
+
+YakkalamullaHeavy Rain2019.09.2233813531486
+
+BaddegamaLandslide2019.09.22311119815830018
+
+Walivita DivithuraHeavy Rain2019.09.23582066121
+
+Bope PoddalaHeavy Rain2019.09.2340913985382
+
+GonapinuwalaFlood2019.09.235520361Kadawath SatharaFlood2019.09.242200754122200HikkaduwaFlood2019.09.24249946621ElpitiyaFlood2019.09.247132700287BentotaFlood2019.09.2431140115KarandeniyaHeavy Rain2019.09.24200750411ThawalamaHeavy Rain2019.09.247277NagodaHeavy Rain2019.09.2465253278NiyagamaHeavy Rain2019.09.2410426BalapitiyaFlood2019.09.265418341687725318260473088591000Kirinda Puhulwella High Wind2019.09.221757171Dikwella High Wind2019.09.224818417Thihagoda High Wind2019.09.2210443205127817Welipitiya High Wind2019.09.22233879691613533Devinuwara High Wind2019.09.224517218Weligama High Wind2019.09.22682553571Hakmana High Wind2019.09.223514541Kadawath Sathara High Wind2019.09.2222669818763Athuraliya High Wind2019.09.221495821121Kamburupitiya High Wind2019.09.22134507327Malimbada High Wind2019.09.2287310782Pitabeddara High Wind2019.09.22123912Pasgoda High Wind2019.09.227277Kotapola High Wind2019.09.226318Akuresse High Wind2019.09.2215160927350Mulatiyana High Wind2019.09.22125013437914840001418731060000දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+දකුනු පලාත njd; khfhzk;
+
+Southern
+
+ආපදාව mdHj;jk; Disaster
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+ලේකම් - රාජ්‍ය පරිපාලන, ආපදා කළමනාකරණ හා පශු ස්ත්‍ම්පත් ස්ත්‍ංවර්ධන අමාතයාංශය / சேயலாளர், ச ாது நிர்வாக மற்றும் அனர்த்த முகாமமத்துவ அமமே்சு / Secretary, Ministry of Public Administration, Disaster Management & Livestock Developmentරාජ්‍ය පරිපාලන ස්ත්‍හ ආපදා කළමනාකරණ අමාතයාංශය ගරු අමාතයතුමාලේ පුද්ගලික ලේකම් /சகௌரவ பிரமைக்கு தனியார் சேயலாளர் ச ாது நிர்வாக மற்றும் அனர்த்த முகாமமத்துவ அமமே்ேர் / Private Secretary to the Hon. Minister of Public Administration & Disaster Management
+
+පළාත khfhzk; Province
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs;
+
+Remarks
+
+අතුරුදහ
+
+න්වූ පුද්ගලයි
+
+න් fhzhky;NghNdhH Missin
+
+g People
+
+ලවනත් හානි பிற ாதி ்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+#
+
+තත්ත්ව වාර්තාව - ශ්‍රී ලංකාව / epiyik mwpf;if - ,yq;if/ Situation Report- SriLanka දිනය /jpfjp / Date : 09th October 2019 at 0900hrs
+
+තුවාලවු පුද්ගලයි
+
+න් fhakile;NjhH
+
+Injured
+
+People
+
+පරිපාලන ප්‍රලද්ශය நிர்வாக ் பிரிவு
+
+Administrative purvie
+
+මිය යෑම් kuzq;fs; Deaths
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+ආරම්භක දිනය
+
+mdu;j;jk; Muk;gpj;j jpfjp
+
+Date of commenced
+
+2
+
+මාතර khj;jiw Matara
+
+1
+
+ගාල්ල fhyp Galle
+
+4
+
+BeliattaHeavy Rain2019.09.231550111WalasmulleHeavy Rain2019.09.23,24124839KatuwanaHeavy Rain2019.09.242112AgunukolapelassaHeavy Rain2019.09.22131ThangallaHeavy Rain2019.09.238288WeeraketiyaHeavy Rain2019.09.234144SooriyawewaHeavy Rain2019.09.306286481820003411000011304403402619140021661000MathugamaHigh Wind2019.09.2210535211041High Wind2019.09.223851578385
+
+Heavy Rain2019.09.251Due to the collapse of a wallPanaduraHigh Wind2019.09.2247620844763AgalawattaHigh Wind2019.09.22104110PalindanuwaraHigh Wind2019.09.222267121WalallavitaHigh Wind2019.09.2271279717BulathsinhalaHigh Wind2019.09.22124112HoranaHigh Wind2019.09.229339IngiriyaHigh Wind2019.09.224154BeruwalaHigh Wind2019.09.22175617MadurawalaHigh Wind2019.09.22272BandaragamaHigh Wind2019.09.2277326176MillaniyaHigh Wind2019.09.22154315DodangodaHigh Wind2019.09.2211211101216494310041212110000MaharagamaFlood2019.09.246725812Thimbirigasyaya Flood2019.09.241083463711RathmalanaHeavy Rain2019.09.2429115KotteFlood2019.09.245723975SeethawakaHeavy Rain2019.09.24791751MoratuwaFlood2019.09.24341136712HomagamaHeavy Rain2019.09.242910526KolonnawaHeavy Rain2019.09.2449452034315KesbewaHeavy Rain2019.09.2457236220ColomboHeavy Rain2019.09.242391702412DehiwalaHeavy Rain2019.09.243620852KaduwelaHeavy Rain2019.09.242981151350PadukkaHeavy Rain2019.09.243312941535686000370405000DompeFlood2019.09.232997202KelaniyaFlood2019.09.232693122495WattalaFlood2019.09.2460582419567MaharaFlood2019.09.2434714361181BiyagamaFlood2019.09.249833019GampahaFlood2019.09.2468286191MinuwangodaFlood2019.09.23123222NegomboFlood2019.09.24157563251KatanaFlood2019.09.2418647047Ja-ElaFlood2019.09.2420078210AttanagallaHigh wind2019.09.2262013DivulapitiyaHeavy Rain2019.09.25217123MirigamaHigh Wind2019.09.2510441911298152914000123641000236129354310082152156000
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+3
+
+6
+
+ගම්පහ fk;g`h Gampaha
+
+දකුනු පලාත njd; khfhzk; Southern
+
+හම්බන්තාට `k;ghe;Njhl;il Hambantota
+
+Kalutara
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Western Nky; khfhzk; බස්ත්‍රනාහිර පලාත
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+4
+
+කළුතර fSj;Jiw Kalutara
+
+්කාළඹ nfhOk;G Colombo5
+
+4
+
+PathadumbaraHigh wind2019.09.23161UdunuwaraHigh wind2019.09.24151DoluwaHeavy Rain2019.09.245165HatharaliyaddaHigh Wind2019.09.24383Ganga Ihala KoraleCutting failure2019.09.26161UdapalathaHigh Wind2019.09.25282PathadumbaraHigh Wind2019.09.23161145500001400000
+
+WalapaneHigh Wind2019.09.292811
+
+HangurankethaHigh Wind2019.09.23151
+
+3131000200000
+
+176810001600000
+
+Lightning2019.09.23272High wind2019.09.232102Lightning2019.09.244184High wind2019.09.243113Lightning2019.09.291511Fire2019.09.29141High wind2019.09.24161Lightning2019.09.23282High wind2019.09.154154Lightning2019.09.30141Lightning2019.09.30282Cutting failure2019.09.30141Heavy Rain2019.09.24252High wind2019.09.23141KegalleHigh wind2019.09.23292High Wind2019.09.27272Lightning2019..09.27141Heavy Rain2019.09.24141MawanellaHigh Wind2019.09.28141GaligamiuwaHeavy Rain2019.09.30281DeraniyagalaLightning2019.09.3031333915801003800000
+
+RathnapuraHigh Wind2019.09.272841145328410
+
+KalawanaHigh Wind2019.09.27252
+
+ElapathaHigh Wind2019.09.27145114
+
+BalangodaHigh Wind2019.09.303133
+
+30312140300303100000
+
+34213720400341100000
+
+WanathavilluwaHeavy Rain2019.09.2518643
+
+DankotuwaHeavy Rain2019.09.2572043
+
+MundalamaHeavy Rain2019.09.244113916
+
+ArachchikattuwaHeavy Rain2019.09.24121
+
+PuttalamHeavy Rain2019.09.24141
+
+AnamaduwaHeavy Rain2019.09.241043110
+
+KaruwalagaswewaHeavy Rain2019.09.2541131
+
+HalawatthaHeavy Rain2019.09.24725
+
+NawagattegamaHeavy Rain2019.09.242911
+
+MadampeHeavy Rain2019.09.24151
+
+9232220003050000
+
+11
+
+ස්ත්‍බරගමුව පලාත rg;ufKt Sabaragamuwa
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Dehiovita
+
+Yatiyantota
+
+Warakapola
+
+Ruwanwella
+
+මධ්‍යම පලාත kj;jpa khfhzk Centralදිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+වයඹ පලාත tlNky; khfhzk; North Western
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+කෑගල්ල Nffhiy Kegalle9
+
+නුවර fz;b Kandy7
+
+8
+
+නුවරඑලිය Etnuypah Nuwara Eliya
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+රත්නපුර ,uj;jpdGhp Rathnapura10
+
+පුත්තලම Gj;jsk; Puttalam
+
+4
+
+PannalaHigh wind2019.09.25363
+
+NarammalaHigh wind2019.09.30131
+
+PolgahawelaHigh wind2019.09.253103
+
+Kuliyapitiya WestHigh wind2019.09.24141
+
+PolpithigamaHigh wind2019.09.24272
+
+103000001000000
+
+10235220004050000
+
+2019.09.26383
+
+2019.09.2272417
+
+DamanaHigh Wind2019.09.23111
+
+UhanaHigh Wind2019.09.27151
+
+123800101200000
+
+14
+
+මඩකලපුව kl;lf;fsg;G Batticaloa
+
+Poratheevu PattuHigh wind2019.09.29151
+
+150000100000
+
+134300101300000
+
+HaldummullaHeavy Rain2019.09.3014454BandarwelaHeavy Rain2019.09.294254RideemaliyaddaHeavy Rain2019.09.294174SoranathotaHeavy Rain2019.09.25151EllaHeavy Rain2019.09.283113PassaraHeavy Rain2019.09.264114MeegahakivulaHeavy Rain2019.09.24151WelimadaHeavy Rain2019.09.2431033412900002400000
+
+Lightning2019.09.30141High wind2019.09.28115711SiyambalanduwaHigh wind2019.09.286266BadalkumburaHigh wind2019.09.294214MedagamaHigh wind2019.09.294194BibileHigh wind2019.09.2942243014910002900000
+
+6427810005300000
+
+17
+
+යාපනය aho;g;ghzk Jaffna
+
+JaffanaFire2019.09.30141
+
+140000100000
+
+14000010000035455136000710299 66181967000රාජකාරි භාර නිළධ්‍ාරි / flik mjpfhhp / Duty Officer : 011 2670002
+
+ආපදාකළමනාකරණමධ්‍යස්ත්‍රථානය/mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136 ෆැක්ස්ත්‍ර/ njhiy efy; / Fax: 0112670079 විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com්වබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+Assisant Director / Duty OfficerFor Director General
+
+This is an authorized report by DMC - EOC duty officer. No signature is required
+
+නැ්ගනහිර පලාත fpof;F Eastern
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+16
+
+්මානරාගල nkhdwhfiy Moneragala
+
+Moneragala
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+උතුරු පලාත
+
+tl khfhzk
+
+Northen
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+ඌව/Cth khfhzk;/Uva
+
+15 බදුල්ල
+
+gJs;is Badulla
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/Dstrict Total
+
+12
+
+කුරුනෑගල FUdhfy; Kurunegala
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+13
+
+අම්පාර mk;ghiw Ampara
+
+DehiattakandiyaHigh Wind
+
+T.W.K.I.Pushpakumara……………………………………………………….
+
+මාධය ප්‍රකාශක / nra;jp njhlHghsHfs; / Media Spokesmen :
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
