@@ -1,14 +1,14 @@
 # 🌦️#SriLanka 🇱🇰 Dmc Situation Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_10:22:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:03:34-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports)
 
 Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.
 
-- [**31** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**15.1 MB**), from **2025-09-21** to **2025-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,771** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**250.3 MB**), from **2018-09-13** to **2025-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
-- In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
+- In **JSON**, **PDF** (20%), **TXT** (20%) & **🤗 Hugging Face** (20%)
 
 - In **English**
 
@@ -29,7 +29,7 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 }
 ```
 
-![Chart](https://raw.githubusercontent.com/nuuuwan/lk_dmc/refs/heads/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/docs_by_day_and_lang.png)
+![Chart](https://raw.githubusercontent.com/nuuuwan/lk_dmc/refs/heads/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/docs_by_year_and_lang.png)
 
 ## 🤗 Hugging Face Datasets
 

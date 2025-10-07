@@ -1,0 +1,197 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+1
+
+ගම්පහ fk;g`h Gampaha
+
+DiwulapitiyaDrought2024.02.2623947182
+
+Drinking water is distributing for drought areas
+
+239471820000000000
+
+239471820000000000
+
+WarakapolaDrought2024.03.1156271
+
+Drought2024.03.11110550
+
+Heavy Rain/Tree Fallen2024.04.043103
+
+Lightning2024.04.05151
+
+YatiyanthotaDrought2024.03.1480289
+
+DareniyagalaDrought2024.03.1795394
+
+DehiovitaDrought2024.03.19160672
+
+GaligamuwaDrought2024.03.18/19175637
+
+68028280000400000
+
+KolonnaHigh Wind2024.04.05141
+
+WeligepolaTree Fallen2024.04.06272
+
+3110000300000
+
+68328390000700000
+
+4බදුල්ල gJs;is Badulla Hali ElaDrought2024.03.3150190
+
+Drinking water is distributing for drought areas
+
+501900000000000
+
+501900000000000
+
+3127102110000700000
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+වෙබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+…..............................................CDR R.G.T.S.Karunarathne
+
+For Director General
+
+* This is an authorized report by DMC - EOC duty officer.
+
+පළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+තුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date :09th April 2024 at 0900hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarks
+
+Duty Officer
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+සබරගමුෙ පලාත rg;ufKt Sabaragamuwa
+
+ඌෙ Cth khfhzk; Uva
+
+පළාත් ඵකතුෙ/ khfhz $l;Lj;njhif/Province Total
+
+Western Nky; khfhzk; බස්නාහිර පලාතදිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුෙ/ khfhz $l;Lj;njhif/Province Total
+
+පළාත් ඵකතුෙ/ khfhz $l;Lj;njhif/Province Total
+
+Drinking water is distributing for drought areas
+
+කෑගල්ල Nffhiy Kegalle2
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+3
+
+රත්නපුර ,uj;jpdGhp Rathnapura
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+Ruwanwella

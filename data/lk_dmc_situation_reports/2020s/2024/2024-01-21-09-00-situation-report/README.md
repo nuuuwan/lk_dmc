@@ -1,0 +1,223 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+2023.10.14134495147127 Kotabakma Tea factory
+
+2023.10.25124611139 Dambethenna dalu
+
+kirana sthanaya2023.10.14288011560 Mahakanda punagala
+
+old factory2023.03.1971242337212889 Punagala old tea factory
+
+High Wind2024.01.16141
+
+BandarawelaCutting Faliure / Heavy Rain / Wind2023.10.14373137 Udaperuwa Muslim
+
+Mosque
+
+HaputhaleLandslide Risk2023.11.20341141726 Glanor Tamil School
+
+Cutting Faliure2024.01.10282Landslide Risk due to Heavy Rain2023.11.23272127 Karandagolle temple
+
+Landslide Risk2024.01.1229129 Kilan waththa
+
+2023.12.30671941
+
+Passara2023.12.317341734 Tholabowatta jaynthi
+
+collage 2023.12.15144011440 Pre SchoolHravy Rain / High Wind2024.01.01-09146014
+
+2023.12.3051156151156 Galulla Tamil collage
+
+2023.12.311243871101319 Vigneshwara tamil
+
+collageWelimadaHeavy Rain/ Wind2024.01.16282Uva ParanagamaHeavy Rain2024.01.12111SoranathotaHeavy Rain2024.01.126286MahiyanganayaHeavy Rain2024.01.15624658119440003742013288913
+
+2
+
+ම ොනරොගල nkhdwhfiy Moneragala
+
+BadalkumburaLandslide2023.01.1324761149160 Waradola Primary
+
+School
+
+24760001000149160
+
+605202000047420143371073
+
+3
+
+අම්පොර mk;ghiw Ampara
+
+DamanaHeavy Rain / Flood2024.01.0936128136128 Galmaduwa Temple
+
+361280000000136128
+
+361280000000136128
+
+4
+
+මුලතිව් Ky;iyj;jPT Mulaitivu
+
+PuthukudiyiruppuHeavy Rain & High Wind2024.01.0911441727 Moonkilaru Primary
+
+School
+
+114400000001727
+
+114400000001727
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+උතුරු පලොත tl khfhzk; Northen
+
+නැමගනහිර පලොත fpof;F Eastern
+
+පළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+තුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date :21st January 2024 at 0900hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarks
+
+ඌව Cth khfhzk; Uva
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+Landslide Risk
+
+Lunugala
+
+Haldumulla
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+Ella
+
+Landslide Risk
+
+Landslide Risk
+
+බදුල්ල gJs;is Badulla1
+
+652219200047420163801228
+
+ආපදො කළ නොකරණ ධ්‍යස්ත්‍රථොනය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇ තුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්ත්‍ර/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+මවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+…..............................................Janaka Hadunpathiraja
+
+For Director General
+
+* This is an authorized report by DMC - EOC duty officer.
+
+Deputy Director /Duty Officer
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL

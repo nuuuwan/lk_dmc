@@ -1,0 +1,283 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+ElapathaFlood1317
+
+RathnapuraFlood114
+
+GodakawelaTree Fallen2811
+
+High Wind131
+
+Tree Fallen2024.07.16111
+
+KolonnaTree Fallen151
+
+Tree Fallen3113
+
+High Wind161
+
+OpanayakaTree Fallen262
+
+KahawaththaTree Fallen232
+
+Tree Fallen141
+
+High Wind1411551000014102421Kegalle2024.07.14121
+
+Yatiyantota141
+
+Ruwanwella262
+
+Deraniyagala292
+
+Dehiowita14172500007000002276000021102421
+
+3
+
+කිලින ොච්චිය fpspnehr;rp Killinochchi
+
+KarachchiDrought2024.06.24239732
+
+Drinking water is being distributed for drought areas
+
+2397320000000000
+
+4
+
+යොප ය aho;g;ghzk ; Jaffna
+
+ChankanaiDrought2024.06.25811825506
+
+8118255060000000000
+
+8357262380000000000
+
+5
+
+ගොල්ල fhyp Galle
+
+NiyagamaTree Fallen2024.07.161411
+
+140100100000
+
+140100100000
+
+2024.07.15
+
+2024.07.15
+
+2024.07.15
+
+සබරගමුව පලොත rg;ufKt Sabaragamuwa
+
+උතුරු පලොත tl khfhzk; Northen
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+2024.06.22
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+Balangoda
+
+Elapatha
+
+කෑගල්ල Nffhiy Kegalle
+
+Tree Fallen
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+තුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date :17th July 2024 at 0900hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarks
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+පළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+දකුනු පලොත njd; khfhzk; Southernදිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+1
+
+Pelmadulle
+
+රත් පුර ,uj;jpdGhp Rathnapura
+
+Walallawita2024.07.14/159369
+
+Agalawatta242
+
+Bandaragama141
+
+Ingiriya9406
+
+Horana3113
+
+Beruwala4174
+
+Bulathsinhala2024.07.15292
+
+Kaluthara2024.07.15393
+
+3313000003000000
+
+3313000003000000
+
+8
+
+අම්පොර mk;ghiw Ampara
+
+AddalachchenaiBoat Missing2024.07.132
+
+02 Persons have gone to sea for fishing activities
+
+000020000000ත්‍රීකුණොමලය jp.kiy Trincomalee
+
+MuthurHigh wind2024.07.15141
+
+140000100000
+
+140020100000
+
+841426452012053102421
+
+ආපදො කළම ොකරණ මධ්‍යසරථො ය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්සර/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+නවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+…..............................................
+
+Duty Officer For Director General
+
+* This is an authorized report by DMC - EOC duty officer.
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+Wing.Commander E.R.Waduge
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+ැනග හිර පලොත fpof;F Eastern
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+Western Nky; khfhzk බසර ොහිර පලොත
+
+කළුතර fSj;Jiw Kalutara62024.07.14/15
+
+2024.07.13/15
+
+2024.07.15

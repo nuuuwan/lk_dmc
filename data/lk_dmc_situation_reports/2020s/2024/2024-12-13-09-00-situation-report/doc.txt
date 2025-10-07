@@ -1,0 +1,171 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+Kolonna121
+
+Opanayaka131
+
+250000200000
+
+2
+
+කෑගල්ල Nffhiy Kegalle
+
+KegalleTree Fallen2024.12.10131
+
+130000100000
+
+380000300000
+
+Kandawalai2024.12.114154
+
+Karachchi2024.12.05252
+
+6200000600000
+
+6200000600000
+
+9280000900000
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+වෙබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+….....................................Deputy Director
+
+For Director General
+
+* This is an authorized report by DMC - EOC duty officer.
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date :13th December 2024 at 0900hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarks
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+පළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+ආපදාව mdHj;jk Disaster
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+තුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+පළාත් ඵකතුෙ/ khfhz $l;Lj;njhif/Province Total
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+උතුරු පලාත tl khfhzk; Northen
+
+පළාත් ඵකතුෙ/ khfhz $l;Lj;njhif/Province Total
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Totalසබරගමුෙ පලාත rg;ufKt Sabaragamuwa
+
+1
+
+රත්නපුර ,uj;jpdGhp Rathnapura
+
+Tree Fallen2024.12.11
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+3
+
+කිලිවනාච්චිය fpspnehr;rp Killinochchi
+
+High Wind
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+Assistant Director/ Duty OfficerJanaka Handunpathiraja

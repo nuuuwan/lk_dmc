@@ -1,0 +1,351 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+HaldumullaLandslide Risk2023.10.14-1526910254159538
+
+1.Koslanda Ganesha School 2.Kotabakma Tea Factory 3. Mahakanda Old Tea factory 4.Dambethenna
+
+BandarawelaCutting Faliure2023.10.14373137 Udaperuwa Muslim
+
+Mosque
+
+HaputaleLandslide Risk2023.10.21-2326103226103
+
+1.Kalban Tamil School 2. Galkanda Muthuwana School298113500003007188648
+
+298113500003007188648Akuressa311301129Thihagoda12049233Maalimboda156615Devinuwara176694531421 Hiththetiya TempleWeligama12433744Kamburupitiya10243339Athuraliya175717Kirinda puhulwela4115641Pasgoda9938710Hakmana7227572Matara1285578119Pitabeddara3914739Mulatiyana3916211Kotapola9457Dikwella110415110Welipitiya381332301160448600021669001421
+
+3
+
+හම්බන්තොට `k;ghe;Njhl;il Hambantota
+
+AngunakolapelessaHeavy Rain2023.11.01151
+
+150000100000
+
+1161449100021670001421
+
+BalangodaHeavy Rain2023.11.01393
+
+Heavy Rain2023.11.014164
+
+Rock Fallen2023.11.01141
+
+Heavy Rain2023.11.01141
+
+Rock Fallen2023.11.01131
+
+Cutting Faliure2023.11.01121
+
+KolonnaCutting Faliure2023.11.01121
+
+OpanayakeHeavy Rain202.11.014124
+
+Lightning2023.11.011411
+
+Heavy Rain2023.11.01141
+
+High Wind2023.11.01262
+
+NivithigalaHeavy Rain / Wind2023.11.01141
+
+KalawanaHeavy Rain2023.11.01262
+
+237600002310000
+
+සබරගමුව පලොත rg;ufKt Sabaragamuwaදිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+4
+
+රත්නපුර ,uj;jpdGhp Rathnapura
+
+Kuruwita
+
+මොතර khj;jiw Matara
+
+Flood / Heavy Rain2023.09.28 to 2023.10.23
+
+ඌව Cth khfhzk; Uva
+
+1
+
+බදුල්ල gJs;is Badulla
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+ලවනත් කරුණු
+
+NtW Fwpg;Gf;fs;
+
+Remarks
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date :03rd November 2023 at 0900hrs
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+දකුනු පලොත njd; khfhzk; Southern
+
+2
+
+පළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+තුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+Rathnapura
+
+Pelmadulla
+
+RuwanwellaCutting Faliure2023.11.013151
+
+Lightning2023.11.01272
+
+Tree Fallen2023.11.01131
+
+Flash Flood2023.11.013199
+
+Lightning2023.11.01131
+
+Tree Fallen2023.10.30131
+
+YatiyanthotaTree Fallen2023.11.01131
+
+Cutting Faliure2023.11.01121
+
+BulathkohupitiyaCutting Faliure2023.11.01141
+
+421390000900000
+
+6521500003210000
+
+Heavy Rain2023.10.303113
+
+Tree Fallen2023.11.01141
+
+BingiriyaHeavy Rain2023.11.018228
+
+PolpithigamaHeavy Rain2023.11.01141
+
+GiribawaLightning2023.11.011511
+
+Kuliyapitiya WestFlash Flood2023.11.0127
+
+Panduwasnuwara WestHeavy Rain / Wind2023.11.015195
+
+IbbagamuwaHeavy Rain / Wind2023.11.01252
+
+PolgahawelaHeavy Rain / Wind2023.10.313111
+
+PannalaHeavy Rain / Wind2023.10.31262
+
+MallawapitiyaHeavy Rain2023.11.01151
+
+NikaweratiyaHeavy Rain / Wind2023.11.021213
+
+3010110002630000
+
+3010110002630000
+
+7යොපනය aho;g;ghzk; Jaffna TellippalaiFlood2023.10.31121
+
+120000100000
+
+120000100000
+
+UdunuwaraHigh Wind2023.11.02282
+
+PoojapitiyaHeavy Rain2023.11.01161
+
+Heavy Rain / Wind2023.11.013113
+
+Landslide 2023.10.30-11.01292
+
+Lightning2023.11.0117
+
+9410000800000
+
+9410000800000
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+කෑගල්ල Nffhiy Kegalle5
+
+Galigamuwa
+
+Kegalle
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+වයඹ පලොත tlNky; khfhzk; North Western
+
+කුරුනෑගල FUdhfy; Kurunegala6
+
+Mawathagama
+
+උතුරු පලොත tl khfhzk; Northen
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+මධ්‍යම පලොත kj;jpa khfhzk Central
+
+8නුවර fz;b Kandy
+
+Harispattuwa
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+GampahaFlood2023.11.0274290
+
+DivulapitiyaHeavy Rain2023.11.0252041
+
+MinuwangodaFlood2023.11.0216511313 Kotugoda
+
+Sudarmaramaya
+
+Flood2023.11.0274306230127
+
+1.Hiripitiya Community Hall 2& 3.Kalotuwa MosqueTree Fallen2023.11.01292
+
+Lightning2023.11.019379
+
+MeerigamaHeavy Rain2023.11.018258
+
+18873800002310333140
+
+18873800002310333140
+
+17526723100217635011225809
+
+ආපදො කළමනොකරණ මධ්‍යසරථොනය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්සර/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+්වබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+…..............................................Hiran Thilakarathne
+
+For Director General
+
+* This is an authorized report by DMC - EOC duty officer.
+
+Deputy Director / Duty Officer
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+Western Nky; khfhzk; බසරනොහිර පලොත
+
+Aththanagalla
+
+9ගම්පහ fk;g`h Gampaha
+
+දිසරික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළොත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total

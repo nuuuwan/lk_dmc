@@ -1,0 +1,179 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+HaldumullaLandslide Risk2023.10.145241524 Mahakanda punagala
+
+old factory
+
+2023.03.192884337212884 Punagala old tea factory
+
+HaputhaleLandslide Risk2023.11.207261726 Glanor Tamil SchoolLandslide Risk due to Heavy Rain2023.11.23272127 Karandagolle temple
+
+Landslide Risk2024.01.126371637 Kinalan waththa
+
+PassaraLandslide Risk2023.12.15144011440 Pre School
+
+6221800033920662218
+
+6221800033920662218
+
+2ගම්පහ fk;g`h GampahaDiwulapitiyaDrought2024.02.2612843852
+
+128438520000000000
+
+128438520000000000
+
+WarakapolaDrought2024.03.111660
+
+RuwanwellaDrought2024.03.11110550
+
+YatiyanthotaDrought2024.03.1480289
+
+2068990000000000
+
+2068990000000000
+
+1552496900033920662218
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+වෙබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+…..............................................
+
+For Director General
+
+* This is an authorized report by DMC - EOC duty officer.
+
+සබරගමුෙ පලාත rg;ufKt Sabaragamuwa
+
+පළාත් ඵකතුෙ/ khfhz $l;Lj;njhif/Province Total
+
+Western Nky; khfhzk; බස්නාහිර පලාත
+
+පළාත් ඵකතුෙ/ khfhz $l;Lj;njhif/Province Total
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+කෑගල්ල Nffhiy Kegalle3
+
+N.S. PathiranaAssistant Director / Duty Officer
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+පළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+තුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date :16th March 2024 at 0900hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarks
+
+දිස්ික් එකතුෙ/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුෙ/ khfhz $l;Lj;njhif/Province Total
+
+Ella
+
+1ඌෙ Cth khfhzk; Uva
+
+බදුල්ල gJs;is Badulla
