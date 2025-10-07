@@ -1,14 +1,14 @@
 # 🌦️#SriLanka 🇱🇰 Dmc Situation Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_09:52:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_09:58:50-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports)
 
 Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.
 
-- [**191** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**14.1 MB**), from **2025-04-15** to **2025-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**255** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**34.6 MB**), from **2025-02-11** to **2025-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
-- In **JSON**, **PDF** (17%), **TXT** (17%) & **🤗 Hugging Face** (17%)
+- In **JSON**, **PDF** (25%), **TXT** (25%) & **🤗 Hugging Face** (25%)
 
 - In **English**
 
