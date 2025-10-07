@@ -1,0 +1,105 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය
+
+2024 ජුනි මස 06 දින්‍ සවස 04.00 ට නිකුත් කරන්‍ ලදි. දිවයිනේ නිරිත දිග නකාටනසේ පවතින්‍ වැසි තත්ත්වනේ තරමක වැඩිවීමක් නහට(08) දින්‍ සිට ඉදිරි දින්‍ කිහිපනේදී බලානපානරාත්ුනේ.
+
+බස්නාහිර, සබරගමුව ස දකුණු පළාත්වලත් ම නුවර ස නුවරඑළිය දිස්ික්කවලත් විටින් විට වැසි ඇතිහේ. බස්නාහිර ස සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල ස මාතර දිස්ික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය ැක.
+
+වයඹ, උතුරු ස උතුරු-මැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය ැක.
+
+ඌව පළාහතත් අම්පාර ස මඩකළපුව දිස්ික්කවලත් සවස් කාලහේ හ ෝ රාත්‍රී කාලහේ ස්ථාන ස්වල්පයක වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක.
+
+උතුරු, උතුරු-මැද ස වයඹ පළාත්වලත් ිකුණාමලය ස ම්බන්හතාට දිස්ික්කවලත් විටින් විට මන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇතිවිය ැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලිේ සහ අකුණු මඟිේ සිදු වන්‍ අන්‍ුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගේන්‍ා නලස ජන්‍තාවනගේ කාරුණිකව ඉල්ලා සිටිනු ලැනේ.
+
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+
+Issued at 04.00 p.m. on 06 June 2024
+
+The prevailing rainy condition in the south-western part of the island is expected to enhance to some extent in the next few days from tomorrow (08th).
+
+Showers will occur at times in Western, Sabaragamuwa and Southern provinces and in Kandy and Nuwara Eliya districts. Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara Eliya, Galle and Matara districts.
+
+Several spells of showers will occur in North-western, Northern and North-central provinces.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about (40-50) kmph can be expected at times over Northern, North-central, North-western provinces and in Trincomalee and Hambantota districts.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+Weather Forecast for Main Cities Date : 8-Jun-2024
+
+City Temperature (0C) Relative Humidity (%) Weather Max Min Max Min Anuradhapura 32 25 95 65 A few showers
+
+Batticaloa 33 27 85 60 Showers or thundershowers are likely after 2.00p.m Colombo 31 26 95 75 Showers at times
+
+Galle 30 26 95 80 Showers at times Jaffna 30 27 95 75 Mainly fair
+
+Kandy 29 23 95 70 Several spells of showers Nuwara-Eliya 24 17 95 70 Showers at times
+
+Ratnapura 31 24 95 70 Showers at times Trincomalee 34 26 95 70 Mainly fair
+
+Mannar 31 28 95 65 Several spells of light showers ප්‍රධාන නගර සදහා කාලගුණ අනාවැකිය දිනය : 2024-06-08
+
+නගරය උෂ්ණත්වය(සස. අංශක) සාසේක්ෂ ආර්ද්‍රතාවය(%) කාලගුණය උපරිම අවම උපරිම අවම
+
+අනුරාධපුරය 32 25 95 65 වැසි ස්වල්පයක්
+
+මඩකලපුව 33 27 85 70 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක හකාළඹ 31 26 90 75 විටින් විට වැසි
+
+ගාල්ල 30 26 90 80 විටින් විට වැසි යාපනය 30 27 90 75 ප්‍රධාන වශහයන් වැසි රහිත
+
+ම නුවර 29 23 95 70 වැසි වාර කිහිපයක් නුවරඑළිය 24 17 95 70 විටින් විට වැසි
+
+රත්නපුරය 31 24 95 80 විටින් විට වැසි ත්‍රිකුණාමලය 34 26 85 65 ප්‍රධාන වශහයන් වැසි රහිත
+
+මන්නාරම 31 28 95 70 සිහින් වැසි වාර කිහිපයක්
+
+பிரதான நகரங்களுக்கான வானிலை
+
+முன்னறிவித்தை் திகதி : 2024-06-08
+
+நகரம்
+
+வவப்பநிலை (0C) சாரீரப்பதன் (%)
+
+வானிலை உச்ச குலைந்த உச்ச குலைந்த
+
+அனுராதபுரம் 32 25 95 65 சிறிதளவில் மழை பெய்யும்
+
+மட்டக்களப்பு 33 27 85 60 பி.ெ. 2.00 மணிக்குெ் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும் சாத்தியம்
+
+வகாழும்பு 31 26 95 75 அவ்வெ்பொது மழை பெய்யும்
+
+காலி 30 26 95 80 அவ்வெ்பொது மழை பெய்யும்
+
+யாழ்ப்பாணம் 30 27 95 75 பிரதானமாக சீரான வானிழல
+
+கண்டி 29 23 95 70 அடிக்கடி மழை பெய்யும்
+
+நுவவரலியா 24 17 95 70 அவ்வெ்பொது மழை பெய்யும்
+
+இரத்தினபுரி 31 24 95 70 அவ்வெ்பொது மழை பெய்யும்
+
+திருககாணமலை 34 26 95 70 பிரதானமாக சீரான வானிழல
+
+மன்னார் 31 28 95 65 அடிக்கடி சிறிதளவில் மழை பெய்யும்

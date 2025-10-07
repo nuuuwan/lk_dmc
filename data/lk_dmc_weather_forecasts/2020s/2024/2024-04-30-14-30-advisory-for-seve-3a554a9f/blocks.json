@@ -1,0 +1,218 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      111.14,
+      782.11,
+      485.75,
+      802.15
+    ],
+    "text": "Spatial rainfall distribution: Isolated: <25%, A few: 26-50%, Many: 51-75%, Most: 76-100% Rainfall amount (mm): Fairly Heavy rain: 50 -100, Heavy rain: 100 \u2013 150, Very heavy rain: 150 or more.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.960000038146973,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      138.62,
+      519.55,
+      165.26
+    ],
+    "text": "Bulletin No: 01 WW/T/24/04/30/01 COLOR: Amber",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      165.89,
+      458.21,
+      287.84
+    ],
+    "text": "Advisory for Severe Lightning Issued by the natural hazards early warning center Issued at 02.30 p.m. 30 April 2024 for the period until 10.00 p.m. 30 April 2024 PLEASE BE AWARE:",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      8.039999961853027,
+      9.960000038146973,
+      11.039999961853027,
+      12.0,
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      296.57,
+      314.75,
+      352.49
+    ],
+    "text": "Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Central, Sabaragamuwa provinces and in and Galle, Matara and Puttalam districts.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      361.13,
+      314.64,
+      438.29
+    ],
+    "text": "There may be temporary localized strong winds during thundershowers. General public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      450.79,
+      294.65,
+      522.67
+    ],
+    "text": "ACTION REQUIRED: The Department of Meteorology advises that people should:",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Latha"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0,
+      12.479999542236328,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      536.89,
+      299.57,
+      551.95
+    ],
+    "text": "\u2022 Seek shelter, preferably indoors and never",
+    "fonts": [
+      "ArialMT",
+      "Calibri",
+      "SymbolMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      554.59,
+      505.6,
+      581.83
+    ],
+    "text": "under trees. \u2022 Avoid open areas such as paddy fields, tea plantations and open water bodies during",
+    "fonts": [
+      "ArialMT",
+      "Calibri",
+      "SymbolMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      584.47,
+      520.37,
+      657.82
+    ],
+    "text": "thunderstorms. \u2022 Avoid using wired telephones and connected electric appliances during thunderstorms. \u2022 Avoid using open vehicles, such as bicycles, tractors and boats etc. \u2022 Beware of fallen trees and power lines. \u2022 For emergency assistance contact the local disaster management authorities.",
+    "fonts": [
+      "ArialMT",
+      "Calibri",
+      "SymbolMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      91.34,
+      684.91,
+      185.39,
+      707.11
+    ],
+    "text": "Color: -Red Warning (Take action)",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.41,
+      684.91,
+      362.56,
+      707.11
+    ],
+    "text": "Color: -Amber Advisory (Be prepared)",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      447.34,
+      685.39,
+      513.07,
+      708.7
+    ],
+    "text": "Color: -Green Threat is over",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  }
+]

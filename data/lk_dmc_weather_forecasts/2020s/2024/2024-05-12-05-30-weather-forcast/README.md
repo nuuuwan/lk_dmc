@@ -1,0 +1,63 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2024 මැයි මස 12 දින්‍ සඳහා කාලගුණ අන්‍ාවැකිය 2024 මැයි මස 12 දින්‍ උදෑසන්‍ 05.30 ට නිකුත්කරන්‍ ලදි.
+
+දිවයිනේ න ොන ෝ පළොත්වල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ.
+
+ස්නොහිර, සබරගමුව, මධ්‍යම ස නැහගනහිර පළාත්වලත් බදුල්ල, ගාල්ල ස මාතර දිස්ික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය ැක. ස්නොහිර ස දකුණු පළාත්වල නවරළ ඩ ප්‍රනේශවල උදෑසන කාලහේදීත් ස්ථාන ස්වල්පයක වැසි ඇතිවිය ැක. ස්නොහිර, සබරගමුව ස මධ්‍යම පළාත්වලත් ගාල්ල ස මාතර දිස්ික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක. ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවලගන් කාරුණිකව ඉල්ො සිටිනු ෙැලේ.
+
+WEATHER FORECAST FOR 12 MAY 2024
+
+Issued at 05.30 a.m. on 12 May 2024 Showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
+
+Heavy showers more than 100mm are likely at some places in Western, Sabaragamuwa, Central and Eastern provinces and in Badulla, Galle and Matara districts.
+
+Showers may occur at a few places in the coastal areas of western and Southern provinces during the morning too. Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු ප්‍රදේශ සඳහා කාලගුණ අන්‍ාවැකිය
+
+2024 මැයි මස 12 දින්‍ උදෑසන්‍ 05.30 ට නිකුත් කරන්‍ ලදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 05.30 a.m. 12 May 2024
+
+වැසි තත්ත්වය:
+
+පුත්තලම සිට නකොළඹ, ගොල්ල ස ම් ේනතොට ර ා නපොතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ. දිවයින වටො වන නසසු මුහුදු ප්‍රනේශවල තැනින් තැන සවස් කොලනේදී න ෝ රොත්‍රී කොලනේදී වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ. සුළඟ:
+
+සුළං නිරිත නෙසිේ හ ෝ නිශ්ිත දිශාවකින් හතාරව මා එන අතර සුළං හේගය පැ.කි.මී. (20-30) පමණ හේ.
+
+මුහුදේ ස්වභාවය: දිවයින වටා වන මුහුදු ප්‍රහේශ සාමානය ස්භාවහේ පවතී. ගිගුරුම් සහිත වැසි ඇති වන්‍ විට එම මුහුදු ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Condition of Rain:
+
+Showers or thundershowers will occur at several places in the sea areas off the coast extending from Puttalam to Pottuvil via Colombo, Galle and Hambantota. Showers or thundershowers will occur at several places in the other sea areas around the island during the evening or night.
+
+Winds: Winds will be south-westerly or variable and wind speed will be (20-30) kmph.
+
+State of Sea:
+
+Sea areas around the island will be slight.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

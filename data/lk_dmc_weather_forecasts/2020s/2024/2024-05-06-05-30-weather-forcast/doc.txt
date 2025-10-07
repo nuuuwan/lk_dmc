@@ -1,0 +1,83 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2024 මැයි මස 06 දින්‍ සඳහා කාලගුණ අන්‍ාවැකිය 2024 මැයි මස 06 දින්‍ උදෑසන්‍ 05.30 ට නිකුත්කරන්‍ ලදි.
+
+බස්නාහිර, සබරගමුව ස මධ්‍යම පළාත්වලත් ගාල්ල ස මාතර දිස්ික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ. වයඹ ස උතුරු මැද පළාත්වලත් මන්නාරම, වේනියාව ස මුලතිේ දිස්ික්කවලත් සවස් කාලහේදී හ ෝ රාත්‍රී කාලහේදී ස්ථාන ස්වල්පයක වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. පුත්තලම සිට ක ොළඹ ර ා ගොල්ල දක්වා කෙරළබඩ ප්‍රකේශෙල උදෑසන ොලකේදීත් වැසි ස්වල්පයක් ඇතිවිය ැක. මධ්‍යම ස සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැෙතිය හැ . ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවලගන් කාරුණිකව ඉල්ො සිටිනු ෙැලේ.
+
+WEATHER FORECAST FOR 06 MAY 2024
+
+Issued at 05.30 a.m. on 06 May 2024
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in North-western and North-central provinces and in Mannar, Vavuniya and Mullaitivu districts during the afternoon or night.
+
+A few showers may occur over the coastal areas of Puttalam to Galle via Colombo during the morning too.
+
+Misty conditions can be expected at some places in Central and Sabaragamuwa provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු ප්‍රදේශ සඳහා කාලගුණ අන්‍ාවැකිය
+
+2024 මැයි මස 06 දින්‍ උදෑසන්‍ 05.30 ට නිකුත් කරන්‍ ලදි.
+
+කල්පිටිය සිට ලකාළඹ, ගාල්ෙ සහ හම්බන්ලතාට හරහා ල ාතුවිල් දක්වා ලවරළට ඔේලබන් වන මුහුදු ප්‍රලේශ්‍වෙ මුහුදු රළ උස මීටර් (2.0-2.5) ක් මණ සහ තරංග කාෙය තත් ර (14-16) මණ ඉහළ යාලම් හැකියාවක් වතී.
+
+දේ දහේතුදවන් ලකාළඹ සිට ගාල්ෙ හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ද ාඩබිමට පැමිණීදේ හැකියාවක් පවතී.
+
+වැසි තත්ත්වය:
+
+ක ොළඹ සිට ගොල්ල ර ා මාතර දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල තැනින් තැන සවස් කාලහේදී හ ෝ රාත්‍රී කාලහේදී වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ. සුළඟ:
+
+සුළං නිරිත කෙසින් හ ෝ නිශ්ිත දිශාවකින් හතාරව මා එන අතර සුළං හේගය පැ.කි.මී. (20-30) පමණ හේ. පුත්තලම සිට මන්නාරම ර ා කන්කසන්තුරය දක්වා ස මඩකළපුව සිට හපාතුවිල් ර ා හම්බන්කතොට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. (40-45) දක්වා වැඩි විය ැක.
+
+මුහුදේ සේවභාවය: පුත්තලම සිට මන්නාරම ර ා කන්කසන්තුරය දක්වා ස මඩකළපුව සිට හපාතුවිල් ර ා හම්බන්කතොට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු විය ැක. ල්ිටිය සිට ක ොළඹ, ගොල්ල සහ හම්බන්කතොට හරහො කපොතුවිල් ෙක්ෙො හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල මුහුදු රළ උස මීටර් (2.0-2.5) ක් පමණ ඉ ළ යාහම් ැකියාවක් පවතින අතර එම මුහුදු ප්‍රහේශ විටින් විට රළු විය ැක. ගිගුරුේ සහිත වැසි ඇති වන්‍ විට එම මුහුදු ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 05.30 a.m. 06 May 2024
+
+The swell waves (about 2.0 m – 2.5 m) height and wave period (about 14s-16s) may increase in the sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle, and Hambantota.
+
+Therefore, there is a possibility that near shore sea areas off the coast extending from Colombo to Matara via Galle, may experience surges due to swell waves.
+
+Condition of Rain:
+
+Showers or thundershowers will occur at several places in the sea areas off the coast extending from Colombo to Matara via Galle in the evening or night.
+
+Winds: Winds will be southwesterly or variable and wind speed will be (20-30) kmph. Wind speed may increase up to (40-45) kmph at times in the sea areas off the coasts extending from Puttalam to Kankasanthurai via Mannar and from Batticaloa to Hambanthota via Pottuvil.
+
+State of Sea:
+
+The sea areas off the coasts extending from Puttalam to Kankasanthurai via Mannar and from Batticaloa to Hambanthota via Pottuvil can be fairly rough at times. Increase of swell waves (about 2.0 – 2.5 m) can be expected in the sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota. These sea areas can be rough at times.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
