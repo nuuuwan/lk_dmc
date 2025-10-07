@@ -2,14 +2,14 @@ import sys
 
 from utils import Log
 
-from dmc import SituationReport
+from dmc import SituationReport, WeatherForecast
 
 log = Log("pipeline")
 
 if __name__ == "__main__":
     doc_class_label = sys.argv[1]
     log.debug(f"{doc_class_label=}")
-    for doc_class in [SituationReport]:
+    for doc_class in [SituationReport, WeatherForecast]:
         if doc_class.get_doc_class_label() == doc_class_label:
             doc_class.run_pipeline()
             sys.exit(0)

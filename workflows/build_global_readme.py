@@ -6,6 +6,7 @@ def main():
         {
             "lk_dmc": [
                 "lk_dmc_situation_reports",
+                "lk_dmc_weather_forecasts",
             ]
         }
     ).build()
