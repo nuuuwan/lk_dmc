@@ -1,0 +1,604 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      37.2,
+      37.67,
+      408.58,
+      124.77
+    ],
+    "text": "Landslide Early Warning \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db4\u0dd9\u0dbb \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8 kz;rhpT Kd;ndr;rhpf;if Message ID : LEWM-19-10-2023-1500-00 Update : 26 th update Validity Period : From 15:00 hrs on 19.10.2023 To 15:00 hrs on 20.10.2023",
+    "fonts": [
+      "Baamini",
+      "Bahnschrift Light",
+      "Nirmala UI,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.94,
+      37.33,
+      539.64,
+      73.51
+    ],
+    "text": "Locations for Potential Risk \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db4\u0db8\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8 \u0dd9\u0dd0\u0dc0\u0dad\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db4\u0dda\u0dc1 fdjpahd mghaKs;s ,lq;fs;",
+    "fonts": [
+      "Baamini",
+      "Nirmala UI,Bold",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.9,
+      84.18,
+      545.19,
+      99.19
+    ],
+    "text": "District Level 1 (Yellow) Level 2 (Amber) Level 3 (Red)",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      150.13,
+      77.54,
+      163.41
+    ],
+    "text": "Badulla",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.46,
+      108.85,
+      248.81,
+      204.81
+    ],
+    "text": "Bandarawela, Haputhale and Passara Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.71,
+      122.65,
+      406.06,
+      191.01
+    ],
+    "text": "Haldummulla Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      311.2,
+      66.26,
+      324.48
+    ],
+    "text": "Galle",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.46,
+      207.61,
+      248.81,
+      427.94
+    ],
+    "text": "Nagoda, Imaduwa, Neluwa, Elpitiya, Galle Four Gravets, Yakkalamulla, Thawalama, Bope Poddala, Akmeemana, Ambalangoda, Niyagama and Baddegama Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      465.18,
+      98.9,
+      478.46
+    ],
+    "text": "Hambantota",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.46,
+      430.74,
+      248.81,
+      513.02
+    ],
+    "text": "Beliatta and Okewela Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.71,
+      430.74,
+      406.06,
+      513.02
+    ],
+    "text": "Katuwana and Walasmulla Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      550.26,
+      81.5,
+      563.54
+    ],
+    "text": "Kalutara",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.46,
+      515.7,
+      248.81,
+      598.01
+    ],
+    "text": "Ingiriya and Walallawita Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      662.97,
+      72.26,
+      676.25
+    ],
+    "text": "Kandy",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.46,
+      600.81,
+      248.81,
+      738.31
+    ],
+    "text": "Udunuwara, Harispattuwa, Thumpane, Pathadumbara, Udadumbara and Pasbage Korale Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      768.71,
+      77.54,
+      781.99
+    ],
+    "text": "Kegalle",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.46,
+      741.11,
+      240.17,
+      809.59
+    ],
+    "text": "Ruwanwella, Deraniyagala, Aranayaka, Bulathkohupitiya and Yatiyanthota",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.71,
+      741.11,
+      401.02,
+      809.59
+    ],
+    "text": "Kegalle, Mawanella and Dehiowita Divisional Secretariat",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.46,
+      37.67,
+      248.81,
+      92.25
+    ],
+    "text": "Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.71,
+      37.67,
+      406.06,
+      64.63
+    ],
+    "text": "Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      205.45,
+      136.46,
+      218.73
+    ],
+    "text": "Matara",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.71,
+      95.05,
+      406.06,
+      329.16
+    ],
+    "text": "Matara Four Gravets, Kotapola, Mulatiyana, Athuraliya, Kamburupitiya, Hakmana, Malimbada, Kirinda Puhulwella, Pasgoda, Pitabeddara, Akuressa, Thihagoda and Welipitiya Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      366.4,
+      106.58,
+      379.68
+    ],
+    "text": "Nuwara Eliya",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.46,
+      331.96,
+      248.81,
+      414.26
+    ],
+    "text": "Kotmale and Ambagamuwa Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      499.74,
+      89.54,
+      513.02
+    ],
+    "text": "Ratnapura",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      133.46,
+      416.94,
+      248.81,
+      595.85
+    ],
+    "text": "Nivithigala, Ayagama, Imbulpe, Kahawatta, Kiriella, Kolonna, Pelmadulla, Godakawela and Balangoda Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.71,
+      430.74,
+      406.06,
+      582.05
+    ],
+    "text": "Openayake, Weligepola, Kalawana, Eheliyagoda, Ratnapura, Elapatha and Kuruwita Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.0,
+      599.37,
+      552.65,
+      669.41
+    ],
+    "text": "Note: \u2191shifted one level up, \u2191\u2191shifted two levels up, \u2193shifted one level down, \u2193\u2193shifted two levels down. *newly added with the last update Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas and given weather forecast by meteorological department of Sri Lanka",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      671.61,
+      555.38,
+      802.99
+    ],
+    "text": "Areas and places which need special attention All mountainous areas, manmade cut slopes and roads within the relevant DS divisions \u0d85\u0daf\u0dcf\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0daf\u0dda\u0d9a\u0db8\u0dca \u0daf\u0d9a\u0dcf\u0da7\u0dca\u0da8\u0dcf\u0dc1 \u0dad\u0dd4\u0dbd \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0d9a\u0db3\u0dd4\u0d9a\u0dbb \u0db6\u0dd1\u0dc0\u0dd4\u0db8\u0dca \u0dc4\u0dcf \u0d92 \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dad\u0dd4\u0dbd \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dd2\u0dad gpuNjr nrayf gphptpDs;shd rfy kiyg;ghq;fhd gFjpfs; kw;Wk; ntl;lg;gl;l epyr; rha;Tfs; Specially: All the landslide susceptible areas previously identified by NBRO. \u0dc0\u0dd2\u0db4\u0dda\u0dc2: \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0daf \u0dcf\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0db4\u0dbb\u0dca\u0db8\u0daf\u0dda\u0dc2\u0dab \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0daf\u0db8\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0daf\u0dbd\u0dc3 \u0db4\u0dd4\u0dbb\u0dca\u0db8\u0dc0\u0daf\u0dba\u0db1\u0dca \u0dc4\u0daf\u0dd4\u0db1\u0dcf\u0daf \u0db1 \u0d87\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1",
+    "fonts": [
+      "Baamini",
+      "Nirmala UI",
+      "Nirmala UI,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37.2,
+      38.11,
+      549.94,
+      65.11
+    ],
+    "text": "tpNrlkhf: NBROtpdhy; Kd;dh; milahsg;gLj;jg;gl;l kz;rhpTf;fhd VjepiyAs;s rfy gpuNjrq;fs;.",
+    "fonts": [
+      "Baamini",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37.2,
+      689.73,
+      332.09,
+      719.38
+    ],
+    "text": "Previous Message ID : LEWM-18-10-2023-1500-00 Issued by: Approved by:",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37.2,
+      757.19,
+      422.12,
+      770.64
+    ],
+    "text": "Duty Officer Director - LRRMD",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      437.98,
+      718.67,
+      546.94,
+      732.12
+    ],
+    "text": "19-10-2023, 15:00 hrs",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      441.1,
+      744.47,
+      543.94,
+      757.92
+    ],
+    "text": "Date and time issued",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172.97,
+      785.99,
+      425.12,
+      799.44
+    ],
+    "text": "Landslide Research and Risk Management Division",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198.53,
+      799.79,
+      399.94,
+      813.07
+    ],
+    "text": "National Building Research Organisation",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

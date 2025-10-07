@@ -1,0 +1,47 @@
+Landslide Early Warning නායයෑම් පිළිබඳ පෙර අනතුරු ඇඟවීම kz;rhpT Kd;ndr;rhpf;if Message ID : LEWM-24-10-2022-1500-13 Update : 13th update Validity Period : From 15:00 hrs on 24.10.2022 To 15:00 hrs on 25.10.2022
+
+Locations for Potential Risk නායයෑමේ අවදානම පැවතිය හැකි ප්‍රමේශ fdjpahd mghaKs;s ,lq;fs;
+
+District Level 1 (Yellow) Level 2 (Amber) Level 3 (Red)
+
+Galle
+
+Yakkalamulla and Nagoda Divisional Secretariat Division(s) (DSD) and surrounding areas.
+
+Baddegama, Akmeemana and Galle Four Gravets Divisional Secretariat Division(s) (DSD) and surrounding areas.
+
+Kalutara
+
+Agalawatta, Millaniya and Mathugama Divisional Secretariat Division(s) (DSD) and surrounding areas.
+
+Walallawita, Bulathsinhala, Dodangoda, Ingiriya and Palindanuwara Divisional Secretariat Division(s) (DSD) and surrounding areas.
+
+Kegalle
+
+Ruwanwella, Deraniyagala, Warakapola, Bulathkohupitiya, Dehiowita, Yatiyanthota and Mawanella Divisional Secretariat Division(s) (DSD) and surrounding areas.
+
+Nuwara Eliya
+
+Ambagamuwa Divisional Secretariat Division(s) (DSD) and surrounding areas.
+
+Ratnapura
+
+Eheliyagoda, Ratnapura, Ayagama, Kiriella, Kuruwita, Nivithigala and Kalawana Divisional Secretariat Division(s) (DSD) and surrounding areas.
+
+Note: ↑shifted one level up, ↑↑shifted two levels up, ↓shifted one level down, ↓↓shifted two levels down. *newly added with the last update Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas and given weather forecast by meteorological department of Sri Lanka
+
+Areas and places which need special attention All mountainous areas, manmade cut slopes and roads within the relevant DS divisions අදාල ප්‍රාදේ ශීය දේ කම් දේකාට්ඨා ාශ තුල පිහිටි කඳුකර බෑවුම් හා ඒ ආශ්‍රිත ප්‍රදේ ශ තුල පිහිටි නිර්මිත gpuNjr nrayf gphptpDs;shd rfy kiyg;ghq;fhd gFjpfs; kw;Wk; ntl;lg;gl;l epyr; rha;Tfs; Specially: All the landslide susceptible areas previously identified by NBRO. විමේෂ: ජාතික දේ ාඩනැගිලි පර්මදේේෂණ සංවිධානය විසින් නායයෑදේම් අවදානමක් ඇති දේලස පුර්මවදේයන් හදුනාදේ න ඇති ප්‍රදේ ශ tpNrlkhf: NBROtpdhy; Kd;dh; milahsg;gLj;jg;gl;l kz;rhpTf;fhd VjepiyAs;s rfy gpuNjrq;fs;.
+
+Previous Message ID : LEWM-23-10-2022-1500-12
+
+Issued by: Approved by:
+
+Duty Officer Director - LRRMD
+
+24-10-2022, 15:00 hrs
+
+Date and time issued
+
+Landslide Research and Risk Management Division
+
+National Building Research Organisation
