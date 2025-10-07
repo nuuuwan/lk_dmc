@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-07-02-05-30-weather-forecast",
+  "num": "05-30-weather-forecast",
+  "date_str": "2023-07-02",
+  "description": "Weather Forecast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3350",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2023__1688257264.pdf",
+  "time_str": "05:30",
+  "ut": 1688256000.0
+}

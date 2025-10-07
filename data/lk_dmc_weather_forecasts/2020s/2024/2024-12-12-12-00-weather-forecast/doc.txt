@@ -1,0 +1,59 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2024 දෙසැම්බර් මාස 13 දින්‍යය සඳහා කා ලංගුණ අන්‍ය වැකිය 2024 දෙසැම්බර් මාස 12 දින්‍ය මාධ්‍ හාන්‍ය 12.00 ට නිකුත්කාරන්‍ය ලංදී.
+
+නිරිත දිග දබ ග ලං දබ ක්කා මුහුදු ප්‍රදේශදේ පැවති අඩු පීඩන්‍ය කාලං පය දුර්වලං දවමින් පවතී. උතුරු, උතුරු මැද ස බස්නාහිර පළාත්වලත් ගාල්ල ස මාතර දිස්ත්රික්කවලත් විටින් විට වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. උතුරු පළාහත් ඇතැම් ස්ථානවලට මි.මී. 50 පමණ තරමක් තද වැසි ඇතිවිය ැක.
+
+හසසු ප්‍රහේශවල සවස් කාලහේ හ ෝ රාත්‍රී කාලහේ තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. ඌව පළාහත් ඇතැම් ස්ථාන වලට මි.මී. 75 පමණ තරමක් තද වැසි ඇතිවිය ැක.
+
+මධ්‍යම, සබරගමුව, දකුණ, ස ඌව පළාත්වල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක. ගිගුරුම් සහිත වැසි සමාග ඇතිවිය හාැකි ත වකා ලිකා තෙ සුළ වලින් සහා අකුණු මාඟින් සිදු වන්‍ය අන්‍යතුරු අවමා කාර ගැනීමාට අවශ පියවර ගන්න්‍ය දලංස ජන්‍යත වදගන් කා රුණිකාව ඉල්ලං සිටිනු ලංැදේ.
+
+WEATHER FORECAST FOR 13 DECEMBER 2024
+
+Issued at 12.00 noon on 12 December 2024
+
+The low-pressure area over the southwest Bay of Bengal is weakening. Showers or thundershowers will occur at times in Northern, North-central and Western provinces and in Galle and Matara districts. Fairly heavy showers about 50mm are likely at some places in Northern province. Showers or thundershowers may occur at several places elsewhere during the evening or night. Fairly heavy showers about 75mm are likely at some places in Uva province.
+
+Misty conditions can be expected in Central, Sabaragamuwa, Southern, and Uva provinces during the morning.
+
+The general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍රදේශ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2024 දෙසැම්බර් මාස 12 දින්‍ය මාධ්‍ හාන්‍ය 12.00 ට නිකුත් කාරන්‍ය ලංදී.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 12 December 2024.
+
+නිරිත දිග දබ ග ලං දබ ක්කා මුහුදු ප්‍රදේශදේ පැවති අඩු පීඩන්‍ය කාලං පය දුර්වලං දවමින් පවතී.
+
+වැසි තත්ත්වය: ත්‍රිකුණාමලය, කන්කසන්තුර ස මන්නාරම ර ා පුත්තලම දක්වා වන මුහුදු ප්‍රහේශවල විටින් විට වැසි ඇති හේ. දිවයින වටා වන හසසු මුහුදු ප්‍රහේශවල ස්ථාන ස්වල්පයක වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. සුළඟ:
+
+ත්‍රිකුණාමලය සිට කන්කසන්තුරය ස හකාළඹ ර ා ගාල්ල දක්වා වන මුහුදු ප්රහේශවල සුළං ඊසාන සිට වයඹ දක්වා දිශාවලින් මන අතර සුළහේ හේගය පැ.කි.මී. (30-40) පමණ හේ. ත්‍රිකුණාමලය සිට කන්කසන්තුරය ර ා පුත්තලම දක්වා වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින්විට පැ.කි.මී. (50-60) පමණ දක්වා ඉ ළ යා ැකි අතර පුත්තලම සිට හකාළඹ ර ා ගාල්ල දක්වා වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. 50 පමණ දක්වා ඉ ළ යා ැක. දිවයින වටා වන හසසු මුහුදු ප්‍රහේශවල සුළං නිශ්ිත දිශාවකින් හතාරව මන අතර හේගය පැ.කි.මී. (25-35) පමණ හේ. මුහුදේ ස්වභ වය:
+
+පුත්තලම සිට මන්නාරම ස කන්කසන්තුරය ර ා මුලතිේ දක්වා වන මුහුදු ප්‍රහේශ විටින් විට රළු හ ෝ ඉතා රළු විය ැකි අතර පුත්තලම සිට හකාළඹ ර ා ගාල්ල දක්වා වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු විය ැක. දිවයින වටා වන හසසු මුහුදු ප්‍රහේශ විටින් විට මද වශහයන් රළු හේ. ගිගුරුම් සහිත වැසි ඇති වන්‍ය විට එමා මුහුදු ප්‍රදේශවලං ත වකා ලිකාව තෙ සුළ ඇති විය හාැකි අතර එවිට එමා මුහුදු ප්‍රදේශ ත වකා ලිකාව ඉත රළු විය හාැකා.
+
+The low-pressure area over the southwest Bay of Bengal is weakening. Condition of Rain:
+
+Showers will occur at times in the sea areas extending from Trincomalee to Puttalam via Kankasanthurai and Mannar. Showers or thundershowers will occur at a few places in the other sea areas around the island. Winds: Winds will be North-easterly to North-westerly in the sea areas extending from Trincomalee to Galle via Kankasanthurai and Colombo. Wind speed will be (30-40) kmph. Wind speed can increase up to (50-60) kmph at times in the sea areas extending from Trincomalee to Puttalam via Kankasanthurai and up to 50kmph in the sea areas extending from Puttalam to Galle via Colombo. Winds will be variable in direction in the other sea areas around the island and wind speed will be (25-35) kmph. State of Sea: The deep and shallow sea areas off the coast extending from Puttalam to Mullaittivu via Mannar and Kankasanthurai will be rough to very rough at times and the sea areas extending from Puttalam to Galle via Colombo can be fairly rough at times. The other sea areas around the island will be moderate.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

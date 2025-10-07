@@ -1,0 +1,77 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2024 දෙසැම්බර් මස 16 දින්‍ය සඳහා කාලගුණ අන්‍ාවැකිය 2024 දෙසැම්බර් මස 15 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලදී.
+
+විද ේෂ ෙැනුම්දීම:
+
+ගිණිදකාන්‍දිග දබංගාල දබාක්ක මුහුදු ප්‍රදේ ආශ්‍රිතව අඩු පීඩන්‍ කලාපයක් නිර්මාණය වී ඇති අතර එම පේධ්‍තිය තවදුරටත් දසමින් වර්ධ්‍න්‍ය දවමින් බටහිරට බරව වයඹ දෙසට ගමන් කරනු ඇත. ඉන් පසුව එළදඹන්‍ දින්‍ දෙක තුලදී, එය දිවයිදන් උතුරට ආසන්න්‍ව තමිල්න්‍ාඩු දවරළ දෙසට ගමන් කිරීදම් හැකියාවක් පවතී.
+
+දමම පේධ්‍තිය සම්බන්ධ්‍ව කාලගුණ විෙයා දෙපාර්තදම්න්තුව විසින් නිකුත් කරනු ලබන්‍ ඉදිරි අන්‍ාවැකි සහ නිදේෙන්‍ පිළිබඳව, විද ේෂදයන්ම දිවයිදන් න්‍ැදගන්‍හිර සහ උතුරු පළාත්වල දවදසන්‍ මහජන්‍තාව අවධ්‍ාන්‍දයන් පසුවන්‍ දලස ඉල්ලා සිටිනු ලැදේ.
+
+හෙට (දෙසැම්බර් 16) දින්‍ය සඳහා අන්‍ාවැකිය:
+
+උතුරු, නැගෙනහිර, උතුරු-මැද සහ වයඹ පළාත්වලත් මාතගේ දිසරික්කගේත් විටින්විට වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. හසසු ප්‍රහේශවල සවස් කාලහේ හ ෝ රාත්‍රී කාලහේ තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. උතුරු, නැගෙනහිර, උතුරු-මැද සහ ඌව පළාත්වලත් මාතගේ දිසරික්කගේත් ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය ැක.
+
+උතුරු,උතුරු-මැද සහ වයඹ පළාත්වලත් මාතගේ සහ ිකුණාමලය දිසරික්කවලත් විටින් විට මන පැ.කි.මී. 40 ක පමණ තරමක තද සුළං ඇතිවිය ැක.
+
+මධ්‍යම, සබරගමුව ස දකුණු පළාත්වල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක. ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තෙ සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අව ය පියවර ගන්න්‍ා දලස ජන්‍තාවදගන් කාරුණිකව ඉල්ලා සිටිනු ලැදේ.
+
+WEATHER FORECAST FOR 16 DECEMBER 2024
+
+Issued at 12.00 noon on 15 December 2024 Special Information: A low-pressure area is formed over southeast Bay of Bengal. It is likely to intensify further and move west-northwestwards towards the Tamil Nadu coast, close to North of Sri Lanka during the subsequent two days.
+
+The general public, particularly living in the Eastern and Northern provinces are requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regard.
+
+Weather Forecast for tomorrow (16th of December): Showers or thundershowers will occur at times in Northern, Eastern, North-central and North-western provinces and in Matale district. Showers or thundershowers may occur at several places elsewhere during the evening or night.
+
+Heavy showers above 100mm are likely at some places in Northern, Eastern, North-central and Uva provinces and in Matale district. Fairly strong winds of about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Matale and Trincomalee districts.
+
+Misty conditions can be expected in Central, Sabaragamuwa and Southern provinces during the morning.
+
+The general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු ප්‍රදේ සඳහා කාලගුණ අන්‍ාවැකිය
+
+2024 දෙසැම්බර් මස 15 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත් කරන්‍ ලදී.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 15 December 2024.
+
+විද ේෂ ෙැනුම්දීම: ගිණිදකාන්‍දිග දබංගාල දබාක්ක මුහුදු ප්‍රදේ ආශ්‍රිතව අඩු පීඩන්‍ කලාපයක් නිර්මාණය වී ඇති අතර එම පේධ්‍තිය තවදුරටත් දසමින් වර්ධ්‍න්‍ය දවමින් බටහිරට බරව වයඹ දෙසට ගමන් කරනු ඇත. ඉන් පසුව එළදඹන්‍ දින්‍ දෙක තුලදී, එය දිවයිදන් උතුරට ආසන්න්‍ව තමිල්න්‍ාඩු දවරළ දෙසට ගමන් කිරීදම් හැකියාවක් පවතී.
+
+දබංගාල දබාක්ක මුහුදු ප්‍රදේ දේ ධීවර සහ න්‍ාවුක කටයුතුවල දයදෙන්‍ ප්‍රජාව, දමම පේධ්‍තිය සම්බන්ධ්‍ව කාලගුණ විෙයා දෙපාර්තදම්න්තුව විසින් නිකුත් කරනු ලබන්‍ ඉදිරි අන්‍ාවැකි සහ නිදේෙන්‍ පිළිබඳව අවධ්‍ාන්‍දයන් පසුවන්‍ දලස ඉල්ලා සිටිනු ලැදේ.
+
+වැසි තත්ත්වය: කන්කසන්ුරය සිට ත්‍රිකුණාමලය ර ා ගපාතුවිේ දක්වා වන මුහුදු ප්‍රහේශවල විටින් විට වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිහේ. දිවයින වටා වන හසසු මුහුදු ප්‍රහේශවල තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක.
+
+සුළඟ: හපාුවිල් සිට ත්‍රිකුණාමලය, කන්කසන්ුරය, පුත්තලම ස හකාළඹ ර ා ගාල්ල දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළං ඊසාන දිශාහවන් මා එයි. එම මුහුදු ප්‍රහේශවල සුළහේ හේගය පැ.කි.මී. (30-40) පමණ වන අතර විටින් විට පැ.කි.මී. 50 පමණ දක්වා ඉ ළ යා ැක. හසසු මුහුදු ප්‍රහේශවල සුළං නිශ්ිත දිශාවකින් හතාරව මන අතර හේගය පැ.කි.මී. (25-35) පමණ හේ. මුහුදේ සේවභාවය: හපාුවිල් සිට ත්‍රිකුණාමලය, කන්කසන්ුරය, පුත්තලම ස හකාළඹ ර ා ගාල්ල දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල විටින් විට තරමක් රළු විය ැකි අතර හසසු මුහුදු ප්‍රහේශ මද වශහයන් රළු විය ැක.
+
+ගිගුරුම් සහිත වැසි ඇති වන්‍ විට එම මුහුදු ප්‍රදේ වල තාවකාලිකව තෙ සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේ තාවකාලිකව ඉතා රළු විය හැක.
+
+Special Information: A low-pressure area is formed over southeast Bay of Bengal. It is likely to intensify further and move west-northwestwards towards the Tamil Nadu coast, close to North of Sri Lanka during the subsequent two days.
+
+Naval and fishing communities, engaging activities over Bay of Bengal are requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regard. Condition of Rain:
+
+Showers or thundershowers will occur at times in the sea areas extending from Kankasanthurai to Pottuvil via Trincomalee. Showers or thundershowers may occur at several places in the other sea areas around the island.
+
+Winds: Winds will be North-easterly in the sea areas off the costs extending from Pottuvil to Galle via Trincomalee, Kankasanthurai, Puttalam and Colombo. Wind speed will be (30-40) kmph and it will increase up to 50 kmph at times in these sea areas. Winds will be variable in direction in the other sea areas around the island and wind speed will be (25-35) kmph. State of Sea: The sea areas off the coast extending from Pottuvil to Galle via Trincomalee, Kankasanthurai Puttalam and Colombo will be fairly rough at times. The other sea areas around the island will be moderate.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

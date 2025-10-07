@@ -1,0 +1,59 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2024 දෙසැම්බර් මස 30 දින්‍ය සඳහා කාලගුණ අන්‍ාවැකිය 2024 දෙසැම්බර් මස 29 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලදී.
+
+හෙට දින (30) සිට ඉදිරි දින කිහිපහේදී, දිවයිහේ උතුරු, උතුරු-මැද, නැහෙනහිර සෙ ඌව පළාත්වල වැසි තත්ත්වහේ තරමක වැඩිවීමක් බලාහපාහරාත්තු හේ.
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වලත් මාතගේ දිසරික්කගේත් විටින් විට වැසි ගහෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි අතර ඇතැම් සරථාන වලට මි.මි. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+ගසසු ප්‍රගේශවල සවසර කාලගේදී ගහෝ රාත්‍රී කාලගේදී තැනින් තැන වැසි ගහෝ ගිගුරුම් සහිත වැසි ඇතිගේ. බසරනාහිර, සබරෙමුව සහ දකුණු පළාත්වල ඇතැම් සරථාන වලට මි.මි. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැක.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම ස දකුණු පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක. ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තෙ සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්න්‍ා දලස ජන්‍තාවදගන් කාරුණිකව ඉල්ලා සිටිනු ලැදේ.
+
+WEATHER FORECAST FOR 30 DECEMBER 2024
+
+Issued at 12.00 noon on 29 December 2024 Showery weather condition is expected to enhance to some extent over Northern, North-central, Eastern and Uva provinces from tomorrow (30) for next few days.
+
+Showers or thundershowers may occur at times in Northern, North-Central, Eastern and Uva provinces and in Matale district. Fairly heavy showers above 50mm can be expected at some places in these areas.
+
+Showers or thundershowers will occur at several places elsewhere during the afternoon or night. Fairly heavy showers about 75mm can be expected at some places in Western, Sabaragamuwa and Southern provinces. Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Southern provinces during the morning. The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු ප්‍රදේශ්‍ සඳහා කාලගුණ අන්‍ාවැකිය
+
+2024 දෙසැම්බර් මස 29 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත් කරන්‍ ලදී.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 29 December 2024.
+
+වැසි තත්ත්වය: මන්නාරම සිට කන්කසන්ුරය ස ත්‍රිකුණාමලය ර ා මඩකළපුව දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල තැනින් තැන වැසි ඇතිහේ. දිවයින වටා වන හසසු මුහුදු ප්‍රහේශවල ස්ථාන ස්වල්පයක සවස් කාලහේදී හ ෝ රාත්‍රී කාලහේදී වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. සුළඟ: දිවයින වටා වන මුහුදු ප්‍රහේශවල සුළං ඊසාන දිශාහවන් මා එන අතර සුළහේ හේගය පැ.කි.මී. (20-30) පමණ හේ. හකාළඹ සිට පුත්තලම ස කන්කසන්ුරය ර ා ත්‍රිකුණාමලය දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල ස මඩකළපුව සිට හම්බන්ගතාට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. (40-50) පමණ දක්වා ඉ ළ යා ැක.
+
+මුහුදේ ස්වභාවය:
+
+හකාළඹ සිට පුත්තලම ස කන්කසන්ුරය ර ා ත්‍රිකුණාමලය දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ ස මඩකළපුව සිට හම්බන්ගතාට දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු ගේ. ගිගුරුම් සහිත වැසි ඇති වන්‍ විට එම මුහුදු ප්‍රදේශ්‍වල තාවකාලිකව තෙ සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ්‍ තාවකාලිකව ඉතා රළු විය හැක.
+
+Condition of Rain:
+
+Shower will occur at several places in the sea areas extending from Mannar to Batticaloa via Kankasanthurai and Trincomalee. Showers or thundershowers may occur at a few places in the other sea areas around the island during the evening or night.
+
+Winds: Winds will be north-easterly in the sea areas around the island and speed will be (20-30) kmph. Wind speed can increase up to (40-50) kmph at times in the sea areas off the coast extending from Colombo to Trincomalee via Puttalam and Kankasanthurai and from Batticaloa to Hambantota.
+
+State of Sea: The sea areas off the coast extending from Colombo to Trincomalee via Puttalam and Kankasanthurai and from Batticaloa to Hambantota will be fairly rough at times. Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

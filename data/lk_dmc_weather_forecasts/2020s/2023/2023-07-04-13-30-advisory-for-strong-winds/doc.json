@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-07-04-13-30-advisory-for-strong-winds",
+  "num": "13-30-advisory-for-strong-winds",
+  "date_str": "2023-07-04",
+  "description": "Advisory for Strong winds",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3340",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/WWL23070401S__1688458881.pdf",
+  "time_str": "13:30",
+  "ut": 1688457600.0
+}

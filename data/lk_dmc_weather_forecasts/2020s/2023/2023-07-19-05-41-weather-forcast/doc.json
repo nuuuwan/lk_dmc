@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-07-19-05-41-weather-forcast",
+  "num": "05-41-weather-forcast",
+  "date_str": "2023-07-19",
+  "description": "Weather Forcast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3300",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0541hrs__1689725804.pdf",
+  "time_str": "05:41",
+  "ut": 1689725460.0
+}

@@ -1,0 +1,65 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2024 දෙසැම්බර් මස 22 දින්‍ය සඳහා කාලගුණ අන්‍ාවැකිය 2024 දෙසැම්බර් මස 21 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලදී.
+
+බස්නාහිර ස සබරගමුව පළාත්වලත් ගාල්ල ස මාතර දිස්ික්කවලත් සිහින් වැසි වාර කිහිපයක් ඇතිහේ. මධ්‍යම ස ඌව පළාත්වලත් අම්පාර, මඩකලපුව ස ම්බන්හතාට දිස්ික්කවලත් සවස් කාලහේ හ ෝ රාත්‍රී කාලහේ තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. මධ්‍යම, සබරගමුව, ඌව ස නැහගනහිර පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තෙ සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්න්‍ා දලස ජන්‍තාවදගන් කාරුණිකව ඉල්ලා සිටිනු ලැදේ.
+
+WEATHER FORECAST FOR 22 DECEMBER 2024
+
+Issued at 12.00 noon on 21 December 2024
+
+Several spells of light showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places in Central and Uva provinces and in Ampara, Batticaloa and Hambantota districts during the evening or night.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa, Uva and Eastern provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු ප්‍රදේශ්‍ සඳහා කාලගුණ අන්‍ාවැකිය
+
+2024 දෙසැම්බර් මස 21 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත් කරන්‍ ලදී.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 21 December 2024.
+
+වැසි තත්ත්වය:
+
+හකාළඹ සිට ගාල්ල, මාතර ස ම්බන්හතාට ර ා හපාතුවිල් දක්වා වන මුහුදු ප්‍රහේශවල තැනින් තැන වැසි ඇතිහේ. දිවයින වටා වන හසසු මුහුදු ප්‍රහේශවල සවස් කාලහේ හ ෝ රාත්‍රී කාලහේ ස්ථාන ස්වල්පයක වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. සුළඟ:
+
+දිවයින වටා වන මුහුදු ප්‍රහේශවල සුළං බස්නාහිර සිට වයඹ දක්වා දිශාවලින් මා එන අතර සුළහේ හේගය පැ.කි.මී. (20-30) පමණ හේ. හකාළඹ සිට ගාල්ල, මාතර ස ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින්විට පැ.කි.මී. (50-55) පමණ දක්වා ඉ ළ යා ැක. මුහුදේ ස්වභාවය: හකාළඹ සිට ගාල්ල, මාතර ස ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු හ ෝ රළු විය ැක.
+
+ගිගුරුම් සහිත වැසි ඇති වන්‍ විට එම මුහුදු ප්‍රදේශ්‍වල තාවකාලිකව තෙ සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ්‍ තාවකාලිකව ඉතා රළු විය හැක.
+
+Condition of Rain:
+
+Showers will occur at several places in the sea areas extending from Colombo to Pottuvil via Galle, Matara and Hambanthota. Showers or thundershowers may occur at a few places in the other sea areas around the island during the afternoon or night.
+
+Winds:
+
+Winds will be westerly to North-westerly in the sea areas around the island and speed will be (20-30) kmph. Wind speed can increase up to (50-55) kmph at times in the sea areas off the coast extending from Colombo to Pottuvil via Galle, Matara and Hambantota.
+
+State of Sea: The sea areas off the coast extending from Colombo to Pottuvil via Galle, Matara and Hambantota will be fairly rough or rough at times.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

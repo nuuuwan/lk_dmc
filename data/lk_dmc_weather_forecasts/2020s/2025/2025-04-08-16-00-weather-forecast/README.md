@@ -1,0 +1,99 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය 2025 අප්‍රේල් මස 08 දින්‍ සවස 04.00 ට නිකුත් කරන්‍ ලදි.
+
+අද රාත්‍රී: දිවයිහන් හ ාහ ෝ ප්‍රහේශවල තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ.
+
+ස රගමුව, මධ්‍යම, ඌව, නැහගනහිර ස දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75 ක පමණ තරමක තද වැසි ඇති විය ැක.
+
+ප්‍රහට දින්‍: දකුණු පළාහත් විටින් විට වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ. හසසු ප්‍රහේශ වල සවස් කාලහේදී හ ෝ රාත්‍රී කාලහේදී තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක. ස්නාහිර පළාහත් ස පුත්තලම දිස්ික්කහේ හවරළ ඩ ප්‍රහේශවල උදෑසන කාලහේදී ද වැසි ඇතිවිය ැක.
+
+ස රගමුව, දකුණු ස ඌව පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇති විය ැක.
+
+ස රගමුව, මධ්‍යම, ඌව ස නැහගනහිර පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන්‍ අන්‍තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්න්‍ා ප්‍රලස ජන්‍තාවප්‍රගන් කාරුණිකව ඉල්ලා සිටිනු ලැප්‍රේ. දෘශ්‍ය ප්‍රලස සූර්යයා උතුරට ගමන් කිරීප්‍රම්දී සූර්යයා, අප්‍රේල් මස 05 සිට 14 දක්වා දින්‍වලදී ශ්‍රී ලංකාව ආශ්‍රිත අක්්ාංශ්‍ වලට සෘජුවම ඉහලින් පවතී. ප්‍රහට දින්‍ (09) දහවල් 12:12 ට උයන්ගල්ල, අරංගල, ප්‍රකෝන්ගහප්‍රවල, ප්‍රමාරගහකන්ද සහ මඩකලපුව යන්‍ ප්‍රප්‍රේශ්‍වලට හිරු මුදුන් වනු ඇත.
+
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+
+Issued at 04.00 p.m. on 08 April 2025
+
+Tonight: Showers or thundershowers will occur at most places of the island.
+
+Fairly heavy rainfall of about 75 mm are likely at some places in Sabaragamuwa, Central, Uva, Eastern and Sothern provinces.
+
+Tomorrow: Showers or thundershowers will occur at times in Southern province. Showers or thundershowers may occur at several places in the other areas over the island during the afternoon or night. Showers may occur in the coastal areas of Western province and Puttalam district in the morning too.
+
+Fairly heavy rainfall of above 50 mm are likely at some places in Sabaragamuwa, Sothern and Uva provinces.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central, Uva and Eastern provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+On the apparent northward relative motion of the sun, it is going to be directly over the latitudes of Sri Lanka during 05th to 14th of April in this year. The nearest areas of Sri Lanka over which the sun is overhead tomorrow (09th) are Uyangalla, Arangala, Kongahawela, Moragahakanda and Batticaloa at about 12:12 noon.
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+Weather Forecast for Main Cities Date : 9-Apr-2025
+
+City Temperature (0C) Relative Humidity (%) Weather Max Min Max Min Anuradhapura 35 24 90 55 Showers or thundershowers are likely after 2.00p.m
+
+Batticaloa 32 25 85 65 Showers or thundershowers are likely after 2.00p.m Colombo 33 25 95 70 Showers or thundershowers are likely after 2.00p.m
+
+Galle 31 26 95 75 Showers or thundershowers Jaffna 33 24 90 65 A few showers
+
+Kandy 31 21 95 65 Showers or thundershowers are likely after 2.00p.m Nuwara-Eliya 23 12 95 55 Showers or thundershowers are likely after 2.00p.m
+
+Ratnapura 33 24 95 60 Showers or thundershowers after 2.00p.m Trincomalee 33 25 90 60 Showers or thundershowers are likely after 2.00p.m
+
+Mannar 33 27 90 65 Showers or thundershowers are likely after 2.00p.m
+
+ප්‍රධාන්‍ න්‍ගර සදහා කාලගුණ අන්‍ාවැකිය දින්‍ය : 2025-04-09
+
+න්‍ගරය උ්ණත්වය(ප්‍රස. අංශ්‍ක) සාප්‍රේක්් ආර්රතාවය(%) කාලගුණය උපරිම අවම උපරිම අවම අනුරාධ්‍පුරය 35 24 90 55 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක
+
+මඩකලපුව 32 25 85 65 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක හකාළඹ 33 25 95 70 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක
+
+ගාල්ල 31 26 95 75 වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ යාපනය 33 24 90 65 වැසි ස්වල්පයක්
+
+ම නුවර 31 21 95 65 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක නුවරඑළිය 23 12 95 55 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක
+
+රත්නපුරය 33 24 95 60 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ ිකුණාමලය 33 25 90 60 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක
+
+මන්නාරම 33 27 90 65 සවස 2.00න් පසුව වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක
+
+பிரதான நகரங்களுக்கான வானிலை முன்னறிவித்தல் திகதி : 2025-04-09
+
+நகரம் வவப்பநிலை (0C) சாரீரப்பதன் (%)
+
+வானிலை உச்ச குலைந்த உச்ச குலைந்த
+
+அனுராதபுரம் 35 24 90 55 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம்
+
+மட்டக்களப்பு 32 25 85 65 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம்
+
+வகாழும்பு 33 25 95 70 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம் காலி 31 26 95 75 மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும்
+
+யாழ்ப்பாணம் 33 24 90 65 சிறிதளவில் மலை வபய்யும்
+
+கண்டி 31 21 95 65 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம்
+
+நுவவரலியா 23 12 95 55 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம் இரத்தினபுரி 33 24 95 60 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும்
+
+திருககாணமலை 33 25 90 60 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம்
+
+மன்னார் 33 27 90 65 பி.ப. 2.00 மணிக்குப் பின்னர் மலை அல்ைது இடியுடன் கூடிய மலை வபய்யும் சாத்தியம்

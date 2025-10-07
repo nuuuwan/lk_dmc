@@ -1,0 +1,51 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2024 දෙසැම්බර් මාස 25 දින්‍ය සඳහා කා ලංගුණ අන්‍ය වැකිය 2024 දෙසැම්බර් මාස 25 දින්‍ය උෙෑසන්‍ය 05.30 ට නිකුත්කාරන්‍ය ලංදි.
+
+දිවයිහන් හ ාහ ෝ ප්‍රහේශවල ප්‍රධ්‍ාන වශහයන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතී. ස්නාහිර, ස රගමුව, මධ්‍යම, දකුණු, ඌව ස උතුරු-මැද පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක.
+
+WEATHER FORECAST FOR 25 DECEMBER 2024
+
+Issued at 05.30 a.m. on 25 December 2024 Mainly fair weather will prevail over most parts of the island. Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern, Uva and North-central provinces during the morning.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍රදේශ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2024 දෙසැම්බර් මාස 25 දින්‍ය උෙෑසන්‍ය 05.30 ට නිකුත් කාරන්‍ය ලංදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 05.30 a.m. on 25 December 2024
+
+වැසි තත්ත්වය:
+
+දිවයින වටා වන මුහුදු ප්‍රහේශවල ප්‍රධ්‍ාන වශහයන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතී.
+
+සුළඟ:
+
+දිවයින වටා වන මුහුදු ප්‍රහේශවල සුළං වයඹ සිට ස්නාහිර දක්වා දිශාවලින් මා එන අතර සුළහේ හේගය පැ.කි.මී. (20-30) පමණ හේ. හේරුවල සිට ගාල්ල ස මාතර ර ා ම් න්හතාට දක්වා ස මුලතිේ සිට ත්‍රිකුණාමලය දක්වා හවරළට ඔේහ න් වන මුහුදු ප්‍රහේශවල සුළහේ හේගය විටින්විට පැ.කි.මී. 40 පමණ දක්වා ඉ ළ යා ැක.
+
+මුහුදේ ස්වභ වය:
+
+හේරුවල සිට ගාල්ල ස මාතර ර ා ම් න්හතාට දක්වා ස මුලතිේ සිට ත්‍රිකුණාමලය දක්වා හවරළට ඔේහ න් වන මුහුදු ප්‍රහේශ විටින් විට තරමක් රළු විය ැක.
+
+Condition of Rain: Mainly fair weather will prevail sea areas around the island. Winds: Winds will be north-westerly to westerly in the sea areas around the island and speed will be (20-30) kmph. Wind speed can increase up to 40 kmph at times in the sea areas off the coast extending from Beruwala to Hambanthota via Galle and Matara, and from Mullaittivu to Trincomalee.
+
+State of Sea: The sea areas off the coast extending from Beruwala to Hambanthota via Galle and Matara, and from Mullaittivu to Trincomalee may be fairly rough at times.
