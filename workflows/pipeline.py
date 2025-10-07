@@ -2,7 +2,11 @@ import sys
 
 from utils import Log
 
-from dmc import RiverWaterLevelAndFloodWarnings, SituationReport
+from dmc import (
+    RiverWaterLevelAndFloodWarnings,
+    SituationReport,
+    WeatherForecast,
+)
 
 log = Log("pipeline")
 
@@ -11,7 +15,7 @@ if __name__ == "__main__":
     log.debug(f"{doc_class_label=}")
     for doc_class in [
         SituationReport,
-        WeatherForecas,
+        WeatherForecast,
         RiverWaterLevelAndFloodWarnings,
     ]:
         if doc_class.get_doc_class_label() == doc_class_label:
