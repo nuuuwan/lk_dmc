@@ -2,13 +2,13 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2025-10-07 18:33:10",
+  "time_updated": "2025-10-07 18:59:53",
   "n_docs": 3277,
   "n_docs_with_pdfs": 3277,
   "n_docs_with_text": 3277,
   "date_str_min": "2023-06-30",
   "date_str_max": "2025-10-07",
-  "dataset_size": 4050215044,
+  "dataset_size": 4050215045,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
