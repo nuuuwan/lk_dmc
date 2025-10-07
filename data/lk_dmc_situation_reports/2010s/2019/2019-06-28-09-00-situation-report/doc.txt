@@ -1,0 +1,451 @@
+4
+
+දිස්ත්‍රික්කය ஫ாவட்டம்
+
+District
+
+ප්‍රා.ලේ. ලකො gpuNjr nra.gp DS Division
+
+පවුේ සංඛ්‍යාල
+
+FLk;gq;fs;
+
+Families
+
+පුද්ග඼යින්
+
+egHfs;
+
+People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpa
+
+sT Partiall
+
+y
+
+කුඩා හා මධය පරිමාණ ලයාපාරික ස්ථාන சிமி஬,
+
+நடுத்த஭, நிறுவனங்கரின் சசதங்கள்;
+
+Small, Medium,
+
+Enterprises
+
+Damages
+
+ඉතා ලැදගත් යටිත඼ පහසුකම්
+
+ල඼ට වූ හානි mbg;gilf; fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ෂිත
+
+ස්ථාන සංඛ්‍යාල vz;zpf;i
+
+f No. of Safety
+
+Location
+
+s
+
+පවුේ සංඛ්‍යාල FLk;gq;
+
+fs; Families
+
+පුද්ග඼යින්
+
+egHfs; Persons
+
+2019.03.181358131213 Pettigala
+
+2019.04.26301093012380 pettigala ground
+
+2019.04.269341934 Heyaswatte Tamil
+
+School- Kolonne
+
+RathnapuraHigh wind2019.06.221105220101005300334127
+
+Drought2019.04.1550155
+
+2019.06.201312019.06.131412019.06.24161Batuvita2019.06.12121
+
+Aranayaka2019.06.13292
+
+2019.06.141412019.06.2041842019.06.2173672019.06.201412019.06.1113692410000203000012144201007330334127
+
+Arachchikattuwa15985719
+
+Mundalama20417404
+
+Mahawewa21648239
+
+Nawagaththegama148392
+
+Wanathavilluwa4551572
+
+Karuwalagaswewa11373348
+
+Mahakubukkadawala30429562
+
+Pallama18236173
+
+AnamaduwaHigh Wind2019.06.2515112409424140000010000Ambanpola2019.04.035411613Galgamuwa2019.04.113551439Udubaddawa2019.05.08288991Kotawehera2019.052593Polpithigama2019.05 සිට19756330Kuliyapitiya - East2019.05.152931263Maaspotha2019.04 සිට59214Giribawa2019.5.285441373Polgahawela2019.01 සිට185548Mawathagama2019.05.15173566443814430000000000016847568440000010000
+
+ලයඹ ප඼෈ත tlNky; khfhzk; North Western
+
+Drought4
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+2
+
+ක්ගල්඼ Nffhiy Kegalle
+
+1
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුල khfhz $l;Lj;njhif Province Total
+
+රත්නපුර ,uj;jpdGhp Rathnapura
+
+කුරුණ්ග඼ FUdhfy; Kurunegala
+
+Dehiovita
+
+High Wind
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+ආපදාල mdHj;jk; Disaster
+
+බ඼පෑමට ඼ක්වු ghjpf;fg;gl;l Affected
+
+ලේකම් - රාජ්‍ය පරිපා඼න සහ ආපදා කළමනාකරණ අමාතයාං඾ය / சச஬யாரர், சபாது நிர்வாக ஫ற்றும் அனர்த்த முகாம஫த்துவ அம஫ச்சு / Secretary, Ministry of Public Administration & Disaster Managementරාජ්‍ය පරිපා඼න සහ ආපදා කළමනාකරණ අමාතයාං඾ය ගරු අමාතයතුමාලේ පුද්ගලික ලේකම් /சகௌ஭வ பி஭மைக்கு தனி஬ார் சச஬யாரர் சபாது நிர்வாக ஫ற்றும் அனர்த்த முகாம஫த்துவ அம஫ச்சர் / Private Secretary to the Hon. Minister of Public Administration & Disaster Management
+
+පළාත khfhzk; Province
+
+ලලනත් කරුණු NtW Fwpg;Gf;fs;
+
+Remarks
+
+අතුරුදහ
+
+න්වූ පුද්ග඼යි
+
+න් fhzhky;NghNdhH Missin
+
+g People
+
+ලලනත් හානි பிம பாதிப்புகள்
+
+Other Damages
+
+ආරක්ෂිත ස්ථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+නිලාස හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+පළාත් ඵකතුල khfhz $l;Lj;njhif Province Total
+
+#
+
+මිය යෑම් kuzq;fs; Deaths
+
+පරිපා඼න ප්‍රලද්඾ය நிர்வாகப் பிரிவு
+
+Administrative purvie
+
+Landslide RiskBalangoda
+
+තත්ත්ල ලාර්තාල - ශ්‍රී ඼ංකාල / epiyik mwpf;if - ,yq;if/ Situation Report- SriLanka දිනය /jpfjp / Date : 28th June 2019 at 0900hrs
+
+තුලා඼වු පුද්ග඼යි
+
+න් fhakile;NjhH
+
+Injured
+
+People
+
+ලයඹ ප඼෈ත tlNky; khfhzk; North Western
+
+සබරගමුල ප඼෈ත rg;ufKt Sabaragamuwa
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+Kegalle
+
+Yatiyanta
+
+පුත්ත඼ම Gj;jsk Puttalam3Drought2019.01.24
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+4
+
+Vavuniya NorthDrought2019.03.1139105
+
+VavuniyaFire2019.06.24141401090001000000Delft2019.03.1810313071Velanai2019.03.2127989642Kayts24227848Karainagar27608297Maruthankarny10604630Karaveddi3361064Chavakachcheri336111484Chankanai626721206Sandilipay10413345
+
+KarainagarHigh Wind2019.06.02282Two People missing while fishing21078705950020000000Nanattan2019.04.0324007941Musali372214627Mannar Town20456460Madhu2019.04.01409913349Manthai West2019.04.0158082073818074631150000000000Kandawalai3221185Poonakary305710329Karachchi2019.05.15192070365299185500000000000
+
+Puthukudiyirippu2019.04.1019676296
+
+Maritimepattu2019.04.25107993379712766400930000000000572571924620021000000Galewela210752Dambulla299970Yatawatta2019.04.0512374092Rattota2019.03.283412136485158194620000000000
+
+2019.05.292410024124100 Holired School -
+
+Nuwara eliya2019.06.1962861628 Starlin Tamil SchoolLandslide Risk2019.06.2226126 Dibula DispesaryKotmaleHigh Wind2019.06.23131AbagamuwaHigh Wind2019.06.211613414300030200332134Pasbage Korale121Thumpane131Ududumbara2019.06.23292Panvila2019.06.24111Pathahewahata2019.06.22272Hatharaliyadda2019.06.20131825000071000052001963000030910332134HambantotaDrought2019.04.083801490Ambalantota2019.06.261112019.06.23143115877045Okewela82369Weeraketiya50220Beliatta50192215193214100000000
+
+14
+
+ග෈ල්඼ fhy Galle
+
+GalleDrowning2019.06.261
+
+001000000000215193215100000000දිස෇ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+දකුනු ප඼෈ත njd; khfhzk; Southernදිස෇ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+13
+
+හම්බන්තතොට `k;ghe;Njhl;I Hambantota
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+2019.04.01
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+නුලරඑලිය Etnuypah Nuwara Eliya
+
+Nuwara Eliya
+
+11
+
+Drought
+
+9
+
+Drought
+
+මු඼තිව් Ky;iyj;jPT Mulaitivu
+
+Drought
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+2019.06.20
+
+12 නුලර
+
+fz;b KandyHigh Wind
+
+Fire
+
+පළාත් ඵකතුල khfhz $l;Lj;njhif Province Total
+
+Drought
+
+Tissamaharama
+
+2019.04.08
+
+පළාත් ඵකතුල khfhz $l;Lj;njhif Province Total
+
+7
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+2019.03.18Drought
+
+2019.06.10
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+6
+
+මධයම ප඼෈ත kj;jpa khfhzk; Central10
+
+ම෈තතල් khj;jis Matale
+
+Drought
+
+2019.06.27
+
+Drowning
+
+ලව්නිය෈ල tTdpah Vavuniya5
+
+ය෈පනය aho;g;ghzk; Jaffna
+
+උතුරු ප඼෈ත tl khfhzk; Northen
+
+පළාත් ඵකතුල khfhz $l;Lj;njhif Province Total
+
+මන්න෈රම kd;dhH Mannar
+
+කිලිතනොච්චිය fpspnehr;rp Killinochchi
+
+2019.04.088
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+4
+
+Welikanda23747791
+
+Dimbulagala10493009
+
+Lankapura100425
+
+Hingurakgoda2019.06.19161
+
+Medirigiriya2019.06.176206
+
+Elahera2019.06.124164
+
+35341126700001010000
+
+Palugaswewa200625
+
+Padaviya60320
+
+Nuwaragame palatha2019.05.0651185
+
+Rambewa2019.06.242387155491845000000000040831311200001010000
+
+Thirukkovil3061110Uhana32145Dehiattakandiya6902570
+
+Potuvil11953738
+
+Mahaoya15745994
+
+Ampara96356
+
+Navithanveli26498329
+
+Nayadivembu10783577
+
+Akkaraipattu62204
+
+Padiyathalawa316811282
+
+Damana531212415530528High Wind2019.06.2493510115456999200001000000Kinniya90333301524822019.06.19131Tathavisri Pura2019.06.24151Thambalagamuwa2019.04.10102413Kuchchaveli2019.04.164671561Muthur2019.04.22169569Kanthale2019.06.126641758245981210002000000Koralaipattu North19486204Koralaipattu west125432Koralaipattu Central5481916Koralaipattu South18466135Eravur Pattu392013595Manmunai West418314334Manmunai South West395112267Poratheevupattu599219552225137443500000000003651715254800021000000
+
+17
+
+Drought2019.05.04
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුල khfhz $l;Lj;njhif Province Total
+
+Drought
+
+High Wind
+
+15
+
+තපොත඼ොන්නරුල nghyd;dWit Polonnaruwa
+
+16
+
+අනුර෈ධපුර m.Guk; Anuradhapura
+
+උතුරුම෉ද ප඼෈ත tlkj;jpa khfhzk North Central
+
+19
+
+මඩක඼පුල kl;lf;fsg;G Batticaloa
+
+18
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+2019.04.10
+
+2019.06.05
+
+න෉තගනහිර ප඼෈ත fpof;F Eastern
+
+Drought
+
+2019.03.15
+
+Drought2019.04.17
+
+අම්ප෈ර mk;ghiw Ampara
+
+Lahugala
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුල khfhz $l;Lj;njhif Province Total
+
+2019.04.08
+
+ත්‍රීකුණ෈ම඼ය jp.kiy Trincomalee
+
+දිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+Verugal
+
+Drought
+
+Drought
+
+Fire
+
+4
+
+ButtalaDrought2019.04.083401530
+
+Lighting151
+
+26116324
+
+Bibila292Badalkumbura282Madulla31633741684100331000003741684100331000001225504460436223613360666261ර෈ජක෈රි භ෈ර නිළධ෈රි / flik mjpfhhp / Duty Officer : 011 2670002
+
+ආපද෈ කළමන෈කරණ මධයස෇ථ෈නය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136 ෆ෉ක්ස෇/ njhiy efy; / Fax: 0112670079 විදුත් ත෉ප෉ල් / kpd;dQ;ry; / Email: eocdmc@gmail.comතලබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk .
+
+For Director GeneralAssistant Director / Duty OfficerHiran Thilakarathne
+
+මාධය ප්‍රකා඾ක / nra;jp njhlHghsHfs; / Media Spokesmen :
+
+……………….…………………………
+
+මුළු එකතුල nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+පළාත් ඵකතුල khfhz $l;Lj;njhif Province Totalදිස්ත්‍රික් එකතුල khtl;l $l;Lj;njhif District Total
+
+ඌල Cth khfhzk Uva
+
+Siyabalanduwa
+
+High Wind & Heavy Rain
+
+2019.06.2420
+
+තමොනර෈ග඼ nkhdwhfiy Moneragala
