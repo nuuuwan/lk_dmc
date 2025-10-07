@@ -1,0 +1,1695 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      545.52,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "2",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      51.89,
+      144.14,
+      70.39
+    ],
+    "text": "CONTENTS",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      79.47,
+      437.72,
+      93.38
+    ],
+    "text": "1. SITUATION SUMARY ................................................................................................. 3",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      98.43,
+      437.36,
+      112.34
+    ],
+    "text": "2. CURRENT SITUATION............................................................................................... 4",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      117.27,
+      435.2,
+      131.18
+    ],
+    "text": "3. RESPONSE ACTIONS\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...4",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      136.23,
+      436.28,
+      150.14
+    ],
+    "text": "4. RAINFALL STATUS \u2026\u2026\u2026\u2026................................................................................... 5",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      155.19,
+      437.0,
+      169.1
+    ],
+    "text": "5. FLOOD AND HIGH WIND IMPACT \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 6",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      174.03,
+      436.04,
+      187.94
+    ],
+    "text": "6. FLOOD RESPONSE AND RESCUE OPERATIONS .............................................7",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      192.99,
+      437.6,
+      206.9
+    ],
+    "text": "7. RESOURCE MAP \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026............................. 8",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      211.83,
+      437.84,
+      225.74
+    ],
+    "text": "8. ENDORSEMENT \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. 9",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      43.44,
+      249.78,
+      441.92,
+      281.16
+    ],
+    "text": "ANNEXES ........................................................................................................................... 11",
+    "fonts": [
+      "Gill Sans MT",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      545.52,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "3",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.4,
+      58.35,
+      231.41,
+      76.88
+    ],
+    "text": "SITUATION SUMMARY",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.984000205993652
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.4,
+      85.88,
+      531.38,
+      98.68
+    ],
+    "text": "\uf0a8 A heavy rainfall together with high winds was occurred across several parts of Sri Lanka be-",
+    "fonts": [
+      "Gill Sans MT,Bold",
+      "Symbol"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.42,
+      101.12,
+      552.9,
+      129.04
+    ],
+    "text": "tween 01 to 11 October 2018, caused flash floods mainly in twelve districts, including Southern, Western, North-Western and Sabaragamuwa Provinces.",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.4,
+      143.48,
+      557.04,
+      156.28
+    ],
+    "text": "\uf0a8 Early-warnings reached to the affected people and evacuations were done covering the people",
+    "fonts": [
+      "Gill Sans MT,Bold",
+      "Symbol"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.42,
+      158.6,
+      555.69,
+      201.76
+    ],
+    "text": "who are at risk . Search & rescue teams were mobilized and boats were kept as ready to deploy to the affected districts. 670 military and police officials were mobilized immediately for search and rescue operations.",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.4,
+      216.2,
+      547.21,
+      229.0
+    ],
+    "text": "\uf0a8 75,241 people (18,736 families) have been affected (the Disaster Situation Report , DMC & Na-",
+    "fonts": [
+      "Gill Sans MT,Bold",
+      "Symbol"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.42,
+      231.3,
+      546.17,
+      274.51
+    ],
+    "text": "tional Disaster Relief Services Centre (NDRSC) at 1000 hours on 11th October 2018) and 12 deaths were reported in 5 Districts. NDRSC has provided 28.54 million cash allocations to the 11 District Secretaries to address the immediate needs of the affected populations.",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      11.064000129699707
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.4,
+      288.95,
+      539.22,
+      301.75
+    ],
+    "text": "\uf0a8 Heavily affected districts are Kalutara, Galle, Colombo and Gampaha counting 8,021 people",
+    "fonts": [
+      "Gill Sans MT,Bold",
+      "Symbol"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.42,
+      304.07,
+      384.26,
+      316.87
+    ],
+    "text": "and over 1,797 families are displaced (11th Oct 2018 1000hrs).",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.4,
+      331.31,
+      532.85,
+      344.11
+    ],
+    "text": "\uf0a8 River water levels at many stations are gradually decreasing, as the rainfall recorded in the",
+    "fonts": [
+      "Gill Sans MT,Bold",
+      "Symbol"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.42,
+      346.43,
+      531.68,
+      374.69
+    ],
+    "text": "catchments during the last 24 hours ending 0830 hours is lower compared to the rainfall re-ceived in 5 and 6 October 2018.",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      409.81,
+      510.59,
+      436.16
+    ],
+    "text": "No of affected Districts 16 No of affected Divisional Secretariats 109",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      9.984000205993652
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      439.62,
+      517.55,
+      451.16
+    ],
+    "text": "Total no of families affected 18,736",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      454.62,
+      517.55,
+      466.16
+    ],
+    "text": "No of members affected 75,241",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      484.09,
+      210.12,
+      496.89
+    ],
+    "text": "Total no of death reported",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      260.69,
+      469.62,
+      434.39,
+      481.16
+    ],
+    "text": "Cutting Failure -8 (Galle- 2,Kalutara-6)",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      260.69,
+      484.62,
+      507.83,
+      496.16
+    ],
+    "text": "12 Drowning -2 (Ratnapura -1,Colombo-1 )",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      500.7,
+      505.07,
+      526.16
+    ],
+    "text": "Tree Fall - 2 (Kegalle -1, Ratnapura-1) Total no of missing persons reported 0",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      529.62,
+      507.83,
+      541.16
+    ],
+    "text": "Total no of injured reported 18",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      544.62,
+      507.83,
+      556.16
+    ],
+    "text": "Total no of Fully damaged houses 50",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      559.62,
+      514.79,
+      571.16
+    ],
+    "text": "Total no of partially damaged houses 2,635",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      574.62,
+      507.83,
+      586.16
+    ],
+    "text": "No of safety centers reported 14",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      589.65,
+      514.79,
+      616.07
+    ],
+    "text": "No of families in safety centers 1,859 No of Persons in Safety centers 8,234",
+    "fonts": [
+      "Gill Sans MT",
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      545.52,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "4",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.98,
+      41.69,
+      249.05,
+      60.19
+    ],
+    "text": "CURRENT SITUATION",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      76.28,
+      554.62,
+      119.44
+    ],
+    "text": "As per the Department of Meteorology, few places in Galle Kalutara, Colombo & Gampaha districts have received high rainfall. As of 7th October at 8.30hrs received highest rainfalls are Galle 334.1mm, Padukka 186mm, Colombo Fort 109.3mm, Kirindiwela 89.2mm.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      127.88,
+      554.52,
+      155.8
+    ],
+    "text": "As of today, approximately, 1,859 families have been evacuated into 14 welfare centres in 5 Districts due to flood and landslide risks. As of now 12 deaths were reported to the Disaster Management Centre.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      164.24,
+      554.58,
+      207.4
+    ],
+    "text": "Two Tropical storms persisted in Arabian Sea and Bay of Bengal are moving away from the country and re-duction of rainfall is expected from today onwards. However there is a possibility of rainfall in Southern, South-western and Sabaragamu areas and also in eastern, north central areas during next 48 hours.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      215.72,
+      554.65,
+      304.51
+    ],
+    "text": "Department of Meteorology reported last 24 hours rainfall observed in main stations ended on morning hours of 11 October 2018 showing reduction of rainfall in many areas; in Anuradhapura 00mm, Katunayaka 01mm, Mahailuppallama 00mm and Vavuniya 00mm. The highest rainfall recorded was around 50.4mm in Galle district District. However, based on received rainfall since 11th October 2018, rainfall has been re-duced in catchment areas and affected areas and flood waters are receding, allowing response and relief ser-vices to be more effective.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      11.064000129699707
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      312.83,
+      427.01,
+      325.63
+    ],
+    "text": "Landslide watch is still effective Galle, Kegalle, Rathnapura and Badulla Districts.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      334.07,
+      312.02,
+      346.87
+    ],
+    "text": "Landslide Red alert is still effective in Kalutara, district.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      385.19,
+      559.11,
+      428.37
+    ],
+    "text": "The EOC of the DMC has coordinated with Military agencies and Police to mobilize troops for response ac-tions. So far 19 officers, 650 soldiers with response equipment are mobilized in three districts to support ground efforts. Further, 50 officers and 1,275 soldiers are standby for required deployments.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      436.81,
+      559.14,
+      464.73
+    ],
+    "text": "Cooked meals have been given by divisional administration with the support of DMC & NDRSC and military personnel for all displaced people in 4 Districts.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      473.17,
+      559.21,
+      516.33
+    ],
+    "text": "Over 1,000 people have been evacuated to safe areas by military troops in Galle and Kalutara Districts. De-bris due to flood water has been cleared by response personnel in Biyagama, Palindanuwara, Ingiriya, Wakwella, Agaliya, Walallawita divisional areas.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      524.65,
+      559.49,
+      567.81
+    ],
+    "text": "Rain water blockage was cleared in Nagalagam street area due to establishment of salt water de-intrusion dyke by the SLRDCC. The Ministry has immediately requested to take action to mitigate this issue to reduce impact of heavy rains.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.54,
+      355.41,
+      183.35,
+      371.68
+    ],
+    "text": "Response Actions",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      545.52,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "5",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      267.29,
+      41.1,
+      560.78,
+      129.88
+    ],
+    "text": "As a result of Tropical Cyclone \u201cTitly\u201d the heavy rains were oc-curred in South western, Sabaragamu areas over 5-7 October 2018. Since the system moving away from Sri Lankan east coast the effect is slowly fading out as of today. However sudden in-crease of rain and winds are still potential and considerable rain-fall received to Uva areas.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      267.29,
+      138.2,
+      560.78,
+      211.72
+    ],
+    "text": "The effects of Tropical cyclone \u201cLuban\u201d in the Arabian sea has been moved from western coast of the country and no more major influence to the weather in Sri Lanka. The inter-monsoon has been establishes over the country now and today onward evening showers are expected.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38.64,
+      43.07,
+      257.46,
+      54.61
+    ],
+    "text": "FIGURE 01: Rainfall received 09 October 2018",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38.64,
+      62.84,
+      195.55,
+      74.42
+    ],
+    "text": "ending at 8.30am on11 Oct 2018",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.984000205993652
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      39.96,
+      414.61,
+      345.26,
+      427.41
+    ],
+    "text": "FIGURE 02: River water level, 0930 hours 11 October 2018",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      38.64,
+      767.87,
+      196.74,
+      779.41
+    ],
+    "text": "Source: Department of Irrigation",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      40.56,
+      276.88,
+      213.9,
+      288.42
+    ],
+    "text": "Source: Department of Meteorology",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      40.68,
+      682.77,
+      120.15,
+      694.31
+    ],
+    "text": "Reservoir Levels",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      40.68,
+      702.57,
+      545.29,
+      714.11
+    ],
+    "text": "Spill gates opened as 4 Gates of Rajanganaya, 4 Gates of Deduruoya, 1 gate of Laxapana since 6th October 2018 up to now.",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      40.68,
+      722.44,
+      556.39,
+      750.48
+    ],
+    "text": "River gauges in Kalu River (Ganga) showing minor flood level, Gin River (Ganga) Showing Alert level, other rivers are showing normal levels in rained areas",
+    "fonts": [
+      "Gill Sans MT,Italic"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.7,
+      362.68,
+      257.94,
+      374.22
+    ],
+    "text": "Latest Sat Image",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.66,
+      382.48,
+      257.94,
+      394.02
+    ],
+    "text": "Source: US Naval Meteorology",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      545.52,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "6",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.76,
+      40.61,
+      290.69,
+      59.11
+    ],
+    "text": "FLOOD & HIGH WIND IMPACT",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      38.76,
+      64.12,
+      430.62,
+      76.94
+    ],
+    "text": "FIGURE 03: Affected Districts and Divisions for Priorities, 11 October 2018",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.064000129699707
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      545.52,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "7",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      38.76,
+      40.61,
+      428.02,
+      59.11
+    ],
+    "text": "FLOOD RESPONSE AND RESCUE OPERATIONS",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      38.76,
+      80.48,
+      393.74,
+      93.28
+    ],
+    "text": "Table 01: Details of Tri Forces allocation to the emergency response",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.78,
+      103.04,
+      452.22,
+      115.04
+    ],
+    "text": "(Galle, Kalutara, Puttalam, Colombo, Gampaha, Monaragala)",
+    "fonts": [
+      "Candara,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      38.76,
+      149.84,
+      92.99,
+      161.84
+    ],
+    "text": "Deployed",
+    "fonts": [
+      "Candara",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      38.76,
+      337.67,
+      86.27,
+      349.67
+    ],
+    "text": "Stand by",
+    "fonts": [
+      "Candara,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      38.76,
+      522.01,
+      275.41,
+      534.01
+    ],
+    "text": "Resources allocation to the Police",
+    "fonts": [
+      "Candara,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49.56,
+      177.08,
+      496.86,
+      224.6
+    ],
+    "text": "SN Tri Force Officers Others Total Equipment 1 Navy 87 87 15 boats 2 Army 3 141 144 3 Boats, 3",
+    "fonts": [
+      "Calibri",
+      "Candara",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.52,
+      227.24,
+      505.75,
+      287.63
+    ],
+    "text": "WMZ, 3 Iron horse 3 Air force 4 Police",
+    "fonts": [
+      "Calibri",
+      "Candara"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.94,
+      293.18,
+      505.75,
+      305.63
+    ],
+    "text": "Total 3 232 235",
+    "fonts": [
+      "Calibri",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49.56,
+      364.91,
+      505.06,
+      394.43
+    ],
+    "text": "SN Tri Force Officers Others Total 1 Navy 214 214",
+    "fonts": [
+      "Calibri",
+      "Candara",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.0,
+      399.99,
+      505.06,
+      412.43
+    ],
+    "text": "2 Army 39 1020 1159",
+    "fonts": [
+      "Calibri",
+      "Candara"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.76,
+      418.01,
+      505.06,
+      430.45
+    ],
+    "text": "3 Air force 1006 1006",
+    "fonts": [
+      "Calibri",
+      "Candara"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.52,
+      436.01,
+      505.06,
+      448.45
+    ],
+    "text": "4 Police 132",
+    "fonts": [
+      "Calibri",
+      "Candara"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.94,
+      454.01,
+      505.06,
+      466.45
+    ],
+    "text": "Total 39 2,158 2,279",
+    "fonts": [
+      "Calibri",
+      "Candara",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48.0,
+      549.25,
+      476.59,
+      578.77
+    ],
+    "text": "SN District Engine Boat Catamaran Boat 1 Kalutara 02 04 06",
+    "fonts": [
+      "Calibri",
+      "Candara",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.32,
+      584.31,
+      469.55,
+      596.78
+    ],
+    "text": "2 Matara 03",
+    "fonts": [
+      "Calibri",
+      "Candara",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      9.984000205993652,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.32,
+      602.36,
+      465.46,
+      614.8
+    ],
+    "text": "3 Colombo 15",
+    "fonts": [
+      "Calibri",
+      "Candara",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.18,
+      620.36,
+      469.78,
+      632.8
+    ],
+    "text": "Total 17 04 09",
+    "fonts": [
+      "Calibri",
+      "Candara",
+      "Candara,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      545.52,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "8",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      545.52,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "9",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      43.92,
+      290.51,
+      481.97,
+      303.31
+    ],
+    "text": "FIGURE 04: Disaster Relief Assistance advanced by NDRSC\u2014 As of 11 October 2018",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      42.36,
+      455.65,
+      519.05,
+      512.72
+    ],
+    "text": "Report produced at the Emergency Operation Centre (EOC) of the Disaster Management Centre (DMC) Ministry of Irrigation, Water resources and Disaster Management Technically supported by UN World Food Programme",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      42.12,
+      320.27,
+      515.81,
+      333.07
+    ],
+    "text": "NDRSC has allocated 38.51 Million Sri Lankan rupees to the most affected districts in order to assist the",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      42.12,
+      341.51,
+      252.96,
+      354.31
+    ],
+    "text": "severely affected populations ( See Figure 04).",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      538.44,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "10",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.96,
+      87.68,
+      182.88,
+      100.48
+    ],
+    "text": "I. Summary of the Situation",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.96,
+      113.24,
+      251.64,
+      126.04
+    ],
+    "text": "II. Forecast by Department of Meteorology",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.96,
+      138.68,
+      285.36,
+      151.48
+    ],
+    "text": "III. Water Level in Major Rivers (Dept of Irrigation)",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.96,
+      164.24,
+      155.97,
+      177.04
+    ],
+    "text": "IV. Landslide Warning",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      44.76,
+      46.85,
+      166.58,
+      65.35
+    ],
+    "text": "List of Annexes",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      38.76,
+      265.18,
+      189.89,
+      283.68
+    ],
+    "text": "Situation Summery",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      538.44,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "11",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      44.76,
+      46.85,
+      184.25,
+      65.35
+    ],
+    "text": "Weather forecast",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      538.44,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "12",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44.76,
+      46.85,
+      364.03,
+      65.35
+    ],
+    "text": "Flood Update\u2014Department of Irrigation",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      538.44,
+      810.4,
+      560.34,
+      826.67
+    ],
+    "text": "13",
+    "fonts": [
+      "Gill Sans MT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      44.76,
+      46.85,
+      502.42,
+      65.35
+    ],
+    "text": "Landslide Watch \u2014National Building Research Organization",
+    "fonts": [
+      "Gill Sans MT,Bold"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  }
+]

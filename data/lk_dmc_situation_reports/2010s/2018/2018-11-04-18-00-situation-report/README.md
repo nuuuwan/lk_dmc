@@ -1,0 +1,367 @@
+3
+
+දිස්ත්‍රික්කය khtl;lk ;
+
+District
+
+ප්‍රා.ලේ. ලකො gpuNjr
+
+nra.gp DS Division
+
+පවුේ සංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs;
+
+People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpa
+
+sT Partiall
+
+y
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ථාන rpW kw;Wk; kj;jpa
+
+Kaw;rpfs; Small, Medium,
+
+Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල පහසුකම්
+
+වලට වූ හානි mbg;gilf; fl;likg;Gf;fs;
+
+Damages to
+
+critical Infastructure
+
+ආරක්ෂිත
+
+ස්ථාන සංඛ්‍යාව vz;zpf;
+
+if Safety Location
+
+s
+
+පවුේ සංඛ්‍යාව FLk;gq;
+
+fs; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+Nuwara EliyaLandslide2018.10.227147AmbagamuwaCutting Failure2018.10.2114
+
+2018.10.216234115 Delpathkada community
+
+Hall2018.10.2416
+
+WalapaneCutting Failure2018.10.24-2913484289500001500115
+
+Pasbage Korale
+
+Cutting failure/ Flash Flood/ Landslide Risk
+
+2018.10.16-2041923
+
+Lightning2018.10.2414
+
+2018.10.20-281669151
+
+Kundasale2018.10.16-2273162
+
+GangawatakoraleCutting Failure2018.10.21-24176816
+
+PoojapitiyaRock Fallen2018.10.20-22292
+
+PanvilaLandslide Risk2018.10.21361251
+
+MedadumbaraHeavy Rain2018.10.17-2529118281PathahewanhetaCutting Failure2018.10.20171
+
+Harispaththuwa
+
+Cutting failure/ Tree Fallen / Landslide Risk
+
+2018.10.20/213133
+
+DoluwaHeavy Rain2018.10.20151PathadumbaraCutting Failure2018.10.20/216266MinipeCutting Failure2018.10.16-23628141UdapalathaCutting Failure2018.10.19726612018.10.311512018.10.235205Heavy Rain2018.10.31111Lightning2018.10.241211HatharaliyaddaTree Fallen2018.10.2431021UdunuwaraTree Fallen2018.10.261531Ganga Ihala KoraleCutting Failure2018.10.2962351154614030396120000Ukuwela2018.10.303579
+
+Abangaga koralaya2018.11.01111
+
+368000010000002187890304111120115
+
+නුවරඑලිය Etnuypah Nuwara Eliya
+
+ආරම්භක දිනය
+
+mdu;j;jk; Muk;gpj;j jpfjp
+
+Date of commenced
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+3මාතලේ khj;jis Matale
+
+ලේකම් - වාරිමාර්ග හා ජලසම්පත් සහ ආපදා කළමනාකරණ අමාතයාංශය / செயலாளர் - நீர்ப்பாெனம் மற்றும் நீர்வள முகாமமத்துவம் மற்றும் அனர்த்த முகாமமத்துவ அமமச்சு / Secretary, Ministry of Irrigation and Water Resources & Disaster Management
+
+වාරිමාර්ග හා ජලසම්පත් සහ ආපදා කළමනාකරණ අමාතයාංශය ගරු අමාතයතුමාලේ පුද්ගලික ලේකම් /சகௌரவ நீர்ப்பாென, நீர்வள முகாமமத்துவ அமமச்ெர் மற்றும் அனர்த்த முகாமமத்துவ அமமச்சின் செயலாளர் / Private Secretary to the Hon. Minister of Irrigation and Water Resources & Disaster Management
+
+පළාත khfhzk; Province
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarks
+
+අතුරුදහ
+
+න්වූ පුද්ගලයි
+
+න් fhzhky;NghNdhH Missin
+
+g People
+
+ලවනත් හානි வவ​று Other
+
+Damages
+
+ආරක්ෂිත ස්ථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+නිවාස හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+තත්ත්ව වාර්තාව - ශ්‍රී ලංකාව / epiyik mwpf;if - ,yq;if/ Situation Report- SriLanka දිනය /jpfjp / Date : 04th November 2018 at 1800hrs
+
+තුවාලවු පුද්ගලයි
+
+න් fhakile;NjhH
+
+Injured
+
+People
+
+#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purvie
+
+ආපදාව
+
+mdHj;jk;
+
+Disaster
+
+2
+
+මහනුවර fz;b Kandy
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+මධ්‍යම පලාත/kj;jpa khfhzk;/ Central
+
+1HangurankethaCutting Failure
+
+Cutting failure/ Flash Flood/ Landslide Risk
+
+Delthota
+
+AkuranaCutting Failure
+
+Ududumbara
+
+High Wind
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+3
+
+4
+
+ගාේල fhyp Galle
+
+BaddegamaFlood / Cutting failure 2018.10.061164055114
+
+Safe Location - Wanduramba Quarters Office1164050000500114
+
+5
+
+හම්බන්ලතොට `k;ghe;Njhl;il Hambantota
+
+KatuwanaHeavy Rain2018.10.25135312
+
+13530000120000012945800001700114ඌව/Cth khfhzk;/Uva
+
+6බදුේල gJs;is Badulla HaldummullaHeavy Rain2018.10.0862961629 Safe location - Koslan
+
+da tea Factory
+
+6290000600162962900006001629
+
+Bulathkohupitiya2018.10.302102
+
+Warakapola2018.10.19/244171
+
+62700003000006270000300000
+
+KalpitiyaLightning 2018.10.30141
+
+WanathawilluwaHeavy Rain2018.10.316206
+
+Lightning1
+
+127418
+
+Pallama2591131821
+
+Karuwalagaswewa65243
+
+Nawagaththegama35128
+
+Mahawewa2261
+
+Mundalama2381
+
+304104601008301821
+
+Narammala161
+
+Kuliyapitiya East252
+
+Paduwasnuwara East133322
+
+Polgahawela242
+
+Udubaddawa692318727902007000003911325030015301821
+
+DivulapitiyaHeavy Rain2018.11.0111454512
+
+GampahaLightning2018.11.01131
+
+11554800013000001155480001300000
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+වයඹ පලාත/tlNky; khfhzk;/ North Western/දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Arachchikattuwa
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+Heavy Rain9
+
+කුරුනෑගල FUdhfy; Kurunegala
+
+2018.11.01
+
+8
+
+පුත්තලම Gj;jsk; Puttalam
+
+Heavy Rain & Flood
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+7කෑගේල Nffhiy Kegalle
+
+Tree Fallen / Lightning
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+සබරගමුව පලාත/rg;ufKt/ Sabaragamuwa/
+
+දකුනු පලාත/njd; khfhzk;/ Southern/
+
+Western/ Nky; khfhzk;බස්නාහිර පලාත
+
+ගම්පහ fk;g`h Gampaha
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Totalදිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+2018.11.01
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+10
+
+3
+
+VelanaiLightning122
+
+Nallur392
+
+Chankanai2599
+
+TellipalaiFlood & Strong Wind2018.11.02127389
+
+15649902002000001564990200200000
+
+12
+
+මඩකලපුව kl;lf;fsg;G Batticaloa
+
+Koralaipattu SouthLightning2018.11.02141
+
+14010000000014010000000010223679090515715041659
+
+රාජකාරි භාර නිළධ්‍ාරි / flik mjpfhhp / Duty Officer : 011 2670002
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136 ෆැක්ස්/ njhiy efy; / Fax: 0112670079 විදුත් තැපැේ / kpd;dQ;ry; / Email: eocdmc@gmail.com`ලවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+……………….……………………………………..
+
+For Director GeneralAssistant Director / Duty OfficerD.M.A.S.Disanayaka
+
+මාධය ප්‍රකාශක / nra;jp njhlHghsHfs; / Media Spokesmen :
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+නැලගනහිර පලාත fpof;F Eastern
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+යාපනය aho;g;ghzk; Jaffna
+
+Flood2018.10.26
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+උතුරු පලාත tl khfhzk; Northen
+
+11
