@@ -17,6 +17,23 @@ class AbstractDMCPDFDoc(AbstractPDFDoc):
     URL_BASE = "https://www.dmc.gov.lk"
 
     @classmethod
+    def parse_url_pdf(cls, td):
+        a = td.find("a")
+        if not a:
+            return None
+        href = a.get("href")
+        if (
+            href.endswith("jpg")
+            or href.endswith("jpeg")
+            or href.endswith("png")
+        ):
+            log.warning(f"Skipping image: {href}")
+            return None
+        assert href.endswith(".pdf"), f"Expected pdf, got {href}"
+        url_pdf = f"{cls.URL_BASE}{href}"
+        return url_pdf
+
+    @classmethod
     def parse_tr(cls, url_page, tr):
         if "mhead" in tr.get("class"):
             return None
@@ -27,12 +44,9 @@ class AbstractDMCPDFDoc(AbstractPDFDoc):
         assert len(date_str) == 10, f"Expected date, got {date_str}"
         assert len(time_str) == 5, f"Expected time, got {time_str}"
 
-        a = tds[3].find("a")
-        if not a:
+        url_pdf = cls.parse_url_pdf(tds[3])
+        if not url_pdf:
             return None
-        href = a.get("href")
-        assert href.endswith(".pdf"), f"Expected pdf, got {href}"
-        url_pdf = f"{cls.URL_BASE}{href}"
 
         description_cleaned = (
             re.sub(r"[^a-zA-Z0-9\s]", "", description)
