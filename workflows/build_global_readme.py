@@ -8,6 +8,7 @@ def main():
                 "lk_dmc_situation_reports",
                 "lk_dmc_weather_forecasts",
                 "lk_dmc_river_water_level_and_flood_warnings",
+                "lk_dmc_landslide_warnings",
             ]
         }
     ).build()
