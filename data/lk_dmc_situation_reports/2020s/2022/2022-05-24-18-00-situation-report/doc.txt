@@ -1,0 +1,151 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+RathnapuraHigh Wind2022.05.22141
+
+NivithigalaHeavy Rain2022.05.22141
+
+KolonnaTree Fallen2022.05.21141
+
+EmbilipitiyaTree Fallen2022.05.23121
+
+GodakawelaHigh Wind2022.05.24151
+
+BalangodaHigh Wind2022.05.22272
+
+KahawaththaHigh Wind2022.05.24262
+
+9320000900000DeraniyagalaTree Fallen2022.05.23252MawanellaTree Fallen2022.05.23232BulathkohupitiyaHigh Wind2022.05.24282YatiyantotaHigh Wind2022.05.241617220000700000165400001600000165400001600000
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+වෙබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+……………………………………………………….
+
+For Director General
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date :24th May 2022 at 1800 hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarksපළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+SI R.M.P. Rathnayake
+
+Duty Officer
+
+තුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;
+
+NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+දිස්ික් එකතුෙ khtl;l $l;Lj;njhif District Total
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+සබරගමුෙ පලාත rg;ufKt Sabaragamuwa
+
+1
+
+රත්නපුර ,uj;jpdGhp Rathnapura
+
+2
+
+කෑගල්ල Nffhiy Kegalle
+
+දිස්ික් එකතුෙ khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුෙ khfhz $l;Lj;njhif Province Total

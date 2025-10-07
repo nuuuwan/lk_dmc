@@ -1,0 +1,435 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+Rathnapura9035434Ayagama237219Kolonna8268Godakawela1876114Nivithigala3713137Kahawatta207614Eheliyagoda6256Elapatha8431011Kuruvita4116213Kalawana12406Pelmadulla1561114Opanayake7224Kiriella2710216Weligepola2101Balangoda3123Embilipitiya131Imbulpe26239614880103183000002023.10.041212023.10.052122high wind2023.10.08131Lightning2023.10.10141Lightning2023.10.10141Cutting Failure2023.10.08151Lightning2023.10.093133Heavy Rain2023.10.11151Deraniyagalahigh wind2023.10.06292KegalleTree fallen2023.10.09131Heavy Rain2023.10.10151Heavy Rain2023.10.093103GaligamuwaTree fallen2023.10.09141high wind2023.10.083932023.10.091412023.10.092102RambukkanHeavy Rain/high wind2023.10.07/104163Tree fallen2023.10.101112023.10.041112023.10.062422023.10.09151Heavy Rain2023.10.10111Heavy Rain/high wind2023.10.07/084124Heavy Rain2023.10.041214014400003900000
+
+4361632010322200000
+
+MawanellaTree fallen
+
+Ruwanwella
+
+Yatiyanthota
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+Tree fallen
+
+2023.09.27 to 2023.10.08
+
+කෑගල්ල Nffhiy Kegalle
+
+Cutting Failure
+
+Aranayaka
+
+Warakapola
+
+Dehiovita
+
+පළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+තුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+ලවනත් කරුණු
+
+NtW Fwpg;Gf;fs;
+
+Remarks
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date :12th October 2023 at 1800hrs
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+Tree Fallen/Cutting Failure Risk/Heavy Rain/Flood
+
+රත්නපුර uj;jpdGhp Rathnapura1
+
+2
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+ස්ත්‍බරගමුව පලාත rg;ufKt Sabaragamuwa
+
+KotteWall Collapse2023.10.041421
+
+ThimbirigasyayaHeavy Rain and high wind2023.09.292487
+
+ColomboHeavy Rain and flood2023.10.0645202
+
+2023.10.06122023.10.07261733010001201000
+
+BandaragamaFlood/ Highwind2023.09.27/29/30 2023.10.0135145119
+
+BeruwalaHigh Wind
+
+2023.09.29 / 30 ස්ත්‍හ 2023.10.02/03/04/06/07
+
+2107907
+
+BulathsinhalaFlood/ Highwind /Cutting Failture
+
+2023.09.27-30 / 2023.10.01279113
+
+MathugamaHigh Wind2023.09.28-30 / 2023.10.06102819
+
+MillaniyaFlood2023.09.29-30 ස්ත්‍හ 2023.10.02/03275100311
+
+AgalawatthaHigh Wind2023.09.29 ස්ත්‍හ 2023.10.016236
+
+HoranaHigh Wind2023.09.292102
+
+WalallavitaHigh Wind2023.09.29 ස්ත්‍හ 2023.10.01 /077232
+
+IngiriyaFlood2023.09.29-30 ස්ත්‍හ 2023.10.01164711
+
+KalutaraHigh Wind2023.09.29-30, 2023.10.03 /063011136114
+
+DodangodaFlood2023.09.29-30, 2023.10.01/02/0647170118
+
+MadurawelaFlood2023.09.30, 2023.10.0147161362
+
+PanaduraFlood2023.10.01993871910824014000416720000KelaniyaFlood 2023.10.012GampahaFlood2023.09.3014AttanagallaTree Fallen2023.10.0341712DompeFlood2023.09.302
+
+WattalaFlood2023.09.30121489211140 1. විජය කුමාරතුංග
+
+ප්‍රජාශාලාවMinuwangodaRain & Wind2023.09.301610BiyagamaFlood2023.10.014Ja-ElaFlood2023.10.024MaharaFlood2023.10.0714112MeerigamaWind2023.10.01258NegomboFlood2023.10.0411295210001710011140
+
+1284483600062402111140Akuressa411851129Thihagoda664257037
+
+Malimbada9933513
+
+Devinuwara20375747
+
+Weligama82320 2211669 Polathumodara
+
+Nikodyarama TempleKamburupitiya267103035Athuraliya4015715Kirinda4115641Pasgoda103510Hakmana712737112372Matara1040342471115153588Pitabeddara3211718
+
+Mulatiyana1977111520 Erellawala Community
+
+HallKotapola9457Dickwella100372100Welipitiya301072212748996000020588008197749
+
+Flood2023.09.28 to 2023.10.09
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+4
+
+කළුතර fSj;Jiw Kalutara
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+ගම්පහ fk;g`h Gampaha
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+මාතර khj;jiw Matara
+
+Western Nky; khfhzk බස්ත්‍රනාහිර පලාත
+
+Western Nky; khfhzk බස්ත්‍රනාහිර පලාත
+
+කකාළඹ nfhOk;G Colombo3
+
+Kesbewa
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+Cutting Failure
+
+5
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+6
+
+NeluwaHeavy Rain / Flood2023.09.294134ThawalaHeavy Rain / Flood2023.10.03-088368ElpitiyaHeavy Rain / Flood2023.10.02-081542115MadampagamaHeavy Rain / Flood2023.10.03-086486RathgamaHeavy Rain / Flood2023.10.03-08262
+
+YakkalamullaHeavy Rain / Flood2023.10.03-081032101725 Walpola Sri Sandun
+
+Viharaya
+
+KadawathsatharaHeavy Rain/ Rock Fallen2023.10.03-04-082572125
+
+ගලක් කපරලීයාම කහරතුකවන් වයස්ත්‍ අවු 70ක පිරිමි පුද්ගලකයකු මරණයට පත් විය.ImaduwaHeavy Rain / Flood2023.10.04-088358Welivitiya DivithuraHeavy Rain / Flood2023.10.02-08103228BaddegamaHeavy Rain / Flood2023.10.03-088218HabaraduwaHeavy Rain / Flood2023.10.03-083193131NagodaHeavy Rain / Flood2023.10.01-0828722810BenthotaHeavy Rain / Flood2023.10.01-08123612BalapitiyaHeavy Rain / Flood2023.10.01-08215221Bope PoddalaHeavy Rain / Flood2023.10.01-08184118KarandeniyaHeavy Rain / Flood2023.10.01-08154815GonapinuwalaHeavy Rain / Flood2023.10.01-08252AmbalangodaHeavy Rain / Flood2023.10.01-08113811WandurabaHeavy Rain / Flood2023.10.01-087186HikkaduwaHeavy Rain / Flood2023.10.01-0851771NiyagamaHeavy Rain / Flood2023.10.01-08292AkmeemanaHeavy Rain / Flood2023.10.01-08825825679110042551101725
+
+300410751100248431109204774Nuwaraeliya Heavy Rain2023.09.30151HagurankethaLightening2023.10.104154Risk of Rock Fallen2023.10.091212023.09.281412023.09.302122High wind2023.09.15141Tree Fallen2023.10.091102Electric Short2023.09.10121125400001300000DoluwaFlash flood2023.10.09181PaathadumbaraHeavy Rain/high wind2023.10.09131HaarispaththuwaHeavy Rain/high wind2023.10.09141Heavy Rain2023.10.093123Heavy Rain2023.10.1173516KundasaleHeavy Rain2023.10.104164Heavy Rain2023.10.08/106206Heavy Rain/high wind2023.10.10272PanwilaHeavy Rain2023.10.09121PoojapitiyaHeavy Rain2023.10.10252GagawatakoralayaHeavy Rain2023.10.10151HatharaliyeddaHeavy Rain2023.10.11383AkuranaHeavy Rain2023.10.103233PaathahewahetaHeavy Rain2023.10.111113AkuranaHeavy Rain2023.10.114154PasbagekoraleHeavy Rain2023.10.102824217210005300000Cutting failure2023.10.11141Heavy Rain/high wind2023.10.12242AmbanpolaHeavy Rain2023.10.111314110000400000
+
+5823710007000000Flash flood2023.10.041032Flash flood2023.10.06310DankotuwaFlash flood2023.10.0647ChilawHigh wind2023.10.09141NattandiyaFlash flood2023.10.0341622690000100000
+
+10 මාතකල් khj;jis
+
+Matale
+
+Ukuwela
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+වයඹ පලාත tlNky khfhzk North Western
+
+නුවර fz;b Kandy
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+Deltota
+
+Yatinuwara
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+9
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+මධ්‍යම පලාත kj;jpa khfhzk; Central
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පුත්තලම Gj;jsk Puttalam11
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+ගාල්ල fhyp Galle7
+
+Cutting failure
+
+Wennappuwa
+
+දකුනු පලාත njd; khfhzk; Southern
+
+Walapane
+
+Ambagamuwa
+
+Kothmaleනුවරඑලිය Etnuypah Nuwara Eliya8
+
+PolgahawelaTree Fallen2023.10.01262Heavy Rain2023.10.03111Heavy Rain2023.10.03131RideegamaHeavy Rain2023.10.08292NarammalaTree Fallen2023.10.031417230000700000
+
+29920000800000Nallur2023.09.291212023.09.291212023.10.01141KopayElectrical shok2023.10.08141KarainagarHigh wind2023.09.301515170000500000
+
+Vavuniya North141
+
+Vavuniya252
+
+Vavuniya South1311
+
+4120000401000
+
+9290000901000Koralai Pattu - Valaichenai2023.09.30121
+
+Porativu Pattu - Vellavely2023.10.01151
+
+270000200000
+
+16 අම්පාර
+
+mk;ghiw AmparaAddalachcheneiLightning2023.10.0713
+
+001300000000
+
+KantaleLightning2023.10.09141
+
+Town & GravetsHigh Wind2023.10.11252
+
+390000300000
+
+5161300500000MahiyanganayaHigh wind & Rain2023.10.066527965BandarawelaCutting failure2023.10.11/127257PassaraHigh wind & Rain2023.10.04111High wind & Rain2023.10.07272High wind & Rain2023.10.11/124114High wind & Rain2023.10.09141High wind & Rain2023.10.11141High wind & Rain2023.10.07121Cutting failure2023.10.11121HalielaHigh wind & Rain2023.10.0731038634500008600000
+
+8634500008600000
+
+IpalogamaLightning2023.10.08151
+
+MedawachchiyaHeavy Rain/high wind2023.10.11373
+
+4120000400000
+
+4120000400000
+
+49151795034033148713210215814
+
+ආපදා කළමනාකරණ මධ්‍යස්ත්‍රථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්ත්‍ර/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+කවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+…..............................................CI.R.D.Dalugoda
+
+For Director General
+
+* This is an authorized report by DMC - EOC duty officer.
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+උතුරුමැද පලාත tlkj;jpa khfhzk; North Central/
+
+19 අනුරාධ්‍පුර m.Guk;
+
+Anuradhapura
+
+Welimada
+
+Ella
+
+Haputale
+
+ත්‍රීකුණාමලය jp.kiy Trincomalee17
+
+ඌව Cth khfhzk; Uva
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+නැකගනහිර පලාත fpof;F Eastern
+
+15
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+මඩකලපුව kl;lf;fsg;G Batticaloa
+
+High Wind & Heavy Rain
+
+බදුල්ල gJs;is Badulla18
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+High wind
+
+Duty Officer
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+යාපනය aho;g;ghzk; Jaffna
+
+12
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+Pointpedro
+
+පළාත් ඵකතුව/ khfhz $l;Lj;njhif/Province Total
+
+High Wind & Heavy Rain2023.10.08
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+14 වව්නියාව tTdpah
+
+Vavuniya
+
+13
+
+දිස්ත්‍රික් එකතුව/khtl;l $l;Lj;njhif/District Total
+
+කුරුණෑගල FUdhfy Kurunegala
+
+Alawwa
+
+උතුරු පලාත tl khfhzk; Northen

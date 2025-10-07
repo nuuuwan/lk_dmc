@@ -1,0 +1,878 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      43.44,
+      139.68,
+      476.74,
+      149.25
+    ],
+    "text": "DATE :26-Oct-2023TIME :6:30 PM",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.01,
+      174.36,
+      280.13,
+      194.85
+    ],
+    "text": "StationUnitAlert Level",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.57,
+      168.96,
+      316.27,
+      178.53
+    ],
+    "text": "Minor",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.89,
+      179.88,
+      315.05,
+      200.37
+    ],
+    "text": "Flood Level",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.39,
+      168.96,
+      351.08,
+      178.53
+    ],
+    "text": "Major",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.71,
+      179.88,
+      349.87,
+      200.37
+    ],
+    "text": "Flood Level",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      206.76,
+      560.88,
+      216.57
+    ],
+    "text": "Kelani GangaN' Streetft4.005.007.001.801.50Normal-",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      224.64,
+      567.0,
+      234.33
+    ],
+    "text": "Kelani GangaHanwellam7.008.0010.002.662.63Normal32.1",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      242.43,
+      564.84,
+      252.12
+    ],
+    "text": "Kelani GangaGlencoursem15.0016.5019.0010.5010.49Normal0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      260.19,
+      564.84,
+      269.88
+    ],
+    "text": "Kelani GangaKitulgalam3.004.006.001.881.90Normal0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      277.95,
+      564.84,
+      287.64
+    ],
+    "text": "Gurugoda OyaHolombuwam3.003.405.000.810.80Normal0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      295.71,
+      564.84,
+      305.4
+    ],
+    "text": "Seethawaka GangaDeraniyagalam4.805.806.400.730.77Normal0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      313.47,
+      564.84,
+      323.16
+    ],
+    "text": "Kehelgamu OyaNorwoodm1.503.004.500.941.05Normal0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      331.23,
+      567.0,
+      340.92
+    ],
+    "text": "Kalu GangaPutupaulam3.004.005.001.071.02Normal15.1",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      348.99,
+      567.0,
+      358.68
+    ],
+    "text": "Kalu GangaEllagawam10.0010.7012.206.506.70Normal41.1",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      366.75,
+      564.84,
+      376.44
+    ],
+    "text": "Kalu GangaRatnapuram5.207.509.502.282.65Normal9.7",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      384.51,
+      567.0,
+      394.2
+    ],
+    "text": "Maguru GangaMaguram4.006.007.502.042.72Normal20.4",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      398.63,
+      567.0,
+      415.73
+    ],
+    "text": "Kuda GangaKalawellawa (Millakanda)m5.006.508.003.954.01Normal35.9",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      420.05,
+      564.84,
+      429.74
+    ],
+    "text": "Gin GangaBaddegamam3.504.005.002.952.93Normal4.8",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      437.81,
+      567.0,
+      447.5
+    ],
+    "text": "Gin GangaTawalamam4.006.007.502.532.47Normal43.3",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      455.57,
+      564.84,
+      465.26
+    ],
+    "text": "Nilwala GangaThalgahagodam1.401.702.802.072.07Minor Flood0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      473.33,
+      564.84,
+      483.02
+    ],
+    "text": "Nilwala GangaPanadugamam5.006.007.506.136.18Minor FloodRising2.5",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      491.09,
+      567.0,
+      500.78
+    ],
+    "text": "Nilwala GangaPitabeddaram4.005.006.501.961.96Normal26.1",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      508.85,
+      564.84,
+      518.54
+    ],
+    "text": "Urubokka GangaUrawam2.504.006.001.301.28Normal1.8",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      526.61,
+      564.84,
+      536.3
+    ],
+    "text": "Maha OyaBadalgamam5.006.209.603.213.19Normal0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.5,
+      544.37,
+      564.84,
+      554.06
+    ],
+    "text": "Maha OyaGiriullam5.506.507.501.851.85Normal0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      20.04,
+      558.73,
+      70.9,
+      566.71
+    ],
+    "text": "Attanagalu Oya",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      30.96,
+      562.37,
+      564.84,
+      575.83
+    ],
+    "text": "(RB 103)Attanagalu OyaDunamalem3.304.405.502.222.20Normal0.0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.920000076293945,
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      16.2,
+      583.98,
+      151.65,
+      592.86
+    ],
+    "text": "Prepared by : K.G.D.C.Dissanayake (H.A.)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      16.2,
+      595.53,
+      140.72,
+      604.38
+    ],
+    "text": "Checked by :G.A.S.A.Jayamal (H.A.)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.39,
+      614.24,
+      539.86,
+      633.29
+    ],
+    "text": "Eng.S.P.C.Sugeeshwara`Director (Hydrology and Disaster Management)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.86,
+      121.76,
+      450.16,
+      134.51
+    ],
+    "text": "Islandwide Water Level & Rainfall Situation in Major Rivers",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      538.54,
+      162.48,
+      581.76,
+      182.97
+    ],
+    "text": "9 Hr RF in mm at 6.00",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      553.08,
+      184.32,
+      565.08,
+      193.89
+    ],
+    "text": "pm",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      28.2,
+      531.37,
+      75.34,
+      539.35
+    ],
+    "text": "Maha Oya",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      30.96,
+      540.49,
+      58.32,
+      548.47
+    ],
+    "text": "(RB 102)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      23.28,
+      256.07,
+      74.74,
+      264.05
+    ],
+    "text": "Kelani Ganga",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.64,
+      265.19,
+      56.4,
+      273.17
+    ],
+    "text": "(RB 01)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      27.72,
+      424.81,
+      75.72,
+      432.79
+    ],
+    "text": "Gin Ganga",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.64,
+      433.93,
+      56.4,
+      441.91
+    ],
+    "text": "(RB 09)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      25.92,
+      362.63,
+      75.72,
+      370.61
+    ],
+    "text": "Kalu Ganga",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.64,
+      371.75,
+      56.4,
+      379.73
+    ],
+    "text": "(RB 03)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      443.86,
+      173.4,
+      477.46,
+      182.97
+    ],
+    "text": "Remarks",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      488.26,
+      162.48,
+      536.25,
+      172.05
+    ],
+    "text": "Water Level",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      494.26,
+      173.4,
+      530.28,
+      182.97
+    ],
+    "text": "Rising or",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      22.8,
+      173.4,
+      524.15,
+      193.89
+    ],
+    "text": "FallingRiver Basin",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      203.09,
+      155.04,
+      263.32,
+      164.61
+    ],
+    "text": "Gauging Station",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      359.47,
+      162.48,
+      391.38,
+      193.89
+    ],
+    "text": "Water Level at 5:00 pm",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      400.03,
+      162.48,
+      431.7,
+      193.89
+    ],
+    "text": "Water Level at 6.00 pm",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      21.6,
+      478.09,
+      74.73,
+      486.07
+    ],
+    "text": "Nilwala Ganga",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.76,
+      487.21,
+      56.52,
+      495.19
+    ],
+    "text": "(RB 12)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.06,
+      173.4,
+      140.16,
+      182.97
+    ],
+    "text": "Tributory/River",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.640000343322754
+    ]
+  }
+]

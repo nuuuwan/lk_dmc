@@ -1,0 +1,265 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+KolonnaHigh Wind2023.06.04131
+
+KalawanaHeavy Rain& Flood2023.06.02186118
+
+Rock Fallen 141
+
+High Wind151
+
+High Wind2023.06.06131
+
+Flood4173
+
+Cutting Failure 391
+
+Heavy Rain& High Wind261
+
+KuruwitaLightning & Heavy Rain2023.06.015135
+
+2023.06.018337
+
+202306.03282
+
+AyagamaHeavy Rain2023.06.01111
+
+High Wind2023.06.05121
+
+High Wind2023.06.06141
+
+4916900004400000
+
+RuwanwellaTree Fallen2023.06.03161
+
+DehiowitaCutting Faliure2023.06.04131
+
+290000200000
+
+5117800004600000
+
+PalindanuwaraLand Slide/ High Wind 2023.06.04-059492
+
+HoranaHigh Wind/ Lightning2023.06.01-044144
+
+WalallawitaLightning2023.06.01-04135113
+
+BulathsinhalaHeavy Rain/ Flash Flood2023.05.0539142435
+
+BeruwalaHigh Wind2023.06.04141
+
+MathugamaHeavy Rain/ Flash Flood/Lightning2023.06.05401404
+
+Agalawatta
+
+Heavy Rain/ Flash Flood/Lightning/ Cutting failure
+
+2023.06.05291454
+
+MillaniyaLightning2023.06.05161136551000033350000
+
+136551000033350000
+
+රත්නපුර ,uj;jpdGhp Rathnapura1
+
+Godakawela
+
+කළුතර fSj;Jiw Kalutara3
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affectedතුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+RathnapuraCutting Failure / HighWind & Lightning
+
+2023.06.01
+
+2023.06.01
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Elapatha
+
+Kiriella
+
+ස්ත්‍බරගමුව පලාත rg;ufKt Sabaragamuwa
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+2
+
+කෑගල්ල Nffhiy Kegalle
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date : 06th June 2023 at 1800hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarksපළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+Western Nky; khfhzk; බස්ත්‍රනාහිර පලාත
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Monaragala2023.06.051551
+
+Madulla2023.06.043173
+
+4220501300000
+
+Hali ElaHeavy Rain2023.06.01141
+
+High wind2023.06.04131
+
+High wind2023.06.04121
+
+High wind2023.06.05151
+
+High wind2023.06.06121
+
+5160000500000
+
+9380501800000
+
+6
+
+කුරුණෑගල FUdhfy; Kurunegala
+
+UdubaddawaHigh Wind2023.06.013113
+
+3110000300000
+
+3110000300000
+
+199778050190350000
+
+ආපදා කළමනාකරණ මධ්‍යස්ත්‍රථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්ත්‍ර/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+වවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+……………………………………………………….
+
+For Director General
+
+* This is an authorized report by DMC - EOC duty officer.
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+වයඹ පලාත tlNky; khfhzk; North Western
+
+Assisatant Director / Duty Officer
+
+H.D.G.Priyantha
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+ඌව Cth khfhzk; Uva
+
+වමානරාගල nkhdwhfiy Moneragala4Tree Fallen
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+5
+
+බදුල්ල gJs;is BadullaBandarawela

@@ -1,0 +1,175 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+HaputaleLandslide Risk2022.11.279429
+
+42 people from 09 families have been sent to relative homes.
+
+HaldumullaCutting Faliure2022.11.262122
+
+Uva ParanagamaHeavy Rain2022.11.27141
+
+WelimadaHigh Wind2022.11.28121
+
+MahiyanganayaHigh Wind & Rain2022.11.26141
+
+146400001400000
+
+146400001400000
+
+BalangodaHigh Wind & Rain2022.11.165211
+
+KahawatthaFire2022.11.17151
+
+EmbilipitiyaHigh Wind2022.11.20151
+
+KolonnaHigh Wind & Rain2022.11.26151
+
+High Wind2022.11.273123
+
+Lightning2022.11.27151
+
+RathnapuraHeavy Rain2022.11.27262
+
+OpanayakaHeavy Rain2022.11.2713
+
+156200001000000
+
+156200001000000
+
+2912600002400000
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්/ njhiy efy; / Fax: 0112670079විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+වෙබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+……………………………………………………….
+
+For Director General
+
+Eheliyagoda
+
+ඌෙ Cth khfhzk Uva
+
+දිස්ික් එකතුෙ khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුෙ khfhz $l;Lj;njhif Province Total
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+1බදුල්ල gJs;is Badulla
+
+දිස්ික් එකතුෙ khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුෙ khfhz $l;Lj;njhif Province Total
+
+සබරගමුෙ පලාත rg;ufKt Sabaragamuwa
+
+2
+
+රත්නපුර ,uj;jpdGhp Rathnapura
+
+Assistant Director/ Duty Officer
+
+K.G.Mahendra Jagath
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date : 01st December 2022 at 0600 hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarksපළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affectedතුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged

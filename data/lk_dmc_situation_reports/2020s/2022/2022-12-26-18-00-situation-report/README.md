@@ -1,0 +1,233 @@
+දිස්ත්‍රික්කය மாவட்டம் District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs; People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpasT
+
+Partially
+
+කුඩා හා මධය පරිමාණ වයාපාරික
+
+ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களின் சேதங்கள்; Small,
+
+Medium, Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල
+
+පහසුකම් වලට වූ හානි mbg;gilf;
+
+fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+MataleHeavy Rain & Cutting Faliure 2022.12.2581315
+
+UkuwelaLandslide Risk2022.12.25361517
+
+GalewelaCutting Faliure2022.12.255215
+
+DambullaHeavy Rain2022.12.25151
+
+YatawattaCutting Faliure2022.12.2513571
+
+RattotaHeavy Rain & Cutting Faliure 2022.12.255141
+
+AbangangakoralayaHeavy Rain & Cutting Faliure 2022.12.2511461
+
+WilgamuwaLightning2022.12.25252
+
+Na UlaCutting Faliure2022.12.25517
+
+15963100001800000
+
+Gangawatakorale231101617
+
+Harispaththuwa31623
+
+Poojapitiya3412027
+
+Doluwa141
+
+Thumpanae282
+
+Udunuwara9356
+
+Delthta141
+
+Pathahewanheta8344
+
+AkuranaCutting Faliure2022.12.253313023135
+
+322136725019600000
+
+4811998250111400000
+
+Uhana2022.12.22-23373
+
+Padiyathalawa2022.12.25141
+
+4110000400000
+
+Manmunai NorthLightning2022.12.2514522
+
+Porativu PattuHigh Wind2022.12.25252
+
+Eravur pattuLightning / Flood2022.12.2512
+
+Manmunai PattuLightning2022.12.2527
+
+19660000400000
+
+23770000800000
+
+මධ්‍යම පලාත kj;jpa khfhzk; Central
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+දදනික තත්ත්ව වාර්තාව-ශ්‍රී ලංකාව/epiyik mwpf;if-,yq;if/Situation Report- Sri Lanka දිනය/jpfjp /Date : 26th December 2022 at 1800hrs
+
+ලවනත් කරුණු NtW Fwpg;Gf;fs; Remarksපළාත khfhzk; Province#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purview
+
+ආපදාව mdHj;jk Disaster
+
+ආරම්භක දිනය mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+මිය යෑම් kuzq;f
+
+s; Deaths
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affectedතුවාලවු පුද්ගලයින්
+
+fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයින් fhzhky;NghNdhH
+
+Missing
+
+People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+1
+
+මාතලේ khj;jis Matale
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+නැලෙනහිර පලාත fpof;F Eastern
+
+3
+
+අම්පාර mk;ghiw Ampara
+
+High Wind & Rain
+
+4
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+මඩකලපුව kl;lf;fsg;G Batticaloa
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+2022.12.25Heavy Rain & Cutting Faliure 2
+
+නුවර fz;b Kandy
+
+RideemaliyaddaHigh Wind2022.12.256266
+
+LunugalaHigh Wind2022.12.24141
+
+BandarawelaCutting Faliure2022.12.251421
+
+8340200800000
+
+8340200800000
+
+5122109270113000000
+
+ආපදා කළමනාකරණ මධ්‍යස්ත්‍රථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136
+
+ෆැක්ස්ත්‍ර/ njhiy efy; / Fax: 0112670079විදුත් තැපැේ / kpd;dQ;ry; / Email: eocdmc@gmail.com
+
+ලවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+……………………………………………………….
+
+For Director General
+
+Duty Officer
+
+SI R.M.P.Rathnayake
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+ඌව Cth khfhzk; Uva
+
+4
+
+බදුේල gJs;is Badulla
