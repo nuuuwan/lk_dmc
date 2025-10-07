@@ -45,7 +45,7 @@ class SituationReport(AbstractPDFDoc):
                 "Situation Report" in description
             ), f"Expected Situation Report, got {description}"
             assert len(date_str) == 10, f"Expected date, got {date_str}"
-            assert len(time_str) in [4, 5], f"Expected time, got {time_str}"
+            assert len(time_str) == 5, f"Expected time, got {time_str}"
 
             a = tds[3].find("a")
             if not a:
