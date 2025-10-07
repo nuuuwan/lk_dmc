@@ -1,0 +1,241 @@
+Page 1Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+දිස්ත්‍රික්කය மாவட்டம்
+
+District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව
+
+FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs;
+
+People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpa
+
+sT Partiall
+
+y
+
+කුඩා හා මධය පරිමාණ වයාපාරික ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களி
+
+ன் சேதங்கள்;
+
+Small, Medium,
+
+Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල පහසුකම්
+
+වලට වූ හානි mbg;gilf; fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+2020.06.191812020.06.261712020.06.211412020.06.25151Panvila2020.06.19262Minipe2020.06.222528350000800000
+
+2
+
+නුවරඑලිය Etnuypah Nuwara Eliya
+
+AmbagamuwaFire2020.06.27161
+
+1600001000009410000900000KatuwanaHigh Wind2020.06.19151BeliattaTree Fallean2020.06.21141TissamaharamayaHigh Wind2020.06.24141313000030000031300003000002020.06.211312020.06.24/25292Deraniyagala Cutting Failure 2020.06.264144YatiyantotaHigh Wind2020.06.11-22104410RuwanwellaLightning2020.06.21121187200001800000187200001800000SoranathotaHeavy rain2020.06.242112BadullaTree Fallean2020.06.25393
+
+Ridimaliyadda2020.06.27141
+
+Haliela2020.06.286186
+
+124200001200000124200001200000
+
+6
+
+කිලින ොච්චිය fpspnehr;rp Killinochchi
+
+KarachchiHigh Wind2020.06.27111
+
+110000100000110000100000
+
+7
+
+න ොන ොන් රුව nghyd;dWit Polonnaruwa
+
+HigurakgodaHigh Wind2020.06.11131
+
+130000100000130000100000
+
+Gomarankadawela2020.06.16272
+
+Thambalagamam2020.05.28141
+
+31100003000003110000300000
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+PasbageKorale
+
+Udunuwara
+
+මධ්‍යම ොත kj;jpa khfhzk; Central
+
+ළොත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total ළොත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+පළාත khfhzk; Province
+
+ලවනත් කරුණු NtW
+
+Fwpg;Gf;fs; Remarks
+
+මිය යෑම් kuzq;fs; Deaths
+
+තුවාලවු පුද්ගලයි
+
+න් fhakile;NjhH
+
+Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයි
+
+න් fhzhky;NghNdhH Missin
+
+g People
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+තත්ත්ව වාර්තාව - ශ්‍රී ලංකාව / epiyik mwpf;if - ,yq;if/ Drought Situation Report- Sri Lanka දිනය /jpfjp / Date : 30th June 2020 at 1800hrs
+
+1
+
+නුවර fz;b Kandy
+
+High Wind
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+3දකුනු ොත njd; khfhzk; Southern
+
+හම්බන්නතොට `k;ghe;Njhl;il Hambantota
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purvie
+
+ආපදාව mdHj;jk;
+
+Disaster
+
+ආරම්භක දිනය
+
+mdu;j;jk; Muk;gpj;j jpfjp
+
+Date of commenced
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affected
+
+ළොත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Tree Fallean
+
+ස්ත්‍බරගමුව ොත rg;ufKt Sabaragamuwa
+
+4
+
+කෑගල් Nffhiy Kegalle
+
+Mawanella
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total ළොත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+උතුරු ොත tl khfhzk; Northen
+
+ඌව Cth khfhzk; Uva
+
+බදුල් gJs;is Badulla5
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total ළොත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+High Wind
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total ළොත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+උතුරුමැද ොත tlkj;jpa khfhzk; North Central
+
+8
+
+ත්‍රීකුණොම ය jp.kiy Trincomalee
+
+High Wind ැනග හිර ොත fpof;F khfhzk; Easternදිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+ළොත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Page 2Situation Report on 2019.11.05 at 1800 hrs.xlsx4718300004700000
+
+රොජකොරි භොර නිළධ්‍ොරි / flik mjpfhhp / Duty Officer : 011 2670002
+
+ආ දො කළම ොකරණ මධ්‍යස්ත්‍රථො ය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136 ෆැක්ස්ත්‍ර/ njhiy efy; / Fax: 0112670079 විදුත් තැ ැල් / kpd;dQ;ry; / Email: eocdmc@gmail.comනවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+……………………………………………………….
+
+For Director General
+
+* This is an authorized report by DMC - EOC duty officer. No Signature is required
+
+මාධය ප්‍රකාශක / nra;jp njhlHghsHfs; / Media Spokesmen :
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+Thushitha WaidyarathneAssistant Director / Duty Officer

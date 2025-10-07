@@ -1,0 +1,259 @@
+Page 1Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+දිස්ත්‍රික්කය மாவட்டம்
+
+District
+
+ප්‍රා.ලේ. ලකා gpuNjr nra.gp DS Division
+
+පවුේ ස්ත්‍ංඛ්‍යාව
+
+FLk;gq;fs;
+
+Families
+
+පුද්ගලයින්
+
+egHfs;
+
+People
+
+පූර්ණ
+
+හානි KOik
+
+Fully
+
+අර්ධ හානි gFjpa
+
+sT Partiall
+
+y
+
+කුඩා හා මධය පරිමාණ වයාපාරික ස්ත්‍රථාන சிறிய,
+
+நடுத்தர, நிறுவனங்களி
+
+ன் சேதங்கள்;
+
+Small, Medium,
+
+Enterprises
+
+Damages
+
+ඉතා වැදගත් යටිතල පහසුකම්
+
+වලට වූ හානි mbg;gilf; fl;likg;Gf;fs;
+
+Damages to
+
+critical Infrastructure
+
+ආරක්ිත
+
+ස්ත්‍රථාන ස්ත්‍ංඛ්‍යාව vz;zpf;i
+
+f No. of Safety Locations
+
+පවුේ ස්ත්‍ංඛ්‍යාව FLk;gq;f
+
+s; Families
+
+පුද්ගලයින්
+
+egHfs; Persons
+
+Nuwaraeliya2020.08.113512524135125 Muththumari amman Kovil
+
+Kothmale2020.08.18111
+
+36126000241001351253612600024100135125
+
+SooriyawewaElephant Attack2020.09.01151
+
+KatuwanaHigh Wind2020.09.013113
+
+HambantotaHigh Wind2020.09.016123621
+
+AmbalantotaFire2020.09.01141
+
+6625600002600000Kadawathsathara2020.09.0115206702Bopepoddala2020.09.0121122Akmeemana2020.09.0160128Niyagame2020.09.018328Elpitiya 2020.09.017627521Nagoda2020.09.0251816717166020031000001737742202005700000
+
+4
+
+මුලතිව් Ky;iyj;jPT Mulaitivu
+
+MaritimpattuHigh Wind2020.08.30329832
+
+329800003200000329800003200000Mannar Town983943155200
+
+Nannadan4615446
+
+Musali224861321936814090300268001552003681409030026800155200
+
+6
+
+වව්ියාව tTdpah Vavuniya
+
+Vavuniya TownHigh Wind2020.08.3155169550
+
+55169000550000005516900055000000Kuchchaweli2020.08.23151Morawewa165516Kinniya282Town & Gravets171Kanthale17591737134000037000003713400003700000WelikandaHigh Wind2020.08.313133HingurakgodaLightning 2020.08.31151ThamankaduwaHigh Wind2020.08.3114152210004000005221000400000පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+උතුරුමැද පලාත/tlkj;jpa khfhzk;/ North Central/
+
+7
+
+පපාපලාන්නරුව/nghyd;dWit/Polonnaruwa8
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+මිය යෑම් kuzq;fs; Deaths
+
+මධ්‍යම පලාත kj;jpa khfhzk Central
+
+දකුනු පලාත njd; khfhzk Southern
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+නුවරඑලිය Etnuypah Nuwara Eliya
+
+ගාල්ල/fhyp/GalleHeavy Rain 3
+
+හම්බන්පතාට `k;ghe;Njhl;il Hambantota2
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+1Fire
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+5
+
+මන්නාරම kd;dhH Mannar
+
+Lightning & High Wind2020.09.01
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+2020.08.30
+
+2020.08.31
+
+ලවනත් කරුණු NtW
+
+Fwpg;Gf;fs; Remarks
+
+තත්ත්ව වාර්තාව - ශ්‍රී ලංකාව / epiyik mwpf;if - ,yq;if/ Situation Report- Sri Lanka දිනය /jpfjp / Date : 02nd September 2020 at 1800hrs
+
+#
+
+පරිපාලන ප්‍රලද්ශය நிர்வாகப் பிரிவு
+
+Administrative purvie
+
+Heavy Rain & High windආපදාව mdHj;jk;
+
+Disaster
+
+ආරම්භක දිනය
+
+mdu;j;jk; Muk;gpj;j jpfjp Date of commenced
+
+බලපෑමට ලක්වු ghjpf;fg;gl;l Affectedතුවාලවු පුද්ගලයි
+
+න් fhakile;NjhH Injured
+
+People
+
+අතුරුදහ
+
+න්වූ පුද්ගලයි
+
+න් fhzhky;NghNdhH Missin
+
+g People
+
+ආරක්ිත ස්ත්‍රථාන ghJfhg;ghd
+
+miktplk; Safe Location
+
+නිවාස්ත්‍ හානි Nrjkile;j tPLfs; Houses
+
+Damaged
+
+ලවනත් හානි பிற பாதிப்புகள்
+
+Other Damages
+
+පළාත khfhzk; Province
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+උතුරු පලාත tl khfhzk Northen
+
+High Windනැපගනහිර පලාත fpof;F Eastern
+
+ත්‍රීකුණාමලය jp.kiy Trincomalee
+
+Page 2Situation Report on 2019.11.05 at 1800 hrs.xlsx
+
+MonaragalaHighwind2020.08.31125612ButtalaHighwind2020.08.3156252156MedagameHighwind2020.08.314194BibilaHighwind2020.08.31125112BadalkumburaHighwind2020.08.3129286387010086000008638701008600000GampahaHighwind2020.09.01252AttanagalleFlood2020.09.0210422BiyagameHeavy Rain2020.09.01121DivulapitiyaHigh Wind2020.09.02272Dompe2020.09.021212020.09.021411High Wind2020.09.01272MinuwangodaFlood2020.09.021050MaharaFlood2020.09.0219701481890100120000048Kalpitiya123648Arachchikattuwa4194Dankotuwa141175900041300000175900041300000KolonnaHigh Wind2020.08.31141Eheliyagoda2020.09.01292Embilipitiya2020.09.013103KirielleTree Fallen2020.09.0214172700007000007270000700000
+
+242898531603355500290325
+
+රාජකාරි භාර ිළධ්‍ාරි / flik mjpfhhp / Duty Officer : 011 2670002
+
+ආපදා කළමනාකරණ මධ්‍යස්ත්‍රථානය /mdHj;j Kfhikj;Jt epiyak;/ Disaster Management Centre
+
+හදිසි ඇමතුම් / njhiyNgrp / Hot Lines: 117, 0112670002, 0112136136 ෆැක්ස්ත්‍ර/ njhiy efy; / Fax: 0112670079 විදුත් තැපැල් / kpd;dQ;ry; / Email: eocdmc@gmail.comපවබ් අඩවිය / ,izak; / Web: www.dmc.gov.lk
+
+……………………………………………………….
+
+For Director General
+
+පළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+ස්ත්‍බරගමුව පලාත/rg;ufKt/ Sabaragamuwa/
+
+රත්නපුර/,uj;jpdGhp/ Rathnapura12Heavy Rain
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Total
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+පුත්තලම/ Gj;jsk;/Puttalam11වයඹ පලාත/tlNky; khfhzk;/ North Western
+
+Highwind2020.09.02
+
+Western/ Nky; khfhzk;බස්ත්‍රනාහිර පලාත
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+LightningMeerigame
+
+ගම්පහ/fk;g`h/Gampaha10
+
+පමානරාගල/nkhdwhfiy Moneragalaඌව/Cth khfhzk;/Uva
+
+9
+
+දිස්ත්‍රික් එකතුව khtl;l $l;Lj;njhif District Totalපළාත් ඵකතුව khfhz $l;Lj;njhif Province Total
+
+Assistant Director / Duty Officer
+
+* This is an authorized report by DMC - EOC duty officer. No Signature is required
+
+මාධය ප්‍රකාශක / nra;jp njhlHghsHfs; / Media Spokesmen :
+
+මුළු එකතුව nkhj;jf; $l;Lj;njhif GRAND TOTAL
+
+T.W.K.I. Pushpakumara
