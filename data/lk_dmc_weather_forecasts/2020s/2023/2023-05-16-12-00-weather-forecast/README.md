@@ -1,0 +1,63 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2023 මැයි මස 17 දින්‍ සඳහා කාලගුණ අන්‍ාවැකිය 2023 මැයි මස 16 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලදි.
+
+බස්නාහිර, සබරගමුව, වයඹ, මධ්‍යම සහ නැගගනහිර පළාත්වලත් මුලතිව් දිස්ික්කගේත් සවස් කාලගේදී ගහෝ රාත්‍රී කාලගේදී තැනින් තැන වැසි ගහෝ ගිගුරුම් සහිත වැසි ඇති ගව්.
+
+බස්නාහිර ගවරළබඩ ප්‍රගේශවලත් ගාල්ල සහ මාතර දිස්ික්කවලත් උදෑසන කාලගේදී ද වැසි ස්වල්පයක් ඇති විය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවලගන් කාරුණිකව ඉල්ො සිටිනු ෙැලේ.
+
+WEATHER FORECAST FOR 17 May 2023
+
+Issued at 12.00 noon on 16 May 2023
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa, North-Western, Central and Eastern provinces and in Mullaitivu district during the evening or night.
+
+A few showers may occur in Western coastal areas and in Galle and Matara districts during the morning too.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු ප්‍රදේශ සඳහා කාලගුණ අන්‍ාවැකිය
+
+2023 මැයි මස 16 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත් කරන්‍ ලදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 16 May 2023
+
+වැසි තත්ත්වය:
+
+පුත්තලම සිට ගකාළඹ සහ ගාල්ල හරහා මාතර දක්වා ගවරළට ඔබ්ගබන් වන මුහුදු ප්‍රගේශවල තැනින් තැන වැසි ගහෝ ගිගුරුම් සහිත වැසි ඇති ගව්.
+
+සුළඟ: දිවයින වටා වන මුහුදු ප්‍රගේශවල සුළං නිරිත ගදසින් හමා එන අතර සුළගේ ගව්ගය පැ.කි.මී. (25-30) පමණ ගව්. දිවයින වටා වන මුහුදු ප්‍රගේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. (35-40) පමණ දක්වා වැඩි විය ැක. මුහුහේ ස්වභාවය:
+
+දිවයින වටා වන මුහුදු ප්‍රගේශ තරමක් රළු ගව්.
+
+ගිගුරුම් සහිත වැසි ඇති වන්‍ විට එම මුහුදු ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Condition of Rain: Showers or thundershowers will occur at several places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle.
+
+Winds: Winds will be south-westerly over sea area around the island and speed will be (25-30) kmph. Wind speed may increase up to (35-40) kmph at times in the sea areas around the island.
+
+State of Sea: The sea areas around the island will be fairly rough at times.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.

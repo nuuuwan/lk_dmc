@@ -1,0 +1,103 @@
+Rainfall amount (mm): Light: 00-12.50, Light to moderate: 12.50-25, moderate: 25-50, Fairly Heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) :සිහින් වැසි:00-12.50, සිහින් හ ෝ මද වැසි:12.50-25, මද වැසි:25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150,ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+0
+
+ඉදිරි පැය 36 සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය 2023 මැයි මස 12 දින්‍ සවස 04.00 ට නිකුත් කරන්‍ ලදි
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි හහෝ ගිගුරුම් සහිත වැසි ඇතිහේ. බස්නාහිර සහ සබරගමුව පළාත්වලත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ික්කවලත් ඇතැම් ස්ථාන වලට මි.මී. 75ක පමණ තරමක් තද වැසි ද ඇතිවිය හැක.
+
+උතුරු සහ උතුරුමැද පළාත්වල වැසි වාර කිහිපයක් ඇතිහේ.
+
+ඌව සහ නැහගනහිර පළාත්වල විහ ්ෂහයන් සවස් කාලහේදී හහෝ රාත්‍රී කාලහේදී තැනින් තැන වැසි හහෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+බස්නාහිර සහ දකුණු හවරළබඩ ප්‍රහේ වලත්, උතුරු සහ උතුරුමැද පළාත්වලත් ිකුණාමලය දිස්ික්කහේත් මධ්‍යම කඳුකරහේ බටහිර බෑවුම්වලත් විටින් විට මන පැ.කි.මී. (40-45) ක පමණ තද සුළං ඇතිවිය ැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවලගන් කාරුණිකව ඉල්ො සිටිනු ෙැලේ.
+
+GENERAL WEATHER FORECAST FOR NEXT 36 HOURS
+
+Issued at 04.00 p.m. on 12 May 2023
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-Western and Southern provinces. Fairly heavy showers about 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Several spells of showers will occur in the Northern and North-Central provinces.
+
+Showers or thundershowers will occur at several places in Uva and Eastern provinces particularly during the afternoon or night.
+
+Strong winds about (40-45) kmph can be expected at times over western and southern coastal areas, in Northern and North-Central provinces, in Trincomalee district and along the western slopes of the central hills.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+Rainfall amount (mm): Light: 00-12.50, Light to moderate: 12.50-25, moderate: 25-50, Fairly Heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) :සිහින් වැසි:00-12.50, සිහින් හ ෝ මද වැසි:12.50-25, මද වැසි:25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150,ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+Weather Forecast for Main Cities Date : 13-May-2023
+
+City
+
+Temperature (0C) Relative Humidity (%) Weather Max Min Max Min Anuradhapura 33 26 95 65 A few showers
+
+Batticaloa 34 26 90 70 A few showers Colombo 31 25 90 75 Showers or thundershowers at times
+
+Galle 29 26 90 85 Showers or thundershowers at times Jaffna 32 24 85 75 A few showers
+
+Kandy 31 24 95 70 Showers or thundershowers at times Nuwara-Eliya 22 14 95 75 Showers or thundershowers at times
+
+Ratnapura 31 25 95 75 Showers or thundershowers at times Trincomalee 34 26 90 70 A few showers
+
+Mannar 32 28 85 75 A few showers ප්‍රධාන නගර සදහා කාෙගුණ අනාවැකිය 2023-05-13
+
+නගරය
+
+උෂ්ණත්වය(ලස. අංශ්‍ක) සාලේක්ෂ ආර්ද්‍රතාවය(%) කාෙගුණය උපරිම අවම උපරිම අවම අනුරාධ්‍පුරය 33 26 95 65 වැසි ස්වල්පයක්
+
+මඩකලපුව 34 26 90 70 වැසි ස්වල්පයක් හකාළඹ 31 25 90 75 විටින් විට වැසි හහෝ ගිගුරුම් සහිත වැසි ඇති හේ
+
+ගාල්ල 29 26 90 85 විටින් විට වැසි හහෝ ගිගුරුම් සහිත වැසි ඇති හේ යාපනය 32 24 85 75 වැසි ස්වල්පයක්
+
+මහනුවර 31 24 95 70 විටින් විට වැසි හහෝ ගිගුරුම් සහිත වැසි ඇති හේ නුවරඑළිය 22 14 95 75 විටින් විට වැසි හහෝ ගිගුරුම් සහිත වැසි ඇති හේ
+
+රත්නපුරය 31 25 95 75 විටින් විට වැසි හහෝ ගිගුරුම් සහිත වැසි ඇති හේ ිකුණාමලය 34 26 90 70 වැසි ස්වල්පයක්
+
+මන්නාරම 32 28 85 75 වැසි ස්වල්පයක්
+
+பிரதான நகரங்களுக்கான வானிலை முன்னறிவித்தை் திகதி : 2023-05-13
+
+நகரம்
+
+வவப்பநிலை (0C) சாரீரப்பதன் (%)
+
+வானிலை உச்ச குலைந்த உச்ச குலைந்த
+
+அனுராதபுரம் 33 26 95 65 சிறிதளவில் மழை பெய்யும்
+
+மட்டக்களப்பு 34 26 90 70 சிறிதளவில் மழை பெய்யும்
+
+வகாழும்பு 31 25 90 75 அவ்வெ்பெோது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்
+
+காலி 29 26 90 85 அவ்வெ்பெோது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்
+
+யாழ்ப்பாணம் 32 24 85 75 சிறிதளவில் மழை பெய்யும்
+
+கண்டி 31 24 95 70 அவ்வெ்பெோது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்
+
+நுவவரலியா 22 14 95 75 அவ்வெ்பெோது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்
+
+இரத்தினபுரி 31 25 95 75 அவ்வெ்பெோது மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்
+
+திருககாணமலை 34 26 90 70 சிறிதளவில் மழை பெய்யும்
+
+மன்னார் 32 28 85 75 சிறிதளவில் மழை பெய்யும்

@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-05-15-06-00-advisory-for-cycl-2b2b7bda",
+  "num": "06-00-advisory-for-cyclonic-storm-mocha",
+  "date_str": "2023-05-15",
+  "description": "Advisory for Cyclonic storm \u201cMocha\u201d.",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3530",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_cyclonic_storm_\u201cMocha\u201d_at_0600_hrs_on_2023__1684111331.pdf",
+  "time_str": "06:00",
+  "ut": 1684110600.0
+}

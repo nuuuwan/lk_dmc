@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-05-09-23-00-weather-advisory",
+  "num": "23-00-weather-advisory",
+  "date_str": "2023-05-09",
+  "description": "Weather Advisory",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3560",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Depression_over_South-East_Bay_of_Bengal_report_at_2300_hrs_on_2023__1683655589.pdf",
+  "time_str": "23:00",
+  "ut": 1683653400.0
+}

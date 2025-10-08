@@ -1,0 +1,61 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2023 මැයි මස 29 දින්‍ සඳහා කාලගුණ අන්‍ාවැකිය 2023 මැයි මස 28 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලදි.
+
+දිවයින පුරා තැනින් තැන සවස් කාලයේදී ය ෝ රාත්‍රී කාලයේදී වැසි ය ෝ ගිගුරුම් සහිත වැසි ඇති යේ.
+
+බස්නාහිර ස සබරගමුව පළාත්වලත් ගාල්ල ස මාතර දිස්ික්කවලත් උදෑසන කාලයේදී වැසි ඇතියේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවලගන් කාරුණිකව ඉල්ො සිටිනු ෙැලේ.
+
+WEATHER FORECAST FOR 29 May 2023
+
+Issued at 12.00 noon on 28 May 2023 Showers or thundershowers will occur at several places over the island during the evening or night.
+
+Showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts in the morning too.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලංකාව සඳහා සාමාන්‍යය කාලගුණ අන්‍ාවැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ වටා වන්‍ මුහුදු ප්‍රදේශ සඳහා කාලගුණ අන්‍ාවැකිය
+
+2023 මැයි මස 28 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත් කරන්‍ ලදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 12.00 noon on 28 May 2023
+
+වැසි තත්ත්වය:
+
+පුත්තලම සිට යකාළඹ ස ගාල්ල ර ා මාතර දක්වා යවරළට ඔබ්යබන් වන මුහුදු ප්‍රයේශවල ස්ථාන ස්වල්පයක වැසි ඇති යේ.
+
+සුළඟ: දිවයින වටා වන මුහුදු ප්‍රයේශවල සුළං නිරිත යදසින් මා එන අතර සුළයේ යේගය පැ.කි.මී. (20-30) පමණ යේ. පුත්තලම සිට මන්නාරම ර ා කන්කසන්ුරය දක්වා ස මාතර සිට ම්බන්යතාට ර ා යපාුවිල් දක්වා යවරළට ඔබ්යබන් වන මුහුදු ප්‍රයේශවල සුළහේ හේගය විටින් විට පැ.කි.මී. (40-45) පමණ දක්වා වැඩි විය ැක. මුහුදේ ස්වභාවය:
+
+පුත්තලම සිට මන්නාරම ර ා කන්කසන්ුරය දක්වා ස කළුතර සිට ගාල්ල ස ම්බන්යතාට ර ා යපාුවිල් දක්වා යවරළට ඔබ්යබන් වන මුහුදු ප්‍රයේශ විටින් විට තරමක් රළු යේ. දිවයින වටා වන යසසු මුහුදු ප්‍රයේශ සාමානයය ස්වභාවයේ සිට මද වශයයන් රළු දක්වා විය ැක
+
+ගිගුරුම් සහිත වැසි ඇති වන්‍ විට එම මුහුදු ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි අතර එවිට එම මුහුදු ප්‍රදේශ තාවකාලිකව ඉතා රළු විය හැක.
+
+Condition of Rain: Showers will occur at a few places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle.
+
+Winds: Winds will be south-westerly over sea area around the island and speed will be (20-30) kmph. Wind speed may increase up to (40-45) kmph at times in the sea areas off the coast extending from Puttalam to Kankasanthurai via Mannar and from Matara to Pottuvil via Hambantota.
+
+State of Sea: The sea areas off the coast extending from Puttalam to Kankasanthurai via Mannar and from Kalutara to Pottuvil via Galle and Hambantota will be fairly rough at times. The other sea area around the island will be slight to moderate.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
