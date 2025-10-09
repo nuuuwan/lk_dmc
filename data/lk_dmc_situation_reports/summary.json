@@ -2,13 +2,13 @@
   "doc_class_label": "lk_dmc_situation_reports",
   "doc_class_emoji": "\ud83c\udf26\ufe0f",
   "doc_class_description": "Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.",
-  "time_updated": "2025-10-09 19:52:57",
+  "time_updated": "2025-10-09 20:25:17",
   "n_docs": 4309,
   "n_docs_with_pdfs": 4267,
   "n_docs_with_text": 4267,
   "date_str_min": "2018-01-02",
   "date_str_max": "2025-10-09",
-  "dataset_size": 2942140608,
+  "dataset_size": 2942140610,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
