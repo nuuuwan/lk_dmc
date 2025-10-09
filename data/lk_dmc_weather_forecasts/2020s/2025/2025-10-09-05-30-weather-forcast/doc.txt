@@ -1,0 +1,61 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2025 ඔක්තෝබර් මාස 09 සඳහා කා ලංගුණ අන්‍ය වැකිය 2025 ඔක්තෝබර් මාස 09 දින්‍ය උදෑසන්‍ය 05.30 ට නිකුත් කාරන්‍ය ලංදි.
+
+දිවයිහන් හ ාහ ෝ ප්‍රහේශවල පස්වරු 1.00 න් පමණ පසු වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ. ස්නාහිර පළාහත්ත් ගාල්ල ස මාතර දිස්ික්කවලත් උදෑසන කාලහේදීත් තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක. ස්නාහිර, ස රගමුව, මධ්‍යම ස ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක. ගිගුරුම් සහිත වැසි සමග ඇතිවිය ැකි අකුණු අනතුරු ස තාවකාලික තද සුළං මඟින් සිදු විය ැකි අනතුරු, අවම කර ගැනීමට අවශය පියවර ගන්නා හලස ජනතාවහගන් කාරුණිකව ඉල්ලා සිටිනු ලැහේ.
+
+WEATHER FORECAST FOR 09 OCTOBER 2025
+
+Issued at 05.30 a.m. on 09 October 2025
+
+Showers or thundershowers will occur at most parts of the island after 1.00 p.m.
+
+Showers or thundershowers may occur at several places in Western province and in Galle and Matara districts in the morning too.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍ර්ේශ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 ඔක්තෝබර් මාස 09 දින්‍ය උදෑසන්‍ය 05.30 ට නිකුත් කාරන්‍ය ලංදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 05.30 a.m. on 09 October 2025
+
+වැසි තත්ත්වය: හකාළඹ සිට ගාල්ල ර ා මාතර දක්වා හවරළට ඔේහ න් වන මුහුදු ප්‍රහේශවල වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හේ. සුළඟ: සුළං නිරිත හදසින් හ ෝ නිශ්ිත දිශාවකින් හතාරව මා එන අතර සුළහේ හේගය පැ.කි.මී. (25-35) පමණ හේ. මුහු්ේ ස්වභ වය:
+
+දිවයින වටා වන මුහුදු ප්‍රහේශ සාමානය ස්වභාවහේ පවතී. ගිගුරුම් සහිත වැසි ඇති වන්‍ය විට එමා මුහුදු ප්‍ර්ේශවලං ත වකා ලිකාව තද සුළ ඇති විය හාැකි අතර එවිට එමා මුහුදු ප්‍ර්ේශ ත වකා ලිකාව ඉත රළු විය හාැකා.
+
+Condition of Rain:
+
+Showers or thundershowers will occur in the sea areas off the coast extending from Colombo to Matara via Galle.
+
+Winds:
+
+Winds will be south-westerly or variable and wind speed will be (25-35) kmph.
+
+State of Sea:
+
+The sea areas around the island can be slight.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
