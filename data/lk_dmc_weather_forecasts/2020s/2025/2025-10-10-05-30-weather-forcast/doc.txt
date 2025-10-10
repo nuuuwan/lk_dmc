@@ -1,0 +1,71 @@
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+2025 ඔක්තෝම්බර් මාස 10 සඳහා කා ලංගුණ අන්‍ය වැකිය 2025 ඔක්තෝම්බර් මාස 10 දින්‍ය උදෑසන්‍ය 05.30 ට නිකුත් කාරන්‍ය ලංදි.
+
+නැහෙනහිර, මධ්‍යම, ඌව, දකුණු ස සබරෙමුව පළාත්වලත් හපාහලාන්නරුව, මුලතිව්, කිලිහනාච්චි ස යාපනය දිස්ික්කවලත් පස්වරු 1.00 න් පමණ පසුව තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති හව්.
+
+දිවයිහන් හසසු ප්‍රහේශවල පස්වරු 1.00 න් පමණ පසුව ස්ථාන ස්වල්පයක වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇතිවිය ැක.
+
+බස්නාහිර ස දකුණු පළාත්වල උදෑසන කාලහේදී වැසි ඇති විය ැක.
+
+සබරෙමුව, මධ්‍යම ස ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් පැවතිය ැක.
+
+ගිගුරුම් සහිත වැසි සමාග ඇතිවිය හාැකි අකුණු අන්‍යතුරු සහා ත වකා ලිකා තද සුළ මාඟින් සිදු විය හාැකි අන්‍යතුරු, අවමා කාර ගැනීමාට අවශ්‍ පියවර ගන්න්‍ය ්ලංස ජන්‍යත ව්ගන් කා රුණිකාව ඉල්ලං සිටිනු ලංැ්ේ.
+
+WEATHER FORECAST FOR 10 OCTOBER 2025
+
+Issued at 05.30 a.m. on 10 October 2025
+
+Showers or thundershowers will occur at several places in Eastern, Central, Uva, Southern and Sabaragamuwa provinces and in Polonnaruwa, Mullaittivu, Kilinochchi and Jaffna districts after 1.00 p.m.
+
+Showers or thundershowers may occur at a few places in other areas of the island after 1.00 p.m.
+
+Showers may occur in Western and Southern provinces in the morning.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
+
+Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, Moderate: 25-50, Fairly heavy rain: 50 -100,
+
+Heavy rain: 100 – 150, Very heavy rain: 150 or more.
+
+වර්ෂාපතනය(මි.මී) : සිහින් වැසි: 00-12.5, සිහින් හ ෝ මද වැසි: 12.5-25, මද වැසි: 25-50, තරමක් තද වැසි: 50 -100,
+
+තද වැසි:100 – 150, ඉතා තද වැසි: 150 හ ෝ ඊට වැඩි
+
+ශ්‍රී ලං කා ව සඳහා ස මා න්‍ය ය කා ලංගුණ අන්‍ය වැකිය GENERAL WEATHER FORECAST FOR SRI LANKA ජාතික කාලගුණ විදයා මධ්‍යස්ථානහේ, අනාවැකි අංශය මගින් නිකුත් කරන ලදි Issued by Forecasting Division, National Meteorological Centre
+
+ඉදිරි පැය 24 ට දිවයින්‍ය වට වන්‍ය මුහුදු ප්‍ර්ේශ්‍ සඳහා කා ලංගුණ අන්‍ය වැකිය
+
+2025 ඔක්තෝම්බර් මාස 10 දින්‍ය උදෑසන්‍ය 05.30 ට නිකුත් කාරන්‍ය ලංදි.
+
+WEATHER FORECAST FOR SEA AREAS AROUND THE ISLAND DURING NEXT 24 HOURS
+
+Issued at 05.30 a.m. on 10 October 2025
+
+වැසි තත්ත්වය: හකාළඹ සිට ොල්ල ස ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල තැනින් තැන වැසි ඇතිහව්. කන්කසන්තුරය සිට ිකුණාමලය ස මඩකලපුව ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සවස් කාලහේ හ ෝ රාත්‍රී කාලහේ තැනින් තැන වැසි හ ෝ ගිගුරුම් සහිත වැසි ඇති විය ැක. සුළඟ: සුළං නිරිත හදසින් හ ෝ නිශ්ිත දිශාවකින් හතාරව මා එන අතර සුළහේ හව්ෙය පැ.කි.මී. (25-35) පමණ හව්. මාතර සිට ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශවල සුළහේ හව්ෙය විටින් විට පැ.කි.මී. 45 පමණ දක්වා ඉ ළ යා ැක.
+
+මුහු්ේ ස්වභ වය:
+
+මාතර සිට ම්බන්හතාට ර ා හපාතුවිල් දක්වා හවරළට ඔබ්හබන් වන මුහුදු ප්‍රහේශ විටින් විට මද වශහයන් රළු හව්. දිවයින වටා වන හසසු මුහුදු ප්‍රහේශ සාමානය ස්වභාවහේ පවතී.
+
+ගිගුරුම් සහිත වැසි ඇති වන්‍ය විට එමා මුහුදු ප්‍ර්ේශ්‍වලං ත වකා ලිකාව තද සුළ ඇති විය හාැකි අතර එවිට එමා මුහුදු ප්‍ර්ේශ්‍ ත වකා ලිකාව ඉත රළු විය හාැකා.
+
+Condition of Rain: Showers will occur at several places in the sea areas off the coast extending from Colombo to Pottuvil via Galle and Hambantota. Showers or thundershowers may occur at several places in the sea areas off the coast extending from Kankasanthurai to Pottuvil via Trincomalee and Batticaloa during the evening or night.
+
+Winds: Winds will be south-westerly or variable and wind speed will be (25-35) kmph.
+
+Wind speed can increase up to 45 kmph at times in the sea areas off the coast extending from Matara to Pottuvil via Hambantota.
+
+State of Sea: The sea areas off the coast extending from Matara to Pottuvil via Hambantota will be moderate at times. The other sea areas around the island will be slight.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
