@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2023-04-30-13-00-weather-forecast",
+  "num": "13-00-weather-forecast",
+  "date_str": "2023-04-30",
+  "description": "Weather Forecast",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=3610",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/WWL20230430-01S__1682842729.pdf",
+  "time_str": "13:00",
+  "ut": 1682839800.0
+}
