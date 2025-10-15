@@ -2,14 +2,14 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2025-10-15 12:26:53",
-  "n_docs": 3655,
-  "n_docs_with_pdfs": 3655,
-  "n_docs_with_text": 3655,
+  "time_updated": "2025-10-15 12:53:15",
+  "n_docs": 3657,
+  "n_docs_with_pdfs": 3657,
+  "n_docs_with_text": 3657,
   "n_docs_with_excel": 0,
   "date_str_min": "2023-03-26",
   "date_str_max": "2025-10-15",
-  "dataset_size": 4329184201,
+  "dataset_size": 4329954177,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -20,14 +20,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-10-15-05-30-weather-forcast",
-    "num": "05-30-weather-forcast",
+    "doc_id": "2025-10-15-12-00-advisory-for-seve-d067d3f6",
+    "num": "12-00-advisory-for-severe-lightning--13",
     "date_str": "2025-10-15",
-    "description": "Weather Forcast",
+    "description": "Advisory for Severe Lightning - 13",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2025__1760487827.pdf",
-    "time_str": "05:30",
-    "ut": 1760486400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_-_13_at_1200_noon_on_15__1760511297.pdf",
+    "time_str": "12:00",
+    "ut": 1760509800.0
   }
 }
