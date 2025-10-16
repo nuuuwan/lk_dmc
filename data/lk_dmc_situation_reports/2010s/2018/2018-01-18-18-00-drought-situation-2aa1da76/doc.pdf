@@ -1,0 +1,1576 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+   <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=9" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="format-detection" content="telephone=no">
+      <meta charset="utf-8" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Disaster Management Centre</title>
+	<link href="/index.php?format=feed&amp;type=rss&amp;lang=en" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom&amp;lang=en" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://www.dmc.gov.lk/index.php?option=com_search&amp;format=opensearch&amp;lang=en" rel="search" title="Search Disaster Management Centre" type="application/opensearchdescription+xml" />
+	<link href="/plugins/system/rokbox/assets/styles/rokbox.css" rel="stylesheet" />
+	<link href="/templates/temp_poora/css/skins/all.css?v=1.0.2" rel="stylesheet" />
+	<link href="/templates/temp_poora/css/bootstrap.css" rel="stylesheet" />
+	<link href="/templates/temp_poora/css/restable.css" rel="stylesheet" />
+	<link href="/templates/temp_poora/css/template.css" rel="stylesheet" />
+	<link href="/templates/temp_poora/css/responsive.css" rel="stylesheet" />
+	<link href="/media/com_phocagallery/css/main/phocagallery.css" rel="stylesheet" />
+	<link href="/media/com_phocagallery/css/main/rating.css" rel="stylesheet" />
+	<link href="/media/com_phocagallery/css/custom/default.css" rel="stylesheet" />
+	<link href="/media/system/css/modal.css?67e3814757d5677e29e343d4eb3cbe8c" rel="stylesheet" />
+	<link href="/modules/mod_news_show_sp2/assets/css/mod_news_show_sp2.css" rel="stylesheet" />
+	<link href="/modules/mod_slideshowck/themes/default/css/camera.css" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" />
+	<link href="/modules/mod_sp_news_highlighter/assets/css/style.css" rel="stylesheet" />
+	<link href="/media/mod_falang/css/template.css" rel="stylesheet" />
+	<style>
+#camera_wrap_92 .camera_pag_ul li img, #camera_wrap_92 .camera_thumbs_cont ul li > img {height:75px;}
+#camera_wrap_92 .camera_caption {
+	display: block;
+	position: absolute;
+}
+#camera_wrap_92 .camera_caption > div {
+	-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;font-family:'Droid Sans';
+}
+#camera_wrap_92 .camera_caption > div div.camera_caption_title {
+	font-size: 1.1em;
+}
+#camera_wrap_92 .camera_caption > div div.camera_caption_desc {
+	font-size: 0.8em;
+}
+
+@media screen and (max-width: 480px) {
+		#camera_wrap_92 .camera_caption {
+			font-size: 0.6em !important;
+		}
+}#sp-nh105 {color:#666666;background:#f2e400}.sp-nh-item{background:#f2e400}a.sp-nh-link {color:#000000}a.sp-nh-link:hover {color:#777777}.sp-nh-buttons,.sp-nh-item,.sp-nh-prev,.sp-nh-next {height:60px;line-height:60px}.sp-nh-prev,.sp-nh-next{background-image: url(/modules/mod_sp_news_highlighter/assets/images/style1.png)}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"5bc8389d60929c283911c693398ccc98","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/media/system/js/caption.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/media/system/js/mootools-core.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/media/system/js/core.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/media/system/js/mootools-more.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/plugins/system/rokbox/assets/js/rokbox.js"></script>
+	<script src="/media/jui/js/bootstrap.min.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/media/system/js/modal.js?67e3814757d5677e29e343d4eb3cbe8c"></script>
+	<script src="/modules/mod_news_show_sp2/assets/js/nssp2.js"></script>
+	<script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js"></script>
+	<script src="/modules/mod_slideshowck/assets/camera.min.js"></script>
+	<script src="/modules/mod_sp_news_highlighter/assets/js/sp_highlighter.js"></script>
+	<script src="/media/system/js/html5fallback.js"></script>
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.pg-modal-button').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+	</script>
+	<style type="text/css">
+.pg-cv-box-mod-ri {
+   height: 560px;
+   width: 190px;"
+}
+.pg-cv-box-img-mod-ri {
+   height: 560px;
+   width: 190px;"
+}
+</style>
+	<link rel="alternate" href="/index.php?option=com_content&amp;view=featured&amp;Itemid=101&amp;lang=si" hreflang="si" />
+	<link rel="alternate" href="/index.php?option=com_content&amp;view=featured&amp;Itemid=101&amp;lang=ta" hreflang="ta" />
+	<link rel="alternate" href="https://www.dmc.gov.lk/index.php?lang=en" hreflang="en" />
+	<link rel="alternate" href="https://www.dmc.gov.lk/index.php?lang=en"  hreflang="x-default" />
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5PXRDF4');</script>
+	<!-- End Google Tag Manager -->
+      <!--[if lt IE 9]>
+      <script src="/media/jui/js/html5.js"></script>
+      <![endif]-->
+      <link href="/templates/temp_poora/css/mobmenu.css" rel="stylesheet" type="text/css" />
+      <link href="/templates/temp_poora/css/jquery.mmenu.all.css" rel="stylesheet" type="text/css" />
+      <link href="/templates/temp_poora/css/owl.carousel.css" rel="stylesheet" type="text/css" />
+      <link href="/templates/temp_poora/css/owl.theme.css" rel="stylesheet" type="text/css" />
+      <link href="/templates/temp_poora/css/font-awesome.css" rel="stylesheet" type="text/css" />
+      <link href="/templates/temp_poora/css/hamburgers.css" rel="stylesheet">
+      <link href="/templates/temp_poora/css/common.css" type="text/css" rel="stylesheet" />
+      <link href="/templates/temp_poora/css/jquery.mmenu.all.css" rel="stylesheet" type="text/css" />
+      <link href="/templates/temp_poora/css/hover.css" rel="stylesheet" type="text/css" />
+            <style>
+      </style>
+         </head>
+   <body class="site home" >
+   
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5PXRDF4');</script>
+		<!-- End Google Tag Manager -->
+
+      <div class="main_content">
+         <div class="mm-blocker"></div>
+         <!--<div class="grenButn hide-desktop">
+            <span class="sidemenu"><button class="hamburger hamburger--3dx js-hamburger" type="button">
+            <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+            </span>
+            </button>
+            </span>
+             </div>-->
+         <div class="Orbar">
+         </div>
+         <div id="header" >
+            <div class="container">
+               <div class="row">
+                                    <div class="headermenu">
+                     <a href="#menumob"></a>
+<nav id="menumob">
+ <ul class="nav menu">
+<li class="item-101 current active"><a href="/index.php?option=com_content&amp;view=featured&amp;Itemid=101&amp;lang=en" >Home</a></li><li class="item-230 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=230&amp;lang=en" >Public Notice</a><ul class="nav-child unstyled small"><li class="item-159"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=159&amp;lang=en" >Vacancies</a></li><li class="item-281"><a href="/index.php?option=com_content&amp;view=article&amp;id=589&amp;Itemid=281&amp;lang=en" >Tender Notice</a></li></ul></li><li class="item-162"><a href="/index.php?option=com_xmap&amp;view=html&amp;id=0&amp;Itemid=162&amp;lang=en" >Sitemap</a></li><li class="item-272 deeper parent"><a href="#" >Contact Us</a><ul class="nav-child unstyled small"><li class="item-163"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=163&amp;lang=en" >Inquire</a></li><li class="item-269"><a href="/index.php?option=com_content&amp;view=article&amp;id=93&amp;Itemid=269&amp;lang=en" >Contact Details</a></li><li class="item-271"><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=271&amp;lang=en" >District Disaster Manegement Centre Units (DDMCU)</a></li><li class="item-282"><a href="/index.php?option=com_content&amp;view=article&amp;id=1179&amp;Itemid=282&amp;lang=en" >Implementation of the Right to Information Act</a></li></ul></li><li class="item-161 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=161&amp;lang=en" >Downloads</a><ul class="nav-child unstyled small"><li class="item-158"><a href="/index.php?option=com_content&amp;view=article&amp;id=65&amp;Itemid=158&amp;lang=en" >Annual Reports</a></li><li class="item-200"><a href="/index.php?option=com_content&amp;view=article&amp;id=36&amp;Itemid=200&amp;lang=en" >Education</a></li><li class="item-201"><a href="/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=201&amp;lang=en" >Publications</a></li><li class="item-283"><a href="/index.php?option=com_content&amp;view=article&amp;id=1180&amp;Itemid=283&amp;lang=en" >National Disaster Management Plan (NDMP) 2023-2030</a></li><li class="item-284"><a href="/index.php?option=com_content&amp;view=article&amp;id=1306&amp;Itemid=284&amp;lang=en" >Disaster Alert Ringtone</a></li><li class="item-285"><a href="/index.php?option=com_content&amp;view=article&amp;id=1671&amp;Itemid=285&amp;lang=en" >Core Humanitarian Standards (CHS) Guide for the Private Sector in Humanitarian Response</a></li></ul></li></ul>
+</nav>
+ 
+                  </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 headmob headlogo">
+                     <a href="/">
+                                                <img class="img-responsive" src="/templates/temp_poora/images/new/logo.png"  />
+                                                <div class="logoheader">
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 headmobtop">
+                                          <div class="pad-right2">
+                        <div class="module_curency">
+                                                   
+<script language='javascript' type='text/javascript'>
+<!--
+defaultSize = 80;
+//-->
+</script><script type="text/javascript" src="/modules/mod_ppc_fastfont/js/fastfont.js"></script>
+
+<div id="fontsize" style="font-size:16px;line-height:110%;text-align:center;">
+
+<div style="border:none;margin:0px 0px 0px 5px;background:#fff url(modules/mod_ppc_fastfont/img/20none.png);float:left;height:20px;width:20px;">
+<a style="text-decoration: none" href="/index.php" title="Increase size" onclick="changeFontSize(1); return false;" class="larger">
+<img style="margin:0; padding:0;" src="/modules/mod_ppc_fastfont/img/20fontincrease.png" alt="Increase size" /></a>
+</div>
+<div style="border:none;margin:0px 0px 0px 5px;background:#fff url(modules/mod_ppc_fastfont/img/20none.png);float:left;height:20px;width:20px;">
+<a style="text-decoration: none" href="/index.php" title="Reset font size to default" onclick="revertStyles(); return false;" class="reset">
+<img style="margin:0; padding:0;" src="/modules/mod_ppc_fastfont/img/20fontreset.png" alt="Reset to Default" /></a>
+</div>
+<div style="border:none;margin:0px 0px 0px 5px;letter-spacing:-1px;background:#fff url(modules/mod_ppc_fastfont/img/20none.png);float:left;height:20px;width:20px;">
+<a style="text-decoration: none" href="/index.php" title="Decrease size" onclick="changeFontSize(-1); return false;" class="smaller">
+<img style="margin:0; padding:0;" src="/modules/mod_ppc_fastfont/img/20fontdecrease.png" alt="Decrease size" /></a>
+			</div>	
+
+</div>
+
+
+<div class="custom"  >
+	<p><a href="https://www.gov.lk/welcome.html" target="_blank"><img src="/images/gov_01.png" alt="gov 01" /></a></p></div>
+
+
+
+<div class="mod-languages ">
+
+    
+
+
+<ul class="lang-inline">
+    
+        
+        <!-- >>> [FREE] >>> -->
+                    <li class="" dir="ltr">
+                                    <a href="/index.php?option=com_content&amp;view=featured&amp;Itemid=101&amp;lang=si">
+                                                                            සිංහල                                            </a>
+                            </li>
+                <!-- <<< [FREE] <<< -->
+    
+        
+        <!-- >>> [FREE] >>> -->
+                    <li class="" dir="ltr">
+                                    <a href="/index.php?option=com_content&amp;view=featured&amp;Itemid=101&amp;lang=ta">
+                                                                            தமிழ்                                            </a>
+                            </li>
+                <!-- <<< [FREE] <<< -->
+    
+        
+        <!-- >>> [FREE] >>> -->
+                <!-- <<< [FREE] <<< -->
+    </ul>
+
+</div>
+
+                                                                        <div class="site-search">
+							<div class="changeOn">
+								<i class="fa asi fa-search" aria-hidden="true"></i>
+							</div>
+							<div class="Shide">
+							   <div class="search">
+	<form action="/index.php?lang=en" method="post" class="form-inline">
+		<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" placeholder="Search ..." /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();"> <i class="fa fa-search" aria-hidden="true"></i>
+</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="101" />
+	</form>
+</div>
+
+							</div>
+                        </div>
+                                                </div>
+                     </div>
+					 					 <div class="main-menu-div">
+						<div class="container">
+						   <div class="row">
+							  <div class="col-md-12">
+								 <div class="mainMenu">
+									<ul class="nav menu">
+<li class="item-101 default current active"><a href="/index.php?option=com_content&amp;view=featured&amp;Itemid=101&amp;lang=en" >Home</a></li><li class="item-230 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=230&amp;lang=en" >Public Notice</a><ul class="nav-child unstyled small"><li class="item-159"><a href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=159&amp;lang=en" >Vacancies</a></li><li class="item-281"><a href="/index.php?option=com_content&amp;view=article&amp;id=589&amp;Itemid=281&amp;lang=en" >Tender Notice</a></li></ul></li><li class="item-162"><a href="/index.php?option=com_xmap&amp;view=html&amp;id=0&amp;Itemid=162&amp;lang=en" >Sitemap</a></li><li class="item-272 deeper parent"><a href="#" >Contact Us</a><ul class="nav-child unstyled small"><li class="item-163"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=163&amp;lang=en" >Inquire</a></li><li class="item-269"><a href="/index.php?option=com_content&amp;view=article&amp;id=93&amp;Itemid=269&amp;lang=en" >Contact Details</a></li><li class="item-271"><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=271&amp;lang=en" >District Disaster Manegement Centre Units (DDMCU)</a></li><li class="item-282"><a href="/index.php?option=com_content&amp;view=article&amp;id=1179&amp;Itemid=282&amp;lang=en" >Implementation of the Right to Information Act</a></li></ul></li><li class="item-161 deeper parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=161&amp;lang=en" >Downloads</a><ul class="nav-child unstyled small"><li class="item-158"><a href="/index.php?option=com_content&amp;view=article&amp;id=65&amp;Itemid=158&amp;lang=en" >Annual Reports</a></li><li class="item-200"><a href="/index.php?option=com_content&amp;view=article&amp;id=36&amp;Itemid=200&amp;lang=en" >Education</a></li><li class="item-201"><a href="/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=201&amp;lang=en" >Publications</a></li><li class="item-283"><a href="/index.php?option=com_content&amp;view=article&amp;id=1180&amp;Itemid=283&amp;lang=en" >National Disaster Management Plan (NDMP) 2023-2030</a></li><li class="item-284"><a href="/index.php?option=com_content&amp;view=article&amp;id=1306&amp;Itemid=284&amp;lang=en" >Disaster Alert Ringtone</a></li><li class="item-285"><a href="/index.php?option=com_content&amp;view=article&amp;id=1671&amp;Itemid=285&amp;lang=en" >Core Humanitarian Standards (CHS) Guide for the Private Sector in Humanitarian Response</a></li></ul></li></ul>
+
+								 </div>
+							  </div>
+						   </div>
+						</div>
+					 </div>
+					                   </div>
+               </div>
+            </div>
+         </div>
+         <div class="container headerbtm sliderarea">
+            <div class="row">
+		   <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 ">
+				  <div class="tabWrap">
+				     <div class="tabsNew">
+					    <script type="text/javascript">
+	jQuery(function($) {
+		$('#sp-nh105').spNewsHighlighter({
+			'interval': 5000,
+            'fxduration': 1000,
+            'animation': "slide-vertical"
+		});
+	});
+</script>
+
+<div id="sp-nh105" class="sp_news_higlighter">
+	<div class="sp-nh-buttons">
+		<span class="sp-nh-text">Emergency Warnings</span>
+			</div>	
+	<div id="sp-nh-items105" class="sp-nh-item">
+					<div class="sp-nh-item">
+				<a class="sp-nh-link" href="/index.php?option=com_content&amp;view=article&amp;id=1737:warning-for-severe-lightning-80&amp;catid=16:emergency-warnings&amp;lang=en&amp;Itemid=237"><span class="sp-nh-title">ප්‍රබල අකුණු පිළිබද අනතුරු ඇගවීමේ නිවේදනය/ Warning for Severe Lightning. மின்னல் தாக்கம் பற்றிய அபாய எச்சரிக்கை  (21)</span></a>	
+			</div>
+				<span class="vmore"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=16&amp;Itemid=237&amp;lang=en">View More</a></span>
+	</div>
+	<div style="clear:both"></div>	
+</div>
+
+<div class="custom rssfeednew"  >
+	<p><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=16&amp;Itemid=237&amp;format=feed&amp;type=rss&amp;lang=en" target="_blank"><img alt="rss" src="/images/rss.jpg" /></a></p></div>
+
+				     </div>
+				  </div>
+                           <div id="Maslider">
+					 <div class="sliderMenu col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+						<ul class="nav menu">
+<li class="item-164 deeper parent"><a href="#" >About Us</a><ul class="nav-child unstyled small"><li class="item-189"><a href="/index.php?option=com_content&amp;view=article&amp;id=29&amp;Itemid=189&amp;lang=en" >National Council</a></li><li class="item-234"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=234&amp;lang=en" >DMC Profile</a></li><li class="item-235"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=235&amp;lang=en" >Interim Management Committee</a></li><li class="item-187"><a href="/index.php?option=com_content&amp;view=article&amp;id=27&amp;Itemid=187&amp;lang=en" >Organization Structure</a></li><li class="item-188"><a href="/index.php?option=com_content&amp;view=article&amp;id=28&amp;Itemid=188&amp;lang=en" >Disaster Management Act</a></li><li class="item-236"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=236&amp;lang=en" >National Disaster Management Plan</a></li><li class="item-190"><a href="/index.php?option=com_content&amp;view=article&amp;id=30&amp;Itemid=190&amp;lang=en" >National Policy</a></li><li class="item-191"><a href="/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=191&amp;lang=en" >National Emergency Operational Plan (NEOP)</a></li><li class="item-192"><a href="/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=192&amp;lang=en" >National Disaster Management Coordination Committee (NDMCC)</a></li></ul></li><li class="item-165 deeper parent"><a href="#" >Media</a><ul class="nav-child unstyled small"><li class="item-193"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=8&amp;Itemid=193&amp;lang=en" >News</a></li><li class="item-195"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=195&amp;lang=en" >Media Releases</a></li><li class="item-197"><a href="/index.php?option=com_phocagallery&amp;view=categories&amp;Itemid=197&amp;lang=en" >Image Gallery</a></li><li class="item-198"><a href="/index.php?option=com_content&amp;view=article&amp;id=34&amp;Itemid=198&amp;lang=en" >Video Gallery</a></li></ul></li><li class="item-167 deeper parent"><a href="#" >Prepardness &amp; Planning</a><ul class="nav-child unstyled small"><li class="item-242"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=242&amp;lang=en" >Introduction</a></li></ul></li><li class="item-168 deeper parent"><a href="#" >Training &amp; Awareness</a><ul class="nav-child unstyled small"><li class="item-243"><a href="/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=243&amp;lang=en" >Introduction</a></li><li class="item-217"><a href="/index.php?option=com_content&amp;view=article&amp;id=52&amp;Itemid=217&amp;lang=en" >Training Modules and Materials</a></li></ul></li><li class="item-169 deeper parent"><a href="#" >Mitigation, Research &amp; Development</a><ul class="nav-child unstyled small"><li class="item-244"><a href="/index.php?option=com_content&amp;view=article&amp;id=81&amp;Itemid=244&amp;lang=en" >Introduction</a></li></ul></li><li class="item-170 deeper parent"><a href="#" >Emergency Operations &amp; Early Warning</a><ul class="nav-child unstyled small"><li class="item-224"><a href="/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=224&amp;lang=en" >National Emergency Operational Centre (EOC)</a></li><li class="item-225"><a href="/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=225&amp;lang=en" >Early Warning Systems</a></li><li class="item-228"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=228&amp;lang=en" >Military and Police Coordination</a></li></ul></li></ul>
+<a href="#menumob1"></a>
+<nav id="menumob1">
+ <ul class="nav menu" >
+<li class="item-164 deeper parent"><a href="#" >About Us</a><ul class="nav-child unstyled small"><li class="item-189"><a href="/index.php?option=com_content&amp;view=article&amp;id=29&amp;Itemid=189&amp;lang=en" >National Council</a></li><li class="item-234"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=234&amp;lang=en" >DMC Profile</a></li><li class="item-235"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=235&amp;lang=en" >Interim Management Committee</a></li><li class="item-187"><a href="/index.php?option=com_content&amp;view=article&amp;id=27&amp;Itemid=187&amp;lang=en" >Organization Structure</a></li><li class="item-188"><a href="/index.php?option=com_content&amp;view=article&amp;id=28&amp;Itemid=188&amp;lang=en" >Disaster Management Act</a></li><li class="item-236"><a href="/index.php?option=com_content&amp;view=article&amp;id=74&amp;Itemid=236&amp;lang=en" >National Disaster Management Plan</a></li><li class="item-190"><a href="/index.php?option=com_content&amp;view=article&amp;id=30&amp;Itemid=190&amp;lang=en" >National Policy</a></li><li class="item-191"><a href="/index.php?option=com_content&amp;view=article&amp;id=31&amp;Itemid=191&amp;lang=en" >National Emergency Operational Plan (NEOP)</a></li><li class="item-192"><a href="/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=192&amp;lang=en" >National Disaster Management Coordination Committee (NDMCC)</a></li></ul></li><li class="item-165 deeper parent"><a href="#" >Media</a><ul class="nav-child unstyled small"><li class="item-193"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=8&amp;Itemid=193&amp;lang=en" >News</a></li><li class="item-195"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=195&amp;lang=en" >Media Releases</a></li><li class="item-197"><a href="/index.php?option=com_phocagallery&amp;view=categories&amp;Itemid=197&amp;lang=en" >Image Gallery</a></li><li class="item-198"><a href="/index.php?option=com_content&amp;view=article&amp;id=34&amp;Itemid=198&amp;lang=en" >Video Gallery</a></li></ul></li><li class="item-167 deeper parent"><a href="#" >Prepardness &amp; Planning</a><ul class="nav-child unstyled small"><li class="item-242"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=242&amp;lang=en" >Introduction</a></li></ul></li><li class="item-168 deeper parent"><a href="#" >Training &amp; Awareness</a><ul class="nav-child unstyled small"><li class="item-243"><a href="/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=243&amp;lang=en" >Introduction</a></li><li class="item-217"><a href="/index.php?option=com_content&amp;view=article&amp;id=52&amp;Itemid=217&amp;lang=en" >Training Modules and Materials</a></li></ul></li><li class="item-169 deeper parent"><a href="#" >Mitigation, Research &amp; Development</a><ul class="nav-child unstyled small"><li class="item-244"><a href="/index.php?option=com_content&amp;view=article&amp;id=81&amp;Itemid=244&amp;lang=en" >Introduction</a></li></ul></li><li class="item-170 deeper parent"><a href="#" >Emergency Operations &amp; Early Warning</a><ul class="nav-child unstyled small"><li class="item-224"><a href="/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=224&amp;lang=en" >National Emergency Operational Centre (EOC)</a></li><li class="item-225"><a href="/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=225&amp;lang=en" >Early Warning Systems</a></li><li class="item-228"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=228&amp;lang=en" >Military and Police Coordination</a></li></ul></li></ul>
+</nav>
+					 </div>
+                     <div class="mainSlider">
+                        
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]--><script type="text/javascript">
+       jQuery(function(){
+        jQuery('#camera_wrap_92').camera({
+                height: '415',
+                minHeight: '150',
+                pauseOnClick: false,
+                hover: 1,
+                fx: 'random',
+                loader: 'none',
+                pagination: 1,
+                thumbnails: 0,
+                thumbheight: 75,
+                thumbwidth: 100,
+                time: 7000,
+                transPeriod: 1500,
+                alignment: 'center',
+                autoAdvance: 1,
+                mobileAutoAdvance: 1,
+                portrait: 0,
+                barDirection: 'leftToRight',
+                imagePath: '/modules/mod_slideshowck/images/',
+                lightbox: 'mediaboxck',
+                fullpage: 0,
+				mobileimageresolution: '0',
+                navigationHover: false,
+					mobileNavHover: false,
+					navigation: false,
+					playPause: false,
+                barPosition: 'bottom',
+                responsiveCaption: 0,
+				container: ''
+        });
+}); </script><!-- debut Slideshow CK -->
+<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_92">
+			<div data-thumb="/images/banners/th/dmc_slider_04_th.jpg" data-src="/images/banners/dmc_slider_04.jpg" >
+											<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						Officers are Collecting Information from Flood Victims											</div>
+										<div class="camera_caption_desc">
+																	</div>
+									</div>
+									</div>
+		<div data-thumb="/images/banners/th/dmc_slider_05_th.jpg" data-src="/images/banners/dmc_slider_05.jpg" >
+					</div>
+		<div data-thumb="/images/banners/th/dmc_slider_06_th.jpg" data-src="/images/banners/dmc_slider_06.jpg" >
+											<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						Flood 2018											</div>
+										<div class="camera_caption_desc">
+																	</div>
+									</div>
+									</div>
+		<div data-thumb="/images/slider/th/dmc_slider_02_th.jpg" data-src="/images/slider/dmc_slider_02.jpg" >
+											<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						Distribution of boats											</div>
+										<div class="camera_caption_desc">
+																	</div>
+									</div>
+									</div>
+		<div data-thumb="/images/slider/th/dmc_slider_0180305001_th.jpg" data-src="/images/slider/dmc_slider_0180305001.jpg" >
+											<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						Training of young volunteer groups on Disaster Management - Gampaha District											</div>
+										<div class="camera_caption_desc">
+																	</div>
+									</div>
+									</div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin Slideshow CK -->
+
+                     </div>
+                  </div>
+          
+               </div>
+               <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 minhi ">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 timeanddate">
+					 <div id="date"></div>
+					 <div id="time"></div>
+				 </div>
+				 				 <div id="tabs">
+					 <ul>
+						<li><a href="#tabs-1"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+						<li><a href="#tabs-2"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<!-- <li><a href="#tabs-3"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li> -->
+					 </ul>
+					 <div id="tabs-1">
+						<div class="moduletable">
+ 	<div  class="bt-facebookpage" >
+	<iframe 
+		src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fdmc.gov.lk&connections=10&amp;stream=true&amp;show_border=true&amp;header=true&amp;force_wall=false&amp;height=390&amp;show_faces=false&amp;width=270&amp;colorscheme=light&amp;locale=en_GB" scrolling="no" 
+		frameborder="0" 
+		style="border:none; overflow:hidden; width:270px;height:390px; " 
+		allowTransparency="true">
+	</iframe>
+	</div>
+</div>
+
+					 </div>
+					 <div id="tabs-2">
+						<!--  -->
+						<a class="twitter-timeline" data-height="390px" href="https://twitter.com/dmc_lk">Tweets by dmc_lk</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+					 </div>
+					 <!-- <div id="tabs-3">
+						
+					 </div> -->
+				  </div>
+				                 </div>
+            </div>
+         </div>
+                  <div class="container componantarea">
+            <div class="row">
+		   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sandmodu">
+				                    <div class="moduletable">
+ <h3>Present Situation</h3> 
+<div class="custom">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 psitua"><a  href="/index.php?option=com_dmcreports&amp;view=reports&amp;Itemid=273&amp;report_type_id=1&amp;lang=en"><img title="Situation Reports"  src="/images/filetypeicon/situationreport2__1528252723.png" /> <span> Situation Reports</span>  <span class="newf"> New</span> </a></div>
+
+	
+
+	
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 psitua"><a  href="/index.php?option=com_dmcreports&amp;view=reports&amp;Itemid=274&amp;report_type_id=2&amp;lang=en"><img title="Weather Reports"  src="/images/filetypeicon/weatherreports__1503290902__1508814380.png" /> <span> Weather Reports</span>  <span class="newf"> New</span> </a></div>
+
+	
+
+	</div><div class="row">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 psitua"><a  href="/index.php?option=com_dmcreports&amp;view=reports&amp;Itemid=276&amp;report_type_id=5&amp;lang=en"><img title="Landslide Warning"  src="/images/filetypeicon/landslide__1526621572.png" /> <span> Landslide Warning</span></a></div>
+
+	
+
+	
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 psitua"><a  href="/index.php?option=com_dmcreports&amp;view=reports&amp;Itemid=277&amp;report_type_id=6&amp;lang=en"><img title="River Water Level and Flood Warning"  src="/images/filetypeicon/river-water-level__1526621805.png" /> <span> River Water Level and Flood Warning</span></a></div>
+
+	
+
+	</div></div>
+
+<!-- <div class="row">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 psitua"><a href="#"><img src="/images/situationreport.png" alt="situationreport" /> <span>Situation Report</span></a></div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 psitua"><a href="#"><img src="/images/emergencyresponse.png" alt="emergencyresponse" /> <span>Emergency Response Data Viewer</span></a></div>
+</div>
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 psitua"><a href="#"><img src="/images/floodmap.png" alt="floodmap" /> <span>Flood Inundation Map</span></a></div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 psitua"><a href="#"><img src="/images/weatherreports.png" alt="weatherreports" /> <span>Weather Reports</span></a></div>
+</div> --></div>
+
+				   
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 minhi">
+				                    <div class="moduletable fnews">
+ 
+<div id="ns2-112" class="nssp2 ns2-112">
+	<div class="ns2-wrap">
+					<div id="ns2-art-wrap112" class="ns2-art-wrap nssp2-slide nssp2-default ">			
+				<div class="slide2 ns2-art-pages nss2-inner">
+														<div class=" ns2-page  item active">
+						<div class="ns2-page-inner">
+													<div class="ns2-row ns2-first ns2-odd">
+								<div class="ns2-row-inner">
+																										<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1717:9th-regional-steering-committee-meeting-of-the-asian-preparedness-partnership-app&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/112/APD_Poster_1-1_190x140.jpg" alt="9TH REGIONAL STEERING COMMITTEE MEETING OF THE ASIAN PREPAREDNESS PARTNERSHIP (APP)" title="9TH REGIONAL STEERING COMMITTEE MEETING OF THE ASIAN PREPAREDNESS PARTNERSHIP (APP)" />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1717:9th-regional-steering-committee-meeting-of-the-asian-preparedness-partnership-app&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232">
+                                                           
+                                                            9TH REGIONAL STEERING COMMITTEE MEETING OF THE ASIAN PREPAREDNESS PARTNERSHIP (APP)                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                                                                                                                   
+																									<p class="ns2-introtext">&nbsp; The Asian Preparedness Partnership (APP) will convene its 9th Regional Steering Committee Meeting in Colombo, Sri Lanka, co-hosted by the Sri Lanka Preparedness Partnership (SLPP) Co-Chairs, assisted by APP...</p>								
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1717:9th-regional-steering-committee-meeting-of-the-asian-preparedness-partnership-app&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																									<div style="clear:both"></div>
+							</div>
+							<div style="clear:both"></div>
+							</div>
+												<div style="clear:both"></div>
+						</div><!--end ns2-page-inner-->
+					</div>
+														<div class=" ns2-page  item">
+						<div class="ns2-page-inner">
+													<div class="ns2-row ns2-first ns2-odd">
+								<div class="ns2-row-inner">
+																										<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1651:2025-03-31-07-35-19&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/112/Cover_lo_190x140.jpg" alt="භූ කම්පනයක දී අප කුමක් කරමුද? ඒ පිළිබදව දැනුවත් වන්න" title="භූ කම්පනයක දී අප කුමක් කරමුද? ඒ පිළිබදව දැනුවත් වන්න" />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1651:2025-03-31-07-35-19&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232">
+                                                           
+                                                            භූ කම්පනයක දී අප කුමක් කරමුද? ඒ පිළිබදව දැනුවත් වන්න                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                                                                                                                   
+																									<p class="ns2-introtext">&nbsp; පසුගිය වර්ෂයේ පෙබරවාරි මස මොරාගල දිස්ත්‍රික්කයේ අවස්ථා කීපයක දී භූචලන වාර්තා විය. ඉන් පළමු වැන්න පෙබරවාරි මස 10 වන දින බුත්තලපැලවත්ත සීනි කර්මාන්ත ශාලාව ආසන්න ප්‍රදේශය වාර්තා වු අතර...</p>								
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1651:2025-03-31-07-35-19&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																									<div style="clear:both"></div>
+							</div>
+							<div style="clear:both"></div>
+							</div>
+												<div style="clear:both"></div>
+						</div><!--end ns2-page-inner-->
+					</div>
+														<div class=" ns2-page  item">
+						<div class="ns2-page-inner">
+													<div class="ns2-row ns2-first ns2-odd">
+								<div class="ns2-row-inner">
+																										<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1616:2025-01-20-11-32-55&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/112/Bad_Weather_190x140.jpg" alt="ආපදා හේතුවෙන් විපතට පත්වූවන් සඳහා සහන සැලසීමේ යාන්ත්‍රණය සහ සෙවීම් සහ මුදවාගැනීම් යාන්ත්‍රණය" title="ආපදා හේතුවෙන් විපතට පත්වූවන් සඳහා සහන සැලසීමේ යාන්ත්‍රණය සහ සෙවීම් සහ මුදවාගැනීම් යාන්ත්‍රණය" />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1616:2025-01-20-11-32-55&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232">
+                                                           
+                                                            ආපදා හේතුවෙන් විපතට පත්වූවන් සඳහා සහන සැලසීමේ යාන්ත්‍රණය සහ සෙවීම් සහ මුදවාගැනීම් යාන්ත්‍රණය                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                                                                                                                   
+																									<p class="ns2-introtext">ඊසානදිග මෝසම් සක්‍රීයවීම හේතුවෙන් පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ඇතිවු ගංවතුර,&nbsp;අධික සුළං,&nbsp;අකුණු,&nbsp;පස් කණ්ඩි කඩාවැටීම් සහ ගස් කඩාවැටීම් ආදී ආපදා හේතුවෙන්&nbsp;විපතට පත්වූවන් සෙවීම් මුදවාගැනීම් සහ&nbsp;සහන සැලසීමේ&nbsp;යාන්ත්‍රණය &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...</p>								
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1616:2025-01-20-11-32-55&amp;catid=17:featured-articles&amp;lang=en&amp;Itemid=232"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																									<div style="clear:both"></div>
+							</div>
+							<div style="clear:both"></div>
+							</div>
+												<div style="clear:both"></div>
+						</div><!--end ns2-page-inner-->
+					</div>
+								</div>
+				
+				
+									<div style="clear:both"></div>
+					<div class="ns2-art-controllers">
+													<div class="ns2-art-pagination nssp2-controllers">
+																	<span data-target="#ns2-art-wrap112" data-nsspwalk-to="0" class="active"></span>
+																	<span data-target="#ns2-art-wrap112" data-nsspwalk-to="1" class=""></span>
+																	<span data-target="#ns2-art-wrap112" data-nsspwalk-to="2" class=""></span>
+															</div>
+						
+												<div style="clear:both"></div>
+					</div>
+								<div style="clear:both"></div>
+			</div>
+				<!--End article layout-->
+		
+		<!--Links Layout-->
+				<!--End Links Layout-->
+		<div style="clear:both"></div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	</script></div>
+
+				   
+               </div>
+            </div>
+         </div>
+          
+                   
+                  <div class="externalMods">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                     <div class="quotesModule" >
+                        <div class="moduletable">
+ 
+<div id="ns2-113" class="nssp2 ns2-113">
+	<div class="ns2-wrap">
+					<div id="ns2-art-wrap113" class="ns2-art-wrap nssp2-slide nssp2-default ">			
+				<div class="slide2 ns2-art-pages nss2-inner">
+														<div class=" ns2-page  item active">
+						<div class="ns2-page-inner">
+													<div class="ns2-row ns2-first ns2-odd">
+								<div class="ns2-row-inner">
+																										<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1739:2025-10-13-11-45-07&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/113/International_DRR_Day_2025__11_150x150.jpg" alt="ජාත්‍යන්තර ආපදා අවදානම් අවම කිරීමේ ජාතික සැමරුම් වැඩසටහන" title="ජාත්‍යන්තර ආපදා අවදානම් අවම කිරීමේ ජාතික සැමරුම් වැඩසටහන" />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                        <div class="tagNew">
+                                                                 New                                                        </div>
+                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1739:2025-10-13-11-45-07&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+                                                           
+                                                            ජාත්‍යන්තර ආපදා අවදානම් අවම කිරීමේ ජාතික සැමරුම් වැඩසටහන                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                   															<div class="ns2-created">
+																																13 October 2025															</div>
+														                                                													<div class="ns2-tools">
+														
+															
+                                                       
+													</div>
+												                                                
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1739:2025-10-13-11-45-07&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																																			<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1738:message-from-major-general-sampath-kotuwegoda-ndc-ig-retd&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/113/Director_General_150x150.jpg" alt=" “Fund Resilience, Not Disasters”" title=" “Fund Resilience, Not Disasters”" />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1738:message-from-major-general-sampath-kotuwegoda-ndc-ig-retd&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+                                                           
+                                                             “Fund Resilience, Not Disasters”                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                   															<div class="ns2-created">
+																																12 October 2025															</div>
+														                                                													<div class="ns2-tools">
+														
+															
+                                                       
+													</div>
+												                                                
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1738:message-from-major-general-sampath-kotuwegoda-ndc-ig-retd&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																																			<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1734:2025-09-15-10-49-35&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/113/WhatsApp_Image_2025-09-15_at_1.26.26_PM_150x150.jpeg" alt="ආපදාවක් හෝ සුරක්ෂිත පාසල් ස්ථාපිත කිරීම ආපදා අවදානම් කළමනාකරණය " title="ආපදාවක් හෝ සුරක්ෂිත පාසල් ස්ථාපිත කිරීම ආපදා අවදානම් කළමනාකරණය " />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                        <div class="tagNew">
+                                                                 New                                                        </div>
+                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1734:2025-09-15-10-49-35&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+                                                           
+                                                            ආපදාවක් හෝ සුරක්ෂිත පාසල් ස්ථාපිත කිරීම ආපදා අවදානම් කළමනාකරණය                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                   															<div class="ns2-created">
+																																15 September 2025															</div>
+														                                                													<div class="ns2-tools">
+														
+															
+                                                       
+													</div>
+												                                                
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1734:2025-09-15-10-49-35&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																									<div style="clear:both"></div>
+							</div>
+							<div style="clear:both"></div>
+							</div>
+												<div style="clear:both"></div>
+						</div><!--end ns2-page-inner-->
+					</div>
+														<div class=" ns2-page  item">
+						<div class="ns2-page-inner">
+													<div class="ns2-row ns2-first ns2-odd">
+								<div class="ns2-row-inner">
+																										<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1733:sdc-fl360lr-usar&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/113/Swiss_Camenra_Handover_Programme_2025_1_150x150.jpg" alt="ස්විස්ටර්ලන්ත සංවර්ධන හා සහයෝගීතා ආයතනය(SDC) විසින් ලබාදුන් සෙවීම් සහ මුදාගැනීමේ කැමරා කට්ටල (FL360LR USAR) ශ්‍රී ලංකා යුධ හමුදා ආපදා ප්‍රතික්‍රියා පුහුණු මධ්‍යස්ථානය සහ ගිනි නිවීමේ දෙපාර්තමේන්තුව වෙත භාරදීම." title="ස්විස්ටර්ලන්ත සංවර්ධන හා සහයෝගීතා ආයතනය(SDC) විසින් ලබාදුන් සෙවීම් සහ මුදාගැනීමේ කැමරා කට්ටල (FL360LR USAR) ශ්‍රී ලංකා යුධ හමුදා ආපදා ප්‍රතික්‍රියා පුහුණු මධ්‍යස්ථානය සහ ගිනි නිවීමේ දෙපාර්තමේන්තුව වෙත භාරදීම." />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1733:sdc-fl360lr-usar&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+                                                           
+                                                            ස්විස්ටර්ලන්ත සංවර්ධන හා සහයෝගීතා ආයතනය(SDC) විසින් ලබාදුන් සෙවීම් සහ මුදාගැනීමේ...                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                   															<div class="ns2-created">
+																																01 September 2025															</div>
+														                                                													<div class="ns2-tools">
+														
+															
+                                                       
+													</div>
+												                                                
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1733:sdc-fl360lr-usar&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																																			<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1732:2025-08-29-08-45-08&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/113/Mainstreamning_DRR_Urban_Development_2025_16_150x150.jpg" alt="නාගරික සංවර්ධනයට ආපදා කළමනාකරණය ඒකාබද්ධ කිරීම පිළිබඳ මාර්ගෝපදේශය එලිදැක්වීම" title="නාගරික සංවර්ධනයට ආපදා කළමනාකරණය ඒකාබද්ධ කිරීම පිළිබඳ මාර්ගෝපදේශය එලිදැක්වීම" />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1732:2025-08-29-08-45-08&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+                                                           
+                                                            නාගරික සංවර්ධනයට ආපදා කළමනාකරණය ඒකාබද්ධ කිරීම පිළිබඳ මාර්ගෝපදේශය එලිදැක්වීම                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                   															<div class="ns2-created">
+																																29 August 2025															</div>
+														                                                													<div class="ns2-tools">
+														
+															
+                                                       
+													</div>
+												                                                
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1732:2025-08-29-08-45-08&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																																			<div class="ns2-column flt-left col-lg-4 col-md-4 col-sm-12 col-">
+										<div style="padding:3px 3px 3px 3px">
+											<div class="ns2-inner  ">
+                                            
+                                            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                                          
+                                            	
+                                            			
+                                                
+                                                																											<a href="/index.php?option=com_content&amp;view=article&amp;id=1731:2025-08-27-07-51-29&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+														
+														<img class="ns2-image" style="float:left;margin:0 0 0 0" src="/cache/mod_news_show_sp2/nssp2_thumbs/113/SLIDA_2025__1_150x150.jpg" alt="ආපදා අවදානම් කළමනාකරණය පිළිබදවශ්‍රී ලංකා පරිපාලන සේවා නිළධාරීන් දැනුවත් කිරීම." title="ආපදා අවදානම් කළමනාකරණය පිළිබදවශ්‍රී ලංකා පරිපාලන සේවා නිළධාරීන් දැනුවත් කිරීම." />
+															
+														</a>
+																
+															
+												
+                                            </div>
+                                             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 mob-news ">
+                                            													<h4 class="ns2-title">
+                                                                                                                                                                                       
+                                                                                                                    <a href="/index.php?option=com_content&amp;view=article&amp;id=1731:2025-08-27-07-51-29&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125">
+                                                           
+                                                            ආපදා අවදානම් කළමනාකරණය පිළිබදවශ්‍රී ලංකා පරිපාලන සේවා නිළධාරීන් දැනුවත් කිරීම.                                                                                                                    </a>
+                                                           
+                                                    </h4>
+												                                                   															<div class="ns2-created">
+																																27 August 2025															</div>
+														                                                													<div class="ns2-tools">
+														
+															
+                                                       
+													</div>
+												                                                
+												                                                                                            
+                                            													<div class="ns2-links">
+																					
+														
+																													<a class="ns2-readmore" href="/index.php?option=com_content&amp;view=article&amp;id=1731:2025-08-27-07-51-29&amp;catid=8:news-events&amp;lang=en&amp;Itemid=125"><span>Read More...</span></a>
+																											</div>
+																								<div style="clear:both"></div></div>
+																							
+											
+											
+																									
+												
+												
+												
+																								
+														
+														
+	
+												
+												
+												
+												<div class="ns2-social">
+																									</div>
+												
+																								
+																				
+												
+												
+												
+											</div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                             <div class="clear"></div>
+                                            
+										</div>
+                                       
+									</div>
+																									<div style="clear:both"></div>
+							</div>
+							<div style="clear:both"></div>
+							</div>
+												<div style="clear:both"></div>
+						</div><!--end ns2-page-inner-->
+					</div>
+								</div>
+				
+				
+									<div style="clear:both"></div>
+					<div class="ns2-art-controllers">
+													<div class="ns2-art-pagination nssp2-controllers">
+																	<span data-target="#ns2-art-wrap113" data-nsspwalk-to="0" class="active"></span>
+																	<span data-target="#ns2-art-wrap113" data-nsspwalk-to="1" class=""></span>
+															</div>
+						
+												<div style="clear:both"></div>
+					</div>
+								<div style="clear:both"></div>
+			</div>
+				<!--End article layout-->
+		
+		<!--Links Layout-->
+				<!--End Links Layout-->
+		<div style="clear:both"></div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	</script></div>
+
+                     </div>
+                     <!-- <div class="col-lg-3 col-md-3 col-sm-12  ">
+                        <div class="mapFront" >
+                        
+                         </div>
+                        </div>
+                        
+                        
+                        
+                        
+                        <div class="col-lg-3 col-md-3 col-sm-12  ">
+                        <div class="box_moduleFront" >
+                        
+                         </div>
+                        </div>
+                         
+                         <div class="col-lg-3 col-md-3 col-sm-12  ">
+                        			<div class="slidermenu">
+                        		 
+                        		</div>
+                        </div>         -->    
+                  </div>
+               </div>
+            </div>
+         </div>
+                           <div class="mediaBlockNw" >
+            <div class="container" >
+               <div class="row">
+				<div class="col-lg-6 col-md-6 col-sm-12">
+                  <div class="moduletable wupdates row">
+ 
+
+<div class="custom wupdates row"  >
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 ">
+<h4>Weather Updates</h4>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 ">
+<h4>Global Disaster Situation</h4>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 "><a href="http://www.meteo.gov.lk"><img src="/images/gov_1.png" alt="gov 1" /> <span>Department of Meteorology</span></a></div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 "><a href="http://hisz.rsoe.hu/"><img src="/images/general_alert_map.png" alt="general alert map" /> <span>General Alert Map</span></a></div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 "><a href="http://worldweather.wmo.int/en/home.html"><img src="/images/world_weather_info.png" alt="world weather info" /> <span>World Weather Information Service</span></a></div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 "><a href="https://ptwc.weather.gov/"><img src="/images/pacific_tsunami_ew.png" alt="pacific tsunami ew" /> <span>Pacific Tsunami EW</span></a></div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 "><a href="https://www.wunderground.com/"><img src="/images/weather_underground.png" alt="weather underground" /> <span>Weather Underground</span></a></div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 "><a href="http://www.gdacs.org/"><img src="/images/gen_alert2.png" alt="gen alert2" /> <span>Gen. Alert2: Summary / Map</span></a></div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><a href="https://www.accuweather.com/en/world/satellite"><span>Global View of Current Clouds </span></a></div></div>
+</div>
+
+				  </div>
+				<div class="col-lg-4 col-md-4 col-sm-12">
+                  
+				  </div>
+				<div class="col-lg-2 col-md-2 col-sm-12">
+                  <div class="moduletable sbanners">
+ 
+
+<div class="custom sbanners"  >
+	<p><a href="/images/pdfs/GuidelineOLexam2024.pdf"><span style="font-size: 11pt; line-height: 107%; font-family: Calibri, 'sans-serif';">Access to Examinations Amidst Disasters</span></a></p>
+<p><a href="/images/hazard/hazard/Index.html" target="_blank" class="hvr-outline-out" style="font-size: 12.16px;"><img src="/images/hazardmaps.jpg" alt="hazardmaps" width="114" height="118" /></a></p>
+<p><a href="/images/pdfs/RiskAssessment/School-Risk-Assesmnt-form.pdf" class="hvr-outline-out"><img src="/images/School_Disaster_Risk_.jpg" alt="School Disaster Risk " width="114" height="118" /></a></p></div>
+</div>
+
+				  </div>
+               </div>
+            </div>
+         </div>
+                           <div class="social"    >
+            <div class="container" >
+               <div class="row">
+                  <div class="col-lg-4 col-md-4 col-sm-12">
+                     <div class="moduletable banners">
+ 
+
+<div class="custom banners"  >
+	<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 clsblue"><a href="http://www.riskinfo.lk/" target="_blank" class="hvr-grow-shadow"> <img src="/images/annualreports.png" alt="annualreports" /> </a></div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 lghtblue"><a href="http://www.desinventar.lk/" target="_blank" class="hvr-grow-shadow"> <img src="/images/desinventar.png" alt="Disaster Information Management System" /> <span>Disaster Information Management System(Desinventar)</span> </a></div>
+</div>
+<div class="row">
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 lghtblue"><a href="http://www.drrweb.dmc.gov.lk/" target="_blank" class="hvr-grow-shadow"> <img src="/images/drr.png" alt="drr" /> <span>DRR Projects</span> </a></div>
+<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 clsblue"><a href="/index.php?option=com_content&amp;view=article&amp;id=86&amp;Itemid=245&amp;lang=en" class="hvr-grow-shadow"> <img src="/images/nationalsafety.png" alt="nationalsafety" /> <span>Emergency Response Plans</span> </a></div>
+</div></div>
+</div>
+
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                     <div class="moduletable vdotxt">
+ <h3>Media Release</h3> 
+
+<div class="custom vdotxt"  >
+	<p><a href="https://www.youtube.com/watch?v=s1WI2GGnjVw" data-rokbox="">Click here to play</a></p></div>
+</div>
+
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                     <div class="quotModule">
+                     		  <div class="moduletable">
+ <h3>Photo Story</h3> <div id ="phocagallery-module-ri" style="text-align:center; margin: 0 auto;"><div class="mosaic hvr-float-shadow" style="float:left;padding:0px;width:190px">
+<a class="pg-modal-button" title="8566544-3x2-700x467" href="/index.php?option=com_phocagallery&amp;view=detail&amp;catid=2:sri-lanka-disasters&amp;id=11:8566544-3x2-700x467&amp;Itemid=197&amp;tmpl=component&amp;detail=0&amp;buttons=1&amp;lang=en" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" >
+<img src="/images/phocagallery/sldisasters/thumbs/phoca_thumb_l_8566544-3x2-700x467.jpg" alt="8566544-3x2-700x467" width="190" height="108" /></a></div><div class="mosaic hvr-float-shadow" style="float:left;padding:0px;width:190px">
+<a class="pg-modal-button" title="military-officials-landslide-village-bellana-kalutara-mission_7e8cd0c8-41fe-11e7-a718-97a052f84fc6" href="/index.php?option=com_phocagallery&amp;view=detail&amp;catid=2:sri-lanka-disasters&amp;id=12:military-officials-landslide-village-bellana-kalutara-mission-7e8cd0c8-41fe-11e7-a718-97a052f84fc6&amp;Itemid=197&amp;tmpl=component&amp;detail=0&amp;buttons=1&amp;lang=en" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" >
+<img src="/images/phocagallery/sldisasters/thumbs/phoca_thumb_l_military-officials-landslide-village-bellana-kalutara-mission_7e8cd0c8-41fe-11e7-a718-97a052f84fc6.jpg" alt="military-officials-landslide-village-bellana-kalutara-mission_7e8cd0c8-41fe-11e7-a718-97a052f84fc6" width="190" height="108" /></a></div><div class="mosaic hvr-float-shadow" style="float:left;padding:0px;width:190px">
+<a class="pg-modal-button" title="sri-lanka-flood" href="/index.php?option=com_phocagallery&amp;view=detail&amp;catid=2:sri-lanka-disasters&amp;id=13:sri-lanka-flood&amp;Itemid=197&amp;tmpl=component&amp;detail=0&amp;buttons=1&amp;lang=en" rel="{handler: 'iframe', size: {x: 680, y: 560}, overlayOpacity: 0.3}" >
+<img src="/images/phocagallery/sldisasters/thumbs/phoca_thumb_l_sri-lanka-flood.jpg" alt="sri-lanka-flood" width="190" height="108" /></a></div><div class="mosaic hvr-float-shadow" style="float:left;padding:3px;width:175px"><a href="/index.php?option=com_phocagallery&amp;view=categories&amp;Itemid=268&amp;lang=en" class="galviewmor">
+
+<i class="fa fa-external-link fa-3x" aria-hidden="true"></i><br />
+<span class="small">View All</span></a></div></div><div style="clear:both"></div></div>
+
+                     </div>
+                     </div>
+               </div>
+            </div>
+         </div>
+                  <div class="contentNew">
+            <div class="container" >
+               <div class="row">
+                  <div class="col-md-12  ">
+                     <div id="system-message-container">
+	</div>
+
+                     <div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+
+
+
+
+</div>
+
+					                   </div>
+                                 </div>
+            </div>
+         </div>
+          
+          
+          
+                  <div class="carsoulgray "  >
+            <div class="container" >
+               <div class="row">
+                  <div class="sponsorLogo">
+                     <div class="moduletable">
+ <h3>Related Links</h3> 
+
+<div class="custom"  >
+	<p>&nbsp;</p>
+<ul class="relatedlinks">
+<li><a href="http://www.meteo.gov.lk/index.php?lang=en" target="_blank"><img src="/images/gov.png" alt="gov" />Department of<br />Meteorology</a></li>
+<li><a href="http://www.nbro.gov.lk/index.php?lang=en" target="_blank"><img src="/images/nbro.png" alt="gov" />National Building<br />Research Organization</a></li>
+<li><a href="http://www.irrigation.gov.lk/" target="_blank"><img src="/images/irrigation.png" alt="irrigation" />Department of<br />Irrigation</a></li>
+<li><a href="http://www.hpb.health.gov.lk/"><img src="/images/health.jpg" alt="health" /></a><a href="http://www.hpb.health.gov.lk/">Health Promotion Bureau</a><br data-mce-bogus="1" />
+<ul>
+<li></li>
+</ul>
+</li>
+<li><a href="https://covid19.gov.lk/"><img src="/images/gov.png" alt="gov" style="float: left;" /></a><a href="https://covid19.gov.lk/">Response to Covid-19</a></li>
+</ul></div>
+</div>
+
+                  </div>
+               </div>
+            </div>
+         </div>
+          
+         <div class="ministry " >
+            <div class="container" >
+               <div class="row">
+                  <div class="moduletable">
+ 
+
+<div class="custom"  >
+	<div class="custom">
+<div class="col-lg-3 col-md-3 col-md-12 col-xs-12 padmiddle">
+<h3 class="emertitl">Call Center</h3>
+<span class="emernum">117</span></div>
+<div class="col-lg-9 col-md-9 col-md-12 col-xs-12">
+<div class="col-lg-3 col-md-3 col-md-3 col-xs-3 padmiddle">General: +94 112 136 136</div>
+<div class="col-lg-6 col-md-6 col-md-6 col-xs-6 padtop"><span>Emergency Operation Center:</span><span class="padnum">+94 112 136 222 /<br />+94 112 670 002</span></div>
+<div class="col-lg-3 col-md-3 col-md-3 col-xs-3 padmiddle">Fax:&nbsp;+94 11 2670079</div>
+</div>
+</div></div>
+</div>
+
+               </div>
+            </div>
+         </div>
+         <div id="Footer">
+                        <div class="whiteBack">
+               <div class="container" >
+                  <div class="row">
+                     <footer>
+                        <div class="col-md-6 ">
+                           <div class="footer1">Copyright &#169; 2025 Disaster Management Centre. All Rights Reserved.</div>
+<div class="footer2">Developed in Association with <a href=https://www.icta.lk/ target=_blank>Information and Communication Technology Agency</a><br>
+Design & Developed By <a href=http://proconsinfotech.com/ target=_blank>Procons Infotech</a></div>
+
+                        </div>
+                        <div class="col-md-6 alignCenter">
+                           
+
+<div class="custom"  >
+	<p><a href="http://gic.gov.lk/" target="_blank"><img alt="gic en" src="/images/gic_en.gif" /></a></p></div>
+
+                            
+
+<div class="lastmodified">Last update: </br>14 October 2025.</div>
+                        </div>
+                     </footer>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      
+      <script src="/templates/temp_poora/js/jqTabs.js"></script>
+      <link rel="stylesheet" href="/templates/temp_poora/css/tabsJQ.css">
+      <script src="/templates/temp_poora/js/owl.carousel.js"></script>
+      <script src="/templates/temp_poora/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="/templates/temp_poora/js/jquery.sticky.js"></script>
+      <script src="/templates/temp_poora/js/jquery.mmenu.min.all.js"></script>
+      <script src="/templates/temp_poora/js/jquery.bxslider.js"></script>
+      <script src="/templates/temp_poora/js/newm.js"></script>
+   </body>
+</html>
