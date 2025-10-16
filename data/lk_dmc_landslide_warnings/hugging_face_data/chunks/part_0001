@@ -20014,5 +20014,41 @@
     "md5": "e5f71628a97d71e20fde347e7c1638b0",
     "chunk_size_bytes": 2105,
     "chunk_text": "\"\",\"\",\"\"\n\"\",\"Landslide Early Warning\",\"\"\n\"\",\"\",\"\"\n\"\",\"\u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db4\u0dd9\u0dbb \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8\",\"\"\n\"\",\"kz;rhpT Kd;ndr;rhpf;if\",\"\"\n\"\",\"\",\"\"\n\"\",\"\",\"\"\n\"\",\"Message ID : LEWM-15-10-2025-1930-00\",\"\"\n\"\",\"Update : - \nValidity Period :  From 19:30 hrs on 15.10.2025 To 19:30 hrs on 16.10.2025\",\"\"\n\"\",\"\",\"\"\n\n--- table-page-2-table-1.csv ---\n\n--- table-page-2-table-2.csv ---\n\n\"\",\"\",\"\"\n\"A\nreas and places which need special attention\",\"\",\"\"\n\"All mountainous areas, manmade cut slopes and roads within the relevant DS divisions \n\u0d85\u0daf\u0dcf\u0dbd \u0db4\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0daf\u0dda\u0d9a\u0db8\u0dca \u0daf\u0d9a\u0dcf\u0da7\u0dca\u0da8\u0dcf\u0dc1 \u0dad\u0dd4\u0dbd \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0d9a\u0db3\u0dd4\u0d9a\u0dbb \u0db6\u0dd1\u0dc0\u0dd4\u0db8\u0dca \u0dc4\u0dcf \u0d92 \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dad\u0dd4\u0dbd \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \n\u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dd2\u0dad\",\"\",\"\"\n\"\",\"\",\"\"\n\"\",\"\",\"\"\n\"\",\"\",\"\"\n\n--- table-page-3-table-1.csv ---\n\n\"\",\"\"\n\"\",\"gpuNjr nrayf gphptpDs;shd rfy kiyg;ghq;fhd gFjpfs;; kw;Wk; ntl;lg;gl;l epyr;\"\n\"\",\"\"\n\"S\",\"rha;Tfs;; \npecially: All the landslide susceptible areas previously identified by NBRO.\"\n\"\",\"\u0dc0\u0dd2\u0db4\u0dda\u0dc2: \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0daf \u0dcf\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0db4\u0dbb\u0dca\u0db8\u0daf\u0dda\u0dc2\u0dab \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0daf\u0db8\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0daf\u0dbd\u0dc3\"\n\"\",\"\u0db4\u0dd4\u0dbb\u0dca\u0db8\u0dc0\u0daf\u0dba\u0db1\u0dca \u0dc4\u0daf\u0dd4\u0db1\u0dcf\u0daf \u0db1 \u0d87\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\"\n\"\",\"tpNrlkhf: NBROtpdhy; Kd;dh; milahsg;gLj;jg;gl;l kz;rhpTf;fhd VjepiyAs;s\"\n\"\",\"\"\n\"\",\"rfy gpuNjrq;fs;.\"\n\"\",\"\"\n\n--- table-page-3-table-2.csv ---\n\n\"\",\"\",\"\"\n\"P\",\"revious Message ID : -\",\"\"\n\"\",\"\",\"\"\n\n--- table-page-3-table-3.csv ---\n\n\"I\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\n\"\",\"ssued by:                                                       Approved by:\",\"\",\"\",\"\",\"\",\"\",\"\"\n\"\",\"Duty Officer                                                   Director - LRRMD\",\"\",\"\",\"\",\"\",\"15-10-2025, 19:30 hrs \nDate and time issued\",\"\"\n\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\n\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\n\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\n\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"\n\"\",\"\",\"Landslide Research and Risk Management Division \nNational Building Research Organisation\",\"\",\"\",\"\",\"\",\"\"\n\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\""
+  },
+  {
+    "doc_type": "lk_dmc_landslide_warnings",
+    "doc_id": "2025-10-16-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2025-10-16",
+    "description": "Weather forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Early_Warning_at_1600hrs_on_2025__1760610960.pdf",
+    "time_str": "16:00",
+    "ut": 1760610600.0,
+    "chunk_id": "2025-10-16-16-00-weather-forecast-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "0b8541bf188a25184a70b0ca0583433f",
+    "chunk_size_bytes": 1765,
+    "chunk_text": "==== BLOCKS ====\n\nLandslide Early Warning First Warning Issued Date:15/10/2025 \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db4\u0dd9\u0dbb \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8 kz;rhpT Kd;ndr;rhpf;if Message ID : LEWM-16-10-2025-1600-02 Update : 2 nd update Validity Period : From 16:00 hrs on 16.10.2025 To 16:00 hrs on 17.10.2025\n\nLocations for Potential Risk \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db4\u0db8\u0dca \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8 \u0dd9\u0dd0\u0dc0\u0dad\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db4\u0dda\u0dc1 fdjpahd mghaKs;s ,lq;fs;\n\nDistrict Level 1 (Yellow) Level 2 (Amber) Level 3 (Red)\n\nGalle\n\nNeluwa Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nGampaha\n\nAttanagalla Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nKandy\n\nUdunuwara, * Delthota and * Doluwa Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nKegalle\n\nYatiyanthota, * Ruwanwella and Rambukkana Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nKurunegala\n\nRideegama and Alawwa Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nMatale\n\n* Rattota, * Yatawatta, * Ukuwela, Ambanganga Korale and Pallepola Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nMoneragala\n\nMedagama Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nNuwara Eliya\n\nHanguranketha and Ambagamuwa Divisional Secretariat\n\nDivision(s) (DSD) and surrounding areas.\n\nRatnapura\n\nKalawana Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nNote: \u2191shifted one level up, \u2191\u2191shifted two levels up, \u2193shifted one level down, \u2193\u2193shifted two levels down. *newly added with the last update Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas and given weather forecast by meteorological department of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_dmc_landslide_warnings",
+    "doc_id": "2025-10-16-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2025-10-16",
+    "description": "Weather forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Early_Warning_at_1600hrs_on_2025__1760610960.pdf",
+    "time_str": "16:00",
+    "ut": 1760610600.0,
+    "chunk_id": "2025-10-16-16-00-weather-forecast-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "e81d0e0d1c7bf3cefd9ece2c503a4bb4",
+    "chunk_size_bytes": 566,
+    "chunk_text": "Note: \u2191shifted one level up, \u2191\u2191shifted two levels up, \u2193shifted one level down, \u2193\u2193shifted two levels down. *newly added with the last update Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas and given weather forecast by meteorological department of Sri Lanka\n\nPrevious Message ID : LEWM-15-10-2025-2100-01\n\nIssued by: Approved by:\n\nDuty Officer Director - LRRMD\n\n16-10-2025, 16:00 hrs\n\nDate and time issued\n\nLandslide Research and Risk Management Division\n\nNational Building Research Organisation"
   }
 ]
