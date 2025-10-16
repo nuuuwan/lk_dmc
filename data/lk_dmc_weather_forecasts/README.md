@@ -1,14 +1,14 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_09:28:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_10:29:17-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**3,660** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.4 GB**), from **2023-03-26** to **2025-10-16**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,660** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.3 GB**), from **2023-03-26** to **2025-10-16**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
-- In **JSON**, **PDF**, **TXT**, **Tables** (100%) & **🤗 Hugging Face**
+- In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
 - In **English**
 
