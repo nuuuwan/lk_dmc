@@ -1240,5 +1240,41 @@
     "md5": "1de20cd707aab1235c9cb83731fdca8b",
     "chunk_size_bytes": 1104,
     "chunk_text": "Mahaweli GangaPeradeniyam5.007.009.003.813.92Normal10.8\n\nMahaweli GangaNawalapitiyam3.505.006.002.182.10Normal86.6\n\nBadulu OyaThaldenam3.004.005.000.570.56Normal14.2\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.501.971.97Normal53.1\n\nMalwathu Oya\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.802.002.00Normal26.3\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.005.945.94Alert32.0\n\nMaha OyaBadalgamam5.006.209.604.254.18Normal22.9\n\nMaha OyaGiriullam5.506.507.503.403.64Normal12.3\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.503.063.06Normal0.7\n\nPrepared by : P.A.G.Gayampath (H.A.)\n\nChecked by :G.A.S.A.Jayamal (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nTributory/River\n\nGauging Station\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n15 hr RF in\n\nmm at\n\n12:00 Midnight\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at 11:00 pm\n\nWater Level at\n\n12:00 Midnight\n\nNilwala Ganga\n\n(RB 12)"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-10-21-03-30-water-level",
+    "num": "03-30-water-level",
+    "date_str": "2025-10-21",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1760997884.pdf",
+    "time_str": "03:30",
+    "ut": 1760997600.0,
+    "chunk_id": "2025-10-21-03-30-water-level-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "d133205562a3ec9994aca6a89f5d25a5",
+    "chunk_size_bytes": 1998,
+    "chunk_text": "==== BLOCKS ====\n\n0\n\nDATE :21-Oct-2025TIME :3:30 AM\n\nStationUnitAlert Level\n\nMinor\n\nFlood Level\n\nMajor\n\nFlood Level\n\nKelani GangaNagalagam Streetft4.005.007.003.703.80Normal-\n\nKelani GangaHanwellam7.008.0010.004.724.67Normal21.6\n\nKelani GangaGlencoursem15.0016.5019.0012.3112.18Normal15.2\n\nKelani GangaKithulgalam3.004.006.001.611.60Normal20.8\n\nGurugoda OyaHolombuwam3.003.405.001.601.49Normal6.8\n\nSeethawaka GangaDeraniyagalam4.805.806.401.221.25Normal54.2\n\nKehelgamu OyaNorwoodm1.503.004.501.211.23Normal21.5\n\nKalu GangaPutupaulam3.004.005.001.221.26Normal8.7\n\nKalu GangaEllagawam10.0010.7012.207.507.60Normal67.9\n\nKalu GangaRathnapuram5.207.509.503.353.43Normal76.2\n\nMaguru GangaMaguram4.006.007.503.583.95Normal41.4\n\nKuda GangaKalawellawa (Millakanda)m5.006.508.003.884.00Normal32.9\n\nGin GangaBaddegamam3.504.005.002.252.35Normal146.6\n\nGin GangaThawalamam4.006.007.502.222.20Normal30.6\n\nNilwala GangaThalgahagodam1.401.702.800.530.57Normal26.3\n\nNilwala GangaPanadugamam5.006.007.502.402.41Normal10.3\n\nNilwala GangaPitabeddaram4.005.006.500.550.57Normal14.4\n\nUrubokka GangaUrawam2.504.006.000.050.05Normal4.6\n\nWalawe Ganga\n\n(RB 18) Walawe GangaMoraketiyam3.005.007.000.960.96Normal3.9\n\nKirindi OyaThanamalwilam4.005.005.502.652.32Normal90.8\n\nKirindi OyaWellawayam4.405.405.901.501.50Normal31.4\n\nKuda OyaKuda Oyam6.908.408.803.122.80Normal45.8\n\nMenik Ganga\n\n(RB 26)Menik GangaKatharagamam4.004.606.501.881.65Normal27.8\n\nKumbukkan Oya\n\n(RB 31)Kumbukkan Oya Nakkalam5.006.007.502.031.80Normal33.6\n\nHeda Oya\n\n(RB 36)Heda Oya Siyambalanduwam4.506.007.000.740.74Normal6.8\n\nMaduru Oya\n\n(RB 54)Maduru Oya Padiyathalawam4.004.506.000.590.59Normal0.4\n\nMahaweli GangaManampitiya m3.004.306.000.400.43Normal8.1\n\nMahaweli GangaWeraganthotam5.006.008.00-1.57-1.53Normal15.2\n\nMahaweli GangaPeradeniyam5.007.009.003.663.52Normal10.8\n\nMahaweli GangaNawalapitiyam3.505.006.001.811.78Normal87.2\n\nBadulu OyaThaldenam3.004.005.000.600.59Normal14.2\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.501.941.91Normal54.9"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-10-21-03-30-water-level",
+    "num": "03-30-water-level",
+    "date_str": "2025-10-21",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1760997884.pdf",
+    "time_str": "03:30",
+    "ut": 1760997600.0,
+    "chunk_id": "2025-10-21-03-30-water-level-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "a0e4edb2c15ca3989e654b5dd363c7b1",
+    "chunk_size_bytes": 1094,
+    "chunk_text": "Mahaweli GangaPeradeniyam5.007.009.003.663.52Normal10.8\n\nMahaweli GangaNawalapitiyam3.505.006.001.811.78Normal87.2\n\nBadulu OyaThaldenam3.004.005.000.600.59Normal14.2\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.501.941.91Normal54.9\n\nMalwathu Oya\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.801.971.95Normal26.3\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.005.935.82AlertFalling32.0\n\nMaha OyaBadalgamam5.006.209.604.164.25Normal22.9\n\nMaha OyaGiriullam5.506.507.504.304.46Normal12.3\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.503.063.06Normal0.7\n\nPrepared by : P.A.G.Gayampath (H.A.)\n\nChecked by :G.A.S.A.Jayamal (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nTributory/River\n\nGauging Station\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n18 hr RF in mm at 3:00\n\nam\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at 2:00 am\n\nWater Level at 3:00 am\n\nNilwala Ganga\n\n(RB 12)"
   }
 ]
