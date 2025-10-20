@@ -1,6 +1,6 @@
 # 🗻#SriLanka 🇱🇰 Dmc Landslide Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_13:43:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--20_15:18:27-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings)
 
