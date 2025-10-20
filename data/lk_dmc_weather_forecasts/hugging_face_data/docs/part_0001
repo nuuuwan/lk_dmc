@@ -44206,5 +44206,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0830hrs_on_2025__1760929835.pdf",
     "time_str": "08:30",
     "ut": 1760929200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-10-20-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2025-10-20",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1760950115.pdf",
+    "time_str": "14:00",
+    "ut": 1760949000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-10-20-14-30-advisory-for-stro-ff9e1499",
+    "num": "14-30-advisory-for-strong-winds-and-rough-seas",
+    "date_str": "2025-10-20",
+    "description": "Advisory for strong winds and rough seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_at_1430_hrs_on_20__1760951618.pdf",
+    "time_str": "14:30",
+    "ut": 1760950800.0
   }
 ]
