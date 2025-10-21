@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_14:26:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_14:53:25-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**3,692** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.4 GB**), from **2023-03-26** to **2025-10-21**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,693** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.4 GB**), from **2023-03-26** to **2025-10-21**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-10-21-13-00-advisory-for-stro-e17ca9ad",
-    "num": "13-00-advisory-for-strong-winds-heavy-showers-and-rough-seas",
+    "doc_id": "2025-10-21-14-00-weather-forcast",
+    "num": "14-00-weather-forcast",
     "date_str": "2025-10-21",
-    "description": "Advisory for strong winds, heavy showers and rough seas",
+    "description": "Weather Forcast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds,_heavy_showers_and_rough_seas_at_1300hrs_on_21__1761033792.pdf",
-    "time_str": "13:00",
-    "ut": 1761031800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1400hrs_on_2025__1761037694.pdf",
+    "time_str": "14:00",
+    "ut": 1761035400.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-21 | `14-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-21-14-00-weather-forcast)
 - 2025-10-21 | `13-00-advisory-for-strong-winds-heavy-showers-and-rough-seas` | Advisory for strong winds, heavy showers and rough seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-21-13-00-advisory-for-stro-e17ca9ad)
 - 2025-10-21 | `11-25-warning-for-heavy-rain--05` | Warning for Heavy Rain - 05 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-21-11-25-warning-for-heavy-87fc6d53)
 - 2025-10-21 | `09-00-warning-for-heavy-rain--05` | Warning for Heavy Rain - 05 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-21-09-00-warning-for-heavy-01cce36e)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2025-10-19 | `08-30-advisory-for-heavy-rain-tamil` | Advisory for Heavy Rain (Tamil) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-19-08-30-advisory-for-heav-336e30d6)
 - 2025-10-19 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-19-05-30-weather-forcast)
 - 2025-10-18 | `21-15-advisory-for-heavy-rain` | Advisory for Heavy Rain | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-18-21-15-advisory-for-heavy-rain)
-- 2025-10-18 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-18-16-00-weather-forecast)
 
 ---
 
