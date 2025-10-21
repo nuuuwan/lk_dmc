@@ -44278,5 +44278,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Heavy_Rain_-_05_at_0900_hrs_on_21__1761022485.pdf",
     "time_str": "09:00",
     "ut": 1761017400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-10-21-11-25-warning-for-heavy-87fc6d53",
+    "num": "11-25-warning-for-heavy-rain--05",
+    "date_str": "2025-10-21",
+    "description": "Warning for Heavy Rain - 05",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Heavy_Rain_-_05_at_09__1761026760.pdf",
+    "time_str": "11:25",
+    "ut": 1761026100.0
   }
 ]
