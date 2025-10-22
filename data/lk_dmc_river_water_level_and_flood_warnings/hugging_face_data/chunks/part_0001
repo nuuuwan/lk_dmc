@@ -1798,5 +1798,41 @@
     "md5": "66c363611bf3aabc07b51217e79a1816",
     "chunk_size_bytes": 1144,
     "chunk_text": "Mahaweli GangaNawalapitiyam3.505.006.001.411.41Normal1.7\n\nBadulu OyaThaldenam3.004.005.000.450.43Normal1.1\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.501.601.60Normal0.0\n\nMaa Oya (RB 69) Mukunu OyaYaka Wewam4.005.006.000.580.58Normal0.0\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.801.911.91Normal0.0\n\nMee Oya\n\n(RB 95)Mee OyaGalgamuwam4.845.948.000.450.45Normal5.1\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.002.262.25Normal0.8\n\nMaha OyaBadalgamam5.006.209.603.383.35Normal6.7\n\nMaha OyaGiriullam5.506.507.502.152.12Normal5.9\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.501.741.74Normal0.6\n\nPrepared by : K.K.C.U.Dilshan (H.A.)\n\nChecked by :Aravinda Gunasekara (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n9 Hr RF in mm at 6:00\n\npm\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at 5:00 pm\n\nWater Level at 6:00 pm\n\nNilwala Ganga\n\n(RB 12)\n\nTributory/River\n\nGauging Station"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-10-22-21-30-water-level",
+    "num": "21-30-water-level",
+    "date_str": "2025-10-22",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1761148939.pdf",
+    "time_str": "21:30",
+    "ut": 1761148800.0,
+    "chunk_id": "2025-10-22-21-30-water-level-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "f6de56a4664c08cfa462f37249cf9710",
+    "chunk_size_bytes": 1981,
+    "chunk_text": "==== BLOCKS ====\n\n0\n\nDATE :22-Oct-2025TIME :9:30 PM\n\nStationUnitAlert Level\n\nMinor\n\nFlood Level\n\nMajor\n\nFlood Level\n\nKelani GangaNagalagam Streetft4.005.007.001.901.80Normal-\n\nKelani GangaHanwellam7.008.0010.003.323.28Normal25.3\n\nKelani GangaGlencoursem15.0016.5019.0010.8510.85Normal14.4\n\nKelani GangaKithulgalam3.004.006.001.901.90Normal8.4\n\nGurugoda OyaHolombuwam3.003.405.000.920.91Normal0.0\n\nSeethawaka GangaDeraniyagalam4.805.806.401.151.10Normal18.9\n\nKehelgamu OyaNorwoodm1.503.004.500.990.98Normal1.0\n\nKalu GangaPutupaulam3.004.005.002.022.01Normal24.3\n\nKalu GangaEllagawam10.0010.7012.206.949.64Normal21.0\n\nKalu GangaRathnapuram5.207.509.502.612.58Normal4.1\n\nMaguru GangaMaguram4.006.007.503.083.05Normal1.0\n\nKuda GangaKalawellawa (Millakanda)m5.006.508.004.884.89Normal12.1\n\nGin GangaBaddegamam3.504.005.003.043.01Normal1.5\n\nGin GangaThawalamam4.006.007.501.791.77Normal0.0\n\nNilwala GangaThalgahagodam1.401.702.800.660.63Normal3.5\n\nNilwala GangaPanadugamam5.006.007.502.982.96Normal6.8\n\nNilwala GangaPitabeddaram4.005.006.500.600.60Normal0.7\n\nUrubokka GangaUrawam2.504.006.000.140.14Normal0.0\n\nWalawe Ganga\n\n(RB 18) Walawe GangaMoraketiyam3.005.007.000.790.79Normal0.0\n\nKirindi OyaThanamalwilam4.005.005.500.980.98Normal1.1\n\nKirindi OyaWellawayam4.405.405.901.071.09Normal0.0\n\nKuda OyaKuda Oyam6.908.408.801.321.31Normal0.0\n\nMenik Ganga (RB\n\n26)Menik GangaKatharagamam4.004.606.50-0.02-0.03Normal0.0\n\nKumbukkan Oya\n\n(RB 31)Kumbukkan Oya Nakkalam5.006.007.500.980.98Normal0.0\n\nHeda Oya\n\n(RB 36)Heda Oya Siyambalanduwam4.506.007.000.540.54Normal0.0\n\nMaduru Oya\n\n(RB 54)Maduru Oya Padiyathalawam4.004.506.000.320.32Normal0.0\n\nMahaweli GangaManampitiya m3.004.306.000.780.78Normal0.0\n\nMahaweli GangaWeraganthotam5.006.008.00-2.12-1.84Normal0.0\n\nMahaweli GangaPeradeniyam5.007.009.002.502.70Normal1.0\n\nMahaweli GangaNawalapitiyam3.505.006.001.411.43Normal6.1\n\nBadulu OyaThaldenam3.004.005.000.420.38Normal1.1\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.501.591.58Normal0.0"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-10-22-21-30-water-level",
+    "num": "21-30-water-level",
+    "date_str": "2025-10-22",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1761148939.pdf",
+    "time_str": "21:30",
+    "ut": 1761148800.0,
+    "chunk_id": "2025-10-22-21-30-water-level-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "da46b20a474254fea199b781d54a42fb",
+    "chunk_size_bytes": 1152,
+    "chunk_text": "Mahaweli GangaPeradeniyam5.007.009.002.502.70Normal1.0\n\nMahaweli GangaNawalapitiyam3.505.006.001.411.43Normal6.1\n\nBadulu OyaThaldenam3.004.005.000.420.38Normal1.1\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.501.591.58Normal0.0\n\nMalwathu Oya\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.801.891.88Normal0.0\n\nMee Oya\n\n(RB 95)Mee OyaGalgamuwam4.845.948.000.450.45Normal5.1\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.002.252.26Normal19.3\n\nMaha OyaBadalgamam5.006.209.603.273.26Normal14.2\n\nMaha OyaGiriullam5.506.507.502.082.07Normal20.2\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.501.721.72Normal0.6\n\nPrepared by : K.K.C.U.Dilshan (H.A.)\n\nChecked by :Aravinda Gunasekara (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n12 Hr RF\n\nin mm at\n\n9:00 pm\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at 8:00 pm\n\nWater Level at 9:00 pm\n\nNilwala Ganga\n\n(RB 12)\n\nTributory/River\n\nGauging Station"
   }
 ]
