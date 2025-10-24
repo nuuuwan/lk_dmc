@@ -2374,5 +2374,23 @@
     "md5": "691f0478dafc7164b9693e172948a3b3",
     "chunk_size_bytes": 1158,
     "chunk_text": "Mahaweli GangaPeradeniyam5.007.009.002.542.73Normal7.3\n\nMahaweli GangaNawalapitiyam3.505.006.001.571.53Normal12.6\n\nBadulu OyaThaldenam3.004.005.000.360.35Normal0.5\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.501.521.52Normal11.9\n\nMalwathu Oya\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.802.132.18Normal24.1\n\nMee Oya\n\n(RB 95)Mee OyaGalgamuwam4.845.948.000.780.80Normal14.0\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.003.192.87Normal6.2\n\nMaha OyaBadalgamam5.006.209.603.603.59Normal8.8\n\nMaha OyaGiriullam5.506.507.502.552.58Normal17.8\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.502.542.58Normal18.0\n\nPrepared by : G.A.S.A.Jayamal (H.A.)\n\nChecked by :S.G.V.R.D.N.A.Gunasekara (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n9 Hr RF in mm at 6.00\n\npm\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at 5:00 pm\n\nWater Level at 6:00 pm\n\nNilwala Ganga\n\n(RB 12)\n\nTributory/River\n\nGauging Station"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-10-25-21-30-water-level",
+    "num": "21-30-water-level",
+    "date_str": "2025-10-25",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1761330941.pdf",
+    "time_str": "21:30",
+    "ut": 1761408000.0,
+    "chunk_id": "2025-10-25-21-30-water-level-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "chunk_size_bytes": 0,
+    "chunk_text": ""
   }
 ]
