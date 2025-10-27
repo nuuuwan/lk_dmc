@@ -44710,5 +44710,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_1500hrs_on_27__1761559501.pdf",
     "time_str": "15:00",
     "ut": 1761557400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-10-27-16-00-weather-forcast",
+    "num": "16-00-weather-forcast",
+    "date_str": "2025-10-27",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1761563184.pdf",
+    "time_str": "16:00",
+    "ut": 1761561000.0
   }
 ]
