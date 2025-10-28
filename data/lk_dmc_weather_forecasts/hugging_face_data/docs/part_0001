@@ -44746,5 +44746,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/MSA_2025102801_EN__1761617352.pdf",
     "time_str": "07:00",
     "ut": 1761615000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-10-28-11-00-the-advisory-for--d84cb3dd",
+    "num": "11-00-the-advisory-for-strong-winds-report",
+    "date_str": "2025-10-28",
+    "description": "The Advisory for Strong winds Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds__1761631021.pdf",
+    "time_str": "11:00",
+    "ut": 1761629400.0
   }
 ]

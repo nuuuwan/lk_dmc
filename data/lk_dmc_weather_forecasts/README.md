@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_11:22:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_11:56:53-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**3,729** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.4 GB**), from **2023-03-26** to **2025-10-28**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,730** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.4 GB**), from **2023-03-26** to **2025-10-28**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-10-28-07-00-advisory-for-stro-90a7f774",
-    "num": "07-00-advisory-for-strong-winds-heavy-showers-and-rough-seas",
+    "doc_id": "2025-10-28-11-00-the-advisory-for--d84cb3dd",
+    "num": "11-00-the-advisory-for-strong-winds-report",
     "date_str": "2025-10-28",
-    "description": "Advisory for strong winds, heavy showers and rough seas",
+    "description": "The Advisory for Strong winds Report",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/MSA_2025102801_EN__1761617352.pdf",
-    "time_str": "07:00",
-    "ut": 1761615000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds__1761631021.pdf",
+    "time_str": "11:00",
+    "ut": 1761629400.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-10-28 | `11-00-the-advisory-for-strong-winds-report` | The Advisory for Strong winds Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-28-11-00-the-advisory-for--d84cb3dd)
 - 2025-10-28 | `07-00-advisory-for-strong-winds-heavy-showers-and-rough-seas` | Advisory for strong winds, heavy showers and rough seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-28-07-00-advisory-for-stro-90a7f774)
 - 2025-10-28 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-28-05-30-weather-forcast)
 - 2025-10-27 | `16-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-27-16-00-weather-forcast)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2025-10-25 | `13-30-advisory-for-strong-winds-heavy-showers-and-rough-seas-tamil` | Advisory for strong winds, heavy showers and rough seas (Tamil) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-25-13-30-advisory-for-stro-c8a378af)
 - 2025-10-25 | `12-00-advisory-for-strong-winds-heavy-showers-and-rough-seas` | Advisory for strong winds, heavy showers and rough seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-25-12-00-advisory-for-stro-2ee63c98)
 - 2025-10-25 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-25-05-30-weather-forcast)
-- 2025-10-24 | `17-00-warning-for-strong-winds-and-rough-seas` | Warning for strong winds and rough seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-10-24-17-00-warning-for-stron-b6225976)
 
 ---
 
