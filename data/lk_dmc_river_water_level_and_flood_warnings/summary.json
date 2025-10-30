@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2025-10-30 10:09:56",
-  "n_docs": 78,
-  "n_docs_with_pdfs": 78,
-  "n_docs_with_text": 78,
+  "time_updated": "2025-10-30 10:39:21",
+  "n_docs": 79,
+  "n_docs_with_pdfs": 79,
+  "n_docs_with_text": 79,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
-  "date_str_max": "2025-10-27",
-  "dataset_size": 25888609,
+  "date_str_max": "2025-10-30",
+  "dataset_size": 26097678,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-10-27-15-00-withdrawal-of-flo-4c0c9d17",
-    "num": "15-00-withdrawal-of-flood-warning-kudaganga-sub-basin-of-kalu-river",
-    "date_str": "2025-10-27",
-    "description": "Withdrawal of Flood warning Kudaganga Sub Basin of Kalu River",
+    "doc_id": "2025-10-30-09-30-water-level",
+    "num": "09-30-water-level",
+    "date_str": "2025-10-30",
+    "description": "Water Level",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Withdrawal_of_Flood_warning_Kudaganga_Sub_Basin_of_Kalu_River_2025__1761558090.pdf",
-    "time_str": "15:00",
-    "ut": 1761557400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1761799284.pdf",
+    "time_str": "09:30",
+    "ut": 1761796800.0
   }
 }
