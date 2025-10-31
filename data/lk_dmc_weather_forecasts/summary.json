@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2025-10-31 06:15:33",
-  "n_docs": 3738,
-  "n_docs_with_pdfs": 3738,
-  "n_docs_with_text": 3738,
+  "time_updated": "2025-10-31 07:20:12",
+  "n_docs": 3739,
+  "n_docs_with_pdfs": 3739,
+  "n_docs_with_text": 3739,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
-  "date_str_max": "2025-10-30",
-  "dataset_size": 4454076758,
+  "date_str_max": "2025-10-31",
+  "dataset_size": 4454814544,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-10-30-14-00-weather-forcast",
-    "num": "14-00-weather-forcast",
-    "date_str": "2025-10-30",
+    "doc_id": "2025-10-31-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
+    "date_str": "2025-10-31",
     "description": "Weather Forcast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2025__1761814651.pdf",
-    "time_str": "14:00",
-    "ut": 1761813000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530_hrs_on_2025__1761870852.pdf",
+    "time_str": "05:30",
+    "ut": 1761868800.0
   }
 }
