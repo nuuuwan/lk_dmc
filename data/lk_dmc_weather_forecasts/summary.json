@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2025-10-31 16:23:20",
-  "n_docs": 3742,
-  "n_docs_with_pdfs": 3742,
-  "n_docs_with_text": 3742,
+  "time_updated": "2025-10-31 16:51:21",
+  "n_docs": 3743,
+  "n_docs_with_pdfs": 3743,
+  "n_docs_with_text": 3743,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2025-10-31",
-  "dataset_size": 4459580022,
+  "dataset_size": 4460427975,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-10-31-15-00-fishermen-bulleti-20c6df84",
-    "num": "15-00-fishermen-bulletin-for-strong-winds-and-rough-seas",
+    "doc_id": "2025-10-31-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
     "date_str": "2025-10-31",
-    "description": "Fishermen bulletin for strong winds and rough seas",
+    "description": "Weather Forecast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_at_1500hrs_on_31__1761903323.pdf",
-    "time_str": "15:00",
-    "ut": 1761903000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1600_hrs_on_2025__1761908685.pdf",
+    "time_str": "16:00",
+    "ut": 1761906600.0
   }
 }
