@@ -44926,5 +44926,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530_hrs_on_2025__1761956162.pdf",
     "time_str": "05:30",
     "ut": 1761955200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-01-14-00-weather-forcast",
+    "num": "14-00-weather-forcast",
+    "date_str": "2025-11-01",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1600_hrs_on_2025__1761986899.pdf",
+    "time_str": "14:00",
+    "ut": 1761985800.0
   }
 ]
