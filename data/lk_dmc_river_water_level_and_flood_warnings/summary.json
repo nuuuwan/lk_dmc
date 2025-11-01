@@ -2,33 +2,33 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2025-11-01 09:39:29",
-  "n_docs": 79,
-  "n_docs_with_pdfs": 79,
-  "n_docs_with_text": 79,
+  "time_updated": "2025-11-01 10:09:21",
+  "n_docs": 80,
+  "n_docs_with_pdfs": 80,
+  "n_docs_with_text": 80,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
-  "date_str_max": "2025-10-30",
-  "dataset_size": 26147354,
+  "date_str_max": "2025-11-01",
+  "dataset_size": 26493542,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings",
-  "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_dmc/refs/heads/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/docs_by_day_and_lang.png",
+  "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_dmc/refs/heads/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/docs_by_month_and_lang.png",
   "langs": [
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-10-30-09-30-water-level",
-    "num": "09-30-water-level",
-    "date_str": "2025-10-30",
-    "description": "Water Level",
+    "doc_id": "2025-11-01-10-00-water-level--rainfall",
+    "num": "10-00-water-level--rainfall",
+    "date_str": "2025-11-01",
+    "description": "Water level & Rainfall",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1761799284.pdf",
-    "time_str": "09:30",
-    "ut": 1761796800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1761971721.pdf",
+    "time_str": "10:00",
+    "ut": 1761971400.0
   }
 }
