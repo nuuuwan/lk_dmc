@@ -45298,5 +45298,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2025__1762733347.pdf",
     "time_str": "05:30",
     "ut": 1762732800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-10-13-00-advisory-of-sever-34ab352e",
+    "num": "13-00-advisory-of-severe-lighting",
+    "date_str": "2025-11-10",
+    "description": "Advisory of Severe Lighting",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_Report_at_1300hrs_on_2025__1762761622.pdf",
+    "time_str": "13:00",
+    "ut": 1762759800.0
   }
 ]
