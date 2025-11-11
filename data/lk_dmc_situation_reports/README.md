@@ -1,6 +1,6 @@
 # 🌦️#SriLanka 🇱🇰 Dmc Situation Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_02:50:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_03:20:00-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports)
 
