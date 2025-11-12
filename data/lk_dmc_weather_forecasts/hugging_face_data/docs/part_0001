@@ -45394,5 +45394,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1400hrs__1762937851.pdf",
     "time_str": "14:00",
     "ut": 1762936200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-12-15-00-advisory-for-seve-c8c7ee75",
+    "num": "15-00-advisory-for-severe-lightning",
+    "date_str": "2025-11-12",
+    "description": "Advisory for Severe Lightning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for__severe_Lightning___1762942235.pdf",
+    "time_str": "15:00",
+    "ut": 1762939800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-12-15-00-fishermen-bulleti-20c6df84",
+    "num": "15-00-fishermen-bulletin-for-strong-winds-and-rough-seas",
+    "date_str": "2025-11-12",
+    "description": "Fishermen bulletin for strong winds and rough seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Fisherman_Bulletin__1762941350.pdf",
+    "time_str": "15:00",
+    "ut": 1762939800.0
   }
 ]
