@@ -4156,5 +4156,41 @@
     "md5": "8bbd4ebffccfbe182c6630717cf16aa8",
     "chunk_size_bytes": 1197,
     "chunk_text": "Castlereigh(CEB)26.0Buttala Bridge (HMIS)NAUsgala Siyamabalangamuwa (HMIS)NANorton(CEB)60.5Rajanganaya (Res) (HMIS)NAMaussakelle(CEB)17.0Gal Oya (RB 44)Kalawewa (Res) (HMIS)NACanyon(CEB)19.3Dambulu Oya(Res) (HMIS)NALaxapana(CEB)73.6Ampara10.9Kandalama (Res) (HMIS)NA16.9Senanayaka Samu.(Res)(HMIS)NADambulu Oya River (HMIS)NABibile (HMIS)NABolgoda Ganga (RB 02)Inginiyagala(CEB)9.7Daduru Oya (RB 99)\n\nYan oya (RB 67)Max. Rainfall (CEB)Nilwala Ganga (RB 12)Laxapana(CEB)73.6Hurulu Wewa(Res) (HMIS)NAAkuressa (HMIS)NASapugoda (HMIS)NAMaha Oya (RB 69)\n\nWalawe Ganga (RB 18)Padawiya Tank (HMIS)NA\n\nDunamale89.0Samanalawewa(CEB) 10.0Malwathu Oya (RB 90)Mau Ara (Res) (HMIS)NANotationThimbolketiya (HMIS)NAMenik Farm (HMIS)NATr :- Traced RainfallUdawalawe (Res) (HMIS)NATissa Wewa(Res) (HMIS)NARB :- River BasinNachchaduwa(Res) (HMIS)NAMET :- Department of MeteorologyID :- Irrigation DepartmentCEB :- Ceylon Electricity BoardRes :-ReservoirHMIS :- DSWRP DataEng.L.S. SooriyabandaraNA :- Not AvailableDirector (Hydrology and Disaster Management)\n\nPrepared by : G.A.S.A.Jayamal (H.A.)\n\nChecked by :W.A.S.Saumya (H.D.S.(Act))\n\nDaily Rainfall\n\nUnits in mm\n\nMax. Rainfall (HMIS)\n\nMax. Rainfall (ID)\n\nColombo"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-11-19-12-30-water-level--rainfall",
+    "num": "12-30-water-level--rainfall",
+    "date_str": "2025-11-19",
+    "description": "Water level & Rainfall",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1763538394.pdf",
+    "time_str": "12:30",
+    "ut": 1763535600.0,
+    "chunk_id": "2025-11-19-12-30-water-level--rainfall-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "cbbf537963318a43752ef6005390948d",
+    "chunk_size_bytes": 2014,
+    "chunk_text": "==== BLOCKS ====\n\n0\n\nDATE :19-Nov-2025TIME :12:30 PM\n\nStationUnitAlertLevel\n\nMinorFloodLevel\n\nMajorFloodLevel\n\nKelani GangaNagalagam Streetft4.005.007.002.402.70Normal-\n\nKelani GangaHanwellam7.008.0010.003.423.32Normal0.0\n\nKelani GangaGlencoursem15.0016.5019.0011.0410.94Normal0.0\n\nKelani GangaKithulgalam3.004.006.001.471.74Normal0.0\n\nGurugoda OyaHolombuwam3.003.405.001.101.08Normal0.0\n\nSeethawaka GangaDeraniyagalam4.805.806.400.930.88Normal0.0\n\nKehelgamu OyaNorwoodm1.503.004.501.221.19Normal0.0\n\nKalu GangaPutupaulam3.004.005.001.751.72Normal0.0\n\nKalu GangaEllagawam10.0010.7012.207.006.94Normal0.0\n\nKalu GangaRathnapuram5.207.509.502.852.78Normal0.0\n\nMaguru GangaMaguram4.006.007.502.172.06Normal0.0\n\nKuda GangaKalawellawa(Millakanda)m5.006.508.004.494.40Normal0.0\n\nGin GangaBaddegamam3.504.005.002.672.63Normal0.0\n\nGin GangaThawalamam4.006.007.501.721.69Normal0.0\n\nNilwala GangaThalgahagodam1.401.702.801.191.19Normal0.0\n\nNilwala GangaPanadugamam5.006.007.503.793.74Normal0.0\n\nNilwala GangaPitabeddaram4.005.006.500.940.92Normal0.0\n\nUrubokka GangaUrawam2.504.006.000.430.42Normal0.0\n\nWalawe Ganga(RB 18)Walawe GangaMoraketiyam3.005.007.001.161.14Normal0.0\n\nKirindi OyaThanamalwilam4.005.005.501.231.22Normal0.0\n\nKirindi OyaWellawayam4.405.405.901.051.05Normal0.0\n\nKuda OyaKuda Oyam6.908.408.801.591.58Normal0.0\n\nMenik Ganga(RB 26)Menik GangaKatharagamam4.004.606.500.100.10Normal0.0\n\nKumbukkan Oya(RB 31)Kumbukkan OyaNakkalam5.006.007.501.081.06Normal0.0\n\nHeda Oya(RB 36)Heda OyaSiyambalanduwam4.506.007.000.630.63Normal0.0\n\nMaduru Oya(RB 54)Maduru OyaPadiyathalawam4.004.506.000.520.50Normal0.0\n\nMahaweli GangaManampitiyam3.004.306.001.081.08Normal0.0\n\nMahaweli GangaWeraganthotam5.006.008.00-1.67-1.76Normal0.0\n\nMahaweli GangaPeradeniyam5.007.009.003.202.98Normal0.0\n\nMahaweli GangaNawalapitiyam3.505.006.001.371.35Normal0.0\n\nBadulu OyaThaldenam3.004.005.000.630.54Normal0.0\n\nYan Oya(RB 67)Yan OyaHorowpothanam6.007.5010.502.182.15Normal0.0\n\nMaa Oya (RB69)Mukunu OyaYaka Wewam4.005.006.000.580.58Normal0.0"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-11-19-12-30-water-level--rainfall",
+    "num": "12-30-water-level--rainfall",
+    "date_str": "2025-11-19",
+    "description": "Water level & Rainfall",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1763538394.pdf",
+    "time_str": "12:30",
+    "ut": 1763535600.0,
+    "chunk_id": "2025-11-19-12-30-water-level--rainfall-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "af8400a93072f4ba841220f08eaebb92",
+    "chunk_size_bytes": 1054,
+    "chunk_text": "Mahaweli GangaNawalapitiyam3.505.006.001.371.35Normal0.0\n\nBadulu OyaThaldenam3.004.005.000.630.54Normal0.0\n\nYan Oya(RB 67)Yan OyaHorowpothanam6.007.5010.502.182.15Normal0.0\n\nMaa Oya (RB69)Mukunu OyaYaka Wewam4.005.006.000.580.58Normal0.0\n\nMee Oya(RB 95)Mee OyaGalgamuwam4.845.948.000.700.72Normal0.0\n\nDeduru Oya(RB 99)Deduru OyaMoragaswewam4.756.007.003.983.96Normal0.0\n\nMaha OyaBadalgamam5.006.209.604.174.10Normal0.0\n\nMaha OyaGiriullam5.506.507.503.052.96Normal0.0\n\nAttanagalu Oya(RB 103)Attanagalu OyaDunamalem3.304.405.502.682.60Normal0.0\n\nPrepared by :S.G.V.R.D.N.A. Gunasekara(H.A.)\n\nChecked by :W.A.S.Saumya (H.D.S.(Act.))\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\nRiver BasinTributory/River\n\nGauging Station\n\nWaterLevel at11:00 am\n\nWaterLevel at12:00 pm\n\nRemarks\n\nWaterLevelRising orFalling\n\n3 Hr RF inmm at12.00 pm\n\nKelani Ganga(RB 01)\n\nKalu Ganga(RB 03)\n\nGin Ganga(RB 09)\n\nNilwala Ganga(RB 12)\n\nKirindi Oya(RB 22)\n\nMahaweliGanga (RB 60)\n\nMaha Oya(RB 102)"
   }
 ]
