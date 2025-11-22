@@ -1,12 +1,12 @@
 # 💧#SriLanka 🇱🇰 Dmc River Water Level And Flood Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_07:06:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_08:07:15-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
 River Water Level and Flood Warnings for various places in Sri Lanka.
 
-- [**117** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**34.9 MB**), from **2025-06-10** to **2025-11-23**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**118** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**35.0 MB**), from **2025-06-10** to **2025-11-23**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 - 2025-11-23 | `00-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-23-00-30-water-level)
 - 2025-11-22 | `06-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-22-06-30-water-level)
 - 2025-11-22 | `03-00-river-water-level` | River Water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-22-03-00-river-water-level)
+- 2025-11-22 | `00-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-22-00-30-water-level)
 - 2025-11-21 | `23-15-flood-warning--nilwala-river--no-01` | Flood Warning - Nilwala River - No 01 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-21-23-15-flood-warning--ni-570f7a3f)
 - 2025-11-21 | `23-15-flood-warning--gin-river-no-01` | Flood Warning - Gin River -No 01 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-21-23-15-flood-warning--gi-c1c2ae88)
 - 2025-11-21 | `18-00-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-21-18-00-water-level)
@@ -61,7 +62,6 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 - 2025-11-18 | `12-30-water-level--rainfall` | Water level & Rainfall | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-18-12-30-water-level--rainfall)
 - 2025-11-18 | `09-30-water-level--rainfall` | Water level & Rainfall | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-18-09-30-water-level--rainfall)
 - 2025-11-18 | `06-00-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-18-06-00-water-level)
-- 2025-11-17 | `12-30-water-level--rainfall` | Water level & Rainfall | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-17-12-30-water-level--rainfall)
 
 ---
 
