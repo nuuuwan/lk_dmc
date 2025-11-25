@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2025-11-25 15:40:55",
-  "n_docs": 149,
-  "n_docs_with_pdfs": 149,
-  "n_docs_with_text": 149,
+  "time_updated": "2025-11-25 16:13:24",
+  "n_docs": 150,
+  "n_docs_with_pdfs": 150,
+  "n_docs_with_text": 150,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2025-11-25",
-  "dataset_size": 46862411,
+  "dataset_size": 46986171,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-11-25-12-30-water-level",
-    "num": "12-30-water-level",
+    "doc_id": "2025-11-25-15-00-water-level",
+    "num": "15-00-water-level",
     "date_str": "2025-11-25",
-    "description": "water level",
+    "description": "Water Level",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764054144.pdf",
-    "time_str": "12:30",
-    "ut": 1764054000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764065752.pdf",
+    "time_str": "15:00",
+    "ut": 1764063000.0
   }
 }
