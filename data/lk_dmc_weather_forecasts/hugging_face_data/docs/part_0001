@@ -46126,5 +46126,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds,_heavy_showers_and_rough_seas__1763985289.pdf",
     "time_str": "17:00",
     "ut": 1763983800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-25-05-30-weather-forecast",
+    "num": "05-30-weather-forecast",
+    "date_str": "2025-11-25",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2025__1764030820.pdf",
+    "time_str": "05:30",
+    "ut": 1764028800.0
   }
 ]
