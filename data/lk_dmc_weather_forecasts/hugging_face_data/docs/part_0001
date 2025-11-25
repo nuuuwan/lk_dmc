@@ -46138,5 +46138,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2025__1764030820.pdf",
     "time_str": "05:30",
     "ut": 1764028800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-25-10-30-advisory-for-low--b756957b",
+    "num": "10-30-advisory-for-low-pressure-area-over-southwest-bay-of-bengal",
+    "date_str": "2025-11-25",
+    "description": "Advisory for low pressure area over South-West Bay of Bengal",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_low_pressure_area_over_South-West_Bay_of_Bengal_at_1030hrs_on_2025__1764047505.pdf",
+    "time_str": "10:30",
+    "ut": 1764046800.0
   }
 ]
