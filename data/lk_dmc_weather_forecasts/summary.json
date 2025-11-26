@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2025-11-26 07:20:25",
-  "n_docs": 3851,
-  "n_docs_with_pdfs": 3851,
-  "n_docs_with_text": 3851,
+  "time_updated": "2025-11-26 08:24:26",
+  "n_docs": 3852,
+  "n_docs_with_pdfs": 3852,
+  "n_docs_with_text": 3852,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
-  "date_str_max": "2025-11-25",
-  "dataset_size": 4614962966,
+  "date_str_max": "2025-11-26",
+  "dataset_size": 4615623724,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-11-25-22-30-warning-for-low-p-d96495f9",
-    "num": "22-30-warning-for-low-pressure-area-over-southwest-bay-of-bengal-and-sri-lanka",
-    "date_str": "2025-11-25",
-    "description": "Warning for low pressure area over South-West Bay of Bengal and Sri Lanka",
+    "doc_id": "2025-11-26-07-00-weather-forecast--317e3126",
+    "num": "07-00-weather-forecast-for-multiday-boats",
+    "date_str": "2025-11-26",
+    "description": "Weather forecast for multi-day boats",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_low_pressure_area_over_South-West_Bay_of_Bengal_and_Sri_Lanka__1764091435.pdf",
-    "time_str": "22:30",
-    "ut": 1764090000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_at_07__1764123538.pdf",
+    "time_str": "07:00",
+    "ut": 1764120600.0
   }
 }
