@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2025-11-26 15:53:24",
-  "n_docs": 3854,
-  "n_docs_with_pdfs": 3854,
-  "n_docs_with_text": 3854,
+  "time_updated": "2025-11-26 16:25:40",
+  "n_docs": 3855,
+  "n_docs_with_pdfs": 3855,
+  "n_docs_with_text": 3855,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2025-11-26",
-  "dataset_size": 4618862077,
+  "dataset_size": 4619248870,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-11-26-14-00-weather-forecast",
-    "num": "14-00-weather-forecast",
+    "doc_id": "2025-11-26-15-00-fisheman-bulletin",
+    "num": "15-00-fisheman-bulletin",
     "date_str": "2025-11-26",
-    "description": "Weather Forecast",
+    "description": "Fisheman Bulletin",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1764147201.pdf",
-    "time_str": "14:00",
-    "ut": 1764145800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Fisherman_Bulletin__1764152639.pdf",
+    "time_str": "15:00",
+    "ut": 1764149400.0
   }
 }
