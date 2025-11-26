@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_14:26:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--26_14:53:59-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**3,853** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.6 GB**), from **2023-03-26** to **2025-11-26**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,854** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.6 GB**), from **2023-03-26** to **2025-11-26**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-11-26-10-30-warning-for-low-p-2275df75",
-    "num": "10-30-warning-for-low-pressure-area-in-vicinity-of-sri-lanka",
+    "doc_id": "2025-11-26-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
     "date_str": "2025-11-26",
-    "description": "Warning for low pressure area in vicinity of Sri Lanka",
+    "description": "Weather Forecast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_low_pressure_area_in_vicinity_of_Sri_Lanka_at_10__1764133979.pdf",
-    "time_str": "10:30",
-    "ut": 1764133200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1764147201.pdf",
+    "time_str": "14:00",
+    "ut": 1764145800.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-26 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-26-14-00-weather-forecast)
 - 2025-11-26 | `10-30-warning-for-low-pressure-area-in-vicinity-of-sri-lanka` | Warning for low pressure area in vicinity of Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-26-10-30-warning-for-low-p-2275df75)
 - 2025-11-26 | `07-00-weather-forecast-for-multiday-boats` | Weather forecast for multi-day boats | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-26-07-00-weather-forecast--317e3126)
 - 2025-11-25 | `22-30-warning-for-low-pressure-area-over-southwest-bay-of-bengal-and-sri-lanka` | Warning for low pressure area over South-West Bay of Bengal and Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-25-22-30-warning-for-low-p-d96495f9)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2025-11-23 | `16-00-advisory-for-strong-winds-heavy-showers-and-rough-seas` | Advisory for strong winds, heavy showers and rough seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-23-16-00-advisory-for-stro-ab915d03)
 - 2025-11-23 | `14-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-23-14-00-weather-forcast)
 - 2025-11-23 | `13-00-advisory-for-heavy-rain` | Advisory for Heavy Rain | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-23-13-00-advisory-for-heavy-rain)
-- 2025-11-23 | `12-00-advisory-for-severe-lightning` | Advisory for Severe Lightning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-23-12-00-advisory-for-seve-8f4c0da7)
 
 ---
 
