@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2025-11-27 04:09:14",
-  "n_docs": 166,
-  "n_docs_with_pdfs": 166,
-  "n_docs_with_text": 166,
+  "time_updated": "2025-11-27 04:41:49",
+  "n_docs": 169,
+  "n_docs_with_pdfs": 169,
+  "n_docs_with_text": 169,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2025-11-27",
-  "dataset_size": 54238940,
+  "dataset_size": 55411763,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-11-27-03-00-water-level",
-    "num": "03-00-water-level",
+    "doc_id": "2025-11-27-04-00-flood-warning-for-9e0a596f",
+    "num": "04-00-flood-warning-for-deduru-oya-no-04",
     "date_str": "2025-11-27",
-    "description": "water level",
+    "description": "Flood warning for Deduru Oya -No 04",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Kumbukkan_Oya_-_No_02_-_2025__1764194434.pdf",
-    "time_str": "03:00",
-    "ut": 1764192600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Deduru_Oya_Flood_Warning_-_NO_04_(2025__1764197219.pdf",
+    "time_str": "04:00",
+    "ut": 1764196200.0
   }
 }
