@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2025-11-27 17:20:17",
-  "n_docs": 3862,
-  "n_docs_with_pdfs": 3862,
-  "n_docs_with_text": 3862,
+  "time_updated": "2025-11-27 17:57:43",
+  "n_docs": 3863,
+  "n_docs_with_pdfs": 3863,
+  "n_docs_with_text": 3863,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2025-11-27",
-  "dataset_size": 4629190260,
+  "dataset_size": 4630063633,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-11-27-13-00-warning-for-deep--02d2b4da",
-    "num": "13-00-warning-for-deep-depression-in-the-vicinity-of-sri-lanka-issued-at-100-pm-on-27th-november-2025",
+    "doc_id": "2025-11-27-16-00-weather-report",
+    "num": "16-00-weather-report",
     "date_str": "2025-11-27",
-    "description": "Warning for deep depression in the vicinity of Sri Lanka issued at 1.00 p.m. on 27th November 2025",
+    "description": "Weather Report",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_in_the_vicinity_of_Sri_Lanka_issued_at_1__1764235101.pdf",
-    "time_str": "13:00",
-    "ut": 1764228600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1764245001.pdf",
+    "time_str": "16:00",
+    "ut": 1764239400.0
   }
 }
