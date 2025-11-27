@@ -1,12 +1,12 @@
 # 💧#SriLanka 🇱🇰 Dmc River Water Level And Flood Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_23:42:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_00:14:03-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
 River Water Level and Flood Warnings for various places in Sri Lanka.
 
-- [**179** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**62.4 MB**), from **2025-06-10** to **2025-11-27**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**180** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**62.9 MB**), from **2025-06-10** to **2025-11-27**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-11-27-22-00-flood-warning-for-a7c4fe4b",
-    "num": "22-00-flood-warning-for-menik-ganga-basin",
+    "doc_id": "2025-11-27-23-00-flood-warning",
+    "num": "23-00-flood-warning",
     "date_str": "2025-11-27",
-    "description": "Flood warning for Menik Ganga Basin",
+    "description": "Flood warning",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Menik_Ganga_Basin_-_NO_01_(2025__1764263365.pdf",
-    "time_str": "22:00",
-    "ut": 1764261000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_High_Attention_2025__1764267679.pdf",
+    "time_str": "23:00",
+    "ut": 1764264600.0
 }
 ```
 
@@ -42,6 +42,7 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `23-00-flood-warning` | Flood warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-27-23-00-flood-warning)
 - 2025-11-27 | `22-00-flood-warning-for-menik-ganga-basin` | Flood warning for Menik Ganga Basin | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-27-22-00-flood-warning-for-a7c4fe4b)
 - 2025-11-27 | `19-00-flood-warning-for-kala-oya-basin` | Flood warning for Kala Oya Basin | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-27-19-00-flood-warning-for-9ab42fe1)
 - 2025-11-27 | `18-30-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-27-18-30-water-level)
@@ -61,7 +62,6 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 - 2025-11-26 | `18-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-26-18-30-water-level)
 - 2025-11-26 | `15-00-water-level-report-at-1500hrs` | Water Level report at 1500hrs | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-26-15-00-water-level-repor-a3ca1f70)
 - 2025-11-26 | `15-00-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-26-15-00-water-level)
-- 2025-11-26 | `14-00-flood-warning--mahaweli-river--no-01` | Flood Warning - Mahaweli River - No 01 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-26-14-00-flood-warning--ma-5d23fa29)
 
 ---
 
