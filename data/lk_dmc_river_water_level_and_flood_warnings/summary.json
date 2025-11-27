@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2025-11-28 01:39:10",
-  "n_docs": 181,
-  "n_docs_with_pdfs": 181,
-  "n_docs_with_text": 181,
+  "time_updated": "2025-11-28 02:08:02",
+  "n_docs": 182,
+  "n_docs_with_pdfs": 182,
+  "n_docs_with_text": 182,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2025-11-28",
-  "dataset_size": 63468345,
+  "dataset_size": 64335631,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-11-28-00-30-flood-warning",
-    "num": "00-30-flood-warning",
+    "doc_id": "2025-11-28-01-00-flood-warning",
+    "num": "01-00-flood-warning",
     "date_str": "2025-11-28",
-    "description": "Flood warning",
+    "description": "flood Warning",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_for_MA_Oya_-_No_01_-_2024__1764273502.pdf",
-    "time_str": "00:30",
-    "ut": 1764270000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Kalu_River_Basin_-_No_01_-_2025__1764274616.pdf",
+    "time_str": "01:00",
+    "ut": 1764271800.0
   }
 }
