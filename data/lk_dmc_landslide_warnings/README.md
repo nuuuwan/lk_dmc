@@ -1,12 +1,12 @@
 # 🗻#SriLanka 🇱🇰 Dmc Landslide Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_02:09:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_02:40:10-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings)
 
 Landslide Warnings including early warnings, locations of potential risk, areas and places which need special attention, and automated landslide early warning map.
 
-- [**599** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**453.7 MB**), from **2019-09-26** to **2025-11-28**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**600** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**454.1 MB**), from **2019-09-26** to **2025-11-28**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (1%) & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ Landslide Warnings including early warnings, locations of potential risk, areas 
 ## 🆕 20 Latest documents
 
 - 2025-11-28 | `23-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-11-28-23-00-landslide-early-warning)
+- 2025-11-28 | `02-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-11-28-02-00-landslide-early-warning)
 - 2025-11-27 | `16-30-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-11-27-16-30-landslide-early-warning)
 - 2025-11-26 | `21-30-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-11-26-21-30-landslide-early-warning)
 - 2025-11-26 | `17-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-11-26-17-00-landslide-early-warning)
@@ -61,7 +62,6 @@ Landslide Warnings including early warnings, locations of potential risk, areas 
 - 2025-11-06 | `12-30-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-11-06-12-30-landslide-early-warning)
 - 2025-10-28 | `16-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-10-28-16-00-landslide-early-warning)
 - 2025-10-27 | `16-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-10-27-16-00-landslide-early-warning)
-- 2025-10-26 | `16-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2025/2025-10-26-16-00-landslide-early-warning)
 
 ---
 
