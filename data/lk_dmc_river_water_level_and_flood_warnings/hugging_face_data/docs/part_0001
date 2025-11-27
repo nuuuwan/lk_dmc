@@ -2074,5 +2074,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764228381.pdf",
     "time_str": "12:30",
     "ut": 1764226800.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-11-27-18-00-flood-warning--ma-2faf9475",
+    "num": "18-00-flood-warning--mahaweli-river-no-01",
+    "date_str": "2025-11-27",
+    "description": "Flood Warning - Mahaweli River -No 01",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/__1764247994.pdf",
+    "time_str": "18:00",
+    "ut": 1764246600.0
   }
 ]
