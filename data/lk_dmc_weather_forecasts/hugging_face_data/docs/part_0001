@@ -46330,5 +46330,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/02_TB__No_threat_27_11_2025_11_19_10_AM-1__1764224547.pdf",
     "time_str": "11:20",
     "ut": 1764222600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-27-13-00-warning-for-deep--02d2b4da",
+    "num": "13-00-warning-for-deep-depression-in-the-vicinity-of-sri-lanka-issued-at-100-pm-on-27th-november-2025",
+    "date_str": "2025-11-27",
+    "description": "Warning for deep depression in the vicinity of Sri Lanka issued at 1.00 p.m. on 27th November 2025",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_in_the_vicinity_of_Sri_Lanka_issued_at_1__1764235101.pdf",
+    "time_str": "13:00",
+    "ut": 1764228600.0
   }
 ]
