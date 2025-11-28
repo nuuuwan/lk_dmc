@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_14:27:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--28_14:53:07-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**3,869** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.6 GB**), from **2023-03-26** to **2025-11-28**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,870** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.6 GB**), from **2023-03-26** to **2025-11-28**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-11-28-12-00-warning-for-cyclo-63b36fec",
-    "num": "12-00-warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka",
+    "doc_id": "2025-11-28-14-00-weather-report-at-f455b265",
+    "num": "14-00-weather-report-at-1400hrs-on-20251128",
     "date_str": "2025-11-28",
-    "description": "Warning for Cyclonic storm in the vicinity of Sri Lanka",
+    "description": "Weather Report at 1400hrs on 2025.11.28",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_in_the_vicinity_of_Sri_Lanka_Issued_at_11__1764313192.pdf",
-    "time_str": "12:00",
-    "ut": 1764311400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1764320068.pdf",
+    "time_str": "14:00",
+    "ut": 1764318600.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-28 | `14-00-weather-report-at-1400hrs-on-20251128` | Weather Report at 1400hrs on 2025.11.28 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-28-14-00-weather-report-at-f455b265)
 - 2025-11-28 | `12-00-warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka` | Warning for Cyclonic storm in the vicinity of Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-28-12-00-warning-for-cyclo-63b36fec)
 - 2025-11-28 | `08-00-weather-advisory` | Weather Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-28-08-00-weather-advisory)
 - 2025-11-28 | `05-00-weather-advisory` | Weather Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-28-05-00-weather-advisory)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2025-11-26 | `10-30-warning-for-low-pressure-area-in-vicinity-of-sri-lanka` | Warning for low pressure area in vicinity of Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-26-10-30-warning-for-low-p-2275df75)
 - 2025-11-26 | `07-00-weather-forecast-for-multiday-boats` | Weather forecast for multi-day boats | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-26-07-00-weather-forecast--317e3126)
 - 2025-11-25 | `22-30-warning-for-low-pressure-area-over-southwest-bay-of-bengal-and-sri-lanka` | Warning for low pressure area over South-West Bay of Bengal and Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-25-22-30-warning-for-low-p-d96495f9)
-- 2025-11-25 | `17-00-weather-advisory` | Weather Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-25-17-00-weather-advisory)
 
 ---
 
