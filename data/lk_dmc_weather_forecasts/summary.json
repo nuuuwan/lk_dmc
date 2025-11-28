@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2025-11-28 14:53:05",
-  "n_docs": 3870,
-  "n_docs_with_pdfs": 3870,
-  "n_docs_with_text": 3870,
+  "time_updated": "2025-11-28 15:22:13",
+  "n_docs": 3871,
+  "n_docs_with_pdfs": 3871,
+  "n_docs_with_text": 3871,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2025-11-28",
-  "dataset_size": 4646399075,
+  "dataset_size": 4648411174,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-11-28-14-00-weather-report-at-f455b265",
-    "num": "14-00-weather-report-at-1400hrs-on-20251128",
+    "doc_id": "2025-11-28-14-30-warning-for-cyclo-930c6c1f",
+    "num": "14-30-warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka-at-1400hrs",
     "date_str": "2025-11-28",
-    "description": "Weather Report at 1400hrs on 2025.11.28",
+    "description": "Warning for Cyclonic storm in the vicinity of Sri Lanka at 1400hrs",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1764320068.pdf",
-    "time_str": "14:00",
-    "ut": 1764318600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_in_the_vicinity_of_Sri_Lanka_Issued_at_02__1764321252.pdf",
+    "time_str": "14:30",
+    "ut": 1764320400.0
   }
 }
