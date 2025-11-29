@@ -46597,6 +46597,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-29-20-00-warning-for-cyclo-06611b02",
+    "num": "20-00-warning-for-cyclonic-storm-ditwah",
+    "date_str": "2025-11-29",
+    "description": "Warning for Cyclonic storm \u201cDitwah\u201d",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_\u201cDitwah\u201d_in_the_vicinity_of_Sri_Lanka_at_2000hrs_on_29__1764431727.pdf",
+    "time_str": "20:00",
+    "ut": 1764426600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2025-11-29-23-00-weather-advisory",
     "num": "23-00-weather-advisory",
     "date_str": "2025-11-29",
