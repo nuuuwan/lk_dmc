@@ -1,0 +1,84 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      125.18,
+      28.47,
+      416.0,
+      62.79
+    ],
+    "text": "Disaster Management Center Situation Report on 2025.11.29 at 08.00 p.m",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      15.0,
+      15.332319259643555
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      40.92,
+      77.85,
+      629.98,
+      89.66
+    ],
+    "text": "No. Districts Families Persons Deaths Missing Saftey centres Families Persons",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.5600004196167
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.32,
+      97.05,
+      642.98,
+      436.63
+    ],
+    "text": "1 Puttlam 36,098 135,922 -2 593,00711,2212 Badulla 6,222 24,635 52 42 1273,90216,1373 Moneragala 886 3,105 3 1 61564424 Matale 806 4,836 18 6 405223,3645 Colombo 25,159 99,668 -- 611,2176,0166 Batticola 16,257 47,856 -- 171,3153,5297 Kegalle 2,148 8,311 9 24 172349558 Trincomalee 10,214 31,634 -- 146121,8259 Anuradhapura 3,968 11,746 1 - 541,3213,97810 Mullaitivu 670 782 -- 221,1033,50811 Kilinochchi 2,950 9,025 -- 216301,79112 Ampara 6,445 21,164 8 - 126491,48613 Jaffna 10,005 31,871 1 - 245611,95614 Polonnaruwa 6,428 19,848 -- 385,56016,31315 Kandy 7,988 25,290 52 105 762,3359,52516 Rathnapura 8,720 34,414 -- 505531,97617 Kurunegala 6,804 23,247 7 19 529714,58218 Nuwara Eliya 250 920 6 4 493801,60319 Mathara 20 66 -- ---20 Hambanthota 2,311 8,370 1 - 5113121 Galle 550 1,733 1 - ---22 Kaluthara 725 2,786 -- 58244423 Mannar 24,313 79,946 -- 613,79511,87324 Gampaha 51,701 197,144 -- 764,66118,25125 Vavuniya 2,865 9,666 -- 336212,016",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.5600004196167
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      76.8,
+      442.34,
+      642.1,
+      454.51
+    ],
+    "text": "Total 234,503 833,985 159 203 919 34,198 122,822",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.5600004196167
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.16,
+      519.7,
+      201.69,
+      575.74
+    ],
+    "text": "K.A.D.P.K.Kodippili Director (Awareness) Disaster Management Center For Director General",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
