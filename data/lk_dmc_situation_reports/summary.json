@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_situation_reports",
   "doc_class_emoji": "\ud83c\udf26\ufe0f",
   "doc_class_description": "Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.",
-  "time_updated": "2025-11-29 18:28:20",
-  "n_docs": 4373,
-  "n_docs_with_pdfs": 4373,
-  "n_docs_with_text": 4373,
+  "time_updated": "2025-11-29 18:44:36",
+  "n_docs": 4374,
+  "n_docs_with_pdfs": 4374,
+  "n_docs_with_text": 4374,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 8,
   "date_str_min": "2018-01-02",
   "date_str_max": "2025-11-29",
-  "dataset_size": 3001406002,
+  "dataset_size": 3001617916,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_situation_reports",
-    "doc_id": "2025-11-29-14-00-situation-report-english",
-    "num": "14-00-situation-report-english",
+    "doc_id": "2025-11-29-18-00-situation-report-english",
+    "num": "18-00-situation-report-english",
     "date_str": "2025-11-29",
     "description": "Situation Report (English)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_(English)___1764408301.pdf",
-    "time_str": "14:00",
-    "ut": 1764405000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_(English)___1764420396.pdf",
+    "time_str": "18:00",
+    "ut": 1764419400.0
   }
 }
