@@ -46489,6 +46489,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-11-29-05-00-weather-advisory",
+    "num": "05-00-weather-advisory",
+    "date_str": "2025-11-29",
+    "description": "Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_\u201cDitwah\u201d_,_Issued_at_05__1764374743.pdf",
+    "time_str": "05:00",
+    "ut": 1764372600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2025-11-29-23-00-weather-advisory",
     "num": "23-00-weather-advisory",
     "date_str": "2025-11-29",
