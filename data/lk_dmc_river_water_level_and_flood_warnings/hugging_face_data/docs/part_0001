@@ -2578,5 +2578,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__forKelani_River_-_No_04_-_(Extended_warning)_2025__1764509107.pdf",
     "time_str": "18:00",
     "ut": 1764505800.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-11-30-21-00-water-level",
+    "num": "21-00-water-level",
+    "date_str": "2025-11-30",
+    "description": "Water Level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764519601.pdf",
+    "time_str": "21:00",
+    "ut": 1764516600.0
   }
 ]
