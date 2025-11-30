@@ -1,12 +1,12 @@
 # 💧#SriLanka 🇱🇰 Dmc River Water Level And Flood Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_06:16:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_06:46:55-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
 River Water Level and Flood Warnings for various places in Sri Lanka.
 
-- [**209** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**74.4 MB**), from **2025-06-10** to **2025-11-30**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**210** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**74.5 MB**), from **2025-06-10** to **2025-11-30**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-11-30-03-00-water-level",
-    "num": "03-00-water-level",
+    "doc_id": "2025-11-30-06-30-water-level",
+    "num": "06-30-water-level",
     "date_str": "2025-11-30",
     "description": "water level",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764454015.pdf",
-    "time_str": "03:00",
-    "ut": 1764451800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764465089.pdf",
+    "time_str": "06:30",
+    "ut": 1764464400.0
 }
 ```
 
@@ -42,6 +42,7 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-30 | `06-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-30-06-30-water-level)
 - 2025-11-30 | `03-00-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-30-03-00-water-level)
 - 2025-11-30 | `00-30-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-30-00-30-water-level)
 - 2025-11-29 | `21-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-29-21-30-water-level)
@@ -61,7 +62,6 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 - 2025-11-28 | `12-30-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-28-12-30-water-level)
 - 2025-11-28 | `12-30-flood-warning-for-mundeni-aru--no-02-extended-warningnde` | Flood Warning for Mundeni Aru - No 02 Extended warningnde | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-28-12-30-flood-warning-for-8f193487)
 - 2025-11-28 | `12-30-flood-warning-for-gal-oya-basin--no-02-extended-warning` | Flood Warning for Gal Oya Basin - No 02 Extended Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-28-12-30-flood-warning-for-5f1c768a)
-- 2025-11-28 | `12-30-flood-warning-for-mee-oya--no-02--extended-warning` | Flood warning for Mee Oya - No 02 - (Extended warning) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-28-12-30-flood-warning-for-2394a6f2)
 
 ---
 
