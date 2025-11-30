@@ -52510,5 +52510,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_at_0600hrs_on_2025__1764464998.pdf",
     "time_str": "06:00",
     "ut": 1764462600.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2025-11-30-07-00-weather-forecast--317e3126",
+    "num": "07-00-weather-forecast-for-multiday-boats",
+    "date_str": "2025-11-30",
+    "description": "Weather forecast for multi-day boats",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Sea20251130SN_merged__1764469029.pdf",
+    "time_str": "07:00",
+    "ut": 1764466200.0
   }
 ]
