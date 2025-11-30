@@ -1,0 +1,38 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      265.73,
+      39.8,
+      556.54,
+      75.41
+    ],
+    "text": "Disaster Management Center Situation Report on 2025.11.30 at 12.00 p.m",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      15.0,
+      15.332319259643555
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.86,
+      461.74,
+      287.28,
+      561.6
+    ],
+    "text": "Janaka Handunpatiraja Assistant Director Disaster Manahement Center For Director Genaral",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  }
+]
