@@ -1,12 +1,12 @@
 # 💧#SriLanka 🇱🇰 Dmc River Water Level And Flood Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_09:59:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--30_10:15:54-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
 River Water Level and Flood Warnings for various places in Sri Lanka.
 
-- [**211** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**74.8 MB**), from **2025-06-10** to **2025-11-30**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**212** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**75.3 MB**), from **2025-06-10** to **2025-11-30**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-11-30-09-30-water-level",
-    "num": "09-30-water-level",
+    "doc_id": "2025-11-30-10-00-flood-warning-for-c609d447",
+    "num": "10-00-flood-warning-for-kalu-river-basin",
     "date_str": "2025-11-30",
-    "description": "water level",
+    "description": "Flood Warning for Kalu River Basin",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764476116.pdf",
-    "time_str": "09:30",
-    "ut": 1764475200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Kalu_River_Basin_-_No_03_-_2025__1764477012.pdf",
+    "time_str": "10:00",
+    "ut": 1764477000.0
 }
 ```
 
@@ -42,6 +42,7 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-11-30 | `10-00-flood-warning-for-kalu-river-basin` | Flood Warning for Kalu River Basin | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-30-10-00-flood-warning-for-c609d447)
 - 2025-11-30 | `09-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-30-09-30-water-level)
 - 2025-11-30 | `06-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-30-06-30-water-level)
 - 2025-11-30 | `03-00-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-30-03-00-water-level)
@@ -61,7 +62,6 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 - 2025-11-28 | `15-30-major-flood-warning-for-aththanagalu-oya-basin--no-05` | Major Flood warning for Aththanagalu Oya Basin - No 05 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-28-15-30-major-flood-warni-5384424e)
 - 2025-11-28 | `13-00-major-flood-warning-for-kelani-river-no-03--20251128special-announcement` | Major Flood Warning for Kelani River No 03 - 2025.11.28_SPECIAL ANNOUNCEMENT | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-28-13-00-major-flood-warni-212b43df)
 - 2025-11-28 | `12-30-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-28-12-30-water-level)
-- 2025-11-28 | `12-30-flood-warning-for-mundeni-aru--no-02-extended-warningnde` | Flood Warning for Mundeni Aru - No 02 Extended warningnde | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2025/2025-11-28-12-30-flood-warning-for-8f193487)
 
 ---
 
