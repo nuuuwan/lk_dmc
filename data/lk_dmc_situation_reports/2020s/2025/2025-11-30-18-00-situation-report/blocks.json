@@ -1,0 +1,38 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      286.73,
+      34.64,
+      577.57,
+      70.25
+    ],
+    "text": "Disaster Management Center Situation Report on 2025.11.30 at 06.00 p.m",
+    "fonts": [
+      "Calibri-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      15.0,
+      15.332319259643555
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      149.3,
+      451.9,
+      315.0,
+      566.64
+    ],
+    "text": "K.G.M.Jagath Deputy Director Disaster Management Center For Director General",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  }
+]
