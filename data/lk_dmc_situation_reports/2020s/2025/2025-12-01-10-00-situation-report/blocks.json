@@ -1,0 +1,85 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      268.49,
+      26.19,
+      558.46,
+      60.51
+    ],
+    "text": "Disaster Management Center Situation Report on 2025.12.01 at 09.00 a.m",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      15.0,
+      15.332319259643555
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      77.85,
+      725.26,
+      89.66
+    ],
+    "text": "No. Districts Families Persons Deaths Missing Safety centers Families Persons",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.5600004196167
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      45.0,
+      99.02,
+      749.5,
+      466.66
+    ],
+    "text": "1 Puttalam 47,222 173,165 10 4 75 4,10414,3282 Badulla 7,973 32,760 71 53 180 5,52422,3733 Monaragala 1,244 4,114 3 1 2 791974 Matale 2,955 10,335 23 7 48 3,14210,7765 Colombo 52,939 218,123 3 2 104 5,30316,9346 Batticaloa 12,104 34,377 2 - 3 371,6657 Kegalle 8,031 30,336 12 46 132 3,22512,4228 Trincomalee 22,098 71,944 - - 53 4,97915,0869 Anuradhapura 9,143 30,703 5 2 72 2,4979,39910 Mullaitivu 1,550 4,592 1 - 102 1,4103,84811 Kilinochchi 7,809 22,619 - - 31 1,3893,89612 Ampara 6,445 21,164 8 - 12 6491,48613 Jaffna 1,669 5,283 3 2 57 1,6195,32314 Polonnaruwa 7,449 24,845 2 - 29 3,47211,59815 Kandy 10,873 36,765 88 150 176 5,00120,06416 Rathnapura 11,579 45,769 - - 55 6082,10217 Kurunegala 13,634 46,268 37 35 94 2,2577,97018 Nuwara Eliya 2,691 12,304 75 62 61 1,9148,65419 Matara 355 1,329 - - ---20 Hambantota 818 2,619 - - - --21 Galle 368 1,226 1 - ---22 Kalutara 2,013 7,093 - - 7 11141623 Mannar 24,313 79,946 - - 87 5,27316,55424 Gampaha 56,854 218,899 9 2 106 4,79917,96825 Vavuniya 6,123 20,282 2 - 43 1,8746,509",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.5600004196167,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.7,
+      473.57,
+      749.02,
+      485.74
+    ],
+    "text": "Total 318,252 1,156,860 355 366 1,529 59,266 209,568",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      10.5600004196167
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.16,
+      533.26,
+      201.69,
+      574.54
+    ],
+    "text": "SI M.S.D.Perera Disaster Management Center For Director General",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
