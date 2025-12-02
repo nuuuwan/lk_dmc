@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_05:52:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_06:25:09-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**3,897** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.7 GB**), from **2023-03-26** to **2025-12-01**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,898** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.7 GB**), from **2023-03-26** to **2025-12-02**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-12-01-16-00-weather-report",
-    "num": "16-00-weather-report",
-    "date_str": "2025-12-01",
-    "description": "Weather Report",
+    "doc_id": "2025-12-02-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
+    "date_str": "2025-12-02",
+    "description": "Weather Forcast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1764586793.pdf",
-    "time_str": "16:00",
-    "ut": 1764585000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2025__1764634405.pdf",
+    "time_str": "05:30",
+    "ut": 1764633600.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-02 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-02-05-30-weather-forcast)
 - 2025-12-01 | `16-00-weather-report` | Weather Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-01-16-00-weather-report)
 - 2025-12-01 | `16-00-advisory-for-deep-depression-remnant-of-cyclonic-storm-ditwah--33` | Advisory for Deep Depression (Remnant of Cyclonic Storm “Ditwah”) - 33 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-01-16-00-advisory-for-deep-fa5a7282)
 - 2025-12-01 | `14-00-weather-report` | Weather Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-01-14-00-weather-report)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2025-11-29 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-29-14-00-weather-forecast)
 - 2025-11-29 | `14-00-warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka` | Warning for Cyclonic storm “Ditwah” in the vicinity of Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-29-14-00-warning-for-cyclo-1b7581e3)
 - 2025-11-29 | `11-00-warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka` | Warning for Cyclonic storm “Ditwah” in the vicinity of Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-29-11-00-warning-for-cyclo-97826af9)
-- 2025-11-29 | `08-00-warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka` | Warning for Cyclonic storm “Ditwah” in the vicinity of Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-11-29-08-00-warning-for-cyclo-ce74ed59)
 
 ---
 
