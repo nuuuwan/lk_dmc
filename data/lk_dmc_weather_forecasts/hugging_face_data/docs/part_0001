@@ -47206,5 +47206,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1200_noon_on_08__1765177973.pdf",
     "time_str": "12:00",
     "ut": 1765175400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-12-08-16-00-weather-report",
+    "num": "16-00-weather-report",
+    "date_str": "2025-12-08",
+    "description": "Weather Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1765192513.pdf",
+    "time_str": "16:00",
+    "ut": 1765189800.0
   }
 ]
