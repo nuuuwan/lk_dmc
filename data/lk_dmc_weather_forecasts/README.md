@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_13:06:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_13:32:14-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**3,952** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.8 GB**), from **2023-03-26** to **2025-12-12**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**3,953** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**4.8 GB**), from **2023-03-26** to **2025-12-12**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2025-12-12-05-30-weather-forcast",
-    "num": "05-30-weather-forcast",
+    "doc_id": "2025-12-12-12-30-advisory-for-seve-4da12c9b",
+    "num": "12-30-advisory-for-severe-lightning--amber",
     "date_str": "2025-12-12",
-    "description": "Weather Forcast",
+    "description": "Advisory for Severe Lightning - Amber",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2025__1765500470.pdf",
-    "time_str": "05:30",
-    "ut": 1765497600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_12__1765525343.pdf",
+    "time_str": "12:30",
+    "ut": 1765522800.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2025-12-12 | `12-30-advisory-for-severe-lightning--amber` | Advisory for Severe Lightning - Amber | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-12-12-30-advisory-for-seve-4da12c9b)
 - 2025-12-12 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-12-05-30-weather-forcast)
 - 2025-12-11 | `16-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-11-16-00-weather-forcast)
 - 2025-12-11 | `14-30-weather-forecast-with-tamil-report` | Weather Forecast (With Tamil Report) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-11-14-30-weather-forecast--9ceefa19)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2025-12-09 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-09-05-30-weather-forcast)
 - 2025-12-08 | `16-00-weather-report` | Weather Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-08-16-00-weather-report)
 - 2025-12-08 | `12-00-advisory-for-severe-lightning--amber` | Advisory for Severe Lightning - Amber | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-08-12-00-advisory-for-seve-8b969680)
-- 2025-12-08 | `07-00-weather-forecast-for-multiday-boats` | Weather forecast for multi-day boats | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2025/2025-12-08-07-00-weather-forecast--317e3126)
 
 ---
 
