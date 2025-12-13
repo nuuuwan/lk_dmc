@@ -11932,5 +11932,41 @@
     "md5": "1076e4ac2820e7b9d4a933b3cd5bb9b6",
     "chunk_size_bytes": 1186,
     "chunk_text": "Castlereigh(CEB)0.0Buttala Bridge (HMIS)NAUsgala Siyamabalangamuwa (HMIS)NANorton(CEB)0.0Rajanganaya (Res) (HMIS)NAMaussakalle(CEB)0.0Gal Oya (RB 44)Kalawewa (Res) (HMIS)NACanyon(CEB)0.0Dambulu Oya(Res) (HMIS)NALaxapana(CEB)0.0Ampara0.0Kandalama (Res) (HMIS)NA2.0Senanayaka Samu.(Res)(HMIS)NADambulu Oya River (HMIS)NABibile (HMIS)NABolgoda Ganga (RB 02)Inginiyagala(CEB)0.0Daduru Oya (RB 99)\n\nYan oya (RB 67)Max. Rainfall (CEB)Nilwala Ganga (RB 12)Kukulegama(CEB)48.0Hurulu Wewa(Res) (HMIS)NAAkuressa (HMIS)NASapugoda (HMIS)NAMaha Oya (RB 69)\n\nWalawe Ganga (RB 18)Padawiya Tank (HMIS)NA\n\nHanwella39.2Samanalawewa(CEB) 0.0Malwathu Oya (RB 90)Mau Ara (Res) (HMIS)NANotationThimbolketiya (HMIS)NAMenik Farm (HMIS)NATr :- Traced RainfallUdawalawe (Res) (HMIS)NATissa Wewa(Res) (HMIS)NARB :- River BasinNachchaduwa(Res) (HMIS)NAMET :- Department of MeteorologyID :- Irrigation DepartmentCEB :- Ceylon Electricity BoardRes :-ReservoirHMIS :- DSWRP DataEng.L.S. SooriyabandaraNA :- Not AvailableDirector (Hydrology and Disaster Management)\n\nPrepared by : A.A.M.Arawindi (H.A.)\n\nChecked by :G.A.S.A.Jayamal (H.A.)\n\nDaily Rainfall\n\nUnits in mm\n\nMax. Rainfall (HMIS)\n\nMax. Rainfall (ID)\n\nColombo"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-12-13-15-30-water-level",
+    "num": "15-30-water-level",
+    "date_str": "2025-12-13",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1765622580.pdf",
+    "time_str": "15:30",
+    "ut": 1765620000.0,
+    "chunk_id": "2025-12-13-15-30-water-level-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "706d3a9c881f94b471772b5ee027869a",
+    "chunk_size_bytes": 2039,
+    "chunk_text": "==== BLOCKS ====\n\n0\n\nDATE :13-Dec-2025TIME :3:30 PM\n\nStationUnitAlert Level\n\nMinor\n\nFlood Level\n\nMajor\n\nFlood Level\n\nKelani GangaNagalagam Streetft4.005.007.001.601.70Normal-\n\nKelani GangaHanwellam7.008.0010.001.621.58Normal0.0\n\nKelani GangaGlencoursem15.0016.5019.009.509.51Normal0.0\n\nKelani GangaKithulgalam3.004.006.001.471.47Normal0.0\n\nGurugoda OyaHolombuwam3.003.405.000.630.63Normal0.0\n\nSeethawaka GangaDeraniyagalam4.805.806.400.610.58Normal0.0\n\nKehelgamu OyaNorwoodm1.503.004.500.790.78Normal0.0\n\nKalu GangaPutupaulam3.004.005.000.940.91Normal0.0\n\nKalu GangaEllagawam10.0010.7012.205.565.50Normal0.0\n\nKalu GangaRathnapuram5.207.509.501.811.77Normal0.0\n\nMaguru GangaMaguram4.006.007.502.502.43Normal0.0\n\nKuda GangaKalawellawa (Millakanda)m5.006.508.003.313.18Normal0.0\n\nGin GangaBaddegamam3.504.005.001.651.60Normal0.0\n\nGin GangaThawalamam4.006.007.501.611.60Normal1.2\n\nNilwala GangaThalgahagodam1.401.702.800.620.60Normal0.0\n\nNilwala GangaPanadugamam5.006.007.503.023.01Normal0.0\n\nNilwala GangaPitabeddaram4.005.006.500.870.87Normal0.0\n\nUrubokka GangaUrawam2.504.006.000.620.62Normal0.0\n\nWalawe Ganga\n\n(RB 18) Walawe GangaMoraketiyam3.005.007.001.021.02Normal0.0\n\nKirindi OyaThanamalwilam4.005.005.501.231.20Normal0.0\n\nKirindi OyaWellawayam4.405.405.901.081.07Normal0.0\n\nKuda OyaKuda Oyam6.908.408.801.591.58Normal0.0\n\nMenik Ganga (RB\n\n26)Menik GangaKatharagamam4.004.606.500.330.33Normal0.0\n\nKumbukkan Oya\n\n(RB 31)Kumbukkan Oya Nakkalam5.006.007.501.191.19Normal0.0\n\nHeda Oya\n\n(RB 36)Heda Oya Siyambalanduwam4.506.007.000.860.86Normal0.0\n\nMaduru Oya\n\n(RB 54)Maduru Oya Padiyathalawam4.004.506.001.071.06Normal0.5\n\nMahaweli GangaManampitiya m3.004.306.002.132.13Normal2.3\n\nMahaweli GangaWeraganthotam5.006.008.00-1.08-1.15Normal10.4\n\nMahaweli GangaPeradeniyam5.007.009.002.302.33Normal1.3\n\nMahaweli GangaNawalapitiyam3.505.006.001.051.05Normal0.0\n\nBadulu OyaThaldenam3.004.005.000.850.84Normal0.0\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.505.765.71Normal0.0\n\nMaa Oya (RB 69) Mukunu OyaYaka Wewam4.005.006.001.061.06Normal1.5"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2025-12-13-15-30-water-level",
+    "num": "15-30-water-level",
+    "date_str": "2025-12-13",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1765622580.pdf",
+    "time_str": "15:30",
+    "ut": 1765620000.0,
+    "chunk_id": "2025-12-13-15-30-water-level-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "96b1a2a9204f6d4a19a06372050891ef",
+    "chunk_size_bytes": 1139,
+    "chunk_text": "Mahaweli GangaNawalapitiyam3.505.006.001.051.05Normal0.0\n\nBadulu OyaThaldenam3.004.005.000.850.84Normal0.0\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.505.765.71Normal0.0\n\nMaa Oya (RB 69) Mukunu OyaYaka Wewam4.005.006.001.061.06Normal1.5\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.804.184.17Normal0.0\n\nMee Oya\n\n(RB 95)Mee OyaGalgamuwam4.845.948.001.691.69Normal0.5\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.001.531.52Normal0.0\n\nMaha OyaBadalgamam5.006.209.602.482.48Normal0.0\n\nMaha OyaGiriullam5.506.507.501.281.27Normal0.0\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.501.241.24Normal0.0\n\nPrepared by : A.A.M.Arawindi (H.A.)\n\nChecked by :G.A.S.A.Jayamal (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n6 Hr RF in mm at 3.00\n\npm\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at 2:00 pm\n\nWater Level at 3:00 pm\n\nNilwala Ganga\n\n(RB 12)\n\nTributory/River\n\nGauging Station"
   }
 ]
