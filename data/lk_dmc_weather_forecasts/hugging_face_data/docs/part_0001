@@ -47617,6 +47617,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-12-16-16-00-advisory-for-heav-b4372eb6",
+    "num": "16-00-advisory-for-heavy-rain--tamil",
+    "date_str": "2025-12-16",
+    "description": "Advisory for Heavy Rain - Tamil",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1600_hrs_on_2025__1765884594.pdf",
+    "time_str": "16:00",
+    "ut": 1765881000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2025-12-16-16-00-advisory-for-heavy-rain",
     "num": "16-00-advisory-for-heavy-rain",
     "date_str": "2025-12-16",
@@ -47624,6 +47636,30 @@
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1600_hrs_on_2025__1765882158.pdf",
+    "time_str": "16:00",
+    "ut": 1765881000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-12-16-16-00-weather-forcast",
+    "num": "16-00-weather-forcast",
+    "date_str": "2025-12-16",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1765884258.pdf",
+    "time_str": "16:00",
+    "ut": 1765881000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-12-16-16-00-weather-forcast-tamil",
+    "num": "16-00-weather-forcast-tamil",
+    "date_str": "2025-12-16",
+    "description": "Weather Forcast -Tamil",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1765884942.pdf",
     "time_str": "16:00",
     "ut": 1765881000.0
   }
