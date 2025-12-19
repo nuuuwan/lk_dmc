@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2025-12-19 19:54:32",
-  "n_docs": 313,
-  "n_docs_with_pdfs": 313,
-  "n_docs_with_text": 313,
+  "time_updated": "2025-12-19 20:09:46",
+  "n_docs": 314,
+  "n_docs_with_pdfs": 314,
+  "n_docs_with_text": 314,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2025-12-19",
-  "dataset_size": 117103732,
+  "dataset_size": 117575450,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2025-12-19-17-30-flood-warning",
-    "num": "17-30-flood-warning",
+    "doc_id": "2025-12-19-18-30-water-level",
+    "num": "18-30-water-level",
     "date_str": "2025-12-19",
-    "description": "Flood Warning",
+    "description": "water Level",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Mahaweli_River_Basin_-_No_02_-_(Extended_Warning)_2025__1766148672.pdf",
-    "time_str": "17:30",
-    "ut": 1766145600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1766154786.pdf",
+    "time_str": "18:30",
+    "ut": 1766149200.0
   }
 }
