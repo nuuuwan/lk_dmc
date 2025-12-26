@@ -48214,5 +48214,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2025__1766740406.pdf",
     "time_str": "14:00",
     "ut": 1766737800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2025-12-26-15-00-special-weather-bulletin",
+    "num": "15-00-special-weather-bulletin",
+    "date_str": "2025-12-26",
+    "description": "Special Weather Bulletin",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Special_weather_bulleting_at_1500_hrs_on_2025__1766746020.pdf",
+    "time_str": "15:00",
+    "ut": 1766741400.0
   }
 ]
