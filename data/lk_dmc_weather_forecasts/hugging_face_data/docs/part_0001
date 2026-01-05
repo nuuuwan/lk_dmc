@@ -48766,5 +48766,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Special_Weather_Bulletin__1767608997.pdf",
     "time_str": "15:30",
     "ut": 1767607200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-05-16-00-weather-report",
+    "num": "16-00-weather-report",
+    "date_str": "2026-01-05",
+    "description": "Weather Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1767610712.pdf",
+    "time_str": "16:00",
+    "ut": 1767609000.0
   }
 ]
