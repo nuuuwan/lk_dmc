@@ -48838,5 +48838,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_for_the_sea_areas_at_0700_hrs_on_06__1767664124.pdf",
     "time_str": "07:00",
     "ut": 1767663000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-06-12-30-weather-advisory",
+    "num": "12-30-weather-advisory",
+    "date_str": "2026-01-06",
+    "description": "Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_low_pressure_area_over_South-east_Bay_of_Bengal_Sea_area__1767685928.pdf",
+    "time_str": "12:30",
+    "ut": 1767682800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-06-13-30-advisory-for-low--87643b3d",
+    "num": "13-30-advisory-for-low-pressure-area-over-southwest-bay-of-bengal",
+    "date_str": "2026-01-06",
+    "description": "Advisory for low pressure area over South-West Bay of Bengal",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Correction_-__Advisory_for_low_pressure_area_over_South-east_Bay_of_Bengal_Sea_area_on_2026__1767687424.pdf",
+    "time_str": "13:30",
+    "ut": 1767686400.0
   }
 ]
