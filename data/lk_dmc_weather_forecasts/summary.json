@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-01-07 16:24:59",
-  "n_docs": 4082,
-  "n_docs_with_pdfs": 4082,
-  "n_docs_with_text": 4082,
+  "time_updated": "2026-01-07 18:30:43",
+  "n_docs": 4083,
+  "n_docs_with_pdfs": 4083,
+  "n_docs_with_text": 4083,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-01-07",
-  "dataset_size": 5017809252,
+  "dataset_size": 5021340838,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-07-16-00-advisory-for-depr-b5bc49f4",
-    "num": "16-00-advisory-for-depression-over-southeast-bay-of-bengal-sea-area-tamil-language",
+    "doc_id": "2026-01-07-16-15-weather-forecast--f6143ae8",
+    "num": "16-15-weather-forecast-tamil-language",
     "date_str": "2026-01-07",
-    "description": "Advisory for depression over South-east Bay of Bengal Sea area (Tamil Language)",
+    "description": "Weather Forecast (Tamil Language)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_depression_over_South-east_Bay_of_Bengal_Sea_area_at_1330_hrs_on_07__1767782243.pdf",
-    "time_str": "16:00",
-    "ut": 1767781800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_07__1767783154.pdf",
+    "time_str": "16:15",
+    "ut": 1767782700.0
   }
 }
