@@ -48946,5 +48946,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_for_the_sea_areas_at_0700_hrs_on_07__1767753489.pdf",
     "time_str": "07:00",
     "ut": 1767749400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-07-13-30-advisory-for-depr-ba66a4fb",
+    "num": "13-30-advisory-for-depression-over-southeast-bay-of-bengal-sea-area",
+    "date_str": "2026-01-07",
+    "description": "Advisory for depression over South-east Bay of Bengal Sea area",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_depression_over_South-east_Bay_of_Bengal_Sea_area_at_1330_hrs_on_07__1767778095.pdf",
+    "time_str": "13:30",
+    "ut": 1767772800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-07-15-45-weather-forecast",
+    "num": "15-45-weather-forecast",
+    "date_str": "2026-01-07",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather__Report_at_1400_hrs_on_07__1767781784.pdf",
+    "time_str": "15:45",
+    "ut": 1767780900.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-07-16-00-advisory-for-depr-b5bc49f4",
+    "num": "16-00-advisory-for-depression-over-southeast-bay-of-bengal-sea-area-tamil-language",
+    "date_str": "2026-01-07",
+    "description": "Advisory for depression over South-east Bay of Bengal Sea area (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_depression_over_South-east_Bay_of_Bengal_Sea_area_at_1330_hrs_on_07__1767782243.pdf",
+    "time_str": "16:00",
+    "ut": 1767781800.0
   }
 ]
