@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_landslide_warnings",
   "doc_class_emoji": "\ud83d\uddfb",
   "doc_class_description": "Landslide Warnings including early warnings, locations of potential risk, areas and places which need special attention, and automated landslide early warning map.",
-  "time_updated": "2026-01-07 08:40:02",
-  "n_docs": 634,
-  "n_docs_with_pdfs": 634,
-  "n_docs_with_text": 634,
+  "time_updated": "2026-01-07 10:18:06",
+  "n_docs": 635,
+  "n_docs_with_pdfs": 635,
+  "n_docs_with_text": 635,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 8,
   "date_str_min": "2019-09-26",
-  "date_str_max": "2026-01-06",
-  "dataset_size": 482731527,
+  "date_str_max": "2026-01-07",
+  "dataset_size": 483323368,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_landslide_warnings",
-    "doc_id": "2026-01-06-12-00-landslide-warning",
-    "num": "12-00-landslide-warning",
-    "date_str": "2026-01-06",
-    "description": "landslide Warning",
+    "doc_id": "2026-01-07-09-00-air-quality-status",
+    "num": "09-00-air-quality-status",
+    "date_str": "2026-01-07",
+    "description": "Air Quality Status",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Ew_Report_at_1200hrs_on_2026__1767682516.pdf",
-    "time_str": "12:00",
-    "ut": 1767681000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Air_Quality_Index_on_2026__1767758246.pdf",
+    "time_str": "09:00",
+    "ut": 1767756600.0
   }
 }
