@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_04:22:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_06:32:58-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,085** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.0 GB**), from **2023-03-26** to **2026-01-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,086** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.0 GB**), from **2023-03-26** to **2026-01-08**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-07-23-00-warning-for-depre-65c65baa",
-    "num": "23-00-warning-for-depression-over-southeast-bay-of-bengal-sea-area",
-    "date_str": "2026-01-07",
-    "description": "Warning for depression over South-east Bay of Bengal Sea area",
+    "doc_id": "2026-01-08-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
+    "date_str": "2026-01-08",
+    "description": "Weather Forcast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_depression_over_South-east_Bay_of_Bengal_Sea_area__1767808106.pdf",
-    "time_str": "23:00",
-    "ut": 1767807000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1767832358.pdf",
+    "time_str": "05:30",
+    "ut": 1767830400.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-08 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-08-05-30-weather-forcast)
 - 2026-01-07 | `23-00-warning-for-depression-over-southeast-bay-of-bengal-sea-area` | Warning for depression over South-east Bay of Bengal Sea area | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-07-23-00-warning-for-depre-65c65baa)
 - 2026-01-07 | `16-15-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-07-16-15-weather-forecast--f6143ae8)
 - 2026-01-07 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-07-16-00-weather-forecast)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-01-06 | `05-30-weather-forcast-tamil` | Weather Forcast -Tamil | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-06-05-30-weather-forcast-tamil)
 - 2026-01-06 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-06-05-30-weather-forcast)
 - 2026-01-05 | `23-30-weather-advisory` | Weather Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-05-23-30-weather-advisory)
-- 2026-01-05 | `16-00-weather-report` | Weather Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-05-16-00-weather-report)
 
 ---
 

@@ -49018,5 +49018,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_depression_over_South-east_Bay_of_Bengal_Sea_area__1767808106.pdf",
     "time_str": "23:00",
     "ut": 1767807000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-08-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
+    "date_str": "2026-01-08",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1767832358.pdf",
+    "time_str": "05:30",
+    "ut": 1767830400.0
   }
 ]
