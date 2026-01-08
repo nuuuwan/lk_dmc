@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_14:28:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--08_16:25:44-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,088** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.0 GB**), from **2023-03-26** to **2026-01-08**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,090** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.0 GB**), from **2023-03-26** to **2026-01-08**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-08-10-30-warning-for-deep--aff82dd8",
-    "num": "10-30-warning-for-deep-depression-over-southeast-bay-of-bengal-sea-area",
+    "doc_id": "2026-01-08-15-30-the-warning-for-d-39384b11",
+    "num": "15-30-the-warning-for-deep-depression-over-southeast-bay-of-bengal-sea-area-at-1530hrs-on-08012026",
     "date_str": "2026-01-08",
-    "description": "Warning for deep depression over South-east Bay of Bengal Sea area",
+    "description": "The Warning for deep depression over South-east Bay of Bengal Sea area at 15.30hrs on 08.01.2026",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_over_South-east_Bay_of_Bengal_Sea_area_at_10__1767851482.pdf",
-    "time_str": "10:30",
-    "ut": 1767848400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_over_South-east_Bay_of_Bengal_Sea_area_at_15__1767867410.pdf",
+    "time_str": "15:30",
+    "ut": 1767866400.0
 }
 ```
 
@@ -42,6 +42,8 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-08 | `15-30-the-warning-for-deep-depression-over-southeast-bay-of-bengal-sea-area-at-1530hrs-on-08012026` | The Warning for deep depression over South-east Bay of Bengal Sea area at 15.30hrs on 08.01.2026 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-08-15-30-the-warning-for-d-39384b11)
+- 2026-01-08 | `14-00-tamil--weather-report-at-1400hrs-on-20260108` | Tamil _ Weather Report at 1400hrs on 2026.01.08 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-08-14-00-tamil--weather-re-03642cf3)
 - 2026-01-08 | `10-30-warning-for-deep-depression-over-southeast-bay-of-bengal-sea-area` | Warning for deep depression over South-east Bay of Bengal Sea area | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-08-10-30-warning-for-deep--aff82dd8)
 - 2026-01-08 | `07-30-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-08-07-30-weather-forecast)
 - 2026-01-08 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-08-05-30-weather-forcast)
@@ -60,8 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-01-06 | `15-00-weather-advisory` | Weather Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-06-15-00-weather-advisory)
 - 2026-01-06 | `13-30-advisory-for-low-pressure-area-over-southwest-bay-of-bengal` | Advisory for low pressure area over South-West Bay of Bengal | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-06-13-30-advisory-for-low--87643b3d)
 - 2026-01-06 | `12-30-weather-advisory` | Weather Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-06-12-30-weather-advisory)
-- 2026-01-06 | `07-00-weather-forecast-for-multiday-boats-for-the-sea-areas` | Weather forecast for multi-day boats For the sea areas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-06-07-00-weather-forecast--0ef85da7)
-- 2026-01-06 | `05-30-weather-forcast-tamil` | Weather Forcast -Tamil | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-06-05-30-weather-forcast-tamil)
 
 ---
 
