@@ -49030,5 +49030,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1767832358.pdf",
     "time_str": "05:30",
     "ut": 1767830400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-08-07-30-weather-forecast",
+    "num": "07-30-weather-forecast",
+    "date_str": "2026-01-08",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_08__1767838363.pdf",
+    "time_str": "07:30",
+    "ut": 1767837600.0
   }
 ]
