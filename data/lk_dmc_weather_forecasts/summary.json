@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-01-09 10:29:14",
-  "n_docs": 4097,
-  "n_docs_with_pdfs": 4097,
-  "n_docs_with_text": 4097,
+  "time_updated": "2026-01-09 12:29:04",
+  "n_docs": 4098,
+  "n_docs_with_pdfs": 4098,
+  "n_docs_with_text": 4098,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-01-09",
-  "dataset_size": 5051522989,
+  "dataset_size": 5053731882,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-09-07-00-warning-for-deep--c2e09fdb",
-    "num": "07-00-warning-for-deep-depression-to-the-southeast-of-sri-lanka",
+    "doc_id": "2026-01-09-10-30-the-warning-for-d-030204ad",
+    "num": "10-30-the-warning-for-deep-depression-to-the-southeast-of-sri-lanka",
     "date_str": "2026-01-09",
-    "description": "Warning for deep depression to the South-east of Sri Lanka",
+    "description": "The Warning for deep depression to the South-east of Sri Lanka",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_to_the_South-east_of_Sri_Lanka_at_0630_hrs_on_09__1767925973.pdf",
-    "time_str": "07:00",
-    "ut": 1767922200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_to_the_South-east_of_Sri_Lanka_at_1030hrs_on_2026__1767937424.pdf",
+    "time_str": "10:30",
+    "ut": 1767934800.0
   }
 }
