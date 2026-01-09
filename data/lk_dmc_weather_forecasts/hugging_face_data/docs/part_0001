@@ -49174,5 +49174,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_to_the_South-east_of_Sri_Lanka_at_1030hrs_on_2026__1767937424.pdf",
     "time_str": "10:30",
     "ut": 1767934800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-09-13-30-warning-for-deep--e6ef1de9",
+    "num": "13-30-warning-for-deep-depression-to-the-east-of-sri-lanka",
+    "date_str": "2026-01-09",
+    "description": "Warning for deep depression to the east of Sri Lanka",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_to_the_east_of_Sri_Lanka_at_1330_hrs_on_09__1767952014.pdf",
+    "time_str": "13:30",
+    "ut": 1767945600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-09-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2026-01-09",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1767952308.pdf",
+    "time_str": "14:00",
+    "ut": 1767947400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-09-14-00-weather-forecast--eb2ff5a1",
+    "num": "14-00-weather-forecast-tamil-language",
+    "date_str": "2026-01-09",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_09__1767952418.pdf",
+    "time_str": "14:00",
+    "ut": 1767947400.0
   }
 ]
