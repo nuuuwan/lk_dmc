@@ -49126,5 +49126,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression_No_9-_RED__1767907603.pdf",
     "time_str": "01:30",
     "ut": 1767902400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-09-04-00-weather-forcast",
+    "num": "04-00-weather-forcast",
+    "date_str": "2026-01-09",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/TCA_26010902_SN__1767915946.pdf",
+    "time_str": "04:00",
+    "ut": 1767911400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-09-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
+    "date_str": "2026-01-09",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1767919456.pdf",
+    "time_str": "05:30",
+    "ut": 1767916800.0
   }
 ]
