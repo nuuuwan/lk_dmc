@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--10_16:21:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--10_18:29:50-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,113** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.1 GB**), from **2023-03-26** to **2026-01-10**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,114** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.1 GB**), from **2023-03-26** to **2026-01-10**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-10-15-00-warning-for-depre-78405880",
-    "num": "15-00-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-21--tamil-language",
+    "doc_id": "2026-01-10-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
     "date_str": "2026-01-10",
-    "description": "Warning for depression to the East of Sri Lanka (Bulletin No 21) - Tamil Language",
+    "description": "Weather Forecast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_depression_to_the_East_of_Sri_Lanka_(Bulletin_No_21)_at_1430__hrs_on_10__1768037429.pdf",
-    "time_str": "15:00",
-    "ut": 1768037400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_10__1768043480.pdf",
+    "time_str": "16:00",
+    "ut": 1768041000.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-10 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-10-16-00-weather-forecast)
 - 2026-01-10 | `15-00-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-21--tamil-language` | Warning for depression to the East of Sri Lanka (Bulletin No 21) - Tamil Language | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-10-15-00-warning-for-depre-78405880)
 - 2026-01-10 | `14-40-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-21` | Warning for depression to the East of Sri Lanka (Bulletin No 21) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-10-14-40-warning-for-depre-dbe8592c)
 - 2026-01-10 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-10-14-00-weather-forecast)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-01-09 | `07-00-warning-for-deep-depression-to-the-southeast-of-sri-lanka` | Warning for deep depression to the South-east of Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-09-07-00-warning-for-deep--c2e09fdb)
 - 2026-01-09 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-09-05-30-weather-forcast)
 - 2026-01-09 | `04-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-09-04-00-weather-forcast)
-- 2026-01-09 | `01-30-warning-for-deep-depression-no-9-red` | Warning for deep depression No 9- RED | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-09-01-30-warning-for-deep--cecb749c)
 
 ---
 
