@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-01-10 14:24:10",
-  "n_docs": 4110,
-  "n_docs_with_pdfs": 4110,
-  "n_docs_with_text": 4110,
+  "time_updated": "2026-01-10 16:21:50",
+  "n_docs": 4113,
+  "n_docs_with_pdfs": 4113,
+  "n_docs_with_text": 4113,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-01-10",
-  "dataset_size": 5076965352,
+  "dataset_size": 5078453785,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-10-11-50-warning-for-depre-19d6ddd1",
-    "num": "11-50-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-20-tamil-language",
+    "doc_id": "2026-01-10-15-00-warning-for-depre-78405880",
+    "num": "15-00-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-21--tamil-language",
     "date_str": "2026-01-10",
-    "description": "Warning for depression to the East of Sri Lanka (Bulletin No 20) (Tamil Language)",
+    "description": "Warning for depression to the East of Sri Lanka (Bulletin No 21) - Tamil Language",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_depression_to_the_East_of_Sri_Lanka_(Bulletin_No_20)_at_11__1768026260.pdf",
-    "time_str": "11:50",
-    "ut": 1768026000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_depression_to_the_East_of_Sri_Lanka_(Bulletin_No_21)_at_1430__hrs_on_10__1768037429.pdf",
+    "time_str": "15:00",
+    "ut": 1768037400.0
   }
 }
