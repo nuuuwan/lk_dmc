@@ -49390,5 +49390,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_depression_to_the_East_of_Sri_Lanka_(Bulletin_No_24)_at_2330__hrs_on_10__1768069799.pdf",
     "time_str": "23:30",
     "ut": 1768068000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-01-11-00-30-water-level",
+    "num": "00-30-water-level",
+    "date_str": "2026-01-11",
+    "description": "Water Level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1768072519.pdf",
+    "time_str": "00:30",
+    "ut": 1768071600.0
   }
 ]
