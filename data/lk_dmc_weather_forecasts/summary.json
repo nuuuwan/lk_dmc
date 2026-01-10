@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-01-10 06:32:57",
-  "n_docs": 4106,
-  "n_docs_with_pdfs": 4106,
-  "n_docs_with_text": 4106,
+  "time_updated": "2026-01-10 08:47:35",
+  "n_docs": 4107,
+  "n_docs_with_pdfs": 4107,
+  "n_docs_with_text": 4107,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-01-10",
-  "dataset_size": 5069264931,
+  "dataset_size": 5070639349,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-10-01-30-warning-for-deep--84fb98d4",
-    "num": "01-30-warning-for-deep-depression",
+    "doc_id": "2026-01-10-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
     "date_str": "2026-01-10",
-    "description": "Warning for deep depression",
+    "description": "Weather Forcast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_deep_depression__1767991268.pdf",
-    "time_str": "01:30",
-    "ut": 1767988800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/__1768007650.pdf",
+    "time_str": "05:30",
+    "ut": 1768003200.0
   }
 }
