@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-01-11 04:21:13",
-  "n_docs": 4117,
-  "n_docs_with_pdfs": 4117,
-  "n_docs_with_text": 4117,
+  "time_updated": "2026-01-11 06:34:22",
+  "n_docs": 4119,
+  "n_docs_with_pdfs": 4119,
+  "n_docs_with_text": 4119,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-01-11",
-  "dataset_size": 5085455400,
+  "dataset_size": 5087952909,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-11-00-30-water-level",
-    "num": "00-30-water-level",
+    "doc_id": "2026-01-11-05-30-warning-for-depre-b0ab8dd8",
+    "num": "05-30-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-26",
     "date_str": "2026-01-11",
-    "description": "Water Level",
+    "description": "Warning for depression to the East of Sri Lanka (Bulletin No 26)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1768072519.pdf",
-    "time_str": "00:30",
-    "ut": 1768071600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_depression_to_the_East_of_Sri_Lanka_(Bulletin_No_26)_at_0530__hrs_on_11__1768090651.pdf",
+    "time_str": "05:30",
+    "ut": 1768089600.0
   }
 }
