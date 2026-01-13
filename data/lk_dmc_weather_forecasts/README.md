@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--13_12:29:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--13_14:28:25-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,128** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.1 GB**), from **2023-03-26** to **2026-01-13**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,129** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.1 GB**), from **2023-03-26** to **2026-01-13**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-01-13-05-30-weather-forcast",
-    "num": "05-30-weather-forcast",
+    "doc_id": "2026-01-13-13-00-advisory-for-seve-9a640245",
+    "num": "13-00-advisory-for-severe-lightning",
     "date_str": "2026-01-13",
-    "description": "Weather Forcast",
+    "description": "Advisory for Severe Lightning",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1768263027.pdf",
-    "time_str": "05:30",
-    "ut": 1768262400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_Report_at_1300_hrs_on_2026__1768293291.pdf",
+    "time_str": "13:00",
+    "ut": 1768289400.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-01-13 | `13-00-advisory-for-severe-lightning` | Advisory for Severe Lightning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-13-13-00-advisory-for-seve-9a640245)
 - 2026-01-13 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-13-05-30-weather-forcast)
 - 2026-01-12 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-12-16-00-weather-forecast)
 - 2026-01-12 | `14-00-weather-forecast-tamil` | Weather Forecast (Tamil) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-12-14-00-weather-forecast-tamil)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-01-10 | `14-40-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-21` | Warning for depression to the East of Sri Lanka (Bulletin No 21) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-10-14-40-warning-for-depre-dbe8592c)
 - 2026-01-10 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-10-14-00-weather-forecast)
 - 2026-01-10 | `11-50-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-20-tamil-language` | Warning for depression to the East of Sri Lanka (Bulletin No 20) (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-10-11-50-warning-for-depre-19d6ddd1)
-- 2026-01-10 | `11-00-warning-for-depression-to-the-east-of-sri-lanka-bulletin-no-20` | Warning for depression to the East of Sri Lanka (Bulletin No 20) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-01-10-11-00-warning-for-depre-cb5f7a33)
 
 ---
 
