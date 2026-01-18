@@ -1,0 +1,663 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      26.16,
+      20.88,
+      672.1,
+      34.94
+    ],
+    "text": "Disaster Management Center - Situation Report as at 1000hrs on 18th January 2026 - (Additional details included)",
+    "fonts": [
+      "Cambria-Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      34.8,
+      83.22,
+      112.79,
+      92.12
+    ],
+    "text": "No. Districts",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      177.86,
+      64.86,
+      256.8,
+      73.76
+    ],
+    "text": "Affected details (As at",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.42,
+      74.1,
+      206.15,
+      83.0
+    ],
+    "text": "today)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.09,
+      60.3,
+      387.26,
+      69.2
+    ],
+    "text": "Deaths / Missing Persons",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      307.01,
+      64.86,
+      490.7,
+      78.32
+    ],
+    "text": "details (As at today) Houses Damaged (As at",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      413.47,
+      74.1,
+      437.2,
+      83.0
+    ],
+    "text": "today)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      532.87,
+      64.86,
+      632.81,
+      73.76
+    ],
+    "text": "Safety Center Figures (As at",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      548.38,
+      74.1,
+      572.11,
+      83.0
+    ],
+    "text": "today)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      671.38,
+      51.06,
+      775.39,
+      59.96
+    ],
+    "text": "Displaced Population Staying",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      666.58,
+      60.18,
+      780.09,
+      78.2
+    ],
+    "text": "with Relatives, Friends or in Other Locations (As at today)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      192.62,
+      102.3,
+      779.25,
+      120.44
+    ],
+    "text": "Families Persons Deaths Missing Fully Partially No of Centers Families Persons Families Persons",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      127.5,
+      781.77,
+      136.4
+    ],
+    "text": "1 Ampara 0 0 8 0 106 568 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      140.58,
+      781.77,
+      149.48
+    ],
+    "text": "2 Anuradhapura 0 0 13 0 245 3083 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      153.69,
+      781.77,
+      162.59
+    ],
+    "text": "3 Badulla 26393 90127 89 10 544 5681 38 1287 3864 7244 27523",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      166.77,
+      781.77,
+      175.67
+    ],
+    "text": "4 Batticaloa 0 0 4 0 11 834 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      179.85,
+      781.77,
+      188.75
+    ],
+    "text": "5 Colombo 18 60 9 1 141 19126 2 18 60 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      192.93,
+      781.77,
+      201.83
+    ],
+    "text": "6 Galle 0 0 1 0 1 725 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      205.89,
+      781.77,
+      214.79
+    ],
+    "text": "7 Gampaha 0 0 17 0 256 8863 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      219.09,
+      781.77,
+      227.99
+    ],
+    "text": "8 Hambantota 2318 8165 1 0 7 531 0 0 0 2318 8165",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.64,
+      232.17,
+      781.77,
+      241.07
+    ],
+    "text": "9 Jaffna 0 0 4 0 2 464 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      245.13,
+      781.77,
+      254.03
+    ],
+    "text": "10 Kalutara 0 0 2 0 1 1323 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      258.21,
+      781.77,
+      267.11
+    ],
+    "text": "11 Kandy 4774 16584 242 69 1903 16514 16 236 742 4538 15842",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      271.31,
+      781.77,
+      280.21
+    ],
+    "text": "12 Kegalle 11091 36703 33 38 295 13709 12 231 643 10860 36060",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      284.39,
+      781.77,
+      293.29
+    ],
+    "text": "13 Kilinochchi 0 0 0 0 0 140 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      297.47,
+      781.77,
+      306.37
+    ],
+    "text": "14 Kurunegala 0 0 62 11 610 5123 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      310.55,
+      781.77,
+      319.45
+    ],
+    "text": "15 Mannar 0 0 4 0 70 1565 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      323.63,
+      781.77,
+      332.53
+    ],
+    "text": "16 Matale 6759 23325 29 8 256 4043 6 89 242 6670 23083",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      336.59,
+      781.77,
+      345.49
+    ],
+    "text": "17 Matara 0 0 0 0 1 525 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      349.67,
+      781.77,
+      358.57
+    ],
+    "text": "18 Monaragala 0 0 5 0 38 518 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      362.75,
+      781.77,
+      371.65
+    ],
+    "text": "19 Mullaitivu 21 69 0 0 21 1688 0 0 0 21 69",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      375.98,
+      781.77,
+      384.88
+    ],
+    "text": "20 Nuwara Eliya 0 0 81 32 662 3699 39 847 2743 17346 58716",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      388.94,
+      781.77,
+      397.84
+    ],
+    "text": "21 Polonnaruwa 0 0 3 0 160 3775 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      402.02,
+      781.77,
+      410.92
+    ],
+    "text": "22 Puttalam 0 0 38 4 652 9530 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      415.1,
+      781.77,
+      424.0
+    ],
+    "text": "23 Ratnapura 36 122 1 0 8 4058 0 0 0 36 122",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      428.18,
+      781.77,
+      437.08
+    ],
+    "text": "24 Trincomalee 20 62 0 0 20 1185 0 0 0 20 62",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.6,
+      441.14,
+      781.77,
+      450.04
+    ],
+    "text": "25 Vavuniya 0 0 0 0 15 669 0 0 0 0 0",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.26,
+      454.58,
+      781.65,
+      463.48
+    ],
+    "text": "Total 51,430 175,217 646 173 6,025 107,939 113 2,708 8,294 49,053 169,642",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      7.08,
+      476.72,
+      480.52,
+      536.04
+    ],
+    "text": "\u2022 Some details were adjusted with the details given by District Secretaries on 20.12.2025 (Except deaths & missing) \u2022 Affected details are subject to change from time to time due to landslide warnings issued by the NBRO",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.04,
+      536.53,
+      125.87,
+      570.59
+    ],
+    "text": "Janaka Hadunpathiraja Assistant Director For Director General",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      629.14,
+      467.42,
+      779.13,
+      476.32
+    ],
+    "text": "(Source \u2013 District Secretariate, DMC,NDRSC)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027
+    ]
+  }
+]
