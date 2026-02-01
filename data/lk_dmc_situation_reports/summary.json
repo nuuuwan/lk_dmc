@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_situation_reports",
   "doc_class_emoji": "\ud83c\udf26\ufe0f",
   "doc_class_description": "Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.",
-  "time_updated": "2026-02-01 09:17:03",
-  "n_docs": 4446,
-  "n_docs_with_pdfs": 4446,
-  "n_docs_with_text": 4446,
+  "time_updated": "2026-02-01 10:53:11",
+  "n_docs": 4447,
+  "n_docs_with_pdfs": 4447,
+  "n_docs_with_text": 4447,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 8,
   "date_str_min": "2018-01-02",
-  "date_str_max": "2026-01-31",
-  "dataset_size": 3032973348,
+  "date_str_max": "2026-02-01",
+  "dataset_size": 3033194424,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_situation_reports",
-    "doc_id": "2026-01-31-10-00-situation-summary-report",
-    "num": "10-00-situation-summary-report",
-    "date_str": "2026-01-31",
-    "description": "Situation Summary Report",
+    "doc_id": "2026-02-01-10-00-situation-report-ditwah",
+    "num": "10-00-situation-report-ditwah",
+    "date_str": "2026-02-01",
+    "description": "Situation Report (Ditwah)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1769839008.pdf",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Summary_Report_(Ditwah)_at_1000hrs_on_2026__1769920605.pdf",
     "time_str": "10:00",
-    "ut": 1769833800.0
+    "ut": 1769920200.0
   }
 }
