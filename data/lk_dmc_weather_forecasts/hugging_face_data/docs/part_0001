@@ -50698,5 +50698,53 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1200noon_on_03__1770101822.pdf",
     "time_str": "12:00",
     "ut": 1770100200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-03-14-00-weather-forcast",
+    "num": "14-00-weather-forcast",
+    "date_str": "2026-02-03",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_03__1770108605.pdf",
+    "time_str": "14:00",
+    "ut": 1770107400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-03-14-00-weather-forecast--eb2ff5a1",
+    "num": "14-00-weather-forecast-tamil-language",
+    "date_str": "2026-02-03",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1770109944.pdf",
+    "time_str": "14:00",
+    "ut": 1770107400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-03-14-30-advisory-for-seve-706db0a0",
+    "num": "14-30-advisory-for-severe-lightning-tamil-language",
+    "date_str": "2026-02-03",
+    "description": "Advisory for Severe Lightning (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1200noon_on_03__1770109723.pdf",
+    "time_str": "14:30",
+    "ut": 1770109200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-03-16-00-weather-forcast",
+    "num": "16-00-weather-forcast",
+    "date_str": "2026-02-03",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_03__1770115556.pdf",
+    "time_str": "16:00",
+    "ut": 1770114600.0
   }
 ]
