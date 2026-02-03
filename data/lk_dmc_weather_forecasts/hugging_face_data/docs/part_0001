@@ -50674,5 +50674,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_merged_Report___1770078849.pdf",
     "time_str": "05:30",
     "ut": 1770076800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-03-07-00-weather-forcast",
+    "num": "07-00-weather-forcast",
+    "date_str": "2026-02-03",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_Multiday_Boats___1770085127.pdf",
+    "time_str": "07:00",
+    "ut": 1770082200.0
   }
 ]
