@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_landslide_warnings",
   "doc_class_emoji": "\ud83d\uddfb",
   "doc_class_description": "Landslide Warnings including early warnings, locations of potential risk, areas and places which need special attention, and automated landslide early warning map.",
-  "time_updated": "2026-02-15 06:30:58",
-  "n_docs": 643,
-  "n_docs_with_pdfs": 643,
-  "n_docs_with_text": 643,
+  "time_updated": "2026-02-15 09:02:55",
+  "n_docs": 644,
+  "n_docs_with_pdfs": 644,
+  "n_docs_with_text": 644,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 8,
   "date_str_min": "2019-09-26",
-  "date_str_max": "2026-02-14",
-  "dataset_size": 491636297,
+  "date_str_max": "2026-02-15",
+  "dataset_size": 492328333,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_landslide_warnings",
-    "doc_id": "2026-02-14-06-00-landslide-early-warning",
-    "num": "06-00-landslide-early-warning",
-    "date_str": "2026-02-14",
+    "doc_id": "2026-02-15-07-00-landslide-early-warning",
+    "num": "07-00-landslide-early-warning",
+    "date_str": "2026-02-15",
     "description": "Landslide Early Warning",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_early_warning_at_0600_hrs_on_14-02-2026__1771031819.pdf",
-    "time_str": "06:00",
-    "ut": 1771029000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_0700hrs_on_2026__1771119917.pdf",
+    "time_str": "07:00",
+    "ut": 1771119000.0
   }
 }
