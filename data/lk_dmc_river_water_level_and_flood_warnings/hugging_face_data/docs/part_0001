@@ -4558,5 +4558,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1771204569.pdf",
     "time_str": "06:00",
     "ut": 1771201800.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-02-16-09-30-water-level--rainfall",
+    "num": "09-30-water-level--rainfall",
+    "date_str": "2026-02-16",
+    "description": "Water level & Rainfall",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1771214719.pdf",
+    "time_str": "09:30",
+    "ut": 1771214400.0
   }
 ]
