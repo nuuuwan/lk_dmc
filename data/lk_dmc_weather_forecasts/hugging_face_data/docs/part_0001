@@ -51802,5 +51802,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_12__1771317810.pdf",
     "time_str": "13:45",
     "ut": 1771316100.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-17-14-00-weather-forcast",
+    "num": "14-00-weather-forcast",
+    "date_str": "2026-02-17",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_17__1771320706.pdf",
+    "time_str": "14:00",
+    "ut": 1771317000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-17-15-00-advisory-for-low--6826508f",
+    "num": "15-00-advisory-for-low-pressure-area-in-the-central-parts-of-south-bay-of-bengal-to-the-south-east-of-sri-lanka",
+    "date_str": "2026-02-17",
+    "description": "Advisory for low pressure area in the central parts of south Bay of Bengal to the south east of Sri Lanka",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_low_pressure_area_in_the_central_parts_of_south_Bay_of_Bengal_to_the_south_east_of_Sri_Lanka_at_1500hrs_on_17__1771323348.pdf",
+    "time_str": "15:00",
+    "ut": 1771320600.0
   }
 ]
