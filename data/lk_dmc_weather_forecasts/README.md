@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_18:31:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--17_20:30:38-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,320** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.4 GB**), from **2023-03-26** to **2026-02-17**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,321** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.4 GB**), from **2023-03-26** to **2026-02-17**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -43,6 +43,7 @@ Weather Forecasts for various places in Sri Lanka.
 ## 🆕 20 Latest documents
 
 - 2026-02-17 | `17-00-advisory-for-low-pressure-area-in-the-central-parts-of-south-bay-of-bengal-to-the-southeast-of-sri-lanka-tamil-language` | Advisory for low pressure area in the central parts of south Bay of Bengal to the south-east of Sri Lanka (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-17-17-00-advisory-for-low--7504a87b)
+- 2026-02-17 | `15-00-weather-forcast-tamil` | Weather Forcast -Tamil | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-17-15-00-weather-forcast-tamil)
 - 2026-02-17 | `15-00-advisory-for-low-pressure-area-in-the-central-parts-of-south-bay-of-bengal-to-the-south-east-of-sri-lanka` | Advisory for low pressure area in the central parts of south Bay of Bengal to the south east of Sri Lanka | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-17-15-00-advisory-for-low--6826508f)
 - 2026-02-17 | `14-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-17-14-00-weather-forcast)
 - 2026-02-17 | `13-45-advisory-for-heavy-rain-tamil-language` | Advisory for Heavy Rain (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-17-13-45-advisory-for-heav-8bc83ea5)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-02-15 | `16-35-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-15-16-35-weather-forecast--6fdd1627)
 - 2026-02-15 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-15-16-00-weather-forecast)
 - 2026-02-15 | `14-40-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-15-14-40-weather-forecast--8548a81e)
-- 2026-02-15 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-15-14-00-weather-forecast)
 
 ---
 
