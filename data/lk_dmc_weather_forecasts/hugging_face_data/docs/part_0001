@@ -51874,5 +51874,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_at_0530hrs_Tamil__1771378891.pdf",
     "time_str": "07:00",
     "ut": 1771378200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-18-13-00-weather-forcast",
+    "num": "13-00-weather-forcast",
+    "date_str": "2026-02-18",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LRA_26021801_EN__1771402542.pdf",
+    "time_str": "13:00",
+    "ut": 1771399800.0
   }
 ]
