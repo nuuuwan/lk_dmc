@@ -2,7 +2,7 @@
   "doc_class_label": "lk_dmc_landslide_warnings",
   "doc_class_emoji": "\ud83d\uddfb",
   "doc_class_description": "Landslide Warnings including early warnings, locations of potential risk, areas and places which need special attention, and automated landslide early warning map.",
-  "time_updated": "2026-02-19 12:20:52",
+  "time_updated": "2026-02-19 14:18:45",
   "n_docs": 646,
   "n_docs_with_pdfs": 646,
   "n_docs_with_text": 646,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 8,
   "date_str_min": "2019-09-26",
   "date_str_max": "2026-02-18",
-  "dataset_size": 494818870,
+  "dataset_size": 494818869,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
