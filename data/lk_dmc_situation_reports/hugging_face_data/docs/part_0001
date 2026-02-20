@@ -53518,5 +53518,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Summary_Situation_Report_at_1000hrs_on_18__1771389044.pdf",
     "time_str": "10:00",
     "ut": 1771389000.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2026-02-20-10-00-situation-report",
+    "num": "10-00-situation-report",
+    "date_str": "2026-02-20",
+    "description": "Situation Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1771564699.pdf",
+    "time_str": "10:00",
+    "ut": 1771561800.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2026-02-20-10-00-situation-report-ditwah",
+    "num": "10-00-situation-report-ditwah",
+    "date_str": "2026-02-20",
+    "description": "Situation Report (Ditwah)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Summary_Report_at_1000hrs_on_2026__1771564670.pdf",
+    "time_str": "10:00",
+    "ut": 1771561800.0
   }
 ]
