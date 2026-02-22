@@ -7798,5 +7798,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LEWM_21-02-2026_20_30-1__1771688491.pdf",
     "time_str": "20:30",
     "ut": 1771686000.0
+  },
+  {
+    "doc_type": "lk_dmc_landslide_warnings",
+    "doc_id": "2026-02-22-09-30-landslide-ew-report",
+    "num": "09-30-landslide-ew-report",
+    "date_str": "2026-02-22",
+    "description": "Landslide Ew Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Ew_Report_at_0830hrs_on_22__1771733754.pdf",
+    "time_str": "09:30",
+    "ut": 1771732800.0
   }
 ]

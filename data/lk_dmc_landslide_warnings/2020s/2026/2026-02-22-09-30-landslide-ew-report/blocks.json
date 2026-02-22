@@ -1,0 +1,688 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      37.2,
+      37.76,
+      529.9,
+      123.33
+    ],
+    "text": "\u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db4\u0dd9\u0dbb \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8 Frist warning issued date: 20.02.2026 kz;rhpT Kd;ndr;rhpf;if Landslide Early Warning Message ID: LEWM-22-02-2026-0830-04 Update: 4th update Validity Period: From 08:30 hrs on 22.02.2026 To 08:30 hrs on 23.02.2026",
+    "fonts": [
+      "Bamini Plain",
+      "Calibri",
+      "Calibri-Bold",
+      "IskoolaPota-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027,
+      12.0,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.64,
+      37.45,
+      547.9,
+      73.75
+    ],
+    "text": "Locations for Potential Risk \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8 \u0db4\u0dd0\u0dc0\u0dad\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dda\u0dc1 fdjpahd mghaKs;s ,lq;fs;",
+    "fonts": [
+      "Bamini Plain",
+      "Cambria-Bold",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      57.84,
+      84.18,
+      530.41,
+      99.19
+    ],
+    "text": "District Level 1 (Yellow) Level 2 (Amber) Level 3 (Red)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      164.29,
+      77.54,
+      177.57
+    ],
+    "text": "Badulla",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.38,
+      109.21,
+      238.73,
+      232.77
+    ],
+    "text": "Meegahakiwula, Kandaketiya, Haputhale, Passara and * Bandarawela Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.53,
+      136.69,
+      379.87,
+      205.17
+    ],
+    "text": "Haldummulla Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      258.97,
+      126.38,
+      276.45
+    ],
+    "text": "Galle",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.53,
+      235.57,
+      379.87,
+      304.08
+    ],
+    "text": "\u2191 Niyagama Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      334.48,
+      98.9,
+      347.76
+    ],
+    "text": "Hambantota",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.38,
+      306.88,
+      238.73,
+      375.36
+    ],
+    "text": "Walasmulla Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      426.4,
+      72.26,
+      439.68
+    ],
+    "text": "Kandy",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.38,
+      378.16,
+      238.73,
+      488.06
+    ],
+    "text": "Udapalatha, Udunuwara, Pathahewaheta and Pasbage Korale Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.53,
+      391.96,
+      379.87,
+      474.26
+    ],
+    "text": "Medadumbara and Pathadumbara Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      418.63,
+      378.16,
+      533.98,
+      488.06
+    ],
+    "text": "Ududumbara, Ganga Ihala Korale, Doluwa and Yatinuwara Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      545.94,
+      77.54,
+      559.22
+    ],
+    "text": "Kegalle",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.38,
+      511.5,
+      238.73,
+      593.78
+    ],
+    "text": "Deraniyagala and * Bulathkohupitiya Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      418.63,
+      490.74,
+      533.98,
+      614.42
+    ],
+    "text": "Kegalle, Yatiyanthota, Mawanella, Dehiowita and Aranayaka Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      651.69,
+      96.14,
+      664.97
+    ],
+    "text": "Kurunegala",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      123.38,
+      617.22,
+      238.73,
+      699.53
+    ],
+    "text": "Mallawapitiya and Rideegama Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.2,
+      739.4,
+      267.02,
+      757.01
+    ],
+    "text": "Matale",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      418.63,
+      702.33,
+      528.94,
+      798.41
+    ],
+    "text": "Laggala Pallegama, Ambanganga Korale, Ukuwela, Wilgamuwa and Rattota Divisional Secretariat",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      418.63,
+      37.91,
+      533.98,
+      64.99
+    ],
+    "text": "Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      95.41,
+      97.58,
+      108.69
+    ],
+    "text": "Moneragala",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.38,
+      67.79,
+      238.73,
+      136.29
+    ],
+    "text": "* Wellawaya Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      264.53,
+      67.79,
+      379.87,
+      136.29
+    ],
+    "text": "\u2191 Badalkumbura Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      187.33,
+      106.58,
+      200.61
+    ],
+    "text": "Nuwara Eliya",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.38,
+      139.09,
+      238.73,
+      248.97
+    ],
+    "text": "Mathurata, Kotmale West, Hanguranketha and Kotmale East Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      264.53,
+      145.93,
+      387.19,
+      242.01
+    ],
+    "text": "Nildandahinna, Walapane, Norwood and \u2191 Ambagamuwa Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      300.04,
+      89.54,
+      313.32
+    ],
+    "text": "Ratnapura",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.38,
+      251.77,
+      238.73,
+      361.68
+    ],
+    "text": "Kuruwita, * Nivithigala, Eheliyagoda and Kolonna Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      264.53,
+      258.61,
+      379.87,
+      354.72
+    ],
+    "text": "Kiriella, Kalawana and Ayagama Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      418.63,
+      272.44,
+      533.98,
+      340.92
+    ],
+    "text": "Ratnapura Divisional Secretariat Division(s) (DSD) and surrounding areas.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.0,
+      365.2,
+      552.65,
+      435.12
+    ],
+    "text": "Note: \u2191shifted one level up, \u2191\u2191shifted two levels up, \u2193shifted one level down, \u2193\u2193shifted two levels down. *Newly added with the last update Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas and given weather forecast by meteorological department of Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.0,
+      437.08,
+      555.02,
+      665.09
+    ],
+    "text": "Areas and places which need special attention Steep slopes, valleys, man-made cut slopes, roads located in hazardous areas, and people living in or adjacent to these areas within the relevant Divisional Secretariat (DS) divisions. \u0d85\u0daf\u0dcf\u0dbd \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dd3\u0dba \u0daf\u0dda\u0d9a\u0db8\u0dca \u0daf\u0d9a\u0dcf\u0da7\u0dca\u0da8\u0dcf\u0dc1\u0dba\u0db1\u0dca \u0dad\u0dd4\u0dc5 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd2 \u0dad\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dd2 \u0db6\u0dd1\u0dc0\u0dd4\u0db8\u0dca, \u0db8\u0dd2\u0da7\u0dd2\u0dba\u0dcf\u0dc0\u0dad\u0dca / \u0db1\u0dd2\u0db8\u0dd2\u0db1 , \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0db8\u0dd2\u0dad \u0d9a\u0db1\u0dca\u0dd2 (cut slopes), \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4\u0daf\u0dcf\u0dba\u0d9a \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1 \u0dc4\u0dbb\u0dc4\u0dcf \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dbb\u0db1 \u0db8\u0dcf\u0dbb\u0dca\u0db8\u0d9c \u0dc4\u0dcf \u0d92\u0dc0\u0dcf\u0da7 \u0d86\u0dc3\u0db1\u0dca\u0db1\u0dc0 \u0daf\u0dc4\u0ddd \u0d92\u0dc0\u0dcf \u0dad\u0dd4\u0dc5 \u0da2\u0dd3\u0dc0\u0dad\u0dca\u0dc0\u0db1 \u0da2\u0db1\u0dad\u0dcf\u0dc0. gpuNjr nrayf gphptpDs;shd rfy kiyg;ghq;fhd gFjpfs; kw;Wk; ntl;lg;gl;l epyr; rha;Tfs; Specially: All the landslide susceptible areas previously identified by NBRO. \u0dc0\u0dd2\u0db8\u0dda\u0dc2: \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d9c \u0dcf\u0da9\u0db1\u0dd0\u0d9c\u0dd2\u0dbd\u0dd2 \u0db4\u0dbb\u0dca\u0d9c\u0dda\u0dc2\u0dab \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0d9c\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0d9c\u0dd9\u0dc3 \u0db4\u0dd4\u0dbb\u0dca\u0dc0\u0d9c\u0dba\u0db1\u0dca \u0dc4\u0daf\u0dd4\u0db1\u0dcf\u0d9c \u0db1 \u0d87\u0dad\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0d9c\u0dda\u0dc1 tpNrlkhf: NBROtpdhy; Kd;dh; milahsg;gLj;jg;gl;l kz;rhpTf;fhd VjepiyAs;s rfy gpuNjrq;fs;.",
+    "fonts": [
+      "Bamini Plain",
+      "IskoolaPota",
+      "NirmalaUI",
+      "NirmalaUI-Bold",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36.0,
+      646.05,
+      289.85,
+      674.69
+    ],
+    "text": "Previous Message ID: LEWM-21-02-2026-2030-03",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37.2,
+      676.65,
+      332.59,
+      689.93
+    ],
+    "text": "Issued by: Approved by:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37.2,
+      728.01,
+      422.09,
+      741.46
+    ],
+    "text": "Duty Officer Director - LRRMD",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      437.95,
+      689.37,
+      546.92,
+      702.82
+    ],
+    "text": "22-02-2026, 08:30 hrs",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      441.1,
+      715.29,
+      543.92,
+      728.74
+    ],
+    "text": "Date and time issued",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172.94,
+      756.8,
+      425.09,
+      770.26
+    ],
+    "text": "Landslide Research and Risk Management Division",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198.53,
+      782.72,
+      399.91,
+      796.01
+    ],
+    "text": "National Building Research Organisation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
