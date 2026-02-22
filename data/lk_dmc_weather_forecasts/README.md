@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--22_12:30:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--22_14:28:35-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,356** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.5 GB**), from **2023-03-26** to **2026-02-22**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,357** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.5 GB**), from **2023-03-26** to **2026-02-22**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-02-22-09-50-advisory-for-heav-30cc92fb",
-    "num": "09-50-advisory-for-heavy-rain-tamil-language",
+    "doc_id": "2026-02-22-13-30-advisory-for-low--87643b3d",
+    "num": "13-30-advisory-for-low-pressure-area-over-southwest-bay-of-bengal",
     "date_str": "2026-02-22",
-    "description": "Advisory for Heavy Rain (Tamil Language)",
+    "description": "Advisory for low pressure area over South-West Bay of Bengal",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0830_hrs_at_2026__1771735153.pdf",
-    "time_str": "09:50",
-    "ut": 1771734000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_the_low_pressure_area_over_Southwest_Bay_of_Bengal_at_1300hrs_on_22__1771749560.pdf",
+    "time_str": "13:30",
+    "ut": 1771747200.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-02-22 | `13-30-advisory-for-low-pressure-area-over-southwest-bay-of-bengal` | Advisory for low pressure area over South-West Bay of Bengal | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-22-13-30-advisory-for-low--87643b3d)
 - 2026-02-22 | `09-50-advisory-for-heavy-rain-tamil-language` | Advisory for Heavy Rain (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-22-09-50-advisory-for-heav-30cc92fb)
 - 2026-02-22 | `09-30-advisory-for-heavy-rain` | Advisory for Heavy Rain | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-22-09-30-advisory-for-heavy-rain)
 - 2026-02-22 | `07-25-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-22-07-25-weather-forecast--f8734226)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-02-20 | `14-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-20-14-00-weather-forcast)
 - 2026-02-20 | `13-15-advisory-for-severe-lightning-tamil-language` | Advisory for Severe Lightning (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-20-13-15-advisory-for-seve-5094632c)
 - 2026-02-20 | `12-30-advisory-for-severe-lightning` | Advisory for Severe Lightning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-20-12-30-advisory-for-seve-85df0d3f)
-- 2026-02-20 | `07-25-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-02-20-07-25-weather-forecast--f8734226)
 
 ---
 
