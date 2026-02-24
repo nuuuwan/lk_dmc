@@ -52438,5 +52438,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_24__1771897745.pdf",
     "time_str": "06:40",
     "ut": 1771895400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-24-14-00-advisory-for-low--5c25be2d",
+    "num": "14-00-advisory-for-low-pressure-area-over-southwest-bay-of-bengal",
+    "date_str": "2026-02-24",
+    "description": "Advisory for low pressure area over South-West Bay of Bengal",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_the_low_pressure_area_over_Southwest_Bay_of_Bengal_at_1400hrs_on_24__1771925917.pdf",
+    "time_str": "14:00",
+    "ut": 1771921800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-24-14-00-weather-forcast",
+    "num": "14-00-weather-forcast",
+    "date_str": "2026-02-24",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1771926656.pdf",
+    "time_str": "14:00",
+    "ut": 1771921800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-02-24-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2026-02-24",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2026__1771929673.pdf",
+    "time_str": "16:00",
+    "ut": 1771929000.0
   }
 ]
