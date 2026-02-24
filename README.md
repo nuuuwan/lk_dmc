@@ -1,10 +1,10 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **9,897** documents (**9.2 GB**).
+**4** datasets, with **9,899** documents (**9.2 GB**).
 
 ## 001 🌦️ Dmc Situation Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_06:36:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_09:08:51-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports)
 
@@ -22,13 +22,13 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 
 ## 002 ☔️ Dmc Weather Forecasts
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_06:36:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_09:09:30-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,369** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.5 GB**), from **2023-03-26** to **2026-02-24**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,370** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.5 GB**), from **2023-03-26** to **2026-02-24**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -40,7 +40,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 003 💧 Dmc River Water Level And Flood Warnings
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_06:24:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_08:57:10-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
@@ -58,13 +58,13 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 
 ## 004 🗻 Dmc Landslide Warnings
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_06:25:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_08:57:59-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings)
 
 Landslide Warnings including early warnings, locations of potential risk, areas and places which need special attention, and automated landslide early warning map.
 
-- [**652** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**499.4 MB**), from **2019-09-26** to **2026-02-23**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**653** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**499.7 MB**), from **2019-09-26** to **2026-02-24**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (1%) & **🤗 Hugging Face**
 
