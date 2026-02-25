@@ -1,0 +1,113 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      971.79,
+      543.21,
+      994.5
+    ],
+    "text": "Page 1 of 1",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      9.0,
+      11.25
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      118.41,
+      577.64,
+      153.12
+    ],
+    "text": "Bulletin No: 04 TCA/26/02/25/01 COLOR: Green",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold",
+      "Iskoola Pota,Bold",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.25,
+      9.75,
+      11.25,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      153.49,
+      478.9,
+      203.4
+    ],
+    "text": "Weather Bulletin: Low-Pressure Area \u2013 Central Bay of Bengal Issued by the Natural Hazards Early Warning Centre, Department of Meteorology. Issued at 2.00 p.m. on 25 January 2026",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      1.5,
+      12.0,
+      15.774999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.35,
+      221.59,
+      537.4,
+      237.36
+    ],
+    "text": "For fishermen and naval communities engaged in marine activities in",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      15.774999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      241.12,
+      471.8,
+      268.7
+    ],
+    "text": "the Central Bay of Bengal, northeast of Sri Lanka.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      9.0,
+      14.25,
+      15.774999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      269.64,
+      516.05,
+      352.0
+    ],
+    "text": "The low-pressure area that prevailed over the central Bay of Bengal to the northeast of Sri Lanka has now weakened. Therefore, its influence is gradually decreasing. This is the final bulletin in this regard.",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      3.75,
+      12.0
+    ]
+  }
+]
