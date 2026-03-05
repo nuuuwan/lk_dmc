@@ -53002,5 +53002,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_issued_at_1530hrs_on_05__1772705958.pdf",
     "time_str": "15:30",
     "ut": 1772704800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-05-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2026-03-05",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1772707675.pdf",
+    "time_str": "16:00",
+    "ut": 1772706600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-05-16-15-warm-weather-advi-51b222d1",
+    "num": "16-15-warm-weather-advisory-tamil-language",
+    "date_str": "2026-03-05",
+    "description": "Warm Weather Advisory (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_issued__at_1530hrs_on_05__1772708079.pdf",
+    "time_str": "16:15",
+    "ut": 1772707500.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-05-16-20-weather-forecast--5d2db9bb",
+    "num": "16-20-weather-forecast-tamil-language",
+    "date_str": "2026-03-05",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_05__1772708190.pdf",
+    "time_str": "16:20",
+    "ut": 1772707800.0
   }
 ]
