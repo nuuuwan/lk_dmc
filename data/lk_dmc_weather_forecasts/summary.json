@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-03-06 14:29:40",
-  "n_docs": 4422,
-  "n_docs_with_pdfs": 4422,
-  "n_docs_with_text": 4422,
+  "time_updated": "2026-03-06 16:29:35",
+  "n_docs": 4425,
+  "n_docs_with_pdfs": 4425,
+  "n_docs_with_text": 4425,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-03-06",
-  "dataset_size": 5521132941,
+  "dataset_size": 5523076394,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-03-06-07-55-weather-forecast--3e12269a",
-    "num": "07-55-weather-forecast-tamil-language",
+    "doc_id": "2026-03-06-15-30-warm-weather-advisory",
+    "num": "15-30-warm-weather-advisory",
     "date_str": "2026-03-06",
-    "description": "Weather Forecast (Tamil Language)",
+    "description": "Warm Weather Advisory",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1772764078.pdf",
-    "time_str": "07:55",
-    "ut": 1772763900.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1530hrs_on_06__1772792154.pdf",
+    "time_str": "15:30",
+    "ut": 1772791200.0
   }
 }
