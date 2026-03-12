@@ -53566,5 +53566,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1773274245.pdf",
     "time_str": "05:30",
     "ut": 1773273600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-12-12-30-advisory-for-seve-85df0d3f",
+    "num": "12-30-advisory-for-severe-lightning",
+    "date_str": "2026-03-12",
+    "description": "Advisory for Severe Lightning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1230_hrs_on_2026__1773299843.pdf",
+    "time_str": "12:30",
+    "ut": 1773298800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-12-14-00-advisory-for-seve-85cf7b31",
+    "num": "14-00-advisory-for-severe-lightning-tamil",
+    "date_str": "2026-03-12",
+    "description": "Advisory for Severe Lightning (Tamil)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning(Tamil)__1773304634.pdf",
+    "time_str": "14:00",
+    "ut": 1773304200.0
   }
 ]
