@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_14:30:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_16:29:55-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,466** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.6 GB**), from **2023-03-26** to **2026-03-12**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,469** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**5.6 GB**), from **2023-03-26** to **2026-03-12**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-03-12-14-00-advisory-for-seve-85cf7b31",
-    "num": "14-00-advisory-for-severe-lightning-tamil",
+    "doc_id": "2026-03-12-15-30-warm-weather-advisory",
+    "num": "15-30-warm-weather-advisory",
     "date_str": "2026-03-12",
-    "description": "Advisory for Severe Lightning (Tamil)",
+    "description": "Warm Weather Advisory",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning(Tamil)__1773304634.pdf",
-    "time_str": "14:00",
-    "ut": 1773304200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1530hrs_on_12__1773310937.pdf",
+    "time_str": "15:30",
+    "ut": 1773309600.0
 }
 ```
 
@@ -42,6 +42,9 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-03-12 | `15-30-warm-weather-advisory` | Warm Weather Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-12-15-30-warm-weather-advisory)
+- 2026-03-12 | `14-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-12-14-00-weather-forecast--eb2ff5a1)
+- 2026-03-12 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-12-14-00-weather-forecast)
 - 2026-03-12 | `14-00-advisory-for-severe-lightning-tamil` | Advisory for Severe Lightning (Tamil) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-12-14-00-advisory-for-seve-85cf7b31)
 - 2026-03-12 | `12-30-advisory-for-severe-lightning` | Advisory for Severe Lightning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-12-12-30-advisory-for-seve-85df0d3f)
 - 2026-03-12 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-12-05-30-weather-forcast)
@@ -59,9 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-03-10 | `14-30-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-10-14-30-weather-forecast--3d013943)
 - 2026-03-10 | `07-15-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-10-07-15-weather-forecast--e2d64f8c)
 - 2026-03-10 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-10-05-30-weather-forcast)
-- 2026-03-09 | `16-20-warm-weather-advisory-tamil-language` | Warm Weather Advisory (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-09-16-20-warm-weather-advi-ef14fed0)
-- 2026-03-09 | `16-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-09-16-00-weather-forecast--2c3f4dc6)
-- 2026-03-09 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-03-09-16-00-weather-forecast)
 
 ---
 
