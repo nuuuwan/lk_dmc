@@ -53650,5 +53650,89 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_13__1773368540.pdf",
     "time_str": "07:00",
     "ut": 1773365400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-13-12-00-advisory-for-seve-104e64ff",
+    "num": "12-00-advisory-for-severe-lightning-sinhala",
+    "date_str": "2026-03-13",
+    "description": "Advisory for Severe Lightning (Sinhala)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_1200noon_at_13__1773391953.pdf",
+    "time_str": "12:00",
+    "ut": 1773383400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-13-12-00-advisory-for-seve-178b5903",
+    "num": "12-00-advisory-for-severe-lightning-tamil",
+    "date_str": "2026-03-13",
+    "description": "Advisory for Severe Lightning (Tamil)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_1200noon_at_13__1773392486.pdf",
+    "time_str": "12:00",
+    "ut": 1773383400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-13-12-00-advisory-for-seve-5740cec9",
+    "num": "12-00-advisory-for-severe-lightning-english",
+    "date_str": "2026-03-13",
+    "description": "Advisory for Severe Lightning (English))",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_1200noon_at_13__1773392442.pdf",
+    "time_str": "12:00",
+    "ut": 1773383400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-13-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2026-03-13",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1773392731.pdf",
+    "time_str": "14:00",
+    "ut": 1773390600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-13-14-00-weather-forecast--eb2ff5a1",
+    "num": "14-00-weather-forecast-tamil-language",
+    "date_str": "2026-03-13",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_13__1773397182.pdf",
+    "time_str": "14:00",
+    "ut": 1773390600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-13-15-30-warm-weather-advisory",
+    "num": "15-30-warm-weather-advisory",
+    "date_str": "2026-03-13",
+    "description": "Warm Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1530hrs_on_13__1773398264.pdf",
+    "time_str": "15:30",
+    "ut": 1773396000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-13-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2026-03-13",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1773398615.pdf",
+    "time_str": "16:00",
+    "ut": 1773397800.0
   }
 ]
