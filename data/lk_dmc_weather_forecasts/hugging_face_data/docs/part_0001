@@ -54022,5 +54022,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_17__1773713241.pdf",
     "time_str": "07:00",
     "ut": 1773711000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-17-12-00-weather-report",
+    "num": "12-00-weather-report",
+    "date_str": "2026-03-17",
+    "description": "Weather Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_Report_at_1200_hrs_on_2026__1773731511.pdf",
+    "time_str": "12:00",
+    "ut": 1773729000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-17-13-30-advisory-for-seve-2f83eb3c",
+    "num": "13-30-advisory-for-severe-lightning",
+    "date_str": "2026-03-17",
+    "description": "Advisory for Severe Lightning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_Report_at_1200_hrs_on_2026__1773735725.pdf",
+    "time_str": "13:30",
+    "ut": 1773734400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-17-14-00-weather-forcast",
+    "num": "14-00-weather-forcast",
+    "date_str": "2026-03-17",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1773736776.pdf",
+    "time_str": "14:00",
+    "ut": 1773736200.0
   }
 ]
