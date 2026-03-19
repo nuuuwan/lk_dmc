@@ -54238,5 +54238,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1530hrs_on_18__1773832653.pdf",
     "time_str": "16:30",
     "ut": 1773831600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-03-19-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
+    "date_str": "2026-03-19",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530__1773879761.pdf",
+    "time_str": "05:30",
+    "ut": 1773878400.0
   }
 ]
