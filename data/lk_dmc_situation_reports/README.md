@@ -1,12 +1,12 @@
 # 🌦️#SriLanka 🇱🇰 Dmc Situation Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--03_09:15:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--03_10:57:00-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports)
 
 Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.
 
-- [**4,506** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**3.1 GB**), from **2018-01-02** to **2026-04-02**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,509** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**3.1 GB**), from **2018-01-02** to **2026-04-03**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 ```json
 {
     "doc_type": "lk_dmc_situation_reports",
-    "doc_id": "2026-04-02-10-00-situation-report",
-    "num": "10-00-situation-report",
-    "date_str": "2026-04-02",
-    "description": "Situation Report",
+    "doc_id": "2026-04-03-10-00-situation-summary-22fabe4c",
+    "num": "10-00-situation-summary-report-ditwah",
+    "date_str": "2026-04-03",
+    "description": "Situation Summary Report (Ditwah)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1775104313.pdf",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Summary_Report_(Ditwah)_at_1000hrs_on_2026__1775190680.pdf",
     "time_str": "10:00",
-    "ut": 1775104200.0
+    "ut": 1775190600.0
 }
 ```
 
@@ -42,6 +42,9 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 
 ## 🆕 20 Latest documents
 
+- 2026-04-03 | `10-00-situation-summary-report-ditwah` | Situation Summary Report (Ditwah) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-04-03-10-00-situation-summary-22fabe4c)
+- 2026-04-03 | `10-00-situation-report-dry-weather` | Situation Report (Dry Weather) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-04-03-10-00-situation-report--54643ead)
+- 2026-04-03 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-04-03-10-00-situation-report)
 - 2026-04-02 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-04-02-10-00-situation-report)
 - 2026-04-01 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-04-01-10-00-situation-report)
 - 2026-03-31 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-03-31-10-00-situation-report)
@@ -59,9 +62,6 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 - 2026-03-23 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-03-23-10-00-situation-report)
 - 2026-03-22 | `10-00-situation-report--ditwah` | Situation Report - Ditwah | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-03-22-10-00-situation-report--ditwah)
 - 2026-03-22 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-03-22-10-00-situation-report)
-- 2026-03-21 | `10-00-situation-report--ditwah` | Situation Report - Ditwah | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-03-21-10-00-situation-report--ditwah)
-- 2026-03-21 | `10-00-daily-situation-report` | Daily Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-03-21-10-00-daily-situation-report)
-- 2026-03-19 | `10-00-situation-summary-report-ditwah` | Situation Summary Report (Ditwah) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-03-19-10-00-situation-summary-22fabe4c)
 
 ---
 
