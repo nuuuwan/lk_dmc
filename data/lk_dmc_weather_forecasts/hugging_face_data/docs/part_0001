@@ -56494,5 +56494,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LLA_26041301_SN__1776068757.pdf",
     "time_str": "12:00",
     "ut": 1776061800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-04-13-14-00-weather-report",
+    "num": "14-00-weather-report",
+    "date_str": "2026-04-13",
+    "description": "Weather report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1400hrs_on_2026__1776080316.pdf",
+    "time_str": "14:00",
+    "ut": 1776069000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-04-13-15-30-warm-weather-advisory",
+    "num": "15-30-warm-weather-advisory",
+    "date_str": "2026-04-13",
+    "description": "Warm Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LHA_26041301_SN__1776081649.pdf",
+    "time_str": "15:30",
+    "ut": 1776074400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-04-13-16-00-weather-report",
+    "num": "16-00-weather-report",
+    "date_str": "2026-04-13",
+    "description": "Weather report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1600hrs_on_2026__1776080602.pdf",
+    "time_str": "16:00",
+    "ut": 1776076200.0
   }
 ]
