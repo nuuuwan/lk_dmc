@@ -54586,5 +54586,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Dry_weather_Situation_Report_on_2026__1776832558.pdf",
     "time_str": "10:00",
     "ut": 1776832200.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2026-04-23-10-00-dry-weather-situa-79f60867",
+    "num": "10-00-dry-weather-situation-report",
+    "date_str": "2026-04-23",
+    "description": "Dry Weather Situation Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Dry_weather_Situation_Report_on_2026__1776921326.pdf",
+    "time_str": "10:00",
+    "ut": 1776918600.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2026-04-23-10-00-situation-report",
+    "num": "10-00-situation-report",
+    "date_str": "2026-04-23",
+    "description": "Situation Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1776921178.pdf",
+    "time_str": "10:00",
+    "ut": 1776918600.0
   }
 ]
