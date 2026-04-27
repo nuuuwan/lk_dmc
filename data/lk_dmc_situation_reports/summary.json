@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_situation_reports",
   "doc_class_emoji": "\ud83c\udf26\ufe0f",
   "doc_class_description": "Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.",
-  "time_updated": "2026-04-27 06:54:40",
-  "n_docs": 4557,
-  "n_docs_with_pdfs": 4557,
-  "n_docs_with_text": 4557,
+  "time_updated": "2026-04-27 09:28:34",
+  "n_docs": 4558,
+  "n_docs_with_pdfs": 4558,
+  "n_docs_with_text": 4558,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 8,
   "date_str_min": "2018-01-02",
-  "date_str_max": "2026-04-26",
-  "dataset_size": 3088695800,
+  "date_str_max": "2026-04-27",
+  "dataset_size": 3089040077,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_situation_reports",
-    "doc_id": "2026-04-26-10-00-situation-report",
-    "num": "10-00-situation-report",
-    "date_str": "2026-04-26",
-    "description": "Situation Report",
+    "doc_id": "2026-04-27-05-30-weather-forcast-tamil",
+    "num": "05-30-weather-forcast-tamil",
+    "date_str": "2026-04-27",
+    "description": "Weather Forcast -Tamil",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1777179057.pdf",
-    "time_str": "10:00",
-    "ut": 1777177800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/W20260427a_TM__1777254945.pdf",
+    "time_str": "05:30",
+    "ut": 1777248000.0
   }
 }
