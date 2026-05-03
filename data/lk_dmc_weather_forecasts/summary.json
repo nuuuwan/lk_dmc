@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-05-03 07:01:09",
-  "n_docs": 4842,
-  "n_docs_with_pdfs": 4842,
-  "n_docs_with_text": 4842,
+  "time_updated": "2026-05-03 09:29:26",
+  "n_docs": 4844,
+  "n_docs_with_pdfs": 4844,
+  "n_docs_with_text": 4844,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-05-03",
-  "dataset_size": 6006666298,
+  "dataset_size": 6008855299,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-05-03-05-30-weather-forcast",
-    "num": "05-30-weather-forcast",
+    "doc_id": "2026-05-03-07-00-weather-forcast-f-65ab4d6f",
+    "num": "07-00-weather-forcast-for-multiday-boats",
     "date_str": "2026-05-03",
-    "description": "Weather Forcast",
+    "description": "Weather Forcast for Multiday Boats",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast___1777767552.pdf",
-    "time_str": "05:30",
-    "ut": 1777766400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_for_Multiday_Boats__1777773827.pdf",
+    "time_str": "07:00",
+    "ut": 1777771800.0
   }
 }
