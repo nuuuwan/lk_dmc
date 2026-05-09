@@ -58705,6 +58705,30 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-09-11-00-advisory-for-seve-c09ee1e5",
+    "num": "11-00-advisory-for-severe-lightning-tamil-language",
+    "date_str": "2026-05-09",
+    "description": "Advisory for Severe Lightning (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_11__1778313160.pdf",
+    "time_str": "11:00",
+    "ut": 1778304600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-09-12-00-advisory-for-heav-092e73e0",
+    "num": "12-00-advisory-for-heavy-rain-tamil-language",
+    "date_str": "2026-05-09",
+    "description": "Advisory for Heavy Rain (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1200noon_on_09__1778313895.pdf",
+    "time_str": "12:00",
+    "ut": 1778308200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-05-09-12-00-advisory-for-heavy-rain",
     "num": "12-00-advisory-for-heavy-rain",
     "date_str": "2026-05-09",
@@ -58714,5 +58738,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1200noon_on_09__1778309860.pdf",
     "time_str": "12:00",
     "ut": 1778308200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-09-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2026-05-09",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_on_09__1778317274.pdf",
+    "time_str": "14:00",
+    "ut": 1778315400.0
   }
 ]
