@@ -1,0 +1,407 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      148.19,
+      545.77,
+      163.73
+    ],
+    "text": "-------------------------------------------------------------------------------------------------",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.29,
+      173.96,
+      387.82,
+      191.63
+    ],
+    "text": "PRESS RELEASE",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      277.13,
+      199.4,
+      365.86,
+      217.07
+    ],
+    "text": "SWM-2026-01",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.039999961853027,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      156.26,
+      225.47,
+      486.22,
+      241.01
+    ],
+    "text": "Long Range Forecast for the Southwest Monsoon 2026",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.21,
+      249.62,
+      397.3,
+      265.16
+    ],
+    "text": "June\u2013September (JJAS)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      155.9,
+      273.33,
+      489.1,
+      287.04
+    ],
+    "text": "Issued on 12th May 2026 by Seasonal Forecasting Division of the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      294.52,
+      550.12,
+      335.02
+    ],
+    "text": "Department of Meteorology (DOM), Sri Lanka. ----------------------------------------------------------------------------",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      348.76,
+      552.11,
+      441.5
+    ],
+    "text": "During the June to September (JJAS) 2026 period, near-normal rainfall conditions are expected over most parts of the country. However, slightly below-normal rainfall is likely over the North Western and Sabaragamuwa Provinces, and in the Kandy and Nuwara Eliya Districts. The forecast has been developed using outputs from global climate prediction models, together with an assessment of the prevailing large-scale oceanic and atmospheric conditions over the Pacific and Indian Oceans.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      684.94,
+      496.54,
+      697.16
+    ],
+    "text": "Fig 1. Consensus probabilistic rainfall forecast for the June\u2013September (JJAS) 2026 period.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      54.45,
+      552.1,
+      181.41
+    ],
+    "text": "1. Background The Department of Meteorology issues long-range seasonal rainfall forecasts to provide advance information for decision-making in climate-sensitive sectors including agriculture, water management, disaster risk reduction, hydropower generation, and health. This consensus forecast for the June\u2013September (JJAS) 2026 rainfall period has been prepared using numerical model outputs from leading global climate prediction centres together with analyses of prevailing sea surface temperature and atmospheric circulation patterns.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      208.07,
+      552.1,
+      350.88
+    ],
+    "text": "2. ENSO Conditions ENSO-neutral conditions are currently prevailing over the equatorial Pacific Ocean. According to the latest forecasts issued by the Climate Prediction Center (CPC)-NOAA, ENSO-neutral conditions are favored through May\u2013July 2026 with approximately an 55% probability. During June-August 2026, El Ni\u00f1o conditions are likely to emerge with about a 62% probability and are expected to persist through at least the end of 2026. Since ENSO conditions strongly influence rainfall variability over South Asia and Sri Lanka, the evolution of El Ni\u00f1o conditions will be closely monitored during the season.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      377.54,
+      552.1,
+      504.5
+    ],
+    "text": "3. Indian Ocean Dipole (IOD) Conditions Neutral Indian Ocean Dipole (IOD) conditions are currently prevailing over the Indian Ocean. According to forecasts issued by the Bureau of Meteorology (BoM), Australia, most climate models indicate that neutral IOD conditions are likely to continue until at least July 2026. The Indian Ocean Dipole is one of the important climate drivers affecting monsoon rainfall over Sri Lanka. Therefore, the Department of Meteorology will continue to closely monitor changes in Indian Ocean sea surface temperatures and atmospheric conditions.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      531.16,
+      552.1,
+      597.05
+    ],
+    "text": "Attention is requested for the following areas \uf0b7 Water management activities, particularly in areas expected to receive below normal rainfall \uf0b7 Agricultural planning and irrigation management during the cultivation season \uf0b7 Monitoring of possible dry spells in North Western and Sabaragamuwa Provinces, and",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      599.73,
+      550.47,
+      629.69
+    ],
+    "text": "Kandy and Nuwara Eliya Districts \uf0b7 Preparedness is advised for heavy rainfall, strong winds, and possible low-pressure systems",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      632.25,
+      527.92,
+      677.45
+    ],
+    "text": "or cyclones during the Southwest Monsoon season. The public is encouraged to follow daily weather forecast and advisories issued by the Department of Meteorology.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      54.45,
+      295.76,
+      69.99
+    ],
+    "text": "Forecast Summary for JJAS 2026",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      72.44,
+      551.86,
+      115.92
+    ],
+    "text": "\uf0b7 Near-normal rainfall is expected over most parts of Sri Lanka. \uf0b7 Slightly below normal rainfall is expected over North Western and Sabaragamuwa Provinces, and Kandy and Nuwara Eliya Districts.",
+    "fonts": [
+      "ArialMT",
+      "SymbolMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      128.06,
+      551.46,
+      155.04
+    ],
+    "text": "The Department of Meteorology will continue monitoring global and regional climate conditions and necessary updates to the seasonal forecast will be issued accordingly.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      191.49,
+      551.5,
+      248.98
+    ],
+    "text": "**Remarks-: The predictability is also limited due to strong day-to-day atmospheric variability caused by the passage of the synoptic scale systems such as lows and depressions. Intraseasonal Oscillations such as Madden Julian Oscillations (MJO) is also another atmospheric phenomenon which can\u2019t be underestimated.",
+    "fonts": [
+      "Cambria",
+      "Cambria-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      260.81,
+      551.86,
+      287.79
+    ],
+    "text": "For further information, the District average accumulated rainfall distribution for the June to September (1991\u20132020) period is presented in the accompanying map.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.9,
+      300.4,
+      510.22,
+      313.68
+    ],
+    "text": "District wise mean (30 years (1991-2020) of average) rainfalls during the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      257.81,
+      326.32,
+      384.19,
+      339.6
+    ],
+    "text": "June-September season.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      654.93,
+      549.46,
+      668.21
+    ],
+    "text": "Fig 2: 30 year (1991-2020) average district wise rainfalls (mm) during June-September season.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      680.73,
+      414.55,
+      694.01
+    ],
+    "text": "Seasonal Weather Prediction Division-Department of Meteorology",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  }
+]

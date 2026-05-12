@@ -59026,5 +59026,89 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_12__1778577025.pdf",
     "time_str": "14:00",
     "ut": 1778574600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-12-14-00-weather-forecast--eb2ff5a1",
+    "num": "14-00-weather-forecast-tamil-language",
+    "date_str": "2026-05-12",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_12__1778579667.pdf",
+    "time_str": "14:00",
+    "ut": 1778574600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-12-15-00-advisory-for-the--6787a07e",
+    "num": "15-00-advisory-for-the-low-pressure-area",
+    "date_str": "2026-05-12",
+    "description": "Advisory for the low pressure area",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_the_low_pressure_area_at_1500hrs_on_12__1778579452.pdf",
+    "time_str": "15:00",
+    "ut": 1778578200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-12-15-00-southwest-monsoon-49b0546c",
+    "num": "15-00-southwest-monsoon-2026press-releasetamil",
+    "date_str": "2026-05-12",
+    "description": "Southwest Monsoon 2026-Press Release-Tamil",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Southwest_Monsoon_2026-Press_Release-Tamil__1778579875.pdf",
+    "time_str": "15:00",
+    "ut": 1778578200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-12-15-00-southwest-monsoon-8260fee4",
+    "num": "15-00-southwest-monsoon-2026press-releaseenglish",
+    "date_str": "2026-05-12",
+    "description": "Southwest Monsoon 2026-Press Release-English",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Southwest_Monsoon_2026-Press_Release-English__1778578854.pdf",
+    "time_str": "15:00",
+    "ut": 1778578200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-12-15-00-southwest-monsoon-dc80a73d",
+    "num": "15-00-southwest-monsoon-2026press-releasesinhala",
+    "date_str": "2026-05-12",
+    "description": "Southwest Monsoon 2026-Press Release-Sinhala",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Southwest_Monsoon_2026-Press_Release-Sinhala__1778578831.pdf",
+    "time_str": "15:00",
+    "ut": 1778578200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-12-15-30-advisory-for-heavy-rain",
+    "num": "15-30-advisory-for-heavy-rain",
+    "date_str": "2026-05-12",
+    "description": "Advisory for Heavy Rain",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain__1778582963.pdf",
+    "time_str": "15:30",
+    "ut": 1778580000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-12-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2026-05-12",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_12__1778583830.pdf",
+    "time_str": "16:00",
+    "ut": 1778581800.0
   }
 ]
