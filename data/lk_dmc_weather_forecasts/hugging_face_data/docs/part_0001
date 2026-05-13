@@ -59110,5 +59110,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_12__1778583830.pdf",
     "time_str": "16:00",
     "ut": 1778581800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-13-05-30-weather-forecast",
+    "num": "05-30-weather-forecast",
+    "date_str": "2026-05-13",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_on_13__1778633613.pdf",
+    "time_str": "05:30",
+    "ut": 1778630400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-13-06-30-advisory-for-heavy-rain",
+    "num": "06-30-advisory-for-heavy-rain",
+    "date_str": "2026-05-13",
+    "description": "Advisory for Heavy Rain",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0630_hrs_on_2026__1778634568.pdf",
+    "time_str": "06:30",
+    "ut": 1778634000.0
   }
 ]
