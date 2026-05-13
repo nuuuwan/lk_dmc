@@ -59125,6 +59125,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-13-05-30-weather-forecast--16b07aaa",
+    "num": "05-30-weather-forecast-tamil-language",
+    "date_str": "2026-05-13",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_13__1778640307.pdf",
+    "time_str": "05:30",
+    "ut": 1778630400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-05-13-06-30-advisory-for-heavy-rain",
     "num": "06-30-advisory-for-heavy-rain",
     "date_str": "2026-05-13",
@@ -59134,5 +59146,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0630_hrs_on_2026__1778634568.pdf",
     "time_str": "06:30",
     "ut": 1778634000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-13-07-00-weather-forecast--0ef85da7",
+    "num": "07-00-weather-forecast-for-multiday-boats-for-the-sea-areas",
+    "date_str": "2026-05-13",
+    "description": "Weather forecast for multi-day boats For the sea areas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_for_sea_areas_at_0700hrs_on_13__1778637879.pdf",
+    "time_str": "07:00",
+    "ut": 1778635800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-13-08-00-advisory-for-heav-970a3352",
+    "num": "08-00-advisory-for-heavy-rain-tamil-language",
+    "date_str": "2026-05-13",
+    "description": "Advisory for Heavy Rain (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_2026__1778640552.pdf",
+    "time_str": "08:00",
+    "ut": 1778639400.0
   }
 ]
