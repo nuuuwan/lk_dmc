@@ -1,0 +1,305 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      102.5,
+      964.05,
+      192.95,
+      986.25
+    ],
+    "text": "Color: -Red Waning (Take action)",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.33,
+      964.05,
+      364.48,
+      986.25
+    ],
+    "text": "Color: -Amber Advisory (Be prepared)",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      434.95,
+      964.53,
+      500.71,
+      987.96
+    ],
+    "text": "Color: -Green Threat is over",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      118.64,
+      516.31,
+      160.4
+    ],
+    "text": "Bulletin No: 01 LRW/26/05/15/01 COLOR: Red",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      5.039999961853027,
+      6.0,
+      9.960000038146973,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      160.7,
+      477.42,
+      209.66
+    ],
+    "text": "Warning for Heavy Rain Issued by the Natural Hazards Early Warning Centre Issued at 09.30 a.m. on 15 May 2026 valid for the period until 08.30 a.m. 16 May 2026",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      11.520000457763672,
+      12.0,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.86,
+      235.01,
+      521.2,
+      249.05
+    ],
+    "text": "For Western, Sabaragamuwa, North-western provinces Galle and Matara",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      281.09,
+      254.69,
+      334.08,
+      268.73
+    ],
+    "text": "districts.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      272.96,
+      149.83,
+      323.9
+    ],
+    "text": "Take action!",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      8.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      325.76,
+      271.94,
+      433.97
+    ],
+    "text": "The low-pressure area located northeast of the Sri Lanka, still persist. This system is expected to move away from Sri Lanka during the next 36 hours according to the latest weather analysis based on May 15th morning.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      5.039999961853027,
+      8.039999961853027,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      450.65,
+      542.78,
+      768.82
+    ],
+    "text": "Very heavy showers about 150mm are likely at some places in Western, Sabaragamuwa and North-western provinces. Heavy showers above 100mm are likely at some places in and in Galle and Matara districts. Therefore, general public is advised to take adequate precautions to minimize damages caused by heavy rain, strong winds and lightning during thundershowers. Situation: Reported rainfall (currently received) from 08.30 a.m. on 14.05.2026 to 08.30 a.m. on 15.05.2026 given below.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      3.0,
+      5.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      768.57,
+      488.21,
+      782.26
+    ],
+    "text": "Automatic Weather Station Districts Rainfall (mm)",
+    "fonts": [
+      "Calibri,Bold",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      787.29,
+      474.89,
+      800.98
+    ],
+    "text": "Penrith Estate, Avissawella Colombo 175.0",
+    "fonts": [
+      "Calibri",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      806.98,
+      474.68,
+      819.34
+    ],
+    "text": "Veyangoda Gampaha 162.0",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      825.46,
+      474.68,
+      837.82
+    ],
+    "text": "Kirindiwela Gampaha 157.0",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      843.82,
+      474.68,
+      856.18
+    ],
+    "text": "Pambegama Estate Kegalle 135.0",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      862.18,
+      474.68,
+      874.54
+    ],
+    "text": "Talduwa Kegalle 131.0",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      880.68,
+      474.68,
+      893.04
+    ],
+    "text": "Maliboda Kegalle 125.5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  }
+]
