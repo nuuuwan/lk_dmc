@@ -1,12 +1,12 @@
 # 🗻#SriLanka 🇱🇰 Dmc Landslide Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--15_18:39:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--15_20:48:37-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings)
 
 Landslide Warnings including early warnings, locations of potential risk, areas and places which need special attention, and automated landslide early warning map.
 
-- [**666** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**510.0 MB**), from **2019-09-26** to **2026-05-15**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**666** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**510.4 MB**), from **2019-09-26** to **2026-05-15**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (1%) & **🤗 Hugging Face**
 
