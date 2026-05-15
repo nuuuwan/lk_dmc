@@ -1,12 +1,12 @@
 # 🗻#SriLanka 🇱🇰 Dmc Landslide Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--15_16:49:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--15_18:39:48-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings)
 
 Landslide Warnings including early warnings, locations of potential risk, areas and places which need special attention, and automated landslide early warning map.
 
-- [**665** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**509.6 MB**), from **2019-09-26** to **2026-05-14**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**666** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**510.0 MB**), from **2019-09-26** to **2026-05-15**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (1%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Landslide Warnings including early warnings, locations of potential risk, areas 
 ```json
 {
     "doc_type": "lk_dmc_landslide_warnings",
-    "doc_id": "2026-05-14-22-00-landslide-early-w-ac8ed4a6",
-    "num": "22-00-landslide-early-warning-report",
-    "date_str": "2026-05-14",
-    "description": "Landslide Early warning report",
+    "doc_id": "2026-05-15-16-00-landslide-early-w-b9781d94",
+    "num": "16-00-landslide-early-warning-report",
+    "date_str": "2026-05-15",
+    "description": "Landslide Early Warning Report",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Early_warning_report_at_2200hrs_on_14__1778779033.pdf",
-    "time_str": "22:00",
-    "ut": 1778776200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Early_Warning_Report_at_1600hrs_on_15__1778844228.pdf",
+    "time_str": "16:00",
+    "ut": 1778841000.0
 }
 ```
 
@@ -42,6 +42,7 @@ Landslide Warnings including early warnings, locations of potential risk, areas 
 
 ## 🆕 20 Latest documents
 
+- 2026-05-15 | `16-00-landslide-early-warning-report` | Landslide Early Warning Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-05-15-16-00-landslide-early-w-b9781d94)
 - 2026-05-14 | `22-00-landslide-early-warning-report` | Landslide Early warning report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-05-14-22-00-landslide-early-w-ac8ed4a6)
 - 2026-05-14 | `16-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-05-14-16-00-landslide-early-warning)
 - 2026-05-14 | `09-00-landslide-early-warning-report` | Landslide Early Warning Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-05-14-09-00-landslide-early-w-d5dbcfb5)
@@ -61,7 +62,6 @@ Landslide Warnings including early warnings, locations of potential risk, areas 
 - 2026-02-21 | `19-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-02-21-19-00-landslide-early-warning)
 - 2026-02-21 | `08-00-landslide-ew-report` | Landslide Ew Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-02-21-08-00-landslide-ew-report)
 - 2026-02-20 | `08-00-landslide-early-warning` | Landslide Early Warning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-02-20-08-00-landslide-early-warning)
-- 2026-02-18 | `11-00-landslide-ew-report` | Landslide Ew Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-02-18-11-00-landslide-ew-report)
 
 ---
 
