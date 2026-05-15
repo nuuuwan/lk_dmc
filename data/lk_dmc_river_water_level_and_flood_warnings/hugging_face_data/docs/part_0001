@@ -5878,5 +5878,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Aththanagalu_Oya_Basin_-_No_02_-_(Extended_Warning)_2026__1778855629.pdf",
     "time_str": "19:45",
     "ut": 1778854500.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-05-15-21-30-water-level",
+    "num": "21-30-water-level",
+    "date_str": "2026-05-15",
+    "description": "Water Level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1778860752.pdf",
+    "time_str": "21:30",
+    "ut": 1778860800.0
   }
 ]
