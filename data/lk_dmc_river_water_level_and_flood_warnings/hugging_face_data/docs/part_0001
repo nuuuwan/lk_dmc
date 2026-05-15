@@ -5854,5 +5854,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1778839145.pdf",
     "time_str": "15:00",
     "ut": 1778837400.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-05-15-18-30-water-level",
+    "num": "18-30-water-level",
+    "date_str": "2026-05-15",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1778854747.pdf",
+    "time_str": "18:30",
+    "ut": 1778850000.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-05-15-19-45-flood-warning--at-ffbc834e",
+    "num": "19-45-flood-warning--attanagalu-oya-basin-no-02",
+    "date_str": "2026-05-15",
+    "description": "Flood Warning - Attanagalu oya Basin -No 02",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Aththanagalu_Oya_Basin_-_No_02_-_(Extended_Warning)_2026__1778855629.pdf",
+    "time_str": "19:45",
+    "ut": 1778854500.0
   }
 ]
