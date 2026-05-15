@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-05-15 13:19:40",
-  "n_docs": 4955,
-  "n_docs_with_pdfs": 4955,
-  "n_docs_with_text": 4955,
+  "time_updated": "2026-05-15 15:15:08",
+  "n_docs": 4956,
+  "n_docs_with_pdfs": 4956,
+  "n_docs_with_text": 4956,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-05-15",
-  "dataset_size": 6145059367,
+  "dataset_size": 6145550742,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-05-15-09-30-warning-for-heavy-rain",
-    "num": "09-30-warning-for-heavy-rain",
+    "doc_id": "2026-05-15-14-00-weather-forcast",
+    "num": "14-00-weather-forcast",
     "date_str": "2026-05-15",
-    "description": "Warning for Heavy Rain",
+    "description": "Weather Forcast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LRW_26051501_EN__1778821211.pdf",
-    "time_str": "09:30",
-    "ut": 1778817600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1778836744.pdf",
+    "time_str": "14:00",
+    "ut": 1778833800.0
   }
 }
