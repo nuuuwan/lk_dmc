@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_13:09:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_14:55:50-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**4,971** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**6.2 GB**), from **2023-03-26** to **2026-05-17**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,972** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**6.2 GB**), from **2023-03-26** to **2026-05-17**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-05-17-05-30-weather-forecast--16b07aaa",
-    "num": "05-30-weather-forecast-tamil-language",
+    "doc_id": "2026-05-17-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
     "date_str": "2026-05-17",
-    "description": "Weather Forecast (Tamil Language)",
+    "description": "Weather Forecast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_17__1778986045.pdf",
-    "time_str": "05:30",
-    "ut": 1778976000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_17__1779008743.pdf",
+    "time_str": "14:00",
+    "ut": 1779006600.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-05-17 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-05-17-14-00-weather-forecast)
 - 2026-05-17 | `05-30-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-05-17-05-30-weather-forecast--16b07aaa)
 - 2026-05-17 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-05-17-05-30-weather-forcast)
 - 2026-05-16 | `16-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-05-16-16-00-weather-forecast--2c3f4dc6)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-05-15 | `09-30-warning-for-heavy-rain` | Warning for Heavy Rain | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-05-15-09-30-warning-for-heavy-rain)
 - 2026-05-15 | `09-30-advisory-for-heavy-raintamil-language` | Advisory for Heavy Rain(Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-05-15-09-30-advisory-for-heav-f5215b90)
 - 2026-05-15 | `09-30-advisory-for-heavy-rain-tamil-language` | Advisory for Heavy Rain (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-05-15-09-30-advisory-for-heav-5f2a26ba)
-- 2026-05-15 | `07-00-weather-forecast-for-multiday-boats-for-the-sea-areas` | Weather forecast for multi-day boats For the sea areas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-05-15-07-00-weather-forecast--0ef85da7)
 
 ---
 
