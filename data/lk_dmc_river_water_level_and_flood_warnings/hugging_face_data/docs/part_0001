@@ -5998,5 +5998,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1779078023.pdf",
     "time_str": "09:30",
     "ut": 1779076800.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-05-19-09-30-water-level--rainfall",
+    "num": "09-30-water-level--rainfall",
+    "date_str": "2026-05-19",
+    "description": "Water level & Rainfall",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1779165774.pdf",
+    "time_str": "09:30",
+    "ut": 1779163200.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-05-19-10-00-withdrawal-of-flo-6e49245a",
+    "num": "10-00-withdrawal-of-flood-warning",
+    "date_str": "2026-05-19",
+    "description": "Withdrawal of Flood warning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Withdrawal_of_Flood_warning_2026__1779167731.pdf",
+    "time_str": "10:00",
+    "ut": 1779165000.0
   }
 ]
