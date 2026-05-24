@@ -60166,5 +60166,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_23__1779536553.pdf",
     "time_str": "16:00",
     "ut": 1779532200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-24-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
+    "date_str": "2026-05-24",
+    "description": "Weather Forcast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_0530hrs__1779584215.pdf",
+    "time_str": "05:30",
+    "ut": 1779580800.0
   }
 ]
