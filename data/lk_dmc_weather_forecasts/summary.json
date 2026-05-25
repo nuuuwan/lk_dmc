@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-05-25 13:46:54",
-  "n_docs": 5025,
-  "n_docs_with_pdfs": 5025,
-  "n_docs_with_text": 5025,
+  "time_updated": "2026-05-25 15:32:18",
+  "n_docs": 5026,
+  "n_docs_with_pdfs": 5026,
+  "n_docs_with_text": 5026,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-05-25",
-  "dataset_size": 6234584256,
+  "dataset_size": 6236876039,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-05-25-12-00-advisory-for-seve-8f4c0da7",
-    "num": "12-00-advisory-for-severe-lightning",
+    "doc_id": "2026-05-25-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
     "date_str": "2026-05-25",
-    "description": "Advisory for Severe Lightning",
+    "description": "Weather Forecast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_For_Uva_province,_Ampara_and_Batticaloa_districts__1779695346.pdf",
-    "time_str": "12:00",
-    "ut": 1779690600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1400hrs_on_2026__1779699343.pdf",
+    "time_str": "14:00",
+    "ut": 1779697800.0
   }
 }
