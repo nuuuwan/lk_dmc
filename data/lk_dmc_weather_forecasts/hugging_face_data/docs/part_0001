@@ -60346,5 +60346,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1400hrs_on_2026__1779786733.pdf",
     "time_str": "14:00",
     "ut": 1779784200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-26-15-00-fisherman-bulletin",
+    "num": "15-00-fisherman-bulletin",
+    "date_str": "2026-05-26",
+    "description": "Fisherman Bulletin",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/FA20260526S__1779789066.pdf",
+    "time_str": "15:00",
+    "ut": 1779787800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-26-16-00-weather-report",
+    "num": "16-00-weather-report",
+    "date_str": "2026-05-26",
+    "description": "Weather Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1600hrs_on_2026__1779798479.pdf",
+    "time_str": "16:00",
+    "ut": 1779791400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-26-17-30-advisory-for-high-f0b39dff",
+    "num": "17-30-advisory-for-high-waves-and-strong-winds",
+    "date_str": "2026-05-26",
+    "description": "Advisory for High Waves and Strong Winds",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/MHA2026052601_EN__1779798534.pdf",
+    "time_str": "17:30",
+    "ut": 1779796800.0
   }
 ]
