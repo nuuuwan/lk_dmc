@@ -8122,5 +8122,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LEWM_26-05-2026_16_00__1779796966.pdf",
     "time_str": "16:00",
     "ut": 1779791400.0
+  },
+  {
+    "doc_type": "lk_dmc_landslide_warnings",
+    "doc_id": "2026-05-27-16-00-landslide-early-warning",
+    "num": "16-00-landslide-early-warning",
+    "date_str": "2026-05-27",
+    "description": "Landslide Early Warning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Early_Warning_at_1600hrs_on_27__1779880374.pdf",
+    "time_str": "16:00",
+    "ut": 1779877800.0
   }
 ]
