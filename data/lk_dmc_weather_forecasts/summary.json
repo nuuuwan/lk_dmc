@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-05-30 04:42:32",
-  "n_docs": 5050,
-  "n_docs_with_pdfs": 5050,
-  "n_docs_with_text": 5050,
+  "time_updated": "2026-05-30 07:05:43",
+  "n_docs": 5051,
+  "n_docs_with_pdfs": 5051,
+  "n_docs_with_text": 5051,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
-  "date_str_max": "2026-05-29",
-  "dataset_size": 6265758768,
+  "date_str_max": "2026-05-30",
+  "dataset_size": 6266870756,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-05-29-16-30-the-advisory-for--d5631e6c",
-    "num": "16-30-the-advisory-for-strong-winds-and-rough-seas--amber",
-    "date_str": "2026-05-29",
-    "description": "The Advisory for Strong Winds and Rough Seas - AMBER",
+    "doc_id": "2026-05-30-05-30-weather-forcast",
+    "num": "05-30-weather-forcast",
+    "date_str": "2026-05-30",
+    "description": "Weather Forcast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_-_AMBER__1780054151.pdf",
-    "time_str": "16:30",
-    "ut": 1780052400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1780100018.pdf",
+    "time_str": "05:30",
+    "ut": 1780099200.0
   }
 }
