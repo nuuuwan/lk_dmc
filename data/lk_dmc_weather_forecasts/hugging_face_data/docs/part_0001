@@ -60766,5 +60766,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_31__1780223859.pdf",
     "time_str": "16:00",
     "ut": 1780223400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-31-16-30-advisory-for-stro-e18c719c",
+    "num": "16-30-advisory-for-strong-winds-and-rough-seas",
+    "date_str": "2026-05-31",
+    "description": "Advisory for Strong Winds and Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/MWA2026053101_SN__1780225961.pdf",
+    "time_str": "16:30",
+    "ut": 1780225200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-31-16-30-the-advisory-for--d5631e6c",
+    "num": "16-30-the-advisory-for-strong-winds-and-rough-seas--amber",
+    "date_str": "2026-05-31",
+    "description": "The Advisory for Strong Winds and Rough Seas - AMBER",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/MWA2026053101_EN__1780225986.pdf",
+    "time_str": "16:30",
+    "ut": 1780225200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-05-31-18-00-advisory-for-stro-25602aab",
+    "num": "18-00-advisory-for-strong-winds-and-rough-seas",
+    "date_str": "2026-05-31",
+    "description": "Advisory for Strong Winds and Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/W20260531c_TM__1780230521.pdf",
+    "time_str": "18:00",
+    "ut": 1780230600.0
   }
 ]
