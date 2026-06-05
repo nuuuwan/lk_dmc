@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_07:11:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_09:30:14-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**5,101** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**6.3 GB**), from **2023-03-26** to **2026-06-05**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**5,102** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**6.3 GB**), from **2023-03-26** to **2026-06-05**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,13 +19,13 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-06-05-05-30-weather-forcast",
-    "num": "05-30-weather-forcast",
+    "doc_id": "2026-06-05-05-30-weather-forecast--16b07aaa",
+    "num": "05-30-weather-forecast-tamil-language",
     "date_str": "2026-06-05",
-    "description": "Weather Forcast",
+    "description": "Weather Forecast (Tamil Language)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forcast_at_0530hrs__1780620861.pdf",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_05__1780625191.pdf",
     "time_str": "05:30",
     "ut": 1780617600.0
 }
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-05 | `05-30-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-05-05-30-weather-forecast--16b07aaa)
 - 2026-06-05 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-05-05-30-weather-forcast)
 - 2026-06-04 | `16-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-04-16-00-weather-forcast)
 - 2026-06-04 | `15-30-weather-advisory-for-strong-winds` | Weather Advisory For Strong Winds | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-04-15-30-weather-advisory--1914b763)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-06-03 | `10-30-advisory-for-strong-winds-and-rough-seas-tamil-language` | Advisory for Strong Winds and Rough Seas (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-03-10-30-advisory-for-stro-556eae5e)
 - 2026-06-03 | `10-30-advisory-for-strong-winds-and-rough-seas` | Advisory for Strong Winds and Rough Seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-03-10-30-advisory-for-stro-349c2b88)
 - 2026-06-03 | `07-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-03-07-00-weather-forcast)
-- 2026-06-03 | `05-30-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-03-05-30-weather-forecast--16b07aaa)
 
 ---
 
