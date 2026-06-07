@@ -1,12 +1,12 @@
 # 🌦️#SriLanka 🇱🇰 Dmc Situation Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_09:29:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_11:44:44-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports)
 
 Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.
 
-- [**4,606** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**3.1 GB**), from **2018-01-02** to **2026-06-06**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**4,607** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports) (**3.1 GB**), from **2018-01-02** to **2026-06-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 ```json
 {
     "doc_type": "lk_dmc_situation_reports",
-    "doc_id": "2026-06-06-10-00-situation-report",
+    "doc_id": "2026-06-07-10-00-situation-report",
     "num": "10-00-situation-report",
-    "date_str": "2026-06-06",
+    "date_str": "2026-06-07",
     "description": "Situation Report",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1780720332.pdf",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1780807077.pdf",
     "time_str": "10:00",
-    "ut": 1780720200.0
+    "ut": 1780806600.0
 }
 ```
 
@@ -42,6 +42,7 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 
 ## 🆕 20 Latest documents
 
+- 2026-06-07 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-06-07-10-00-situation-report)
 - 2026-06-06 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-06-06-10-00-situation-report)
 - 2026-06-05 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-06-05-10-00-situation-report)
 - 2026-06-04 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-06-04-10-00-situation-report)
@@ -61,7 +62,6 @@ Situation Report including information about Heavy Rain, Wind, Tree Falling, Lig
 - 2026-05-21 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-05-21-10-00-situation-report)
 - 2026-05-20 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-05-20-10-00-situation-report)
 - 2026-05-19 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-05-19-10-00-situation-report)
-- 2026-05-18 | `10-00-situation-report` | Situation Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_situation_reports/data/lk_dmc_situation_reports/2020s/2026/2026-05-18-10-00-situation-report)
 
 ---
 
