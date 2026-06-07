@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_11:45:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_13:32:03-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**5,119** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**6.4 GB**), from **2023-03-26** to **2026-06-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**5,120** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**6.4 GB**), from **2023-03-26** to **2026-06-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-06-07-06-30-advisory-for-stro-6c6fe8b5",
-    "num": "06-30-advisory-for-strong-winds-and-rough-seas",
+    "doc_id": "2026-06-07-08-00-weather-advisory",
+    "num": "08-00-weather-advisory",
     "date_str": "2026-06-07",
-    "description": "Advisory for Strong Winds and Rough Seas",
+    "description": "Weather Advisory",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/\u0dad\u0daf_\u0dc3\u0dd4\u0dc5\u0d82_merged(1)__1780796697.pdf",
-    "time_str": "06:30",
-    "ut": 1780794000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Strong_Winds_and_Rough_Seas_-_Tamil__1780812644.pdf",
+    "time_str": "08:00",
+    "ut": 1780799400.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-07 | `08-00-weather-advisory` | Weather Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-07-08-00-weather-advisory)
 - 2026-06-07 | `06-30-advisory-for-strong-winds-and-rough-seas` | Advisory for Strong Winds and Rough Seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-07-06-30-advisory-for-stro-6c6fe8b5)
 - 2026-06-07 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-07-05-30-weather-forcast)
 - 2026-06-06 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-06-16-00-weather-forecast)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-06-05 | `10-30-advisory-for-strong-winds-and-rough-seas` | Advisory for Strong Winds and Rough Seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-05-10-30-advisory-for-stro-349c2b88)
 - 2026-06-05 | `05-30-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-05-05-30-weather-forecast--16b07aaa)
 - 2026-06-05 | `05-30-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-05-05-30-weather-forcast)
-- 2026-06-04 | `16-00-weather-forcast` | Weather Forcast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-04-16-00-weather-forcast)
 
 ---
 
