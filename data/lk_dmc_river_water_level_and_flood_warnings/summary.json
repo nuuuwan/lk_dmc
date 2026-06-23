@@ -2,7 +2,7 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2026-06-23 13:19:14",
+  "time_updated": "2026-06-23 15:18:18",
   "n_docs": 619,
   "n_docs_with_pdfs": 619,
   "n_docs_with_text": 619,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2026-06-23",
-  "dataset_size": 229303117,
+  "dataset_size": 229409509,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
