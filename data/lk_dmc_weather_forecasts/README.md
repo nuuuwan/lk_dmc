@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--24_04:37:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--24_07:03:25-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**5,235** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**6.5 GB**), from **2023-03-26** to **2026-06-23**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**5,236** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**6.5 GB**), from **2023-03-26** to **2026-06-24**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-06-23-16-00-weather-forecast",
-    "num": "16-00-weather-forecast",
-    "date_str": "2026-06-23",
+    "doc_id": "2026-06-24-05-30-weather-forecast",
+    "num": "05-30-weather-forecast",
+    "date_str": "2026-06-24",
     "description": "Weather Forecast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs__1782210841.pdf",
-    "time_str": "16:00",
-    "ut": 1782210600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1782259583.pdf",
+    "time_str": "05:30",
+    "ut": 1782259200.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-06-24 | `05-30-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-24-05-30-weather-forecast)
 - 2026-06-23 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-23-16-00-weather-forecast)
 - 2026-06-23 | `15-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-23-15-00-weather-forecast--25b7ee17)
 - 2026-06-23 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-23-14-00-weather-forecast)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-06-21 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-21-14-00-weather-forecast)
 - 2026-06-21 | `07-00-weather-forecast-for-multiday-boats` | Weather forecast for Multiday Boats | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-21-07-00-weather-forecast--317e3126)
 - 2026-06-21 | `05-30-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-21-05-30-weather-forecast--16b07aaa)
-- 2026-06-21 | `05-30-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-06-21-05-30-weather-forecast)
 
 ---
 
