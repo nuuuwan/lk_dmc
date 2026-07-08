@@ -64186,5 +64186,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_08__1783478169.pdf",
     "time_str": "07:00",
     "ut": 1783474200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-08-11-00-advisory-for-strong-winds",
+    "num": "11-00-advisory-for-strong-winds",
+    "date_str": "2026-07-08",
+    "description": "Advisory for Strong winds",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_wind_at_1100hrs_on_2026__1783490572.pdf",
+    "time_str": "11:00",
+    "ut": 1783488600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-08-11-00-weather-advisory--a60f61d4",
+    "num": "11-00-weather-advisory-for-strong-winds-and-rough-seas",
+    "date_str": "2026-07-08",
+    "description": "Weather Advisory for Strong winds and Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_11__1783489365.pdf",
+    "time_str": "11:00",
+    "ut": 1783488600.0
   }
 ]
