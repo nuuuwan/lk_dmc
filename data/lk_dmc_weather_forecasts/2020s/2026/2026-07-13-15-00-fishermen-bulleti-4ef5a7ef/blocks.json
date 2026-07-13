@@ -1,0 +1,138 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      30.24,
+      777.19,
+      539.12,
+      787.15
+    ],
+    "text": "State of Sea: Calm (0-5) kmph, Smooth (5-15) kmph, Slight (16-28) kmph, Moderate (29-37) kmph. km, Fairly rough (38-46)",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.82,
+      791.35,
+      498.55,
+      801.31
+    ],
+    "text": "kmph, Rough (47-55) kmph, Very rough (56-74) kmph, High (75-102) kmph, Very high (over 103) kmph.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.0,
+      117.41,
+      399.74,
+      163.34
+    ],
+    "text": "Fishermen bulletin for strong winds and rough seas Issued by Marine Forecasting Division, National Meteorological Centre Issued at 03.00 p.m. on 13 July 2026",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      177.86,
+      170.99,
+      405.84,
+      197.09
+    ],
+    "text": "For the Bay of Bengal and Arabian Sea",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      198.05,
+      199.7,
+      343.46,
+      218.66
+    ],
+    "text": "Forecast for next three days.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      114.14,
+      608.95,
+      502.86,
+      633.31
+    ],
+    "text": "Wind speed will be (40-50) kmph gusting up to 60 kmph. These sea areas will be rough at times.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      114.14,
+      651.58,
+      252.87,
+      662.62
+    ],
+    "text": "No Warnings for this category.",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      114.14,
+      684.71,
+      252.86,
+      696.34
+    ],
+    "text": "No Warnings for this category.",
+    "fonts": [
+      "Calibri",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  }
+]
