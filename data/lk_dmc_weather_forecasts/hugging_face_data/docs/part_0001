@@ -65410,5 +65410,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_at_11__1784357118.pdf",
     "time_str": "12:00",
     "ut": 1784356200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-18-14-00-weather-report",
+    "num": "14-00-weather-report",
+    "date_str": "2026-07-18",
+    "description": "Weather Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1784363839.pdf",
+    "time_str": "14:00",
+    "ut": 1784363400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-18-14-00-weather-report-ta-84409ebf",
+    "num": "14-00-weather-report-tamil-language",
+    "date_str": "2026-07-18",
+    "description": "Weather Report Tamil Language",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1784365006.pdf",
+    "time_str": "14:00",
+    "ut": 1784363400.0
   }
 ]
