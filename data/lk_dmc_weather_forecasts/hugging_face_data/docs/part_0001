@@ -65998,5 +65998,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_at_0530hrs__1784851901.pdf",
     "time_str": "05:30",
     "ut": 1784851200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-24-05-30-weather-forecast--16b07aaa",
+    "num": "05-30-weather-forecast-tamil-language",
+    "date_str": "2026-07-24",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_24__1784860121.pdf",
+    "time_str": "05:30",
+    "ut": 1784851200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-24-07-00-weather-forecast",
+    "num": "07-00-weather-forecast",
+    "date_str": "2026-07-24",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Forecast_for_Multiday_Boats___1784857350.pdf",
+    "time_str": "07:00",
+    "ut": 1784856600.0
   }
 ]
