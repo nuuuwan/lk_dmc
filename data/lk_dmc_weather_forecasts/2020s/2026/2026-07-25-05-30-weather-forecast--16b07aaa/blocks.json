@@ -1,0 +1,723 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      96.86,
+      745.99,
+      500.61,
+      754.99
+    ],
+    "text": "Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, moderate: 25-50, Fairly Heavy rain: 50 -100,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.81,
+      758.71,
+      396.08,
+      767.71
+    ],
+    "text": "Heavy rain: 100 \u2013 150, Very heavy rain: 150 or more.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.960000038146973,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.14,
+      769.93,
+      496.27,
+      782.89
+    ],
+    "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0db4\u0dad\u0db1\u0dba(\u0db8\u0dd2.\u0db8\u0dd3) : \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2: 00-12.5, \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc4 \u0ddd \u0db8\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 12.5-25, \u0db8\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 25-50, \u0dad\u0dbb\u0db8\u0d9a\u0dca \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 50 -100,",
+    "fonts": [
+      "Calibri",
+      "Iskoola Pota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.38,
+      784.44,
+      512.95,
+      808.15
+    ],
+    "text": "\u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2:100 \u2013 150, \u0d89\u0dad\u0dcf \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 150 \u0dc4 \u0ddd \u0d8a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0bae\u0bb4\u0bc8\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b85\u0bb3\u0bb5\u0bc1 (\u0bae\u0bbf.\u0bae\u0bc0): \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bc1: 00-12.5, \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bbf\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0bb5\u0bb4\u0bc8: 12.5-25, \u0bae\u0bbf\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bc1: 25-50,",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Calibri",
+      "Iskoola Pota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.26,
+      810.2,
+      489.07,
+      822.07
+    ],
+    "text": "\u0b93\u0bc8\u0bb3\u0bb5\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8: 50 -100, \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8: 100 \u2013 150, \u0bae\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8: 150 \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9\u0ba4\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.3,
+      179.91,
+      458.36,
+      195.26
+    ],
+    "text": "2026 \u0b9c\u0bc2\u0bb2\u0bc8 25\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb4\u0bb2 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      114.02,
+      203.74,
+      475.37,
+      217.86
+    ],
+    "text": "2026 \u0b9c\u0bc2\u0bb2\u0bc8 25\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8 05.30 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb5\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      235.42,
+      526.51,
+      264.3
+    ],
+    "text": "\u0bae\u0bae\u0bb2\u0bcd, \u0b9a\u0baa\u0bcd\u0bc8\u0b95\u0bae\u0bc1\u0bb5 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0b9f\u0bae\u0bae\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb4\u0bb1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bb4\u0bc8 \u0bb5\u0baa\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      276.97,
+      526.33,
+      305.85
+    ],
+    "text": "\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b8f\u0bb4\u0ba9\u0baf \u0baa\u0bbf\u0bc8\u0bae\u0ba4\u0b9a\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bc8\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0bb5\u0bc8\u0b9f\u0bcd\u0b9a\u0bbf\u0baf\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb4\u0bb2 \u0ba8\u0bbf\u0bb2\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      318.49,
+      526.51,
+      332.61
+    ],
+    "text": "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0b9f\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0bae\u0ba4\u0bbe\u0b9f\u0bcd\u0bb4\u0b9f, \u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0b95\u0bbe\u0ba3\u0bae\u0bb4\u0bb2 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      335.41,
+      526.51,
+      349.53
+    ],
+    "text": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb3\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bcd\u0bb5\u0baa\u0bcd\u0bae\u0baa\u0bbe\u0ba4\u0bc1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 30-40 \u0b95\u0bbf\u0bae\u0bb2\u0bbe \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      352.33,
+      497.21,
+      366.45
+    ],
+    "text": "\u0bb5\u0bb4\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0bb5\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b93\u0bc8\u0bb3\u0bb5\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 \u0bb5\u0bc0\u0b9a\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      114.63,
+      363.29,
+      129.98
+    ],
+    "text": "\u0b87\u0bb2\u0b99\u0bcd\u0bb4\u0b95\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0baa\u0bbe\u0ba4\u0bc1\u0bb5\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb4\u0bb2 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      135.34,
+      492.11,
+      149.46
+    ],
+    "text": "\u0bae\u0ba4\u0b9a\u0bbf\u0baf \u0bb5\u0bb3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb4\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bbe\u0bbf\u0bb5\u0bbe\u0bb2\u0bcd \u0bb5\u0bb5\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.86,
+      745.99,
+      500.61,
+      754.99
+    ],
+    "text": "Rainfall amount (mm): Light: 00-12.5, Light to moderate: 12.5-25, moderate: 25-50, Fairly Heavy rain: 50 -100,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.81,
+      758.71,
+      396.08,
+      767.71
+    ],
+    "text": "Heavy rain: 100 \u2013 150, Very heavy rain: 150 or more.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.960000038146973,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.14,
+      769.93,
+      496.27,
+      782.89
+    ],
+    "text": "\u0dc0\u0dbb\u0dca\u0dc2\u0dcf\u0db4\u0dad\u0db1\u0dba(\u0db8\u0dd2.\u0db8\u0dd3) : \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc0\u0dd0\u0dc3\u0dd2: 00-12.5, \u0dc3\u0dd2\u0dc4\u0dd2\u0db1\u0dca \u0dc4 \u0ddd \u0db8\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 12.5-25, \u0db8\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 25-50, \u0dad\u0dbb\u0db8\u0d9a\u0dca \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 50 -100,",
+    "fonts": [
+      "Calibri",
+      "Iskoola Pota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.38,
+      784.44,
+      512.95,
+      808.15
+    ],
+    "text": "\u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2:100 \u2013 150, \u0d89\u0dad\u0dcf \u0dad\u0daf \u0dc0\u0dd0\u0dc3\u0dd2: 150 \u0dc4 \u0ddd \u0d8a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0bae\u0bb4\u0bc8\u0bb5\u0bc0\u0bb4\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0b85\u0bb3\u0bb5\u0bc1 (\u0bae\u0bbf.\u0bae\u0bc0): \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bc1: 00-12.5, \u0b9a\u0bbf\u0bb1\u0bbf\u0ba4\u0bb3\u0bb5\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bbf\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0bb5\u0bb4\u0bc8: 12.5-25, \u0bae\u0bbf\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bc1: 25-50,",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Calibri",
+      "Iskoola Pota",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.26,
+      810.2,
+      489.07,
+      822.07
+    ],
+    "text": "\u0b93\u0bc8\u0bb3\u0bb5\u0bc1 \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8: 50 -100, \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8: 100 \u2013 150, \u0bae\u0bbf\u0b95\u0baa\u0bcd \u0baa\u0bb2\u0ba4\u0bcd\u0ba4 \u0bae\u0bb4\u0bc8: 150 \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9\u0ba4\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.26,
+      172.71,
+      499.52,
+      188.06
+    ],
+    "text": "\u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 24 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9, \u0ba8\u0bbe\u0b9f\u0bcd\u0bb4\u0b9f\u0b9a\u0bcd \u0b9a\u0bc2\u0bc8\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0b9f\u0bb1\u0bcd \u0baa\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb1\u0bcd\u0b95\u0bbe\u0ba9",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232.01,
+      191.19,
+      366.77,
+      206.54
+    ],
+    "text": "\u0bb5\u0bbe\u0ba9\u0bbf\u0bb4\u0bb2 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114.02,
+      211.9,
+      475.37,
+      226.02
+    ],
+    "text": "2026 \u0b9c\u0bc2\u0bb2\u0bc8 25\u0b86\u0bae\u0bcd \u0ba4\u0bbf\u0b95\u0ba4\u0bbf \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bb2\u0bc8 05.30 \u0bae\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0bb5\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      234.63,
+      165.24,
+      249.98
+    ],
+    "text": "\u0bae\u0bb4\u0bc8 \u0ba8\u0bbf\u0bb4\u0bb2\u0bb4\u0bae:",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      256.83,
+      506.24,
+      287.01
+    ],
+    "text": "\u0ba8\u0bbe\u0b9f\u0bcd\u0bb4\u0b9f\u0b9a\u0bcd \u0b9a\u0bc2\u0bc8\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0baa\u0bbf\u0bc8\u0ba4\u0bbe\u0ba9\u0bae\u0bbe\u0b95 \u0b9a\u0bc0\u0bc8\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb4\u0bb2 \u0ba8\u0bbf\u0bb2\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      290.58,
+      119.64,
+      305.93
+    ],
+    "text": "\u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bc1 :",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      312.61,
+      506.33,
+      326.73
+    ],
+    "text": "\u0ba8\u0bbe\u0b9f\u0bcd\u0bb4\u0b9f\u0b9a\u0bcd \u0b9a\u0bc2\u0bc8\u0bb5\u0bc1\u0bb3\u0bcd\u0bb3 \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbe\u0ba9\u0ba4\u0bc1 \u0bb5\u0ba4\u0ba9\u0bcd\u0bae\u0bae\u0bb1\u0bcd\u0b95\u0bc1\u0ba4\u0bcd \u0ba4\u0bbf\u0bb4\u0b9a\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0bc0\u0b9a\u0b95\u0bcd",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      331.93,
+      506.24,
+      346.05
+    ],
+    "text": "\u0b95\u0bc2\u0b9f\u0bc1\u0bae\u0bcd. \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bae\u0bb5\u0b95\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 30-40 \u0b95\u0bbf\u0bae\u0bb2\u0bbe \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0bb5\u0bb4\u0bc8",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      351.61,
+      290.06,
+      365.73
+    ],
+    "text": "\u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      368.53,
+      506.25,
+      382.65
+    ],
+    "text": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0b8a\u0b9f\u0bbe\u0b95 \u0b95\u0bbe\u0b99\u0bcd\u0bae\u0b95\u0b9a\u0ba8\u0bcd\u0ba4\u0bc1\u0bb4\u0bb1 \u0bb5\u0bb4\u0bc8\u0baf\u0bbe\u0ba9 \u0b95\u0bb4\u0bc8\u0bae\u0baf\u0bbe\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      385.57,
+      506.33,
+      399.69
+    ],
+    "text": "\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0bae\u0ba4\u0bbe\u0b9f\u0bcd\u0bb4\u0b9f\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bb4\u0bc8\u0baf\u0bbe\u0ba9",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      402.49,
+      506.33,
+      416.61
+    ],
+    "text": "\u0b95\u0bb4\u0bc8\u0bae\u0baf\u0bbe\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bc1\u0bae\u0bcd \u0b95\u0bbe\u0bb1\u0bcd\u0bb1\u0bbf\u0ba9\u0bcd \u0bae\u0bb5\u0b95\u0bae\u0bbe\u0ba9\u0ba4\u0bc1 \u0b85\u0bb5\u0bcd\u0bb5\u0baa\u0bcd\u0bae\u0baa\u0bbe\u0ba4\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      421.69,
+      506.33,
+      435.81
+    ],
+    "text": "\u0bae\u0ba3\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0bb2\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 50 \u0b95\u0bbf\u0bae\u0bb2\u0bbe \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0bb5\u0bb4\u0bc8 \u0b85\u0ba4\u0bbf\u0b95\u0bbe\u0bbf\u0b95\u0bcd\u0b95\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      441.49,
+      168.57,
+      455.61
+    ],
+    "text": "\u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      461.36,
+      143.52,
+      476.71
+    ],
+    "text": "\u0b95\u0b9f\u0bb2\u0bcd \u0ba8\u0bbf\u0bb4\u0bb2:",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      483.51,
+      506.25,
+      497.63
+    ],
+    "text": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb3\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0b8a\u0b9f\u0bbe\u0b95 \u0b95\u0bbe\u0b99\u0bcd\u0bae\u0b95\u0b9a\u0ba8\u0bcd\u0ba4\u0bc1\u0bb4\u0bb1 \u0bb5\u0bb4\u0bc8\u0baf\u0bbe\u0ba9 \u0b95\u0bb4\u0bc8\u0bae\u0baf\u0bbe\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      500.43,
+      506.33,
+      514.55
+    ],
+    "text": "\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0bae\u0ba4\u0bbe\u0b9f\u0bcd\u0bb4\u0b9f\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb5\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bb4\u0bc8\u0baf\u0bbe\u0ba9",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      517.35,
+      506.32,
+      531.47
+    ],
+    "text": "\u0b95\u0bb4\u0bc8\u0bae\u0baf\u0bbe\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b85\u0bb5\u0bcd\u0bb5\u0baa\u0bcd\u0bae\u0baa\u0bbe\u0ba4\u0bc1 \u0b93\u0bc8\u0bb3\u0bb5\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      534.27,
+      373.34,
+      548.39
+    ],
+    "text": "\u0bb5\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u0b8e\u0ba9 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0baa\u0bcd \u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      551.31,
+      506.28,
+      565.43
+    ],
+    "text": "\u0b95\u0bbe\u0bb2\u0bbf\u0baf\u0bbf\u0bb2\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0bae\u0ba4\u0bbe\u0b9f\u0bcd\u0bb4\u0b9f \u0b8a\u0b9f\u0bbe\u0b95 \u0bb5\u0baa\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0bb2\u0bcd \u0bb5\u0bb4\u0bc8\u0baf\u0bbe\u0ba9 \u0b95\u0bb4\u0bc8\u0bae\u0baf\u0bbe\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      570.51,
+      506.33,
+      584.63
+    ],
+    "text": "\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb1\u0bcd\u0baa\u0b9f\u0bcd\u0b9f \u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bbf\u0bb2\u0bcd \u0b95\u0b9f\u0bb2\u0bcd \u0b85\u0bb4\u0bb2\u0b95\u0bb3\u0bcd 2.0 \u2013 2.5 \u0bae\u0bc0\u0bb1\u0bcd\u0bb1\u0bb0\u0bcd \u0b89\u0baf\u0bc8\u0bae\u0bcd \u0bb5\u0bb4\u0bc8",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      590.31,
+      324.86,
+      604.43
+    ],
+    "text": "\u0bae\u0bae\u0bb5\u0bb2\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0b95\u0bcd \u0b95\u0bc2\u0b9f\u0bbf\u0baf \u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd \u0b95\u0bbe\u0ba3\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0ba9\u0bcd\u0bb1\u0ba4\u0bc1.",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      116.55,
+      339.29,
+      131.9
+    ],
+    "text": "\u0b87\u0bb2\u0b99\u0bcd\u0bb4\u0b95\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0bb5\u0baa\u0bbe\u0ba4\u0bc1\u0bb5\u0bbe\u0ba9 \u0bb5\u0bbe\u0ba9\u0bbf\u0bb4\u0bb2 \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      134.5,
+      487.55,
+      148.62
+    ],
+    "text": "\u0bae\u0ba4\u0b9a\u0bbf\u0baf \u0bb5\u0bb3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb4\u0bb2\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bb1\u0bbf\u0bb5\u0bbf\u0baa\u0bcd\u0baa\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bbe\u0bbf\u0bb5\u0bbe\u0bb2\u0bcd \u0bb5\u0bb5\u0bb3\u0bbf\u0baf\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1",
+    "fonts": [
+      "ArialUnicodeMS",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027
+    ]
+  }
+]
