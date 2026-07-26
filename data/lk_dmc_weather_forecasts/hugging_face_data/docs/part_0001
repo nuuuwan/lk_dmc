@@ -66169,6 +66169,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-26-11-00-advisory-for-stro-898fbb87",
+    "num": "11-00-advisory-for-strong-winds-tamil-language",
+    "date_str": "2026-07-26",
+    "description": "Advisory for strong winds (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_at_11__1785057138.pdf",
+    "time_str": "11:00",
+    "ut": 1785043800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-07-26-11-00-advisory-for-strong-winds",
     "num": "11-00-advisory-for-strong-winds",
     "date_str": "2026-07-26",
@@ -66178,5 +66190,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_winds_at_11__1785045389.pdf",
     "time_str": "11:00",
     "ut": 1785043800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-26-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2026-07-26",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_26__1785055435.pdf",
+    "time_str": "14:00",
+    "ut": 1785054600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-07-26-14-00-weather-forecast--eb2ff5a1",
+    "num": "14-00-weather-forecast-tamil-language",
+    "date_str": "2026-07-26",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_26__1785057012.pdf",
+    "time_str": "14:00",
+    "ut": 1785054600.0
   }
 ]
