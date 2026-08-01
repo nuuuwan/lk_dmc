@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2026-08-01 09:16:15",
-  "n_docs": 650,
-  "n_docs_with_pdfs": 650,
-  "n_docs_with_text": 650,
+  "time_updated": "2026-08-01 11:10:13",
+  "n_docs": 651,
+  "n_docs_with_pdfs": 651,
+  "n_docs_with_text": 651,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2026-08-01",
-  "dataset_size": 240478489,
+  "dataset_size": 241287513,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2026-08-01-07-30-flood-warning-for-5060dfc8",
-    "num": "07-30-flood-warning-for-kelani-basin--no-01",
+    "doc_id": "2026-08-01-09-30-water-level--rainfall",
+    "num": "09-30-water-level--rainfall",
     "date_str": "2026-08-01",
-    "description": "Flood warning for Kelani Basin - No 01",
+    "description": "Water level & Rainfall",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Kelani_Basin_-_No_01_-_2026__1785550855.pdf",
-    "time_str": "07:30",
-    "ut": 1785549600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1785558031.pdf",
+    "time_str": "09:30",
+    "ut": 1785556800.0
   }
 }
