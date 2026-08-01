@@ -66877,6 +66877,30 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-01-05-30-weather-forecast--16b07aaa",
+    "num": "05-30-weather-forecast-tamil-language",
+    "date_str": "2026-08-01",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_01__1785556152.pdf",
+    "time_str": "05:30",
+    "ut": 1785542400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-01-06-00-advisory-for-heav-f5de1a3c",
+    "num": "06-00-advisory-for-heavy-rain-tamil-language",
+    "date_str": "2026-08-01",
+    "description": "Advisory for Heavy Rain (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_06__1785556211.pdf",
+    "time_str": "06:00",
+    "ut": 1785544200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-08-01-06-30-weather-advisory",
     "num": "06-30-weather-advisory",
     "date_str": "2026-08-01",
