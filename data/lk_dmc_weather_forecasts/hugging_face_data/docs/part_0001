@@ -67189,6 +67189,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-03-11-30-advisory-for-heav-e3d73ade",
+    "num": "11-30-advisory-for-heavy-rain-tamil-language",
+    "date_str": "2026-08-03",
+    "description": "Advisory for Heavy Rain (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1130hrs_on_03__1785743309.pdf",
+    "time_str": "11:30",
+    "ut": 1785736800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-08-03-11-30-advisory-for-heavy-rain",
     "num": "11-30-advisory-for-heavy-rain",
     "date_str": "2026-08-03",
@@ -67210,5 +67222,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_High_wind___1785739150.pdf",
     "time_str": "11:30",
     "ut": 1785736800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-03-14-00-flood-warning-for-9c31dcb7",
+    "num": "14-00-flood-warning-for-kalu-river-basin--no-01-amber",
+    "date_str": "2026-08-03",
+    "description": "Flood warning for Kalu River Basin - No 01 (Amber)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Kalu_River_Basin_-_No_01_-_2026__1785747285.pdf",
+    "time_str": "14:00",
+    "ut": 1785745800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-03-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2026-08-03",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1785747581.pdf",
+    "time_str": "14:00",
+    "ut": 1785745800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-03-14-00-weather-forecast--eb2ff5a1",
+    "num": "14-00-weather-forecast-tamil-language",
+    "date_str": "2026-08-03",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_03__1785748601.pdf",
+    "time_str": "14:00",
+    "ut": 1785745800.0
   }
 ]
