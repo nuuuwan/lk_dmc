@@ -1,12 +1,12 @@
 # 💧#SriLanka 🇱🇰 Dmc River Water Level And Flood Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--03_15:18:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--03_17:13:32-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
 River Water Level and Flood Warnings for various places in Sri Lanka.
 
-- [**669** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**247.9 MB**), from **2025-06-10** to **2026-08-03**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**671** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**249.4 MB**), from **2025-06-10** to **2026-08-03**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2026-08-03-15-00-flood-warning-for-4fb035a7",
-    "num": "15-00-flood-warning-for-kelani-river--no-03",
+    "doc_id": "2026-08-03-15-30-water-level",
+    "num": "15-30-water-level",
     "date_str": "2026-08-03",
-    "description": "Flood Warning for Kelani River - No 03",
+    "description": "Water Level",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Kelani_River_-_No_03_-_2026__1785750039.pdf",
-    "time_str": "15:00",
-    "ut": 1785749400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1785752093.pdf",
+    "time_str": "15:30",
+    "ut": 1785751200.0
 }
 ```
 
@@ -42,6 +42,8 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-08-03 | `15-30-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-03-15-30-water-level)
+- 2026-08-03 | `15-30-flood-warning-kelani-river--no-04` | Flood warning Kelani River - No 04 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-03-15-30-flood-warning-kel-7f27d998)
 - 2026-08-03 | `15-00-flood-warning-for-kelani-river--no-03` | Flood Warning for Kelani River - No 03 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-03-15-00-flood-warning-for-4fb035a7)
 - 2026-08-03 | `13-00-flood-warning-for-mahaweli-river--no-01-red` | Flood Warning for Mahaweli River - No 01 (Red) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-03-13-00-flood-warning-for-9d9e737e)
 - 2026-08-03 | `12-30-water-level--rainfall` | Water level & Rainfall | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-03-12-30-water-level--rainfall)
@@ -60,8 +62,6 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 - 2026-08-01 | `18-30-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-01-18-30-water-level)
 - 2026-08-01 | `15-30-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-01-15-30-water-level)
 - 2026-08-01 | `12-00-water-level--rainfall` | Water level & Rainfall | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-01-12-00-water-level--rainfall)
-- 2026-08-01 | `09-30-water-level--rainfall` | Water level & Rainfall | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-01-09-30-water-level--rainfall)
-- 2026-08-01 | `07-30-flood-warning-for-kelani-basin--no-01` | Flood warning for Kelani Basin - No 01 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-08-01-07-30-flood-warning-for-5060dfc8)
 
 ---
 
