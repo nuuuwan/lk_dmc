@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2026-08-03 13:14:15",
-  "n_docs": 666,
-  "n_docs_with_pdfs": 666,
-  "n_docs_with_text": 666,
+  "time_updated": "2026-08-03 15:18:19",
+  "n_docs": 669,
+  "n_docs_with_pdfs": 669,
+  "n_docs_with_text": 669,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2026-08-03",
-  "dataset_size": 246682590,
+  "dataset_size": 247892613,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2026-08-03-12-30-flood-warning--ma-7d3ffcb8",
-    "num": "12-30-flood-warning--mahaweli-river",
+    "doc_id": "2026-08-03-15-00-flood-warning-for-4fb035a7",
+    "num": "15-00-flood-warning-for-kelani-river--no-03",
     "date_str": "2026-08-03",
-    "description": "Flood Warning - Mahaweli River",
+    "description": "Flood Warning for Kelani River - No 03",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Mahaweli_River_-_No_01_-_2026__1785700550.pdf",
-    "time_str": "12:30",
-    "ut": 1785740400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Kelani_River_-_No_03_-_2026__1785750039.pdf",
+    "time_str": "15:00",
+    "ut": 1785749400.0
   }
 }
