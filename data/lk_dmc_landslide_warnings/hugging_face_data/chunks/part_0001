@@ -24856,5 +24856,41 @@
     "md5": "1e09a43fd4d60cc1d748a3c3222ab17f",
     "chunk_size_bytes": 543,
     "chunk_text": "Note: \u2191shifted one level up, \u2191\u2191shifted two levels up, \u2193shifted one level down, \u2193\u2193shifted two levels down. *Newly added with the last update Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas and given weather forecast by meteorological department of Sri Lanka\n\nPrevious Message ID: -\n\nIssued by: Approved by:\n\nDuty Officer Director - LRRMD\n\n02-08-2026, 23:00 hrs\n\nDate and time issued\n\nLandslide Research and Risk Management Division\n\nNational Building Research Organisation"
+  },
+  {
+    "doc_type": "lk_dmc_landslide_warnings",
+    "doc_id": "2026-08-03-09-00-landslide-ew-report",
+    "num": "09-00-landslide-ew-report",
+    "date_str": "2026-08-03",
+    "description": "Landslide Ew Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_09__1785729374.pdf",
+    "time_str": "09:00",
+    "ut": 1785727800.0,
+    "chunk_id": "2026-08-03-09-00-landslide-ew-report-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "3cb7a9fad2ac093fb72a54a2bba1b866",
+    "chunk_size_bytes": 1717,
+    "chunk_text": "==== BLOCKS ====\n\n\u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0db4\u0dd9\u0dbb \u0d85\u0db1\u0dad\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0db8 First warning issued date: 02-08-2026 kz;rhpT Kd;ndr;rhpf;if Landslide Early Warning Message ID: LEWM-03-08-2026-0900-01 Update: 1 st update Validity Period: From 09:00 hrs on 03.08.2026 To 09:00 hrs on 04.08.2026\n\nLocations for Potential Risk \u0db1\u0dcf\u0dba\u0dba\u0dd1\u0db8\u0dda \u0d85\u0dc0\u0daf\u0dcf\u0db1\u0db8 \u0db4\u0dd0\u0dc0\u0dad\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dda\u0dc1 fdjpahd mghaKs;s ,lq;fs;\n\nDistrict Level 1 (Yellow) Level 2 (Amber) Level 3 (Red)\n\nKandy\n\nPanvila and Medadumbara Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nUdudumbara and Udapalatha Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\n\u2191 Pasbage Korale and \u2191 Ganga Ihala Korale Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nKegalle\n\nDehiowita and Deraniyagala Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nYatiyanthota and \u2191 Aranayaka Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nNuwara Eliya\n\n\u2191 Nuwara Eliya, Norwood, Ambagamuwa, \u2191 Kothmale West and \u2191 Kotmale East Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nRatnapura\n\nNivithigala and Kuruwita Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\n\u2191 Openayake, \u2191 Imbulpe and \u2191 Ratnapura Divisional Secretariat Division(s) (DSD) and surrounding areas.\n\nNote: \u2191shifted one level up, \u2191\u2191shifted two levels up, \u2193shifted one level down, \u2193\u2193shifted two levels down. *Newly added with the last update Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas and given weather forecast by meteorological department of Sri Lanka"
+  },
+  {
+    "doc_type": "lk_dmc_landslide_warnings",
+    "doc_id": "2026-08-03-09-00-landslide-ew-report",
+    "num": "09-00-landslide-ew-report",
+    "date_str": "2026-08-03",
+    "description": "Landslide Ew Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_09__1785729374.pdf",
+    "time_str": "09:00",
+    "ut": 1785727800.0,
+    "chunk_id": "2026-08-03-09-00-landslide-ew-report-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "28802cf8d7b6fceae0ae6e3dd90f201f",
+    "chunk_size_bytes": 565,
+    "chunk_text": "Note: \u2191shifted one level up, \u2191\u2191shifted two levels up, \u2193shifted one level down, \u2193\u2193shifted two levels down. *Newly added with the last update Special Note: These warning levels are issued based on the cumulative rainfall received to respective areas and given weather forecast by meteorological department of Sri Lanka\n\nPrevious Message ID: LEWM-02-08-2026-2300-00\n\nIssued by: Approved by:\n\nDuty Officer Director - LRRMD\n\n03-08-2026, 09:00 hrs\n\nDate and time issued\n\nLandslide Research and Risk Management Division\n\nNational Building Research Organisation"
   }
 ]
