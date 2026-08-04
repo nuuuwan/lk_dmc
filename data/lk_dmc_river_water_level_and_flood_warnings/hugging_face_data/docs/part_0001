@@ -8017,6 +8017,18 @@
   },
   {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-08-03-14-10-flood-warning-for-b3d80087",
+    "num": "14-10-flood-warning-for-kalu-river-basin--no-01",
+    "date_str": "2026-08-03",
+    "description": "Flood warning for Kalu River Basin - No 01",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Kalu_River_Basin_-_No_01_-_2026__1785812316.pdf",
+    "time_str": "14:10",
+    "ut": 1785746400.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
     "doc_id": "2026-08-03-15-00-flood-warning-for-4fb035a7",
     "num": "15-00-flood-warning-for-kelani-river--no-03",
     "date_str": "2026-08-03",
@@ -8098,5 +8110,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1785794672.pdf",
     "time_str": "03:30",
     "ut": 1785794400.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-08-04-06-30-water-level",
+    "num": "06-30-water-level",
+    "date_str": "2026-08-04",
+    "description": "Water Level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1785806634.pdf",
+    "time_str": "06:30",
+    "ut": 1785805200.0
   }
 ]
