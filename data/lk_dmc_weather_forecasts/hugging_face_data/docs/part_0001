@@ -68026,5 +68026,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1786358253.pdf",
     "time_str": "16:00",
     "ut": 1786357800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-10-18-30-11-12--13",
+    "num": "18-30-11-12--13",
+    "date_str": "2026-08-10",
+    "description": "\u0d85.\u0db4\u0ddc.\u0dc3.(\u0d8b.\u0db4\u0dd9) \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba, \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dc3 11, 12 \u0dc3\u0dc4 13 \u0daf\u0dd2\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/\u0d85__1786369828.pdf",
+    "time_str": "18:30",
+    "ut": 1786366800.0
   }
 ]
