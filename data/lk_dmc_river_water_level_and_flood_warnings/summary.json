@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2026-08-13 00:20:11",
-  "n_docs": 733,
-  "n_docs_with_pdfs": 733,
-  "n_docs_with_text": 733,
+  "time_updated": "2026-08-13 02:18:49",
+  "n_docs": 734,
+  "n_docs_with_pdfs": 734,
+  "n_docs_with_text": 734,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
-  "date_str_max": "2026-08-12",
-  "dataset_size": 272307177,
+  "date_str_max": "2026-08-13",
+  "dataset_size": 272536215,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2026-08-12-12-00-withdrawal-of-flo-8e72b75a",
-    "num": "12-00-withdrawal-of-flood-warning-mahaweli-gaga",
-    "date_str": "2026-08-12",
-    "description": "Withdrawal of Flood warning Mahaweli Gaga",
+    "doc_id": "2026-08-13-00-30-river-water-level",
+    "num": "00-30-river-water-level",
+    "date_str": "2026-08-13",
+    "description": "River Water Level",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Withdrawal_of_Flood_warning_Mahaweli_Gaga_at_1200_noon_on_2026__1786518637.pdf",
-    "time_str": "12:00",
-    "ut": 1786516200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1786563812.pdf",
+    "time_str": "00:30",
+    "ut": 1786561200.0
   }
 }
