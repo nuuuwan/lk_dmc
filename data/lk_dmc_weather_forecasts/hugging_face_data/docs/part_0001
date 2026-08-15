@@ -68437,6 +68437,30 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-15-16-00-warm-weather-advi-c7877c85",
+    "num": "16-00-warm-weather-advisory-report-tamil-language",
+    "date_str": "2026-08-15",
+    "description": "Warm Weather Advisory Report (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_15__1786793105.pdf",
+    "time_str": "16:00",
+    "ut": 1786789800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-15-16-00-warm-weather-advisory",
+    "num": "16-00-warm-weather-advisory",
+    "date_str": "2026-08-15",
+    "description": "Warm Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_15__1786790749.pdf",
+    "time_str": "16:00",
+    "ut": 1786789800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-08-15-16-00-weather-forecast",
     "num": "16-00-weather-forecast",
     "date_str": "2026-08-15",
@@ -68446,5 +68470,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1786790189.pdf",
     "time_str": "16:00",
     "ut": 1786789800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-15-16-00-weather-forecast--2c3f4dc6",
+    "num": "16-00-weather-forecast-tamil-language",
+    "date_str": "2026-08-15",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_15__1786793649.pdf",
+    "time_str": "16:00",
+    "ut": 1786789800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-15-17-22-no-tsunami-threat",
+    "num": "17-22-no-tsunami-threat",
+    "date_str": "2026-08-15",
+    "description": "No Tsunami threat",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/No_Tsunami_threat__1786795821.pdf",
+    "time_str": "17:22",
+    "ut": 1786794720.0
   }
 ]
