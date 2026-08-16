@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-08-16 18:29:24",
-  "n_docs": 5715,
-  "n_docs_with_pdfs": 5715,
-  "n_docs_with_text": 5715,
+  "time_updated": "2026-08-16 20:22:43",
+  "n_docs": 5716,
+  "n_docs_with_pdfs": 5716,
+  "n_docs_with_text": 5716,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-08-16",
-  "dataset_size": 7023424871,
+  "dataset_size": 7023981614,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-08-16-16-00-weather-forecast",
-    "num": "16-00-weather-forecast",
+    "doc_id": "2026-08-16-18-00-2026----1415--16",
+    "num": "18-00-2026----1415--16",
     "date_str": "2026-08-16",
-    "description": "Weather Forecast",
+    "description": "\u0d85.\u0db4\u0ddc.\u0dc3. (\u0d8b.\u0db4\u0dd9) \u0dc0\u0dd2\u0db7\u0dcf\u0d9c\u0dba 2026 \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d85\u0d9c\u0ddd\u0dc3\u0dca\u0dad\u0dd4 \u0db8\u0dc3 14,15 \u0dc3\u0dc4 16 \u0daf\u0dd2\u0db1 \u0dc3\u0db3\u0dc4\u0dcf \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2\u0dba",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_16__1786876741.pdf",
-    "time_str": "16:00",
-    "ut": 1786876200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/\u0d89\u0daf\u0dd2\u0dbb\u0dd2_\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dba__1786885761.pdf",
+    "time_str": "18:00",
+    "ut": 1786883400.0
   }
 }
