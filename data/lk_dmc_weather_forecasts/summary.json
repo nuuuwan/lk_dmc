@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-08-18 20:28:10",
-  "n_docs": 5732,
-  "n_docs_with_pdfs": 5732,
-  "n_docs_with_text": 5732,
+  "time_updated": "2026-08-18 22:27:25",
+  "n_docs": 5733,
+  "n_docs_with_pdfs": 5733,
+  "n_docs_with_text": 5733,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-08-18",
-  "dataset_size": 7043547352,
+  "dataset_size": 7043719109,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-08-18-17-30-advisory-for-high-waves",
-    "num": "17-30-advisory-for-high-waves",
+    "doc_id": "2026-08-18-20-45-advisory-for-high-9d4980f9",
+    "num": "20-45-advisory-for-high-waves-tamil",
     "date_str": "2026-08-18",
-    "description": "Advisory for High Waves",
+    "description": "Advisory for High Waves (Tamil)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_High_Waves_at_1730_hrs_on_2026__1787055949.pdf",
-    "time_str": "17:30",
-    "ut": 1787054400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_High_Waves_at_1730_hrs_on_2026__1787069950.pdf",
+    "time_str": "20:45",
+    "ut": 1787066100.0
   }
 }
