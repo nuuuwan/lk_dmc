@@ -69253,6 +69253,30 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-23-16-00-warm-weather-advi-73de117c",
+    "num": "16-00-warm-weather-advisory-report",
+    "date_str": "2026-08-23",
+    "description": "Warm Weather Advisory Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_2026__1787482144.pdf",
+    "time_str": "16:00",
+    "ut": 1787481000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-23-16-00-warm-weather-advi-c254c0c4",
+    "num": "16-00-warm-weather-advisory-tamil",
+    "date_str": "2026-08-23",
+    "description": "Warm Weather Advisory- Tamil",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_2026__1787483933.pdf",
+    "time_str": "16:00",
+    "ut": 1787481000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-08-23-16-00-weather-forecast",
     "num": "16-00-weather-forecast",
     "date_str": "2026-08-23",
@@ -69260,6 +69284,18 @@
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1600hrs_on_23__1787481627.pdf",
+    "time_str": "16:00",
+    "ut": 1787481000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-23-16-00-weather-forecast--2c3f4dc6",
+    "num": "16-00-weather-forecast-tamil-language",
+    "date_str": "2026-08-23",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1600hrs_on_23__1787484072.pdf",
     "time_str": "16:00",
     "ut": 1787481000.0
   }
