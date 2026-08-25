@@ -69406,5 +69406,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1600hrs_on_24__1787568066.pdf",
     "time_str": "16:00",
     "ut": 1787567400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-25-05-30-weather-forecast",
+    "num": "05-30-weather-forecast",
+    "date_str": "2026-08-25",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_0530hrs_on_25__1787618450.pdf",
+    "time_str": "05:30",
+    "ut": 1787616000.0
   }
 ]
