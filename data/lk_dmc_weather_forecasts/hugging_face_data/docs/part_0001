@@ -69562,5 +69562,53 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Sea_Areas_Around_the_island_Repot_at_0700hrs_on_2026__1787798077.pdf",
     "time_str": "08:00",
     "ut": 1787797800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-27-10-30-advisory-for-stro-349c2b88",
+    "num": "10-30-advisory-for-strong-winds-and-rough-seas",
+    "date_str": "2026-08-27",
+    "description": "Advisory for Strong Winds and Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Sea_at_1030hrs_on_2026__1787815780.pdf",
+    "time_str": "10:30",
+    "ut": 1787806800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-27-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2026-08-27",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1400hrs_on_27__1787821365.pdf",
+    "time_str": "14:00",
+    "ut": 1787819400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-27-16-00-warm-weather-advisory",
+    "num": "16-00-warm-weather-advisory",
+    "date_str": "2026-08-27",
+    "description": "Warm Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_27__1787829593.pdf",
+    "time_str": "16:00",
+    "ut": 1787826600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-27-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2026-08-27",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1600hrs_on_27__1787826826.pdf",
+    "time_str": "16:00",
+    "ut": 1787826600.0
   }
 ]
