@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-08-27 07:50:30",
-  "n_docs": 5796,
-  "n_docs_with_pdfs": 5796,
-  "n_docs_with_text": 5796,
+  "time_updated": "2026-08-27 09:59:44",
+  "n_docs": 5797,
+  "n_docs_with_pdfs": 5797,
+  "n_docs_with_text": 5797,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-08-27",
-  "dataset_size": 7106498389,
+  "dataset_size": 7107455171,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-08-27-05-30-weather-forecast",
-    "num": "05-30-weather-forecast",
+    "doc_id": "2026-08-27-08-00-sea-areas-around--2f930ea5",
+    "num": "08-00-sea-areas-around-the-island-repot",
     "date_str": "2026-08-27",
-    "description": "Weather Forecast",
+    "description": "Sea Areas Around the island Repot",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_0530hrs_on_27__1787789379.pdf",
-    "time_str": "05:30",
-    "ut": 1787788800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Sea_Areas_Around_the_island_Repot_at_0700hrs_on_2026__1787798077.pdf",
+    "time_str": "08:00",
+    "ut": 1787797800.0
   }
 }
