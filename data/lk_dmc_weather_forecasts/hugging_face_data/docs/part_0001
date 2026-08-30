@@ -69850,5 +69850,77 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1400hrs_on_30__1788080771.pdf",
     "time_str": "14:00",
     "ut": 1788078600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-30-16-00-advisory-for-high-d17c2b50",
+    "num": "16-00-advisory-for-high-waves-tamil-language",
+    "date_str": "2026-08-30",
+    "description": "Advisory for High Waves (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_High_Waves_at_1600hrs_on_30__1788088606.pdf",
+    "time_str": "16:00",
+    "ut": 1788085800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-30-16-00-advisory-for-high-waves",
+    "num": "16-00-advisory-for-high-waves",
+    "date_str": "2026-08-30",
+    "description": "Advisory for High Waves",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_High_Waves_at_1600hrs_on_30__1788087004.pdf",
+    "time_str": "16:00",
+    "ut": 1788085800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-30-16-00-warm-weather-advi-527ccc1e",
+    "num": "16-00-warm-weather-advisory-tamil-language",
+    "date_str": "2026-08-30",
+    "description": "Warm Weather Advisory (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_2026__1788088463.pdf",
+    "time_str": "16:00",
+    "ut": 1788085800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-30-16-00-warm-weather-advisory",
+    "num": "16-00-warm-weather-advisory",
+    "date_str": "2026-08-30",
+    "description": "Warm Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_2026__1788086166.pdf",
+    "time_str": "16:00",
+    "ut": 1788085800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-30-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2026-08-30",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1600hrs_on_30__1788087267.pdf",
+    "time_str": "16:00",
+    "ut": 1788085800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-08-30-16-00-weather-forecast--2c3f4dc6",
+    "num": "16-00-weather-forecast-tamil-language",
+    "date_str": "2026-08-30",
+    "description": "Weather Forecast (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Repot_at_1600hrs_on_30__1788088795.pdf",
+    "time_str": "16:00",
+    "ut": 1788085800.0
   }
 ]
