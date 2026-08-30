@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_situation_reports",
   "doc_class_emoji": "\ud83c\udf26\ufe0f",
   "doc_class_description": "Situation Report including information about Heavy Rain, Wind, Tree Falling, Lighting etc.",
-  "time_updated": "2026-08-30 10:20:27",
-  "n_docs": 4662,
-  "n_docs_with_pdfs": 4662,
-  "n_docs_with_text": 4662,
+  "time_updated": "2026-08-30 12:26:21",
+  "n_docs": 4664,
+  "n_docs_with_pdfs": 4664,
+  "n_docs_with_text": 4664,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 8,
   "date_str_min": "2018-01-02",
-  "date_str_max": "2026-08-29",
-  "dataset_size": 3154847159,
+  "date_str_max": "2026-08-30",
+  "dataset_size": 3155819705,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_situation_reports",
-    "doc_id": "2026-08-29-10-30-advisory-for-stro-f3767e5e",
-    "num": "10-30-advisory-for-strong-winds-and-rough-sea",
-    "date_str": "2026-08-29",
-    "description": "Advisory for Strong Winds and Rough Sea",
+    "doc_id": "2026-08-30-10-00-situation-report",
+    "num": "10-00-situation-report",
+    "date_str": "2026-08-30",
+    "description": "situation report",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Sea_at_1030hrs_on_2026__1787981277.pdf",
-    "time_str": "10:30",
-    "ut": 1787979600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1788071549.pdf",
+    "time_str": "10:00",
+    "ut": 1788064200.0
   }
 }
