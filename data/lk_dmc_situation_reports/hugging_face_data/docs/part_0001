@@ -56014,5 +56014,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1788327166.pdf",
     "time_str": "10:00",
     "ut": 1788323400.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2026-09-03-10-00-drought-situation-report",
+    "num": "10-00-drought-situation-report",
+    "date_str": "2026-09-03",
+    "description": "Drought Situation Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1788412204.pdf",
+    "time_str": "10:00",
+    "ut": 1788409800.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2026-09-03-10-00-situation-report",
+    "num": "10-00-situation-report",
+    "date_str": "2026-09-03",
+    "description": "Situation Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1788412182.pdf",
+    "time_str": "10:00",
+    "ut": 1788409800.0
   }
 ]
