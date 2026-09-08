@@ -70765,6 +70765,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-08-11-00-advisory-for-stro-4b1a5d9b",
+    "num": "11-00-advisory-for-strong-winds-and-rough-seas-tamil-language",
+    "date_str": "2026-09-08",
+    "description": "Advisory for Strong Winds and Rough Seas (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_11__1788850265.pdf",
+    "time_str": "11:00",
+    "ut": 1788845400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-09-08-11-00-advisory-for-stro-ff7d75c4",
     "num": "11-00-advisory-for-strong-winds-and-rough-seas",
     "date_str": "2026-09-08",
@@ -70774,5 +70786,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_11__1788847521.pdf",
     "time_str": "11:00",
     "ut": 1788845400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-08-11-30-advisory-for-seve-914a1dbb",
+    "num": "11-30-advisory-for-severe-lightning",
+    "date_str": "2026-09-08",
+    "description": "Advisory for Severe Lightning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning__at_1130hrs_on_2026__1788850185.pdf",
+    "time_str": "11:30",
+    "ut": 1788847200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-08-11-30-advisory-for-seve-b072b97b",
+    "num": "11-30-advisory-for-severe-lightning-tamil-language",
+    "date_str": "2026-09-08",
+    "description": "Advisory for Severe Lightning (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning__at_1130hrs_on_2026__1788850304.pdf",
+    "time_str": "11:30",
+    "ut": 1788847200.0
   }
 ]
