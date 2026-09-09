@@ -40,7 +40,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 003 💧 Dmc River Water Level And Flood Warnings
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_04:06:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_06:38:39-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
@@ -58,7 +58,7 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 
 ## 004 🗻 Dmc Landslide Warnings
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_04:05:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--09--09_06:38:49-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings)
 
