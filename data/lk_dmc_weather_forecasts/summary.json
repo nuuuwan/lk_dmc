@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-09-10 08:24:39",
-  "n_docs": 5914,
-  "n_docs_with_pdfs": 5914,
-  "n_docs_with_text": 5914,
+  "time_updated": "2026-09-10 10:22:03",
+  "n_docs": 5915,
+  "n_docs_with_pdfs": 5915,
+  "n_docs_with_text": 5915,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-09-10",
-  "dataset_size": 7250967393,
+  "dataset_size": 7251318490,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,13 +21,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-09-10-05-30-weather-forecast",
-    "num": "05-30-weather-forecast",
+    "doc_id": "2026-09-10-05-30-weather-forecast--16b07aaa",
+    "num": "05-30-weather-forecast-tamil-language",
     "date_str": "2026-09-10",
-    "description": "Weather Forecast",
+    "description": "Weather Forecast (Tamil Language)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Sinhala___Situation_Summary__Report_at_0600hrs_on_2026__1788999946.pdf",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1789009337.pdf",
     "time_str": "05:30",
     "ut": 1788998400.0
   }
