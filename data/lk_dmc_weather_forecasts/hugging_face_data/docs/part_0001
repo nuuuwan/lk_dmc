@@ -71170,5 +71170,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1789181127.pdf",
     "time_str": "08:00",
     "ut": 1789180200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-12-11-00-advisory-for-stro-ff7d75c4",
+    "num": "11-00-advisory-for-strong-winds-and-rough-seas",
+    "date_str": "2026-09-12",
+    "description": "Advisory for Strong Winds and Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_1100hrs_on_12__1789192127.pdf",
+    "time_str": "11:00",
+    "ut": 1789191000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-12-12-00-advisory-for-stro-58940db3",
+    "num": "12-00-advisory-for-strong-winds-and-rough-seas-tamil-language",
+    "date_str": "2026-09-12",
+    "description": "Advisory for Strong Winds and Rough Seas (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Strong_Winds_and_Rough_Seas_at_11__1789195511.pdf",
+    "time_str": "12:00",
+    "ut": 1789194600.0
   }
 ]
