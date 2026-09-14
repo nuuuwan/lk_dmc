@@ -71410,5 +71410,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1000hrs_on_14__1789361500.pdf",
     "time_str": "10:00",
     "ut": 1789360200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-14-14-00-weather-foreacst--9a4331fe",
+    "num": "14-00-weather-foreacst-tamil-language",
+    "date_str": "2026-09-14",
+    "description": "Weather Foreacst (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789379018.pdf",
+    "time_str": "14:00",
+    "ut": 1789374600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-14-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2026-09-14",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1789376250.pdf",
+    "time_str": "14:00",
+    "ut": 1789374600.0
   }
 ]
