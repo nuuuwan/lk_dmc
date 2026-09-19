@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-09-19 12:28:47",
-  "n_docs": 5992,
-  "n_docs_with_pdfs": 5992,
-  "n_docs_with_text": 5992,
+  "time_updated": "2026-09-19 14:21:22",
+  "n_docs": 5993,
+  "n_docs_with_pdfs": 5993,
+  "n_docs_with_text": 5993,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-09-19",
-  "dataset_size": 7347881995,
+  "dataset_size": 7350542692,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-09-19-11-00-advisory-for-seve-7cff27c1",
-    "num": "11-00-advisory-for-severe-lightning",
+    "doc_id": "2026-09-19-13-00-advisory-for-stro-7eb3bb3e",
+    "num": "13-00-advisory-for-strong-winds-and-rough-seas",
     "date_str": "2026-09-19",
-    "description": "Advisory for Severe Lightning",
+    "description": "Advisory for Strong Winds and Rough Seas",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1100hrs_on_19__1789797527.pdf",
-    "time_str": "11:00",
-    "ut": 1789795800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas__1789804220.pdf",
+    "time_str": "13:00",
+    "ut": 1789803000.0
   }
 }
