@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-09-19 04:18:18",
-  "n_docs": 5989,
-  "n_docs_with_pdfs": 5989,
-  "n_docs_with_text": 5989,
+  "time_updated": "2026-09-19 06:48:28",
+  "n_docs": 5990,
+  "n_docs_with_pdfs": 5990,
+  "n_docs_with_text": 5990,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
-  "date_str_max": "2026-09-18",
-  "dataset_size": 7344506449,
+  "date_str_max": "2026-09-19",
+  "dataset_size": 7345453988,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-09-18-18-00-the-advisory-for--1f974c97",
-    "num": "18-00-the-advisory-for-strong-winds-and-rough-seas-for-multiday-boats-in-the-bay-of-bengal-deep-sea-areas-at-1700-hrs-on-20260918-tamil",
-    "date_str": "2026-09-18",
-    "description": "The Advisory for strong winds and rough seas (For Multi-day boats in the Bay of Bengal deep sea areas.) at 1700 hrs on 2026.09.18 (TAMIL)",
+    "doc_id": "2026-09-19-05-30-weather-forecast",
+    "num": "05-30-weather-forecast",
+    "date_str": "2026-09-19",
+    "description": "Weather Forecast",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/MSA_26091801_TM__1789737653.pdf",
-    "time_str": "18:00",
-    "ut": 1789734600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1789776849.pdf",
+    "time_str": "05:30",
+    "ut": 1789776000.0
   }
 }
