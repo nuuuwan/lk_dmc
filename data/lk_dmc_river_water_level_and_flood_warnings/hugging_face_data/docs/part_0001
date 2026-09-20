@@ -9274,5 +9274,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789869575.pdf",
     "time_str": "06:30",
     "ut": 1789866000.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-09-20-08-00-flood-warning-for-a9a37453",
+    "num": "08-00-flood-warning-for-mahaweli-river--no-01-tamil-language",
+    "date_str": "2026-09-20",
+    "description": "Flood Warning for Mahaweli River - No 01 (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Mahaweli_River_-_No_01_-_2026__1789874663.pdf",
+    "time_str": "08:00",
+    "ut": 1789871400.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-09-20-08-00-flood-warning-for-e2d74528",
+    "num": "08-00-flood-warning-for-mahaweli-river--no-01",
+    "date_str": "2026-09-20",
+    "description": "Flood Warning for Mahaweli River - No 01",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Mahaweli_River_-_No_01_-_2026__1789874571.pdf",
+    "time_str": "08:00",
+    "ut": 1789871400.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-09-20-09-30-flood-warning-for-9815c119",
+    "num": "09-30-flood-warning-for-kuda-ganga-sub-basin-of-kalu-river--no-01",
+    "date_str": "2026-09-20",
+    "description": "Flood Warning for Kuda Ganga Sub Basin of Kalu River - NO 01",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Kuda_Ganga_SubBasin_Of_Kalu_River_-_NO_01_(2026__1789878586.pdf",
+    "time_str": "09:30",
+    "ut": 1789876800.0
   }
 ]
