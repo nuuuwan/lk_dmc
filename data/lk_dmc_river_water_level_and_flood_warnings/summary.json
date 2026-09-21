@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2026-09-21 14:17:40",
-  "n_docs": 790,
-  "n_docs_with_pdfs": 790,
-  "n_docs_with_text": 790,
+  "time_updated": "2026-09-21 16:09:52",
+  "n_docs": 791,
+  "n_docs_with_pdfs": 791,
+  "n_docs_with_text": 791,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2026-09-21",
-  "dataset_size": 291239804,
+  "dataset_size": 291886461,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2026-09-21-13-00-flood-warning-for-1831dd25",
-    "num": "13-00-flood-warning-for-gin-river-basin--no-02-extended",
+    "doc_id": "2026-09-21-15-30-water-level--rainfall",
+    "num": "15-30-water-level--rainfall",
     "date_str": "2026-09-21",
-    "description": "Flood Warning for Gin River Basin - NO 02 -Extended",
+    "description": "Water level & Rainfall",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_for_Gin_River_Basin_-_NO_02_(2026__1789976288.pdf",
-    "time_str": "13:00",
-    "ut": 1789975800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1789985752.pdf",
+    "time_str": "15:30",
+    "ut": 1789984800.0
   }
 }
