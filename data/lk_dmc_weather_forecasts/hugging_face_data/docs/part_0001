@@ -72121,6 +72121,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-21-07-00-weather-advisory--1e9ba661",
+    "num": "07-00-weather-advisory-for-heavy-rain--tamil",
+    "date_str": "2026-09-21",
+    "description": "Weather Advisory for Heavy Rain - Tamil",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0700hrs_on_21__1789970531.pdf",
+    "time_str": "07:00",
+    "ut": 1789954200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-09-21-07-45-advisory-for-heavy-rain",
     "num": "07-45-advisory-for-heavy-rain",
     "date_str": "2026-09-21",
@@ -72133,6 +72145,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-21-09-00-the-warning-for-s-cf0f3a1a",
+    "num": "09-00-the-warning-for-strong-winds-and-rough-seas--tamil-language",
+    "date_str": "2026-09-21",
+    "description": "The Warning for strong winds and rough seas - Tamil Language",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_0900_on_21__1789971253.pdf",
+    "time_str": "09:00",
+    "ut": 1789961400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-09-21-09-00-warning-for-stron-a0cc4435",
     "num": "09-00-warning-for-strong-winds-and-rough-seas",
     "date_str": "2026-09-21",
@@ -72142,5 +72166,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_0900_on_21__1789963485.pdf",
     "time_str": "09:00",
     "ut": 1789961400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-21-10-00-warning-for-stron-8c5a5cd7",
+    "num": "10-00-warning-for-strong-winds-and-rough-seas",
+    "date_str": "2026-09-21",
+    "description": "Warning for strong winds and rough seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1000hrs_on_21__1789966641.pdf",
+    "time_str": "10:00",
+    "ut": 1789965000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-09-21-10-00-warning-for-stron-9d48ecd6",
+    "num": "10-00-warning-for-strong-winds-and-rough-seas-tamil-language",
+    "date_str": "2026-09-21",
+    "description": "Warning for strong winds and rough seas (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1000hrs_on_21__1789971455.pdf",
+    "time_str": "10:00",
+    "ut": 1789965000.0
   }
 ]
