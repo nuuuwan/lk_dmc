@@ -73930,5 +73930,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1791338020.pdf",
     "time_str": "05:30",
     "ut": 1791331200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-07-10-00-drought-situation-report",
+    "num": "10-00-drought-situation-report",
+    "date_str": "2026-10-07",
+    "description": "Drought Situation Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2026__1791350506.pdf",
+    "time_str": "10:00",
+    "ut": 1791347400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-07-11-00-advisory-for-seve-7cff27c1",
+    "num": "11-00-advisory-for-severe-lightning",
+    "date_str": "2026-10-07",
+    "description": "Advisory for Severe Lightning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1100hrs_on_07__1791354434.pdf",
+    "time_str": "11:00",
+    "ut": 1791351000.0
   }
 ]
