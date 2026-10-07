@@ -1,12 +1,12 @@
 # 🗻#SriLanka 🇱🇰 Dmc Landslide Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--07_16:11:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--07_18:24:03-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings)
 
 Landslide Warnings including early warnings, locations of potential risk, areas and places which need special attention, and automated landslide early warning map.
 
-- [**711** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**537.8 MB**), from **2019-09-26** to **2026-10-06**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**712** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings) (**538.2 MB**), from **2019-09-26** to **2026-10-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (1%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Landslide Warnings including early warnings, locations of potential risk, areas 
 ```json
 {
     "doc_type": "lk_dmc_landslide_warnings",
-    "doc_id": "2026-10-06-16-00-landslide-ew-report",
+    "doc_id": "2026-10-07-16-00-landslide-ew-report",
     "num": "16-00-landslide-ew-report",
-    "date_str": "2026-10-06",
+    "date_str": "2026-10-07",
     "description": "Landslide EW Report",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=276&report_type_id=5&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_1600hrs_on_2026__1791282469.pdf",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Landslide_EW_Report_at_1600hrs_on_2026__1791371317.pdf",
     "time_str": "16:00",
-    "ut": 1791282600.0
+    "ut": 1791369000.0
 }
 ```
 
@@ -42,6 +42,7 @@ Landslide Warnings including early warnings, locations of potential risk, areas 
 
 ## 🆕 20 Latest documents
 
+- 2026-10-07 | `16-00-landslide-ew-report` | Landslide EW Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-10-07-16-00-landslide-ew-report)
 - 2026-10-06 | `16-00-landslide-ew-report` | Landslide EW Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-10-06-16-00-landslide-ew-report)
 - 2026-10-05 | `16-00-landslide-ew-report` | Landslide EW Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-10-05-16-00-landslide-ew-report)
 - 2026-10-04 | `16-00-landslide-ew-report` | Landslide EW Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-10-04-16-00-landslide-ew-report)
@@ -61,7 +62,6 @@ Landslide Warnings including early warnings, locations of potential risk, areas 
 - 2026-09-16 | `10-00-landslide-ew-report` | Landslide EW Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-09-16-10-00-landslide-ew-report)
 - 2026-09-15 | `10-00-landslide-ew-report` | Landslide EW Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-09-15-10-00-landslide-ew-report)
 - 2026-08-09 | `09-30-landslide-ew-report` | Landslide EW Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-08-09-09-30-landslide-ew-report)
-- 2026-08-08 | `09-00-landslide-ew-report` | Landslide EW Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_landslide_warnings/data/lk_dmc_landslide_warnings/2020s/2026/2026-08-08-09-00-landslide-ew-report)
 
 ---
 
