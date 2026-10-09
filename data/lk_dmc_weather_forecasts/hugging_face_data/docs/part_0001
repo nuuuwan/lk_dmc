@@ -74182,5 +74182,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1791537329.pdf",
     "time_str": "14:00",
     "ut": 1791534600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-09-16-00-warm-weather-advisory",
+    "num": "16-00-warm-weather-advisory",
+    "date_str": "2026-10-09",
+    "description": "Warm Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_09__1791546130.pdf",
+    "time_str": "16:00",
+    "ut": 1791541800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-09-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2026-10-09",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2026__1791545318.pdf",
+    "time_str": "16:00",
+    "ut": 1791541800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-09-16-30-advisory-for-rough-seas",
+    "num": "16-30-advisory-for-rough-seas",
+    "date_str": "2026-10-09",
+    "description": "Advisory for Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Rough_Seas_at_1630hrs_on_09__1791546801.pdf",
+    "time_str": "16:30",
+    "ut": 1791543600.0
   }
 ]
