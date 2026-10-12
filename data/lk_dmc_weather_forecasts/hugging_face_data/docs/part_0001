@@ -74482,5 +74482,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1791771472.pdf",
     "time_str": "05:30",
     "ut": 1791763200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-12-11-00-advisory-for-seve-7cff27c1",
+    "num": "11-00-advisory-for-severe-lightning",
+    "date_str": "2026-10-12",
+    "description": "Advisory for Severe Lightning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1100hrs_on_12__1791784936.pdf",
+    "time_str": "11:00",
+    "ut": 1791783000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-12-11-00-special-weather-b-69cc7fca",
+    "num": "11-00-special-weather-bulletin-tamil-language",
+    "date_str": "2026-10-12",
+    "description": "Special Weather Bulletin (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Special_Weather_Bulletin_at_1100hrs_on_12__1791786966.pdf",
+    "time_str": "11:00",
+    "ut": 1791783000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-12-11-00-special-weather-bulletin",
+    "num": "11-00-special-weather-bulletin",
+    "date_str": "2026-10-12",
+    "description": "Special Weather Bulletin",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Special_Weather_Bulletin__1791786911.pdf",
+    "time_str": "11:00",
+    "ut": 1791783000.0
   }
 ]
