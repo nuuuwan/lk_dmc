@@ -38068,5 +38068,41 @@
     "md5": "738769ddf0831b5641759aba6550c312",
     "chunk_size_bytes": 1138,
     "chunk_text": "Mahaweli GangaPeradeniyam5.007.009.003.353.35Normal18.1\n\nMahaweli GangaNawalapitiyam3.505.006.001.811.81Normal17.1\n\nBadulu OyaThaldenam3.004.005.001.521.25Normal40.2\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.502.422.40Normal25.5\n\nMalwathu Oya\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.80-- 11.7\n\nMee Oya\n\n(RB 95)Mee OyaGalgamuwam4.845.948.00-- 1.1\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.002.172.13Normal1.5\n\nMaha OyaBadalgamam5.006.209.603.083.08Normal4.7\n\nMaha OyaGiriullam5.506.507.501.851.86Normal9.6\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.503.323.34AlertRising30.8\n\nPrepared by : K.K.C.U.Dilshan (H.A.)\n\nChecked by :P.A.G.Gayampath (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n12 Hr RF\n\nin mm at 09:00 PM\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at\n\n08:00\n\nPM\n\nWater Level at 09:00 PM\n\nNilwala Ganga\n\n(RB 12)\n\nTributory/River\n\nGauging Station"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-10-17-00-30-water-level",
+    "num": "00-30-water-level",
+    "date_str": "2026-10-17",
+    "description": "Water Level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1792178164.pdf",
+    "time_str": "00:30",
+    "ut": 1792177200.0,
+    "chunk_id": "2026-10-17-00-30-water-level-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "2413f5537e28e403b4c9ecd3df7c78e3",
+    "chunk_size_bytes": 2000,
+    "chunk_text": "==== BLOCKS ====\n\n0\n\nDATE :17-Oct-2026TIME :12:30 AM\n\nStationUnitAlert Level\n\nMinor\n\nFlood Level\n\nMajor\n\nFlood Level\n\nKelani GangaNagalagam Streetft4.005.007.001.601.60Normal-\n\nKelani GangaHanwellam6.507.509.503.223.20Normal20.6\n\nKelani GangaGlencoursem15.0015.5019.0011.3111.40Normal21.1\n\nKelani GangaKithulgalam3.004.006.002.142.16Normal38.5\n\nGurugoda OyaHolombuwam3.004.006.001.451.28Normal4.3\n\nSeethawaka GangaDeraniyagalam4.805.807.001.551.43Normal21.6\n\nKehelgamu OyaNorwoodm1.503.004.501.341.33Normal9.8\n\nKalu GangaPutupaulam3.004.005.002.272.26Normal9.6\n\nKalu GangaEllagawam10.0010.7012.207.407.39Normal26.7\n\nKalu GangaRathnapuram5.207.509.504.234.26Normal49.0\n\nMaguru GangaMaguram4.006.007.503.883.93Normal40.0\n\nKuda GangaKalawellawa (Millakanda)m5.006.508.005.915.90AlertFalling5.7\n\nGin GangaBaddegamam3.504.005.003.343.34Normal0.5\n\nGin GangaThawalamam4.006.007.503.403.45Normal29.7\n\nNilwala GangaThalgahagodam1.401.702.801.941.94Minor Flood0.0\n\nNilwala GangaPanadugamam5.006.007.506.366.35Minor FloodFalling7.2\n\nNilwala GangaPitabeddaram4.005.006.502.582.54Normal7.6\n\nUrubokka GangaUrawam2.504.006.002.122.12Normal6.8\n\nWalawe Ganga\n\n(RB 18) Walawe GangaMoraketiyam3.005.007.001.481.48Normal0.0\n\nKirindi OyaThanamalwilam4.005.005.501.281.42Normal0.0\n\nKirindi OyaWellawayam4.405.405.901.521.47Normal15.2\n\nKuda OyaKuda Oyam6.908.408.801.291.29Normal0.0\n\nMenik Ganga\n\n(RB 26)Menik GangaKatharagamam4.004.606.50-0.06-0.07Normal0.0\n\nKumbukkan Oya\n\n(RB 31)Kumbukkan Oya Nakkalam5.006.007.500.700.73Normal9.0\n\nHeda Oya\n\n(RB 36)Heda Oya Siyambalanduwam4.506.007.000.660.66Normal8.4\n\nMaduru Oya\n\n(RB 54)Maduru Oya Padiyathalawam4.004.506.001.050.95Normal3.9\n\nMahaweli GangaManampitiya m3.004.306.000.200.20Normal16.2\n\nMahaweli GangaWeraganthotam5.006.008.00-- 38.6\n\nMahaweli GangaPeradeniyam5.007.009.003.313.30Normal18.1\n\nMahaweli GangaNawalapitiyam3.505.006.001.671.58Normal17.1\n\nBadulu OyaThaldenam3.004.005.000.940.82Normal40.2\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.502.382.37Normal25.5"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-10-17-00-30-water-level",
+    "num": "00-30-water-level",
+    "date_str": "2026-10-17",
+    "description": "Water Level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1792178164.pdf",
+    "time_str": "00:30",
+    "ut": 1792177200.0,
+    "chunk_id": "2026-10-17-00-30-water-level-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "f6a92ef61292092e3683c322f8b3f97c",
+    "chunk_size_bytes": 1146,
+    "chunk_text": "Mahaweli GangaPeradeniyam5.007.009.003.313.30Normal18.1\n\nMahaweli GangaNawalapitiyam3.505.006.001.671.58Normal17.1\n\nBadulu OyaThaldenam3.004.005.000.940.82Normal40.2\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.502.382.37Normal25.5\n\nMalwathu Oya\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.80-- 12.5\n\nMee Oya\n\n(RB 95)Mee OyaGalgamuwam4.845.948.00-- 1.5\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.002.011.96Normal1.5\n\nMaha OyaBadalgamam5.006.209.603.093.10Normal4.7\n\nMaha OyaGiriullam5.506.507.502.082.30Normal9.6\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.503.363.36Alert30.8\n\nPrepared by : K.K.C.U.Dilshan (H.A.)\n\nChecked by :P.A.G.Gayampath (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n15 Hr RF\n\nin mm at\n\n12:00 Midnight\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at\n\n11:00\n\nPM\n\nWater Level at\n\n12:00 Midnight\n\nNilwala Ganga\n\n(RB 12)\n\nTributory/River\n\nGauging Station"
   }
 ]
