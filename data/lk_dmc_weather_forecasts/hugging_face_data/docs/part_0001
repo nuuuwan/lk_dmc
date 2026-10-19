@@ -75109,6 +75109,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-19-05-00-rough-seas",
+    "num": "05-00-rough-seas",
+    "date_str": "2026-10-19",
+    "description": "Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Rough_Seas_Issued_at_05__1792412698.pdf",
+    "time_str": "05:00",
+    "ut": 1792366200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-10-19-05-30-weather-report",
     "num": "05-30-weather-report",
     "date_str": "2026-10-19",
@@ -75178,6 +75190,30 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/The_Weather_Report_at_1400hrs_on_2026__1792401872.pdf",
     "time_str": "14:00",
     "ut": 1792398600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-19-16-00-warm-weather-advi-527ccc1e",
+    "num": "16-00-warm-weather-advisory-tamil-language",
+    "date_str": "2026-10-19",
+    "description": "Warm Weather Advisory (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_19__1792407606.pdf",
+    "time_str": "16:00",
+    "ut": 1792405800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-19-16-00-warm-weather-advisory",
+    "num": "16-00-warm-weather-advisory",
+    "date_str": "2026-10-19",
+    "description": "Warm Weather Advisory",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warm_Weather_Advisory_at_1600hrs_on_19__1792407583.pdf",
+    "time_str": "16:00",
+    "ut": 1792405800.0
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
