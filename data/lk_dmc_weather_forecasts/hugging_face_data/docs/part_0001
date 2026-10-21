@@ -75325,6 +75325,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-21-04-15-advisory-for-rough-seas",
+    "num": "04-15-advisory-for-rough-seas",
+    "date_str": "2026-10-21",
+    "description": "Advisory for Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/MLA_26102101_TM__1792548837.pdf",
+    "time_str": "04:15",
+    "ut": 1792536300.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-10-21-04-15-the-advisory-for--f02d180f",
     "num": "04-15-the-advisory-for-rough-seas",
     "date_str": "2026-10-21",
@@ -75334,6 +75346,42 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Rough_Seas___1792539146.pdf",
     "time_str": "04:15",
     "ut": 1792536300.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-21-05-30-weather-report",
+    "num": "05-30-weather-report",
+    "date_str": "2026-10-21",
+    "description": "Weather Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/W20261021a_TM__1792547250.pdf",
+    "time_str": "05:30",
+    "ut": 1792540800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-21-06-00-advisory-for-heavy-rain-i",
+    "num": "06-00-advisory-for-heavy-rain-i",
+    "date_str": "2026-10-21",
+    "description": "Advisory for Heavy Rain I",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain__1792546880.pdf",
+    "time_str": "06:00",
+    "ut": 1792542600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-21-06-00-the-advisory-for--45147bb2",
+    "num": "06-00-the-advisory-for-heavy-rain-tamil-a",
+    "date_str": "2026-10-21",
+    "description": "The Advisory for Heavy Rain Tamil a",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/LRA_26102101_TM__1792548788.pdf",
+    "time_str": "06:00",
+    "ut": 1792542600.0
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
