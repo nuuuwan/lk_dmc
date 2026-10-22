@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_river_water_level_and_flood_warnings",
   "doc_class_emoji": "\ud83d\udca7",
   "doc_class_description": "River Water Level and Flood Warnings for various places in Sri Lanka.",
-  "time_updated": "2026-10-22 10:13:38",
-  "n_docs": 938,
-  "n_docs_with_pdfs": 938,
-  "n_docs_with_text": 938,
+  "time_updated": "2026-10-22 12:26:08",
+  "n_docs": 939,
+  "n_docs_with_pdfs": 939,
+  "n_docs_with_text": 939,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2025-06-10",
   "date_str_max": "2026-10-22",
-  "dataset_size": 347179191,
+  "dataset_size": 348039750,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2026-10-22-09-30-flood-warning-for-3b279189",
-    "num": "09-30-flood-warning-for-deduru-oya",
+    "doc_id": "2026-10-22-11-30-flood-warning-for-70d324a9",
+    "num": "11-30-flood-warning-for-kala-oya-basin",
     "date_str": "2026-10-22",
-    "description": "Flood warning for Deduru Oya",
+    "description": "Flood Warning for Kala Oya Basin",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Deduru_Oya_Flood_Warning_-_NO_01_(2026__1792642274.pdf",
-    "time_str": "09:30",
-    "ut": 1792641600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Kala_Oya_Basin_-_NO_01_(2026__1792648900.pdf",
+    "time_str": "11:30",
+    "ut": 1792648800.0
   }
 }
