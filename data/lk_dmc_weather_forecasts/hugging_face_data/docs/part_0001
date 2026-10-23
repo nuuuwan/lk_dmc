@@ -75622,5 +75622,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_Multiday_boats__1792724294.pdf",
     "time_str": "07:00",
     "ut": 1792719000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-23-16-00-weather-forecast",
+    "num": "16-00-weather-forecast",
+    "date_str": "2026-10-23",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_1600hrs__1792756746.pdf",
+    "time_str": "16:00",
+    "ut": 1792751400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-23-16-30-warning-for-stron-c50027e6",
+    "num": "16-30-warning-for-strong-wind-and-rough-seas",
+    "date_str": "2026-10-23",
+    "description": "Warning for Strong wind and Rough Seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas__1792756684.pdf",
+    "time_str": "16:30",
+    "ut": 1792753200.0
   }
 ]
