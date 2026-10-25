@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-10-26 00:23:29",
-  "n_docs": 6323,
-  "n_docs_with_pdfs": 6323,
-  "n_docs_with_text": 6323,
+  "time_updated": "2026-10-26 02:20:14",
+  "n_docs": 6324,
+  "n_docs_with_pdfs": 6324,
+  "n_docs_with_text": 6324,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
-  "date_str_max": "2026-10-25",
-  "dataset_size": 7776849209,
+  "date_str_max": "2026-10-26",
+  "dataset_size": 7778043916,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-10-25-16-00-weather-forecast",
-    "num": "16-00-weather-forecast",
-    "date_str": "2026-10-25",
-    "description": "Weather Forecast",
+    "doc_id": "2026-10-26-22-00-weather-advisory",
+    "num": "22-00-weather-advisory",
+    "date_str": "2026-10-26",
+    "description": "Weather Advisory",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1600_hrs_on_2026__1792926790.pdf",
-    "time_str": "16:00",
-    "ut": 1792924200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_2200hrs_on_25__1792956105.pdf",
+    "time_str": "22:00",
+    "ut": 1793032200.0
   }
 }
