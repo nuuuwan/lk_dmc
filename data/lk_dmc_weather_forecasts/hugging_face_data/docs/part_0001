@@ -75937,6 +75937,30 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-26-10-00-warning-for-stron-8c5a5cd7",
+    "num": "10-00-warning-for-strong-winds-and-rough-seas",
+    "date_str": "2026-10-26",
+    "description": "Warning for strong winds and rough seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_0930hrs_on_26__1792991218.pdf",
+    "time_str": "10:00",
+    "ut": 1792989000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-26-11-30-advisory-for-seve-914a1dbb",
+    "num": "11-30-advisory-for-severe-lightning",
+    "date_str": "2026-10-26",
+    "description": "Advisory for Severe Lightning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1130hrs_on_2026__1792997048.pdf",
+    "time_str": "11:30",
+    "ut": 1792994400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-10-26-22-00-weather-advisory",
     "num": "22-00-weather-advisory",
     "date_str": "2026-10-26",
