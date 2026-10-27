@@ -41020,5 +41020,41 @@
     "md5": "ac8dfb28654d7f198d39dc87cc3bdd1f",
     "chunk_size_bytes": 1155,
     "chunk_text": "Mahaweli GangaPeradeniyam5.007.009.003.303.20Normal0.0\n\nMahaweli GangaNawalapitiyam3.505.006.001.691.68Normal0.6\n\nBadulu OyaThaldenam3.004.005.000.470.44Normal0.0\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.503.393.40Normal0.0\n\nMalwathu Oya\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.802.852.72Normal0.0\n\nMee Oya\n\n(RB 95)Mee OyaGalgamuwam4.845.948.004.044.03Normal0.0\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.004.804.72Normal0.0\n\nMaha OyaBadalgamam5.006.209.604.354.26Normal0.0\n\nMaha OyaGiriullam5.506.507.503.223.15Normal0.0\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.504.794.77Minor FloodFalling0.0\n\nPrepared by : P.A.G.Gayampath (H.A.)\n\nChecked by :G.A.S.A.Jayamal (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n9 Hr RF in mm at 6:00\n\nPM\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at 5:00 PM\n\nWater Level at 6:00 PM\n\nNilwala Ganga\n\n(RB 12)\n\nTributory/River\n\nGauging Station"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-10-27-21-30-water-level",
+    "num": "21-30-water-level",
+    "date_str": "2026-10-27",
+    "description": "Water Level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1793116593.pdf",
+    "time_str": "21:30",
+    "ut": 1793116800.0,
+    "chunk_id": "2026-10-27-21-30-water-level-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "012ab958d806b6b2b4647b40947b9972",
+    "chunk_size_bytes": 2029,
+    "chunk_text": "==== BLOCKS ====\n\n0\n\nDATE :27-Oct-2026TIME :9:30 PM\n\nStationUnitAlert Level\n\nMinor\n\nFlood Level\n\nMajor\n\nFlood Level\n\nKelani GangaNagalagam Streetft4.005.007.002.902.80Normal-\n\nKelani GangaHanwellam6.507.509.505.155.10Normal0.0\n\nKelani GangaGlencoursem15.0015.5019.0012.0812.02Normal0.0\n\nKelani GangaKithulgalam3.004.006.002.292.29Normal0.0\n\nGurugoda OyaHolombuwam3.004.006.001.401.38Normal0.0\n\nSeethawaka GangaDeraniyagalam4.805.807.001.201.19Normal0.0\n\nKehelgamu OyaNorwoodm1.503.004.501.321.31Normal0.0\n\nKalu GangaPutupaulam3.004.005.003.423.42Alert5.8\n\nKalu GangaEllagawam10.0010.7012.2010.2010.26AlertRising22.2\n\nKalu GangaRathnapuram5.207.509.507.617.52Minor FloodFalling0.6\n\nMaguru GangaMaguram4.006.007.504.724.68AlertFalling13.5\n\nKuda GangaKalawellawa (Millakanda)m5.006.508.007.687.70Minor FloodRising14.6\n\nGin GangaBaddegamam3.504.005.004.144.15Minor FloodRising2.0\n\nGin GangaThawalamam4.006.007.502.852.80Normal0.5\n\nNilwala GangaThalgahagodam1.401.702.801.721.72Minor Flood2.1\n\nNilwala GangaPanadugamam5.006.007.506.126.09Minor FloodFalling2.6\n\nNilwala GangaPitabeddaram4.005.006.502.242.32Normal18.7\n\nUrubokka GangaUrawam2.504.006.001.321.32Normal10.5\n\nWalawe Ganga\n\n(RB 18) Walawe GangaMoraketiyam3.005.007.001.381.37Normal0.0\n\nKirindi OyaThanamalwilam4.005.005.501.341.33Normal0.0\n\nKirindi OyaWellawayam4.405.405.901.351.34Normal0.0\n\nKuda OyaKuda Oyam6.908.408.801.491.49Normal0.0\n\nMenik Ganga\n\n(RB 26)Menik GangaKatharagamam4.004.606.50-0.16-0.15Normal0.0\n\nKumbukkan Oya\n\n(RB 31)Kumbukkan Oya Nakkalam5.006.007.500.840.83Normal0.0\n\nHeda Oya\n\n(RB 36)Heda Oya Siyambalanduwam4.506.007.000.540.54Normal0.0\n\nMaduru Oya\n\n(RB 54)Maduru Oya Padiyathalawam4.004.506.000.320.31Normal0.0\n\nMahaweli GangaManampitiya m3.004.306.000.720.70Normal0.0\n\nMahaweli GangaWeraganthotam5.006.008.00-- 0.0\n\nMahaweli GangaPeradeniyam5.007.009.003.253.30Normal0.0\n\nMahaweli GangaNawalapitiyam3.505.006.001.661.65Normal0.6\n\nBadulu OyaThaldenam3.004.005.000.420.42Normal0.0\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.503.403.40Normal0.0"
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-10-27-21-30-water-level",
+    "num": "21-30-water-level",
+    "date_str": "2026-10-27",
+    "description": "Water Level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1793116593.pdf",
+    "time_str": "21:30",
+    "ut": 1793116800.0,
+    "chunk_id": "2026-10-27-21-30-water-level-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "a0b68b19dc791efe0269e996b9b806ab",
+    "chunk_size_bytes": 1134,
+    "chunk_text": "Mahaweli GangaPeradeniyam5.007.009.003.253.30Normal0.0\n\nMahaweli GangaNawalapitiyam3.505.006.001.661.65Normal0.6\n\nBadulu OyaThaldenam3.004.005.000.420.42Normal0.0\n\nYan Oya\n\n(RB 67)Yan OyaHorowpothanam6.007.5010.503.403.40Normal0.0\n\nMalwathu Oya\n\n(RB 90)Malwathu OyaThanthirimalem5.006.807.80-- 0.0\n\nMee Oya\n\n(RB 95)Mee OyaGalgamuwam4.845.948.00-- 0.0\n\nDeduru Oya\n\n(RB 99)Deduru OyaMoragaswewam4.756.007.004.524.39Normal0.0\n\nMaha OyaBadalgamam5.006.209.604.144.10Normal0.0\n\nMaha OyaGiriullam5.506.507.503.022.95Normal0.0\n\nAttanagalu Oya\n\n(RB 103)Attanagalu OyaDunamalem3.304.405.504.724.68Minor FloodFalling0.0\n\nPrepared by : P.A.G.Gayampath (H.A.)\n\nChecked by :G.A.S.A.Jayamal (H.A.)\n\nEng.L.S. Sooriyabandara`Director (Hydrology and Disaster Management)\n\nGauging Station\n\nIslandwide Water Level & Rainfall Situation in Major Rivers\n\n12 Hr RF\n\nin mm at 9:00 PM\n\nMaha Oya\n\n(RB 102)\n\nKirindi Oya\n\n(RB 22)\n\nKelani Ganga\n\n(RB 01)\n\nGin Ganga\n\n(RB 09)\n\nKalu Ganga\n\n(RB 03)\n\nMahaweli Ganga\n\n(RB 60)\n\nRemarks\n\nWater\n\nLevel Rising or\n\nFalling\n\nRiver Basin\n\nWater Level at 8:00 PM\n\nWater Level at 9:00 PM\n\nNilwala Ganga\n\n(RB 12)\n\nTributory/River"
   }
 ]
