@@ -76198,5 +76198,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds_and_rough_seas_2100_hrs__1793203582.pdf",
     "time_str": "21:30",
     "ut": 1793203200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-10-29-05-30-weather-forecast",
+    "num": "05-30-weather-forecast",
+    "date_str": "2026-10-29",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/__1793233943.pdf",
+    "time_str": "05:30",
+    "ut": 1793232000.0
   }
 ]
