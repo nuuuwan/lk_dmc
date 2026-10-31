@@ -56713,6 +56713,18 @@
   },
   {
     "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2026-10-28-10-00-situation-report",
+    "num": "10-00-situation-report",
+    "date_str": "2026-10-28",
+    "description": "Situation Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1793245575.pdf",
+    "time_str": "10:00",
+    "ut": 1793161800.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
     "doc_id": "2026-10-29-10-00-situation-report",
     "num": "10-00-situation-report",
     "date_str": "2026-10-29",
@@ -56722,5 +56734,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1793245575.pdf",
     "time_str": "10:00",
     "ut": 1793248200.0
+  },
+  {
+    "doc_type": "lk_dmc_situation_reports",
+    "doc_id": "2026-10-31-10-00-situation-report",
+    "num": "10-00-situation-report",
+    "date_str": "2026-10-31",
+    "description": "Situation Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=273&report_type_id=1&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2026__1793428132.pdf",
+    "time_str": "10:00",
+    "ut": 1793421000.0
   }
 ]
