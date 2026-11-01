@@ -76546,5 +76546,53 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_t_1230hrs_on_01__1793520130.pdf",
     "time_str": "12:30",
     "ut": 1793516400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-01-15-00-warning-for-stron-4af02833",
+    "num": "15-00-warning-for-strong-winds-and-rough-seas-tamil-language",
+    "date_str": "2026-11-01",
+    "description": "Warning for strong winds and rough seas (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1500hrs_on_01__1793528302.pdf",
+    "time_str": "15:00",
+    "ut": 1793525400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-01-15-00-warning-for-stron-d05f2283",
+    "num": "15-00-warning-for-strong-winds-and-rough-seas",
+    "date_str": "2026-11-01",
+    "description": "Warning for strong winds and rough seas",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1500hrs_on_01__1793527601.pdf",
+    "time_str": "15:00",
+    "ut": 1793525400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-01-15-00-weather-forecast",
+    "num": "15-00-weather-forecast",
+    "date_str": "2026-11-01",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1500hrs_on_01__1793525871.pdf",
+    "time_str": "15:00",
+    "ut": 1793525400.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-01-15-00-weather-report-ta-3b03f34f",
+    "num": "15-00-weather-report-tamil-language",
+    "date_str": "2026-11-01",
+    "description": "Weather report (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1793529133.pdf",
+    "time_str": "15:00",
+    "ut": 1793525400.0
   }
 ]
