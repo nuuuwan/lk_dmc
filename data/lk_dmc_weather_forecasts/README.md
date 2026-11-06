@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_04:17:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--06_06:27:49-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**6,416** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**7.9 GB**), from **2023-03-26** to **2026-11-05**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**6,417** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**7.9 GB**), from **2023-03-26** to **2026-11-06**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-11-05-16-00-weather-forecast",
-    "num": "16-00-weather-forecast",
-    "date_str": "2026-11-05",
-    "description": "Weather Forecast",
+    "doc_id": "2026-11-06-05-30-weather-forecast--29b99163",
+    "num": "05-30-weather-forecast-at-0530hrs",
+    "date_str": "2026-11-06",
+    "description": "Weather forecast at 0530hrs",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_05__1793875886.pdf",
-    "time_str": "16:00",
-    "ut": 1793874600.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_at_0530hrs__1793925585.pdf",
+    "time_str": "05:30",
+    "ut": 1793923200.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-06 | `05-30-weather-forecast-at-0530hrs` | Weather forecast at 0530hrs | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-06-05-30-weather-forecast--29b99163)
 - 2026-11-05 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-05-16-00-weather-forecast)
 - 2026-11-05 | `14-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-05-14-00-weather-forecast--eb2ff5a1)
 - 2026-11-05 | `14-00-weather-forecast-at-1400hrs` | Weather forecast at 1400hrs | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-05-14-00-weather-forecast--582c1537)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-11-03 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-03-14-00-weather-forecast)
 - 2026-11-03 | `13-15-lightning-advisory` | Lightning Advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-03-13-15-lightning-advisory)
 - 2026-11-03 | `11-45-warning-for-strong-winds-and-rough-seas-tamil-language` | Warning for strong winds and rough seas (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-03-11-45-warning-for-stron-9040013d)
-- 2026-11-03 | `11-20-warning-for-strong-winds-and-rough-seas` | Warning for strong winds and rough seas | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-03-11-20-warning-for-stron-b8e03245)
 
 ---
 
