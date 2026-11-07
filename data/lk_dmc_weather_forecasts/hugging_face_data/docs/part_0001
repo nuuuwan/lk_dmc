@@ -77098,5 +77098,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1794017854.pdf",
     "time_str": "07:30",
     "ut": 1794016800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-07-12-30-advisory-for-seve-85df0d3f",
+    "num": "12-30-advisory-for-severe-lightning",
+    "date_str": "2026-11-07",
+    "description": "Advisory for Severe Lightning",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Lightning_Advisory_at_1300hrs_on_07__1794038785.pdf",
+    "time_str": "12:30",
+    "ut": 1794034800.0
   }
 ]
