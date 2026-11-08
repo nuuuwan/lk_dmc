@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-11-08 14:17:26",
-  "n_docs": 6434,
-  "n_docs_with_pdfs": 6434,
-  "n_docs_with_text": 6434,
+  "time_updated": "2026-11-08 16:16:56",
+  "n_docs": 6437,
+  "n_docs_with_pdfs": 6437,
+  "n_docs_with_text": 6437,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-11-08",
-  "dataset_size": 7931141785,
+  "dataset_size": 7933774096,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-11-08-13-00-advisory-for-thunderstorm",
-    "num": "13-00-advisory-for-thunderstorm",
+    "doc_id": "2026-11-08-15-00-fishermen-bulleti-805d4ce7",
+    "num": "15-00-fishermen-bulletin-for-strong-winds-and-rough-seas-forecast-for-next-three-days",
     "date_str": "2026-11-08",
-    "description": "Advisory for Thunderstorm",
+    "description": "Fishermen bulletin for strong winds and rough seas Forecast for next three days",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Thunderstorm_Advisory_report_at_1255_hrs_on_2026__1794124236.pdf",
-    "time_str": "13:00",
-    "ut": 1794123000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_Forecast_for_next_three_days_at_1500hrs_on_08__1794130734.pdf",
+    "time_str": "15:00",
+    "ut": 1794130200.0
   }
 }
