@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2026-11-08-05-45-weather-report-at-0530hrs",
+  "num": "05-45-weather-report-at-0530hrs",
+  "date_str": "2026-11-08",
+  "description": "Weather report at 0530hrs",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0545hrs__1794098485.pdf",
+  "time_str": "05:45",
+  "ut": 1794096900.0
+}

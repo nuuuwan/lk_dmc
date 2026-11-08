@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--08_04:17:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--08_06:31:45-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**6,431** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**7.9 GB**), from **2023-03-26** to **2026-11-07**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**6,432** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**7.9 GB**), from **2023-03-26** to **2026-11-08**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-11-07-17-00-advisory-for-heavy-rain",
-    "num": "17-00-advisory-for-heavy-rain",
-    "date_str": "2026-11-07",
-    "description": "Advisory for Heavy Rain",
+    "doc_id": "2026-11-08-05-45-weather-report-at-0530hrs",
+    "num": "05-45-weather-report-at-0530hrs",
+    "date_str": "2026-11-08",
+    "description": "Weather report at 0530hrs",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Heavy_Rain_Advisory_at_17__1794052394.pdf",
-    "time_str": "17:00",
-    "ut": 1794051000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0545hrs__1794098485.pdf",
+    "time_str": "05:45",
+    "ut": 1794096900.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-08 | `05-45-weather-report-at-0530hrs` | Weather report at 0530hrs | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-08-05-45-weather-report-at-0530hrs)
 - 2026-11-07 | `17-00-advisory-for-heavy-rain` | Advisory for Heavy Rain | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-07-17-00-advisory-for-heavy-rain)
 - 2026-11-07 | `16-00-weather-report-tamil-language` | Weather Report (Tamil language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-07-16-00-weather-report-ta-1659a6d1)
 - 2026-11-07 | `16-00-weather-report` | Weather Report | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-07-16-00-weather-report)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-11-05 | `14-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-05-14-00-weather-forecast--eb2ff5a1)
 - 2026-11-05 | `14-00-weather-forecast-at-1400hrs` | Weather forecast at 1400hrs | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-05-14-00-weather-forecast--582c1537)
 - 2026-11-05 | `13-00-advisory-for-severe-lightning` | Advisory for Severe Lightning | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-05-13-00-advisory-for-seve-9a640245)
-- 2026-11-05 | `06-00-weather-report-tamil-language` | Weather Report (Tamil language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-05-06-00-weather-report-ta-c4c021bd)
 
 ---
 
