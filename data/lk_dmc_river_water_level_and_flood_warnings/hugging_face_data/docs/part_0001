@@ -12634,5 +12634,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1794230998.pdf",
     "time_str": "18:30",
     "ut": 1794229200.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-11-09-20-00-flood-warning-for-fc53c382",
+    "num": "20-00-flood-warning-for-gin-river-basin",
+    "date_str": "2026-11-09",
+    "description": "Flood Warning for Gin River Basin",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Gin_River_Basin_-_NO_01_(2026__1794235506.pdf",
+    "time_str": "20:00",
+    "ut": 1794234600.0
+  },
+  {
+    "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
+    "doc_id": "2026-11-09-21-30-water-level",
+    "num": "21-30-water-level",
+    "date_str": "2026-11-09",
+    "description": "water level",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1794240387.pdf",
+    "time_str": "21:30",
+    "ut": 1794240000.0
   }
 ]
