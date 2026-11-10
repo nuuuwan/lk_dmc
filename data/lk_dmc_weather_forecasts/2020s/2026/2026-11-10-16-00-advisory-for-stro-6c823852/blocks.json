@@ -1,0 +1,612 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      46.2,
+      790.37,
+      129.77,
+      803.31
+    ],
+    "text": "www.meteo.gov.lk",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      46.2,
+      806.33,
+      158.57,
+      819.27
+    ],
+    "text": "https://was.meteo.gov.lk",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      434.11,
+      790.13,
+      561.37,
+      803.07
+    ],
+    "text": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab\u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0da5: S. Jayasekara",
+    "fonts": [
+      "Cambria",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      501.34,
+      806.33,
+      561.37,
+      819.27
+    ],
+    "text": "0112686686",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.06,
+      126.68,
+      290.83,
+      169.41
+    ],
+    "text": "\u0dad\u0daf \u0dc3\u0dd4\u0dc5\u0d82 \u0dc3\u0dc4 \u0dbb\u0dc5\u0dd4 \u0db8\u0dd4\u0dc4\u0dd4\u0daf \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0daf \u0d85\u0dc0\u0dc0\u0dcf\u0daf\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1\u0dba",
+    "fonts": [
+      "Cambria,Bold",
+      "Iskoola Pota,Bold",
+      "Nirmala UI"
+    ],
+    "sizes": [
+      9.960000038146973,
+      18.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.06,
+      171.21,
+      323.86,
+      196.03
+    ],
+    "text": "\u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0dc0\u0dd2\u0daf\u0dba\u0dcf \u0dc0\u0daf\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0dc0\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0 \u0dc3\u0dca\u0dc0\u0dcf\u0db7\u0dcf\u0dc0\u0dd2\u0d9a \u0dc0\u0dd2\u0db4\u0dad\u0dca \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0daf \u0db4\u0dd6\u0dbb\u0dca\u0dc0 \u0d85\u0db1\u0dd4\u0dbb\u0dd4 \u0d87\u0d9f\u0dc0\u0dd3\u0dc0\u0dda \u0db8\u0db0\u0dca\u200d\u0dba\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba",
+    "fonts": [
+      "Cambria",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.16,
+      235.53,
+      154.97,
+      264.43
+    ],
+    "text": "\u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dc0\u0dc5\u0dca 10 \u0dc0\u0db1\u0dcf\u0dc0\u0dd0\u0dda\u0db6\u0dbb\u0dca 2026",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      9.0,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.9,
+      265.17,
+      124.13,
+      278.11
+    ],
+    "text": "03:38 PM",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.98,
+      235.65,
+      285.8,
+      264.55
+    ],
+    "text": "\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0dc0\u0db1\u0dca\u0dad\u0dc0\u0db1\u0dca\u0dad (\u0dc3\u0dd2\u0da7) 10 \u0dc0\u0db1\u0dcf\u0dc0\u0dd0\u0dda\u0db6\u0dbb\u0dca 2026",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      9.0,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.73,
+      265.29,
+      254.96,
+      278.23
+    ],
+    "text": "04:00 PM",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      311.81,
+      235.65,
+      416.62,
+      264.55
+    ],
+    "text": "\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0dc0\u0db1\u0dca\u0dad\u0dc0\u0db1\u0dca\u0dad (\u0daf\u0d9a\u0dca\u0dc0\u0dcf) 13 \u0dc0\u0db1\u0dcf\u0dc0\u0dd0\u0dda\u0db6\u0dbb\u0dca 2026",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      9.0,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.67,
+      265.29,
+      385.9,
+      278.23
+    ],
+    "text": "04:00 PM",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      434.11,
+      235.53,
+      556.21,
+      264.28
+    ],
+    "text": "\u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1 \u0d85\u0d82\u0d9a\u0dba MSA/26/11/10/01-SI",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      9.0,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.44,
+      309.94,
+      517.27,
+      325.41
+    ],
+    "text": "\u0d9c\u0dd2\u0db1\u0dd2\u0dc0\u0d9a\u0dcf\u0dab\u0daf\u0dd2\u0d9c \u0dc0\u0db6\u0d82\u0d9c\u0dcf\u0dbd \u0dc0\u0db6\u0dcf\u0d9a\u0dca\u0d9a \u0d9c\u0dd0\u0db9\u0dd4\u0dbb\u0dd4 \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dda\u0dc1\u0dc0\u0dda \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf\u0d9a\u0dbb\u0db1 \u0db6\u0dc4\u0dd4\u0daf\u0dd2\u0db1 \u0db0\u0dd3\u0dc0\u0dbb \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dcf \u0dc3\u0db3\u0dc4\u0dcf.",
+    "fonts": [
+      "Cambria,Bold",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      36.0,
+      342.27,
+      562.3,
+      390.22
+    ],
+    "text": "2026 \u0db1 \u0dcf\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 13 \u0dc0 \u0daf\u0dd2 \u0db4\u0db8\u0dab \u0dc0 \u0dc0\u0dd2\u0da7 \u0d9c\u0dd2\u0db1\u0dd2\u0db1\u0d9a\u0dcf\u0dab\u0daf\u0dd2\u0d9c \u0db1\u0db6\u0dd9\u0d82\u0d9c\u0dcf\u0dbd \u0db1\u0db6\u0dcf\u0d9a\u0dca\u0d9a \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0db1\u0dda\u0dc1\u0dba \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dc0 \u0d85\u0da9\u0dd4 \u0db4\u0dd3\u0da9 \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca \u0db1\u0dd2\u0dbb\u0dca\u0db8\u0dcf\u0dab\u0dba \u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0d87\u0dad. \u0d91\u0dba \u0dc0\u0dba\u0db9 \u0db1\u0daf\u0dca\u200d\u0dc3\u0da7 \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dbb\u0db8\u0dd2\u0db1\u0dca, \u0d89\u0db1\u0dca \u0db4\u0dc3\u0dd4 \u0db4\u0dd0\u0dba 24 \u0d9a \u0d9a\u0dcf\u0dbd\u0dba \u0dad\u0dd4\u0dc5 \u0dc0\u0da9\u0dcf\u0dad\u0dca \u0db1 \u0dcf\u0daf\u0dd2\u0db1\u0dca \u0dc0\u0dbb\u0dca\u0db0 \u0dba \u0dc0\u0dd6 \u0d85\u0da9\u0dd4 \u0db4\u0dd3\u0da9 \u0d9a\u0dbd\u0dcf\u0db4\u0dba\u0d9a\u0dca \u0db6\u0dc0\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0d87\u0dad.",
+    "fonts": [
+      "Cambria",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      11.039999961853027,
+      11.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      36.0,
+      401.55,
+      562.26,
+      449.5
+    ],
+    "text": "\u0db1\u0db8\u0dc4\u0dd2 \u0db6\u0dbd\u0db4\u0dd1\u0db8 \u0db1 \u0dda\u0dad\u0dd4\u0db1\u0dc0\u0db1\u0dca, \u0db1 \u0dcf\u0dc0\u0dd0\u0db8\u0dca\u0db6\u0dbb\u0dca 14 \u0dc3 15 \u0dba \u0daf\u0dd2 \u0dc0\u0dbd \u0d85\u0db1\u0dca\u0daf\u0dca\u200d\u0db8\u0db1\u0dca \u0db8\u0dd4\u0dc4\u0dd4\u0daf\u0dca\u200d \u0dc3 \u0d9c\u0dd2\u0db1\u0dd2\u0db1\u0d9a\u0dcf\u0dab\u0daf\u0dd2\u0d9c \u0db1\u0db6\u0dd9\u0d82\u0d9c\u0dcf\u0dbd \u0db1\u0db6\u0dcf\u0d9a\u0dca\u0d9a \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dc0, \u0db4\u0dd0\u0dba\u0da7 \u0d9a\u0dd2\u0db1\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb 40 \u2013 50 \u0dad\u0dca \u0d85\u0dad\u0dbb \u0db1\u0dda\u0d9c\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0db8 \u0dc3\u0dd4\u0dc5\u0dd9\u0d82 \u0d87\u0dad\u0dd2 \u0dc0\u0dd2\u0dba \u0dd0\u0d9a\u0dd2 \u0d85\u0dad\u0dbb, \u0dc0\u0dd2\u0da7\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0da7 \u0dc3\u0dd4\u0dc5\u0db1\u0dda \u0db1\u0dda\u0d9c\u0dba \u0db4\u0dd0\u0dba\u0da7 \u0d9a\u0dd2\u0db1\u0dbd\u0ddd\u0db8\u0dd3\u0da7\u0dbb 60 \u0d9a\u0dca \u0daf\u0dca\u200d\u0d9a\u0dca\u0dc0\u0dcf \u0d89 \u0dc5 \u0dba\u0dcf \u0dd0\u0d9a.",
+    "fonts": [
+      "Cambria",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      11.039999961853027,
+      11.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      36.0,
+      750.26,
+      562.31,
+      780.63
+    ],
+    "text": "\u0db0\u0dd3\u0dc0\u0dbb \u0dc3\u0dc4 \u0db1\u0dcf\u0dc0\u0dd4\u0d9a \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dc0 \u0dc0\u0dda \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3\u0dc0 \u0d85\u0dc0\u0db0\u0dca\u200d\u0dcf\u0db1\u0dc0\u0dba\u0db1\u0dca\u0dad \u0db4\u0dc3\u0dd4\u0dc0\u0db1 \u0dc0\u0dbd\u0dc3\u0dad\u0dca \u0d9a\u0dcf\u0dbd\u0d9c\u0dd4\u0dab \u0dc0\u0dd2\u0daf\u0dba\u0dcf \u0dc0\u0daf\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0dc0\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0\u0dda \u0d89\u0daf\u0dd2\u0dbb\u0dd2 \u0db1\u0dd2\u0dc0\u0dda\u0daf\u0db1 \u0dc3\u0dc4 \u0d85\u0db1\u0dcf\u0dc0\u0dd0\u0d9a\u0dd2 \u0dc3\u0dda\u0db6\u0db1\u0dca\u0dad\u0db0\u0dca\u200d\u0dc0\u0dba\u0db1\u0dca\u0dad \u0dc0\u0dd2\u0db8\u0dc3\u0dd2\u0dbd\u0dd2\u0db8\u0dad\u0dca \u0dc0\u0db1 \u0dc0\u0dbd\u0dc3\u0dad\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0db1\u0dd4 \u0dbd\u0dd0\u0dc0\u0dda.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Iskoola Pota,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      11.520000457763672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46.2,
+      790.37,
+      129.77,
+      803.31
+    ],
+    "text": "www.meteo.gov.lk",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46.2,
+      806.33,
+      158.57,
+      819.27
+    ],
+    "text": "https://was.meteo.gov.lk",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      414.19,
+      790.37,
+      561.37,
+      803.31
+    ],
+    "text": "Duty Meteorologist: S. Jayasekara",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      501.34,
+      806.33,
+      561.37,
+      819.27
+    ],
+    "text": "0112686686",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.06,
+      126.94,
+      362.4,
+      164.48
+    ],
+    "text": "ADVISORY FOR STRONG WINDS AND ROUGH SEAS",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      9.0,
+      15.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.06,
+      166.53,
+      270.8,
+      191.23
+    ],
+    "text": "Department of Meteorology Natural Hazards Early Warning Centre",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.6,
+      230.49,
+      156.41,
+      259.12
+    ],
+    "text": "Issued at 10 November 2026",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      9.0,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.9,
+      259.77,
+      124.25,
+      272.71
+    ],
+    "text": "03:38 pm",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      179.42,
+      230.49,
+      287.24,
+      259.12
+    ],
+    "text": "Valid From 10 November 2026",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      9.0,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.73,
+      259.77,
+      255.08,
+      272.71
+    ],
+    "text": "04:00 pm",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      310.37,
+      230.49,
+      418.18,
+      259.12
+    ],
+    "text": "Valid Until 13 November 2026",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      9.0,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.55,
+      259.77,
+      385.9,
+      272.71
+    ],
+    "text": "04:00 pm",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      436.99,
+      230.49,
+      553.21,
+      257.95
+    ],
+    "text": "Bulletin No MSA/26/11/10/01-EN",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      9.0,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      49.44,
+      303.7,
+      450.25,
+      318.89
+    ],
+    "text": "For Multi-day boats in the Southeast Bay of Bengal deep sea areas.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      36.0,
+      335.67,
+      561.68,
+      365.97
+    ],
+    "text": "A Low-Pressure Area is likely to form over Southeast Bay of Bengal around 13th November, 2026. It is likely to move northwestwards and become well marked low pressure area during subsequent 24 hours.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      11.039999961853027,
+      11.520000457763672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      36.0,
+      377.31,
+      561.8,
+      407.73
+    ],
+    "text": "Due to this system, wind speed reaching 40-50 gusting to 60 kmph is likely over Andaman Sea and Southeast Bay of Bengal on 14th and 15th November.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      11.039999961853027,
+      11.520000457763672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      36.0,
+      708.2,
+      561.65,
+      755.41
+    ],
+    "text": "Naval and fishing communities engaging the activities over this sea area are advised to be vigilant and be attentive to the future forecasts and bulletins issued by the department of meteorology in this regard.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      11.520000457763672
+    ]
+  }
+]
