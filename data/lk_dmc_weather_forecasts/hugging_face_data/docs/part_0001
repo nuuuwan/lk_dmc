@@ -77446,5 +77446,29 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1794356090.pdf",
     "time_str": "05:30",
     "ut": 1794355200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-11-13-00-thunderstorms-report",
+    "num": "13-00-thunderstorms-report",
+    "date_str": "2026-11-11",
+    "description": "Thunderstorms Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Thunderstorm_Advisory_report_at_1230_hrs_on_2026__1794386624.pdf",
+    "time_str": "13:00",
+    "ut": 1794382200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-11-14-00-weather-forecast",
+    "num": "14-00-weather-forecast",
+    "date_str": "2026-11-11",
+    "description": "Weather Forecast",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2026__1794387976.pdf",
+    "time_str": "14:00",
+    "ut": 1794385800.0
   }
 ]
