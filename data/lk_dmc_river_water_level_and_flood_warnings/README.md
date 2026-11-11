@@ -1,12 +1,12 @@
 # 💧#SriLanka 🇱🇰 Dmc River Water Level And Flood Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--11_22:08:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--12_00:07:01-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
 River Water Level and Flood Warnings for various places in Sri Lanka.
 
-- [**1,067** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**396.7 MB**), from **2025-06-10** to **2026-11-11**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**1,071** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**399.1 MB**), from **2025-06-10** to **2026-11-11**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_river_water_level_and_flood_warnings",
-    "doc_id": "2026-11-11-15-30-water-level",
-    "num": "15-30-water-level",
+    "doc_id": "2026-11-11-22-00-flood-warning-for-ff46bb6a",
+    "num": "22-00-flood-warning-for-kuda-ganga-subbasin-of-kalu-river--no-01-20261111",
     "date_str": "2026-11-11",
-    "description": "water level",
+    "description": "Flood Warning for Kuda Ganga SubBasin Of Kalu River - NO 01 (2026.11.11)",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=277&report_type_id=6&lang=en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2026__1794391774.pdf",
-    "time_str": "15:30",
-    "ut": 1794391200.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning__for_Kuda_Ganga_SubBasin_Of_Kalu_River_-_NO_01_(2026__1794419630.pdf",
+    "time_str": "22:00",
+    "ut": 1794414600.0
 }
 ```
 
@@ -42,6 +42,10 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-11 | `22-00-flood-warning-for-kuda-ganga-subbasin-of-kalu-river--no-01-20261111` | Flood Warning for Kuda Ganga SubBasin Of Kalu River - NO 01 (2026.11.11) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-11-22-00-flood-warning-for-ff46bb6a)
+- 2026-11-11 | `22-00-flood-warning-for-gin-river-basin--no-02-20261111extended` | Flood Warning for Gin River Basin - NO 02 (2026.11.11)_Extended | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-11-22-00-flood-warning-for-e9f25c7c)
+- 2026-11-11 | `22-00-flood-warning-for-attanagalu-oya-basin--no-02-20261111extended` | Flood Warning for Attanagalu Oya Basin - NO 02 (2026.11.11)_Extended | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-11-22-00-flood-warning-for-c54aa3bf)
+- 2026-11-11 | `21-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-11-21-30-water-level)
 - 2026-11-11 | `15-30-water-level` | water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-11-15-30-water-level)
 - 2026-11-11 | `12-30-water-level` | Water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-11-12-30-water-level)
 - 2026-11-11 | `09-30-water-level--rainfall` | Water level & Rainfall | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-11-09-30-water-level--rainfall)
@@ -58,10 +62,6 @@ River Water Level and Flood Warnings for various places in Sri Lanka.
 - 2026-11-09 | `20-00-flood-warning-for-gin-river-basin` | Flood Warning for Gin River Basin | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-09-20-00-flood-warning-for-fc53c382)
 - 2026-11-09 | `18-30-water-level` | Water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-09-18-30-water-level)
 - 2026-11-09 | `15-00-water-level` | Water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-09-15-00-water-level)
-- 2026-11-09 | `12-30-water-level--rainfall` | Water level & Rainfall | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-09-12-30-water-level--rainfall)
-- 2026-11-09 | `12-30-flood-warning-for-attanagalu-oya--no-01` | Flood Warning for Attanagalu Oya - NO 01 | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-09-12-30-flood-warning-for-3cf9220b)
-- 2026-11-09 | `09-30-water-level` | Water level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-09-09-30-water-level)
-- 2026-11-09 | `06-30-water-level` | Water Level | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings/2020s/2026/2026-11-09-06-30-water-level)
 
 ---
 
