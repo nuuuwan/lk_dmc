@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2026-11-14-05-30-weather-forecast",
+  "num": "05-30-weather-forecast",
+  "date_str": "2026-11-14",
+  "description": "WEATHER FORECAST",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/WEATHER_FORECAST_FOR_14_NOVEMBER_2026_Issued_at_05__1794617598.pdf",
+  "time_str": "05:30",
+  "ut": 1794614400.0
+}
