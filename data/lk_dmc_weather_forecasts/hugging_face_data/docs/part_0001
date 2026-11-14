@@ -77725,6 +77725,18 @@
   },
   {
     "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-14-17-00-strong-winds-and--b6a1700e",
+    "num": "17-00-strong-winds-and-rough-seas--red",
+    "date_str": "2026-11-14",
+    "description": "STRONG WINDS AND ROUGH SEAS - RED",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/STRONG_WINDS_AND_ROUGH_SEAS_-_RED__1794672277.pdf",
+    "time_str": "17:00",
+    "ut": 1794655800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
     "doc_id": "2026-11-14-17-00-weather-report",
     "num": "17-00-weather-report",
     "date_str": "2026-11-14",
