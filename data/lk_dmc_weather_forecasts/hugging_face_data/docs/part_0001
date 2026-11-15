@@ -77758,5 +77758,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1794701924.pdf",
     "time_str": "05:30",
     "ut": 1794700800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-15-07-30-weather--tamil-language",
+    "num": "07-30-weather--tamil-language",
+    "date_str": "2026-11-15",
+    "description": "Weather \u0dc6\u0daf\u0dbb\u0dd0\u0da2\u0dca\u0dd2\u0d91 (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2026__1794712415.pdf",
+    "time_str": "07:30",
+    "ut": 1794708000.0
   }
 ]
