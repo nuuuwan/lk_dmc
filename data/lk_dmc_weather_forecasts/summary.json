@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-11-18 00:16:17",
-  "n_docs": 6497,
-  "n_docs_with_pdfs": 6497,
-  "n_docs_with_text": 6497,
+  "time_updated": "2026-11-18 02:17:26",
+  "n_docs": 6498,
+  "n_docs_with_pdfs": 6498,
+  "n_docs_with_text": 6498,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-11-17",
-  "dataset_size": 8027676801,
+  "dataset_size": 8029300061,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,13 +21,13 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-11-17-23-00-the-warning-for-s-8d868e14",
-    "num": "23-00-the-warning-for-strong-winds-and-rough-seas-akvan",
+    "doc_id": "2026-11-17-23-00-warning-for-stron-fd0b2fe3",
+    "num": "23-00-warning-for-strong-winds-and-rough-sea",
     "date_str": "2026-11-17",
-    "description": "The Warning for strong winds and rough seas (Akvan)",
+    "description": "Warning for Strong winds and Rough Sea",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/WARNING_FOR_STRONG_WINDS_AND_ROUGH_SEAS__1794854697.pdf",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/WARNING_FOR_STRONG_WINDS__1794942693.pdf",
     "time_str": "23:00",
     "ut": 1794936600.0
   }
