@@ -78010,5 +78010,41 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1000hrs_on_18__1794979219.pdf",
     "time_str": "10:00",
     "ut": 1794976200.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-18-14-00-weather-report",
+    "num": "14-00-weather-report",
+    "date_str": "2026-11-18",
+    "description": "Weather Report",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2026__1794992016.pdf",
+    "time_str": "14:00",
+    "ut": 1794990600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-18-14-00-weather-report-ta-84409ebf",
+    "num": "14-00-weather-report-tamil-language",
+    "date_str": "2026-11-18",
+    "description": "Weather Report (Tamil Language)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_@1400hrs_on_2026__1794993410.pdf",
+    "time_str": "14:00",
+    "ut": 1794990600.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-18-15-00-warning-for-stron-035eb8eb",
+    "num": "15-00-warning-for-strong-winds-and-rough-seas-akvan-cyclone",
+    "date_str": "2026-11-18",
+    "description": "Warning for strong winds and rough seas (Akvan Cyclone)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1500hrs_on_18__1794996224.pdf",
+    "time_str": "15:00",
+    "ut": 1794994200.0
   }
 ]
