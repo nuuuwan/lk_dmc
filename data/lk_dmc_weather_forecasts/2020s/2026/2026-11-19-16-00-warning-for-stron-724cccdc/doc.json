@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2026-11-19-16-00-warning-for-stron-724cccdc",
+  "num": "16-00-warning-for-strong-winds-and-rough-seas",
+  "date_str": "2026-11-19",
+  "description": "Warning for strong winds and rough seas",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1600hrs_on_19__1795087235.pdf",
+  "time_str": "16:00",
+  "ut": 1795084200.0
+}
