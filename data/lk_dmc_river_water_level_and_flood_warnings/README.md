@@ -1,12 +1,12 @@
 # 💧#SriLanka 🇱🇰 Dmc River Water Level And Flood Warnings `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--20_20:06:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--20_22:07:33-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings)
 
 River Water Level and Flood Warnings for various places in Sri Lanka.
 
-- [**1,126** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**419.1 MB**), from **2025-06-10** to **2026-11-20**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**1,126** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_river_water_level_and_flood_warnings/data/lk_dmc_river_water_level_and_flood_warnings) (**419.3 MB**), from **2025-06-10** to **2026-11-20**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
