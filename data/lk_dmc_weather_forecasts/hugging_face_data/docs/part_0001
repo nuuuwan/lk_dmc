@@ -78154,5 +78154,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs__1795135275.pdf",
     "time_str": "05:30",
     "ut": 1795132800.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-20-11-00-warning-for-stron-9945198f",
+    "num": "11-00-warning-for-strong-winds-and-rough-seas-akvan-cyclone",
+    "date_str": "2026-11-20",
+    "description": "Warning for strong winds and rough seas (Akvan Cyclone)",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_strong_winds_and_rough_seas_at_1100hrs_on_20__1795156033.pdf",
+    "time_str": "11:00",
+    "ut": 1795152600.0
   }
 ]
