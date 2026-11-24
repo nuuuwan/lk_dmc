@@ -78538,5 +78538,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/02_TB__No_threat_24_11_2026_5_41_35_PM__1795524926.pdf",
     "time_str": "17:41",
     "ut": 1795522260.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-24-17-41-no-tsunami-threat-330b9133",
+    "num": "17-41-no-tsunami-threat-bulletin",
+    "date_str": "2026-11-24",
+    "description": "NO TSUNAMI THREAT BULLETIN",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/02_TB__No_threat_24_11_2026_5_41_35_PM__1795524926.pdf",
+    "time_str": "17:41",
+    "ut": 1795522260.0
   }
 ]
