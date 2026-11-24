@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-11-24 12:23:54",
-  "n_docs": 6538,
-  "n_docs_with_pdfs": 6538,
-  "n_docs_with_text": 6538,
+  "time_updated": "2026-11-24 14:18:12",
+  "n_docs": 6539,
+  "n_docs_with_pdfs": 6539,
+  "n_docs_with_text": 6539,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
   "date_str_max": "2026-11-24",
-  "dataset_size": 8089081240,
+  "dataset_size": 8089489421,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-11-24-07-00-weather-forecast--bfbc3c2a",
-    "num": "07-00-weather-forecast-tamil-language",
+    "doc_id": "2026-11-24-11-00-lightning-advisory",
+    "num": "11-00-lightning-advisory",
     "date_str": "2026-11-24",
-    "description": "Weather Forecast (Tamil Language)",
+    "description": "Lightning advisory",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2026__1795486758.pdf",
-    "time_str": "07:00",
-    "ut": 1795483800.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Lightning_advisory_at_1100_am_on_2026__1795504601.pdf",
+    "time_str": "11:00",
+    "ut": 1795498200.0
   }
 }
