@@ -78682,5 +78682,17 @@
     "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1600_hrs_on_2026__1795689552.pdf",
     "time_str": "16:00",
     "ut": 1795689000.0
+  },
+  {
+    "doc_type": "lk_dmc_weather_forecasts",
+    "doc_id": "2026-11-26-17-30-special-weather-b-65214341",
+    "num": "17-30-special-weather-bulletin-for-multiday-boats",
+    "date_str": "2026-11-26",
+    "description": "SPECIAL WEATHER BULLETIN For Multi-day boats",
+    "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+    "lang": "en",
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/SPECIAL_WEATHER_BULLETIN_For_Multi-day_boats_in_the_Bay_of_Bengal_deep_sea_areas__1795701719.pdf",
+    "time_str": "17:30",
+    "ut": 1795694400.0
   }
 ]

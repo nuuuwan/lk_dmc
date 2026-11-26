@@ -1,12 +1,12 @@
 # ☔️#SriLanka 🇱🇰 Dmc Weather Forecasts `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_18:21:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--26_20:17:23-green)
 
 [https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts)
 
 Weather Forecasts for various places in Sri Lanka.
 
-- [**6,557** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**8.1 GB**), from **2023-03-26** to **2026-11-26**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
+- [**6,558** documents](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts) (**8.1 GB**), from **2023-03-26** to **2026-11-26**, scraped from [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
 - In **JSON**, **PDF**, **TXT**, **Tables** (0%) & **🤗 Hugging Face**
 
@@ -19,15 +19,15 @@ Weather Forecasts for various places in Sri Lanka.
 ```json
 {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-11-26-16-00-weather-forecast",
-    "num": "16-00-weather-forecast",
+    "doc_id": "2026-11-26-17-30-special-weather-b-65214341",
+    "num": "17-30-special-weather-bulletin-for-multiday-boats",
     "date_str": "2026-11-26",
-    "description": "Weather Forecast",
+    "description": "SPECIAL WEATHER BULLETIN For Multi-day boats",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_1600_hrs_on_2026__1795689552.pdf",
-    "time_str": "16:00",
-    "ut": 1795689000.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/SPECIAL_WEATHER_BULLETIN_For_Multi-day_boats_in_the_Bay_of_Bengal_deep_sea_areas__1795701719.pdf",
+    "time_str": "17:30",
+    "ut": 1795694400.0
 }
 ```
 
@@ -42,6 +42,7 @@ Weather Forecasts for various places in Sri Lanka.
 
 ## 🆕 20 Latest documents
 
+- 2026-11-26 | `17-30-special-weather-bulletin-for-multiday-boats` | SPECIAL WEATHER BULLETIN For Multi-day boats | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-26-17-30-special-weather-b-65214341)
 - 2026-11-26 | `16-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-26-16-00-weather-forecast)
 - 2026-11-26 | `14-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-26-14-00-weather-forecast--eb2ff5a1)
 - 2026-11-26 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-26-14-00-weather-forecast)
@@ -61,7 +62,6 @@ Weather Forecasts for various places in Sri Lanka.
 - 2026-11-24 | `14-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-24-14-00-weather-forecast--eb2ff5a1)
 - 2026-11-24 | `14-00-weather-forecast` | Weather Forecast | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-24-14-00-weather-forecast)
 - 2026-11-24 | `11-00-lightning-advisory` | Lightning advisory | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-24-11-00-lightning-advisory)
-- 2026-11-24 | `07-00-weather-forecast-tamil-language` | Weather Forecast (Tamil Language) | [data](https://github.com/nuuuwan/lk_dmc/tree/data_lk_dmc_weather_forecasts/data/lk_dmc_weather_forecasts/2020s/2026/2026-11-24-07-00-weather-forecast--bfbc3c2a)
 
 ---
 
