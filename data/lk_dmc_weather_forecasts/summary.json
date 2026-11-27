@@ -2,15 +2,15 @@
   "doc_class_label": "lk_dmc_weather_forecasts",
   "doc_class_emoji": "\u2614\ufe0f",
   "doc_class_description": "Weather Forecasts for various places in Sri Lanka.",
-  "time_updated": "2026-11-27 04:17:59",
-  "n_docs": 6558,
-  "n_docs_with_pdfs": 6558,
-  "n_docs_with_text": 6558,
+  "time_updated": "2026-11-27 06:31:00",
+  "n_docs": 6559,
+  "n_docs_with_pdfs": 6559,
+  "n_docs_with_text": 6559,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 5,
   "date_str_min": "2023-03-26",
-  "date_str_max": "2026-11-26",
-  "dataset_size": 8111609267,
+  "date_str_max": "2026-11-27",
+  "dataset_size": 8112614221,
   "url_source_list": [
     "https://www.dmc.gov.lk"
   ],
@@ -21,14 +21,14 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_dmc_weather_forecasts",
-    "doc_id": "2026-11-26-17-30-special-weather-b-65214341",
-    "num": "17-30-special-weather-bulletin-for-multiday-boats",
-    "date_str": "2026-11-26",
-    "description": "SPECIAL WEATHER BULLETIN For Multi-day boats",
+    "doc_id": "2026-11-27-05-30-weather-report",
+    "num": "05-30-weather-report",
+    "date_str": "2026-11-27",
+    "description": "Weather Report",
     "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
     "lang": "en",
-    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/SPECIAL_WEATHER_BULLETIN_For_Multi-day_boats_in_the_Bay_of_Bengal_deep_sea_areas__1795701719.pdf",
-    "time_str": "17:30",
-    "ut": 1795694400.0
+    "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Weather_report_at_0530_hrs_on_2026__1795739711.pdf",
+    "time_str": "05:30",
+    "ut": 1795737600.0
   }
 }
