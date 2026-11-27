@@ -1,0 +1,12 @@
+{
+  "doc_type": "lk_dmc_weather_forecasts",
+  "doc_id": "2026-11-27-12-30-heavy-rain-adviso-451cda45",
+  "num": "12-30-heavy-rain-advisory-report",
+  "date_str": "2026-11-27",
+  "description": "Heavy Rain advisory Report",
+  "url_metadata": "https://www.dmc.gov.lk/index.php?option=com_dmcreports&view=reports&Itemid=274&report_type_id=2&lang=si-ta-en&limitstart=0",
+  "lang": "en",
+  "url_pdf": "https://www.dmc.gov.lk/images/dmcreports/Heavy_Rain_advisory_Report_at_1230hrs_on_27__1795763364.pdf",
+  "time_str": "12:30",
+  "ut": 1795762800.0
+}
